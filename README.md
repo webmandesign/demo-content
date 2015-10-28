@@ -11,6 +11,6 @@ The theme related demo content is located under the theme specific folder name l
 * `theme-name/forms/` - In case the theme demo uses Caldera Forms, the exported sample forms could be found in this folder.
 * `theme-name/widgets/` - Widgets settings used on the theme demo website.
 
-## How to install/import
+## How to install (import)?
 
 There are instructions on how to install the files in each of the above folders.
