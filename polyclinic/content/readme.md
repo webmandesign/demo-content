@@ -19,3 +19,7 @@ You are browsing the main demo content XML files for [**Polyclinic** WordPress t
   * Set "Social links" menu for "Social Links Menu" location
   * Set "Mobile bar" menu for "Mobile Bar (max 4 links)" location
 4. If you would like to set up widgets the way they are displayed on the [theme demo website](http://themedemos.webmandesign.eu/polyclinic/), use a procedure under [`widgets` subfolder](https://github.com/webmandesign/demo-content/tree/master/polyclinic/widgets)
+
+## Important notes
+
+Please understand that due to how the WordPress works, the database IDs for imported content will differ from the actual IDs used on the theme demo website and thus you need to reset these to the correct values used in your website database (see the step 2 and 3 in "Installation process" above). This is normal in WordPress to prevent current existing content overriding.
