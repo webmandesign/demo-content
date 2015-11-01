@@ -12,14 +12,20 @@ You are browsing the main demo content XML files for [**Polyclinic** WordPress t
 
 ## Installation process
 
-1. Install the demo content XML file according to [WordPress Codex instructions](http://codex.wordpress.org/Importing_Content#WordPress) (or [watch the video](https://webdesign.tutsplus.com/courses/a-beginners-guide-to-using-wordpress/lessons/wordpress-tools) on how to import WordPress XML files)
-2. After the demo content is imported, set up your home and blog page under **Settings &raquo; Reading &raquo; "Front page displays"** (set "Front page" to "Homepage" and "Posts page" to "News")
-3. Now we need to assign navigational menus in **Appearance &raquo; Menus &raquo; Manage Locations** as follows:
+1. Download the `.xml` file to your computer (read below for "How to download the files?")
+2. Install the demo content XML file according to [WordPress Codex instructions](http://codex.wordpress.org/Importing_Content#WordPress) (or [watch the video](https://webdesign.tutsplus.com/courses/a-beginners-guide-to-using-wordpress/lessons/wordpress-tools) on how to import WordPress XML files)
+3. After the demo content is imported, set up your home and blog page under **Settings &raquo; Reading &raquo; "Front page displays"** (set "Front page" to "Homepage" and "Posts page" to "News")
+4. Now we need to assign navigational menus in **Appearance &raquo; Menus &raquo; Manage Locations** as follows:
   * Set "Main navigation" menu for "Primary Menu" location
   * Set "Social links" menu for "Social Links Menu" location
   * Set "Mobile bar" menu for "Mobile Bar (max 4 links)" location
-4. If you would like to set up widgets the way they are displayed on the [theme demo website](http://themedemos.webmandesign.eu/polyclinic/), use a procedure under [`widgets` subfolder](https://github.com/webmandesign/demo-content/tree/master/polyclinic/widgets)
+5. If you would like to set up widgets the way they are displayed on the [theme demo website](http://themedemos.webmandesign.eu/polyclinic/), use a procedure under [`widgets` subfolder](https://github.com/webmandesign/demo-content/tree/master/polyclinic/widgets)
 
 ## Important notes
 
-Please understand that due to how the WordPress works, the database IDs for imported content will differ from the actual IDs used on the theme demo website and thus you need to reset these to the correct values used in your website database (see the step 2 and 3 in "Installation process" above). This is normal in WordPress to prevent current existing content overriding.
+Please understand that due to how the WordPress works, the database IDs for imported content will differ from the actual IDs used on the theme demo website and thus you need to reset these to the correct values used in your website database (see the step 2 and 3 in "Installation process" above). This is normal in WordPress to prevent current existing content overwriting.
+
+## How to download the files?
+
+1. Click the file name to open the file content page
+2. On top of the displayed file content you can see the **Raw** button. Right click the button with your mouse and select "Save link as..." from the options to download the actual file.
