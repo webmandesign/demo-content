@@ -16,9 +16,10 @@ You are browsing the demo widgets settings files for [**Polyclinic** WordPress t
 4. Click the **"Import Widgets"** button to import the demo website widgets settings
 5. The last step is to reset the "Custom Menu" widget:
   1. Navigate to **Appearance &raquo; Widgets**
-  2. In "Header Info Widgets" area set the "Custom Menu: Quick navigation" widget to display the "Short navigation" menu
-  3. In "Header Info Widgets" area set the "Custom Menu: Find us on social networks" widget to display the "Social links" menu
-  4. In "Footer Widgets" area set the "Custom Menu: Theme links" widget to display the "Footer menu" menu
+  2. In "Sidebar" area set the "Custom Menu: Socialize with us" widget to display the "Social links" menu
+  3. In "Header Info Widgets" area set the "Custom Menu: Quick navigation" widget to display the "Short navigation" menu
+  4. In "Header Info Widgets" area set the "Custom Menu: Find us on social networks" widget to display the "Social links" menu
+  5. In "Footer Widgets" area set the "Custom Menu: Theme links" widget to display the "Footer menu" menu
 
 ## Important notes
 
