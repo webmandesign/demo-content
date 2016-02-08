@@ -10,6 +10,7 @@ You are browsing the main demo content XML files for [**Polyclinic** WordPress t
   * [Beaver Builder](https://wordpress.org/plugins/beaver-builder-lite-version/) - page builder plugin used to build the demo content (make sure the page builder is enabled for Posts, Pages and Staff - check this under **Settings &raquo; Page Builder &raquo; Post Types**)
   * [Maps Builder - Google Maps Plugin](https://wordpress.org/plugins/google-maps-builder/) - maps plugin used to build the demo content (you are free to use any maps plugin you prefer, though)
   * [Subtitles](https://wordpress.org/plugins/subtitles/) - to display page/post subtitles used in the demo content
+  * [Jetpack](https://wordpress.org/plugins/jetpack/) - demo content includes [tiled galleries](https://jetpack.me/support/tiled-galleries/) which are feature of this plugin
 
 ## Installation process
 
