@@ -27,6 +27,8 @@ You are browsing the main demo content XML files for [**Polyclinic** WordPress t
 
 Please understand that due to how the WordPress works, the database IDs for imported content will differ from the actual IDs used on the theme demo website and thus you need to reset these to the correct values used in your website database (see the step 2 and 3 in "Installation process" above). This is normal in WordPress to prevent current existing content overwriting.
 
+Also, please understand that demo images (and other media files) are low quality and you should replace them with your own (properly copywrighted) images.
+
 ## How to download the files?
 
 1. Click the file name to open the file content page
