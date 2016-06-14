@@ -24,5 +24,7 @@ You will need to use the "Caldera Forms" widget in the page builder to display t
 
 ## How to download the files?
 
+*[Watch a video instructions.](https://vimeo.com/170576209)*
+
 1. Click the file name to open the file content page
 2. On top of the displayed file content you can see the **Raw** button. Right click the button with your mouse and select "Save link as..." from the options to download the actual file.
