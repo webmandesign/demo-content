@@ -21,6 +21,8 @@ You are browsing the main demo content XML files for [**Auberge** WordPress them
   * Set "Social links" menu for "Social Links Menu" location
 5. If you would like to set up widgets the way they are displayed on the [theme demo website](http://themedemos.webmandesign.eu/auberge/), use a procedure under [`widgets` subfolder](https://github.com/webmandesign/demo-content/tree/master/auberge/widgets)
 
+> **Failed import messages**: Please note that if you are using [free version of the Auberge theme](http://wordpress.org/themes/auberge), you will encounter failed import messages (such as failed to import ingredients). These are related to content available in [paid version of the theme](https://www.webmandesign.eu/auberge-wordpress-theme/#donate) **only**, that's why the import procedure fails when using the free theme. This is no issue at all and the rest of the demo content will get imported despite these fails.
+
 ## Important notes
 
 Please understand that due to how the WordPress works, the database IDs for imported content will differ from the actual IDs used on the theme demo website and thus you need to reset these to the correct values used in your website database (see the step 2 and 3 in "Installation process" above). This is normal in WordPress to prevent current existing content overwriting.
