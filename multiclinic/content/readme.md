@@ -12,6 +12,8 @@ You are browsing the main demo content XML files for [**Multiclinic** WordPress 
   * [Subtitles](https://wordpress.org/plugins/subtitles/) - to display page/post subtitles used in the demo content
   * [Jetpack](https://wordpress.org/plugins/jetpack/) - demo content includes [tiled galleries](https://jetpack.me/support/tiled-galleries/) which are feature of this plugin
 
+> The original [**WordPress Importer** plugin](https://wordpress.org/plugins/wordpress-importer/) is pretty *outdated* and buggy. To eliminate the issues during theme demo content import I suggest using [a new version of the plugin](https://github.com/humanmade/WordPress-Importer). Although it is *still in development*, it is perfectly usable and you can [**download it** from its Github repository](https://github.com/humanmade/WordPress-Importer#how-do-i-use-it).
+
 ## Installation process
 
 1. Download the `.xml` file to your computer (read below for "How to download the files?")
