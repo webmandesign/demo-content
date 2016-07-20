@@ -21,7 +21,7 @@ You are browsing the main demo content XML files for [**Polyclinic** WordPress t
 
 ## Installation process
 
-**This is for manual installation only.**
+*These instructions are meant for manual installation only.*
 
 > The original [**WordPress Importer** plugin](https://wordpress.org/plugins/wordpress-importer/) is pretty *outdated* and buggy. To eliminate the issues during theme demo content import I suggest using [a new version of the plugin](https://github.com/humanmade/WordPress-Importer). Although it is *still in development*, it is perfectly usable and you can [**download it** from its Github repository](https://github.com/humanmade/WordPress-Importer#how-do-i-use-it).
 
@@ -37,7 +37,7 @@ You are browsing the main demo content XML files for [**Polyclinic** WordPress t
 
 ## Important notes
 
-**This is for manual installation only.**
+*These instructions are meant for manual installation only.*
 
 Please understand that due to how the WordPress works, the database IDs for imported content will differ from the actual IDs used on the theme demo website and thus you need to reset these to the correct values used in your website database (see the step 2 and 3 in "Installation process" above). This is normal in WordPress to prevent current existing content overwriting.
 
@@ -46,7 +46,7 @@ Also, please understand that demo images (and other media files) are low quality
 
 ## How to download the files?
 
-**This is for manual installation only.**
+*These instructions are meant for manual installation only.*
 
 *[Watch a video instructions.](https://vimeo.com/170576209)*
 
