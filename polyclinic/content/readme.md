@@ -25,7 +25,7 @@ Once you have installed and activated demo content required plugins as listed ab
 
 ## Installation process
 
-*These instructions are meant for manual installation only.*
+*These instructions are meant for manual installation only:*
 
 1. Download the `.xml` file to your computer (read below for "How to download the files?")
 2. Install the demo content XML file according to [WordPress Codex instructions](http://codex.wordpress.org/Importing_Content#WordPress) (or [watch the video](https://webdesign.tutsplus.com/courses/a-beginners-guide-to-using-wordpress/lessons/wordpress-tools) on how to import WordPress XML files)
@@ -42,14 +42,14 @@ Once you have installed and activated demo content required plugins as listed ab
 
 Also, please understand **that demo images (and other media files) are low quality** and you should replace them with your own (properly copyrighted) images.
 
-Please understand that due to how the WordPress works, the database IDs for imported content will differ from the actual IDs used on the theme demo website and thus you need to reset these to the correct values used in your website database (see the step 2 and 3 in "Installation process" above). This is normal in WordPress to prevent current existing content overwriting.
+*These instructions are meant for manual installation only:*
 
-*These instructions are meant for manual installation only.*
+Please understand that due to how the WordPress works, the database IDs for imported content will differ from the actual IDs used on the theme demo website and thus you need to reset these to the correct values used in your website database (see the step 2 and 3 in "Installation process" above). This is normal in WordPress to prevent current existing content overwriting.
 
 
 ## How to download the files?
 
-*These instructions are meant for manual installation only.*
+*These instructions are meant for manual installation only:*
 
 *[Watch a video instructions.](https://vimeo.com/170576209)*
 
