@@ -13,7 +13,7 @@ You are browsing the main demo content XML files for [**Polyclinic** WordPress t
   * [Subtitles](https://wordpress.org/plugins/subtitles/) - to display page/post subtitles used in the demo content
   * [Jetpack](https://wordpress.org/plugins/jetpack/) - demo content includes [tiled galleries](https://jetpack.me/support/tiled-galleries/) which are feature of this plugin
 
-Also, please understand **that demo images (and other media files) are low quality** and you should replace them with your own (properly copyrighted) images.
+Also, please understand **that demo images (and other media files) will be imported in low quality** and you should replace them with your own (properly copyrighted) images.
 
 
 ## One-click installation
