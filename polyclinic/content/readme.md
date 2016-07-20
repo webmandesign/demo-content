@@ -16,7 +16,11 @@ You are browsing the main demo content XML files for [**Polyclinic** WordPress t
 
 ## One-click installation
 
-**Polyclinic** theme supports one-click demo content installation via your WordPress dashboard. Once you have installed and activated demo content required plugins as listed above, refer to [theme documentation](https://www.webmandesign.eu/manual/polyclinic/#demo-content) for information on how to run the one-click demo installation process. *You do not need to download and install the files from this repository in that case!*
+**Polyclinic** theme supports one-click demo content installation via your WordPress dashboard.
+
+Once you have installed and activated demo content required plugins as listed above, refer to [theme documentation](https://www.webmandesign.eu/manual/polyclinic/#demo-content) for information on how to run the one-click demo installation process.
+
+*You do not need to download and install the files from this repository in that case!*
 
 
 ## Installation process
