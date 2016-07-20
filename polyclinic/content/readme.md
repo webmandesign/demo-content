@@ -27,10 +27,9 @@ Once you have installed and activated demo content required plugins as listed ab
 
 *These instructions are meant for manual installation only.*
 
-> The original [**WordPress Importer** plugin](https://wordpress.org/plugins/wordpress-importer/) is pretty *outdated* and buggy. To eliminate the issues during theme demo content import I suggest using [a new version of the plugin](https://github.com/humanmade/WordPress-Importer). Although it is *still in development*, it is perfectly usable and you can [**download it** from its Github repository](https://github.com/humanmade/WordPress-Importer#how-do-i-use-it).
-
 1. Download the `.xml` file to your computer (read below for "How to download the files?")
 2. Install the demo content XML file according to [WordPress Codex instructions](http://codex.wordpress.org/Importing_Content#WordPress) (or [watch the video](https://webdesign.tutsplus.com/courses/a-beginners-guide-to-using-wordpress/lessons/wordpress-tools) on how to import WordPress XML files)
+  > The original [**WordPress Importer** plugin](https://wordpress.org/plugins/wordpress-importer/) is pretty *outdated* and buggy. To eliminate the issues during theme demo content import I suggest using [a new version of the plugin](https://github.com/humanmade/WordPress-Importer). Although it is *still in development*, it is perfectly usable and you can [**download it** from its Github repository](https://github.com/humanmade/WordPress-Importer#how-do-i-use-it).
 3. After the demo content is imported, set up your home and blog page under **Settings &raquo; Reading &raquo; "Front page displays"** (set "Front page" to "Homepage" and "Posts page" to "News")
 4. Now we need to assign navigational menus in **Appearance &raquo; Menus &raquo; Manage Locations** as follows:
   * Set "Main navigation" menu for "Primary Menu" location
@@ -41,11 +40,11 @@ Once you have installed and activated demo content required plugins as listed ab
 
 ## Important notes
 
-*These instructions are meant for manual installation only.*
+Also, please understand **that demo images (and other media files) are low quality** and you should replace them with your own (properly copyrighted) images.
 
 Please understand that due to how the WordPress works, the database IDs for imported content will differ from the actual IDs used on the theme demo website and thus you need to reset these to the correct values used in your website database (see the step 2 and 3 in "Installation process" above). This is normal in WordPress to prevent current existing content overwriting.
 
-Also, please understand that demo images (and other media files) are low quality and you should replace them with your own (properly copyrighted) images.
+*These instructions are meant for manual installation only.*
 
 
 ## How to download the files?
