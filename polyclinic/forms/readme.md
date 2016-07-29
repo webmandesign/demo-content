@@ -2,10 +2,12 @@
 
 You are browsing the demo forms files for [**Polyclinic** WordPress theme by WebMan](http://www.webmandesign.eu/polyclinic-wordpress-theme/).
 
-## Before you install
+
+## Before you begin
 
 1. Install and active the [**Polyclinic** WordPress theme](http://www.webmandesign.eu/polyclinic-wordpress-theme/)
 2. Install and activate the [**Caldera Forms**](https://wordpress.org/plugins/caldera-forms/) plugin
+
 
 ## Installation process
 
@@ -16,11 +18,13 @@ You are browsing the demo forms files for [**Polyclinic** WordPress theme by Web
 5. You will need to tweak the imported forms settings to match your needs
 6. Finally, as the theme provides the styles for HTML forms, we suggest to disable the Caldera Form front-end styles for these (click the "Form Styles" button in "Alert Styles / Form Styles / Grid Structures" buttons group to make it gray)
 
+
 ## Important notes
 
 Please understand that due to how the WordPress works, the database IDs for imported content will differ from the actual IDs used on the theme demo website and thus you need to reset these to the correct values used in your website database. This is normal in WordPress to prevent current existing content overwriting.
 
 You will need to use the "Caldera Forms" widget in the page builder to display the correct form on the specific page. Please refer to the [theme's demo website](http://themedemos.webmandesign.eu/polyclinic/) for the forms reference.
+
 
 ## How to download the files?
 

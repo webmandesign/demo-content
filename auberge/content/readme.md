@@ -2,7 +2,8 @@
 
 You are browsing the main demo content XML files for [**Auberge** WordPress theme by WebMan](http://www.webmandesign.eu/auberge-wordpress-theme/).
 
-## Before you install
+
+## Before you begin
 
 1. Install and active the [**Auberge** WordPress theme](http://www.webmandesign.eu/auberge-wordpress-theme/)
 2. To allow all the demo content to be imported in whole, please install these plugins:
@@ -12,6 +13,7 @@ You are browsing the main demo content XML files for [**Auberge** WordPress them
   * [Restaurant Reservations](https://wordpress.org/plugins/restaurant-reservations/) - the reservation form displayed on "Reservations" page is provided with this plugin
 
 > The original [**WordPress Importer** plugin](https://wordpress.org/plugins/wordpress-importer/) is pretty *outdated* and buggy. To eliminate the issues during theme demo content import I suggest using [a new version of the plugin](https://github.com/humanmade/WordPress-Importer). Although it is *still in development*, it is perfectly usable and you can [**download it** from its Github repository](https://github.com/humanmade/WordPress-Importer#how-do-i-use-it).
+
 
 ## Installation process
 
@@ -25,11 +27,13 @@ You are browsing the main demo content XML files for [**Auberge** WordPress them
 
 > **Failed import messages**: Please note that if you are using [free version of the Auberge theme](http://wordpress.org/themes/auberge), you will encounter failed import messages (such as failed to import ingredients). These are related to content available in [paid version of the theme](https://www.webmandesign.eu/auberge-wordpress-theme/#donate) **only**, that's why the import procedure fails when using the free theme. This is no issue at all and the rest of the demo content will get imported despite these fails.
 
+
 ## Important notes
 
 Please understand that due to how the WordPress works, the database IDs for imported content will differ from the actual IDs used on the theme demo website and thus you need to reset these to the correct values used in your website database (see the step 2 and 3 in "Installation process" above). This is normal in WordPress to prevent current existing content overwriting.
 
 Also, please understand that demo images (and other media files) are of low quality and you should replace them with your own (properly copyrighted) images.
+
 
 ## How to download the files?
 

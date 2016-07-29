@@ -3,7 +3,7 @@
 You are browsing the main demo content XML files for [**Polyclinic** WordPress theme by WebMan](http://www.webmandesign.eu/polyclinic-wordpress-theme/).
 
 
-## Before you install
+## Before you begin
 
 1. Install and active the [**Polyclinic** WordPress theme](http://www.webmandesign.eu/polyclinic-wordpress-theme/)
 2. To allow all the demo content to be imported in whole, please install these plugins:

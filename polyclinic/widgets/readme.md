@@ -12,7 +12,7 @@ It will import all the demo widgets automatically. For more info on one-click de
 *You do not need to download and install the files from this repository in that case!*
 
 
-## Before you install
+## Before you begin
 
 *These instructions are meant for manual installation only:*
 
