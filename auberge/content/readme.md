@@ -1,6 +1,6 @@
 # What is this?
 
-You are browsing the main demo content XML files for [**Auberge** WordPress theme by WebMan](http://www.webmandesign.eu/auberge-wordpress-theme/).
+You are browsing a repository for main demo content XML files of [**Auberge** WordPress theme by WebMan](http://www.webmandesign.eu/auberge-wordpress-theme/).
 
 
 ## Before you begin

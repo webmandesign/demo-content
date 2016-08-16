@@ -1,26 +1,27 @@
 # What is this?
 
-You are browsing a repository for main demo content XML files of [**Polyclinic** WordPress theme by WebMan](http://www.webmandesign.eu/polyclinic-wordpress-theme/).
+You are browsing a repository for main demo content XML files of [**Mustang** WordPress theme by WebMan](http://www.webmandesign.eu/mustang-wordpress-theme/).
 
 
 ## Before you begin
 
-1. Install and active the [**Polyclinic** WordPress theme](http://www.webmandesign.eu/polyclinic-wordpress-theme/)
+1. Install and active the [**Mustang** WordPress theme](http://www.webmandesign.eu/mustang-wordpress-theme/)
 2. To allow all the demo content to be imported in whole, please install these plugins:
   * [WebMan Amplifier](https://wordpress.org/plugins/webman-amplifier/) - provides additional functionality, widgets, shortcodes, icon font and custom post types
-  * [Beaver Builder](https://wordpress.org/plugins/beaver-builder-lite-version/) - page builder plugin used to build the demo content (make sure the page builder is enabled for Posts, Pages and Staff - check this under **Settings &raquo; Page Builder &raquo; Post Types**)
-  * [Maps Builder - Google Maps Plugin](https://wordpress.org/plugins/google-maps-builder/) - maps plugin used to build the demo content (you are free to use any maps plugin you prefer, though)
-  * [Subtitles](https://wordpress.org/plugins/subtitles/) - to display page/post subtitles used in the demo content
-  * [Jetpack](https://wordpress.org/plugins/jetpack/) - demo content includes [tiled galleries](https://jetpack.me/support/tiled-galleries/) which are feature of this plugin
+  * [Beaver Builder](https://wordpress.org/plugins/beaver-builder-lite-version/) - page builder plugin used to build the demo content (make sure the page builder is enabled for Pages and Projects - check this under **Settings &raquo; Page Builder &raquo; Post Types**)
+  * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - provides e-commerce functionality
+  * [bbPress](https://wordpress.org/plugins/bbpress/) - provides forum functionality
+  * [WooSidebars](https://wordpress.org/plugins/woosidebars/) - allows to create custom sidebars
+  * [Breadcrumb NavXT](https://wordpress.org/plugins/breadcrumb-navxt/) - provides breadcrumbs navigation
 
 Also, please understand that **demo images (and other media files) will be imported in low quality** and you should replace them with your own (properly copyrighted) images.
 
 
 ## One-click installation
 
-**Polyclinic** theme supports one-click demo content installation via your WordPress dashboard.
+**Mustang** theme supports one-click demo content installation via your WordPress dashboard.
 
-Once you have installed and activated demo content required plugins as listed above, refer to [theme documentation](https://www.webmandesign.eu/manual/polyclinic/#demo-content) for information on how to run the one-click demo installation process.
+Once you have installed and activated demo content required plugins as listed above, refer to [theme documentation](https://www.webmandesign.eu/manual/mustang/#demo-content) for information on how to run the one-click demo installation process.
 
 *You do not need to download and install the files from this repository in that case!*
 
@@ -32,12 +33,10 @@ Once you have installed and activated demo content required plugins as listed ab
 1. Download the `.xml` file to your computer (read below for "How to download the files?")
 2. Install the demo content XML file according to [WordPress Codex instructions](http://codex.wordpress.org/Importing_Content#WordPress) (or [watch the video](https://webdesign.tutsplus.com/courses/a-beginners-guide-to-using-wordpress/lessons/wordpress-tools) on how to import WordPress XML files)
   > The original [**WordPress Importer** plugin](https://wordpress.org/plugins/wordpress-importer/) is pretty *outdated* and buggy. To eliminate the issues during theme demo content import I suggest using [a new version of the plugin](https://github.com/humanmade/WordPress-Importer). Although it is *still in development*, it is perfectly usable and you can [**download it** from its Github repository](https://github.com/humanmade/WordPress-Importer#how-do-i-use-it).
-3. After the demo content is imported, set up your home and blog page under **Settings &raquo; Reading &raquo; "Front page displays"** (set "Front page" to "Homepage" and "Posts page" to "News")
+3. After the demo content is imported, set up your home and blog page under **Settings &raquo; Reading &raquo; "Front page displays"** (set "Front page" to "Homepage" and "Posts page" to "Blog")
 4. Now we need to assign navigational menus in **Appearance &raquo; Menus &raquo; Manage Locations** as follows:
-  * Set "Main navigation" menu for "Primary Menu" location
-  * Set "Social links" menu for "Social Links Menu" location
-  * Set "Mobile bar" menu for "Mobile Bar (max 4 links)" location
-5. If you would like to set up widgets the way they are displayed on the [theme demo website](http://themedemos.webmandesign.eu/polyclinic/), use a procedure under [`widgets` subfolder](https://github.com/webmandesign/demo-content/tree/master/polyclinic/widgets)
+  * Set "Main" menu for "Main navigation" location
+5. If you would like to set up widgets the way they are displayed on the [theme demo website](http://themedemos.webmandesign.eu/mustang/), use a procedure under [`widgets` subfolder](https://github.com/webmandesign/demo-content/tree/master/mustang/widgets)
 
 
 ## Important notes
