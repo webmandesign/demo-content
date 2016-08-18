@@ -3,6 +3,15 @@
 You are browsing the demo widgets settings files for [**Auberge** WordPress theme by WebMan](http://www.webmandesign.eu/auberge-wordpress-theme/).
 
 
+## One-click installation
+
+**Auberge** theme supports one-click demo content installation via your WordPress dashboard.
+
+It will import all the demo widgets automatically. For more info on one-click demo installation please read [theme documentation](https://www.webmandesign.eu/manual/auberge/#demo-content).
+
+*You do not need to download and install the files from this repository in that case!*
+
+
 ## Before you begin
 
 1. Install and active the [**Auberge** WordPress theme](http://www.webmandesign.eu/auberge-wordpress-theme/)
@@ -12,6 +21,8 @@ You are browsing the demo widgets settings files for [**Auberge** WordPress them
 
 
 ## Installation process
+
+*These instructions are meant for manual installation only:*
 
 1. Download the `.wie` file to your computer (read below for "How to download the files?")
 2. Navigate to **Tools &raquo; Widget Importer & Exporter** in your WordPress admin
