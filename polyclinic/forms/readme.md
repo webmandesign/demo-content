@@ -16,7 +16,7 @@ You are browsing the demo forms files for [**Polyclinic** WordPress theme by Web
 3. Click the **"Import"** button
 4. Set the new form name, choose the form file from your computer and click the **"Import Form"** button to import the demo form
 5. You will need to tweak the imported forms settings to match your needs
-6. Finally, as the theme provides the styles for HTML forms, we suggest to disable the Caldera Form front-end styles for these (click the "Form Styles" button in "Alert Styles / Form Styles / Grid Structures" buttons group to make it gray)
+6. Finally, as the theme provides the styles for HTML forms, we suggest to disable the Caldera Form front-end styles for these (go to **Caldera Forms &raquo; Forms**, click the "General Settings" button and disable *"Form Styles"* option)
 
 
 ## Important notes
