@@ -20,7 +20,7 @@
 	<title>Mustang</title>
 	<link>http://themedemos.webmandesign.eu/mustang</link>
 	<description>Multipurpose WordPress Theme</description>
-	<pubDate>Tue, 16 Aug 2016 05:29:33 +0000</pubDate>
+	<pubDate>Thu, 13 Oct 2016 15:10:25 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://themedemos.webmandesign.eu/</wp:base_site_url>
@@ -28,34 +28,245 @@
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[demouser]]></wp:author_login><wp:author_email><![CDATA[demouser@demowebsite.demo]]></wp:author_email><wp:author_display_name><![CDATA[WebMan Design]]></wp:author_display_name><wp:author_first_name><![CDATA[WebMan]]></wp:author_first_name><wp:author_last_name><![CDATA[Design]]></wp:author_last_name></wp:author>
 
-	<wp:category><wp:term_id>15</wp:term_id><wp:category_nicename><![CDATA[news]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[News]]></wp:cat_name><wp:category_description><![CDATA[Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.]]></wp:category_description></wp:category>
-	<wp:term><wp:term_id><![CDATA[53]]></wp:term_id><wp:term_taxonomy><![CDATA[topic-tag]]></wp:term_taxonomy><wp:term_slug><![CDATA[bbpress]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[bbpress]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[46]]></wp:term_id><wp:term_taxonomy><![CDATA[staff_position]]></wp:term_taxonomy><wp:term_slug><![CDATA[ceo]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[CEO]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[33]]></wp:term_id><wp:term_taxonomy><![CDATA[logo_category]]></wp:term_taxonomy><wp:term_slug><![CDATA[clients]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Clients]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[23]]></wp:term_id><wp:term_taxonomy><![CDATA[module_tag]]></wp:term_taxonomy><wp:term_slug><![CDATA[contact]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Contact]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[87]]></wp:term_id><wp:term_taxonomy><![CDATA[project_category]]></wp:term_taxonomy><wp:term_slug><![CDATA[design]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Design]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[48]]></wp:term_id><wp:term_taxonomy><![CDATA[staff_position]]></wp:term_taxonomy><wp:term_slug><![CDATA[designer]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Designer]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[43]]></wp:term_id><wp:term_taxonomy><![CDATA[staff_department]]></wp:term_taxonomy><wp:term_slug><![CDATA[development]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Development]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[24]]></wp:term_id><wp:term_taxonomy><![CDATA[module_tag]]></wp:term_taxonomy><wp:term_slug><![CDATA[features]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Features]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[54]]></wp:term_id><wp:term_taxonomy><![CDATA[topic-tag]]></wp:term_taxonomy><wp:term_slug><![CDATA[forums]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[forums]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[44]]></wp:term_id><wp:term_taxonomy><![CDATA[staff_department]]></wp:term_taxonomy><wp:term_slug><![CDATA[management]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Management]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[89]]></wp:term_id><wp:term_taxonomy><![CDATA[project_tag]]></wp:term_taxonomy><wp:term_slug><![CDATA[page-builder]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Page builder]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[34]]></wp:term_id><wp:term_taxonomy><![CDATA[logo_category]]></wp:term_taxonomy><wp:term_slug><![CDATA[partners]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Partners]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[86]]></wp:term_id><wp:term_taxonomy><![CDATA[project_category]]></wp:term_taxonomy><wp:term_slug><![CDATA[photography]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Photography]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[49]]></wp:term_id><wp:term_taxonomy><![CDATA[staff_position]]></wp:term_taxonomy><wp:term_slug><![CDATA[programmer]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Programmer]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[50]]></wp:term_id><wp:term_taxonomy><![CDATA[staff_position]]></wp:term_taxonomy><wp:term_slug><![CDATA[project-manager]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Project manager]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[52]]></wp:term_id><wp:term_taxonomy><![CDATA[testimonial_category]]></wp:term_taxonomy><wp:term_slug><![CDATA[reviews]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Reviews]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[2]]></wp:term_id><wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy><wp:term_slug><![CDATA[simple]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[simple]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[88]]></wp:term_id><wp:term_taxonomy><![CDATA[project_tag]]></wp:term_taxonomy><wp:term_slug><![CDATA[standard-layout]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Standard layout]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[32]]></wp:term_id><wp:term_taxonomy><![CDATA[module_tag]]></wp:term_taxonomy><wp:term_slug><![CDATA[support]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Support]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[77]]></wp:term_id><wp:term_taxonomy><![CDATA[staff_department]]></wp:term_taxonomy><wp:term_slug><![CDATA[support]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Support]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[51]]></wp:term_id><wp:term_taxonomy><![CDATA[staff_position]]></wp:term_taxonomy><wp:term_slug><![CDATA[support-specialist]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Support specialist]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[55]]></wp:term_id><wp:term_taxonomy><![CDATA[topic-tag]]></wp:term_taxonomy><wp:term_slug><![CDATA[topic-tag]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[topic tag]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[85]]></wp:term_id><wp:term_taxonomy><![CDATA[project_category]]></wp:term_taxonomy><wp:term_slug><![CDATA[wordpress]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[WordPress]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[68]]></wp:term_id><wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy><wp:term_slug><![CDATA[clothing]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Clothing]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[69]]></wp:term_id><wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy><wp:term_slug><![CDATA[hoodies]]></wp:term_slug><wp:term_parent><![CDATA[clothing]]></wp:term_parent><wp:term_name><![CDATA[Hoodies]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[71]]></wp:term_id><wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy><wp:term_slug><![CDATA[posters]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Posters]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id>91</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name></wp:term>
+	<wp:category>
+		<wp:term_id>15</wp:term_id>
+		<wp:category_nicename><![CDATA[news]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[News]]></wp:cat_name>
+<wp:category_description><![CDATA[Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.]]></wp:category_description>
+	</wp:category>
+	<wp:term>
+		<wp:term_id><![CDATA[53]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[topic-tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[bbpress]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[bbpress]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[46]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[staff_position]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[ceo]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[CEO]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[33]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[logo_category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[clients]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Clients]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[23]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[module_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[contact]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Contact]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[87]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[project_category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[design]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Design]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[48]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[staff_position]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[designer]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Designer]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[43]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[staff_department]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[development]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Development]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[24]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[module_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[features]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Features]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[54]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[topic-tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[forums]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[forums]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[44]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[staff_department]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[management]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Management]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[89]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[project_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[page-builder]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Page builder]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[34]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[logo_category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[partners]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Partners]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[86]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[project_category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[photography]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Photography]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[49]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[staff_position]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[programmer]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Programmer]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[50]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[staff_position]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[project-manager]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Project manager]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[52]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[testimonial_category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[reviews]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Reviews]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[2]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[simple]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[simple]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[88]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[project_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[standard-layout]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Standard layout]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[32]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[module_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[support]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Support]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[77]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[staff_department]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[support]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Support]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[51]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[staff_position]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[support-specialist]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Support specialist]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[55]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[topic-tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[topic-tag]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[topic tag]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[85]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[project_category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[wordpress]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[WordPress]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[68]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[clothing]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Clothing]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5628]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[69]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[hoodies]]></wp:term_slug>
+		<wp:term_parent><![CDATA[clothing]]></wp:term_parent>
+		<wp:term_name><![CDATA[Hoodies]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5693]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[71]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[posters]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Posters]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5573]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term><wp:term_id>91</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
+</wp:term>
 
 	
 
@@ -1220,11 +1431,7 @@ quis nostrud exerci tation ullamcorper.</p>";s:10:"margin_top";s:0:"";s:13:"marg
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?page_id=236</guid>
 		<description/>
-		<content:encoded><![CDATA[[vc_row disable_container="1"][vc_column width="1/1"][layerslider_vc id="shop"][/vc_column][/vc_row][vc_row bg_color="#f6f6f6" bg_image="5756" class="border-bottom border-top"][vc_column width="1/1"][wm_content_module multiple="1" count="3" columns="3" order="new" tag="banners" align="left" class="banner" layout="image,content" image_size="mobile"][/wm_content_module][/vc_column][/vc_row][vc_row][vc_column width="1/1"][wm_separator_heading tag="h2" align="left"]Featured Products[/wm_separator_heading][featured_products per_page="8" columns="4"][wm_divider type="whitespace"][wm_call_to_action caption="Free shipping on all purchases over 19€" button_text="Find out more" button_url="#" button_color="blue" button_size="l" button_icon="icon-truck"]Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.[/wm_call_to_action][wm_separator_heading tag="h2" align="left"]Shop Categories[/wm_separator_heading][product_categories number="4" columns="4"][/vc_column][/vc_row][vc_row bg_image="5836" font_color="#ffffff" class="background-attachment-fixed background-size-cover"][vc_column width="1/1"][wm_testimonials multiple="1" count="4" columns="1" order="old" scroll="6000" align="left" class="text-center"][/wm_testimonials][/vc_column][/vc_row][vc_row][vc_column width="1/1"][wm_posts post_type="post" count="5" columns="3" order="new" scroll="1" taxonomy="post_tag:featured-image" align="left"]
-<h2 class="heading-style-1">RECENT <strong>NEWS</strong></h2>
-Last update on [wm_last_update post_type="post" format="" class="" /]
-
-Curabitur placerat cursus bibendum. Donec vel lacus mi. Aliquam massa tellus, tincidunt a sollicitudin sit amet, malesuada nec nunc.[/wm_posts][/vc_column][/vc_row][vc_row bg_color="#f6f6f6"][vc_column width="1/1"][wm_content_module multiple="1" count="3" columns="3" order="new" tag="contact" align="left"][/wm_content_module][/vc_column][/vc_row][vc_row][vc_column width="1/1"][wm_widget_area area="shop-products" class="widget-columns"][/vc_column][/vc_row]]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>236</wp:post_id>
 		<wp:post_date><![CDATA[2014-03-28 15:31:33]]></wp:post_date>
@@ -4091,7 +4298,7 @@ Post type: wm_logos
 -->
 	<item>
 		<title>Creative Commons</title>
-		<link>http://themedemos.webmandesign.eu/mustang/logo/creative-commons/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?logo=creative-commons</link>
 		<pubDate>Sat, 29 Mar 2014 19:15:18 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_logos&amp;p=341</guid>
@@ -4126,7 +4333,7 @@ Post type: wm_logos
 	</item>
 	<item>
 		<title>Inkscape</title>
-		<link>http://themedemos.webmandesign.eu/mustang/logo/inkscape/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?logo=inkscape</link>
 		<pubDate>Sat, 29 Mar 2014 19:16:53 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_logos&amp;p=343</guid>
@@ -4162,7 +4369,7 @@ Post type: wm_logos
 	</item>
 	<item>
 		<title>MySQL</title>
-		<link>http://themedemos.webmandesign.eu/mustang/logo/mysql/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?logo=mysql</link>
 		<pubDate>Sat, 29 Mar 2014 19:17:50 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_logos&amp;p=344</guid>
@@ -4197,7 +4404,7 @@ Post type: wm_logos
 	</item>
 	<item>
 		<title>Open Source</title>
-		<link>http://themedemos.webmandesign.eu/mustang/logo/open-source/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?logo=open-source</link>
 		<pubDate>Sat, 29 Mar 2014 19:18:22 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_logos&amp;p=345</guid>
@@ -4232,7 +4439,7 @@ Post type: wm_logos
 	</item>
 	<item>
 		<title>Ubuntu</title>
-		<link>http://themedemos.webmandesign.eu/mustang/logo/ubuntu/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?logo=ubuntu</link>
 		<pubDate>Sat, 29 Mar 2014 19:19:37 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_logos&amp;p=347</guid>
@@ -4268,7 +4475,7 @@ Post type: wm_logos
 	</item>
 	<item>
 		<title>WordPress</title>
-		<link>http://themedemos.webmandesign.eu/mustang/logo/wordpress-2/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?logo=wordpress-2</link>
 		<pubDate>Sat, 29 Mar 2014 19:25:29 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_logos&amp;p=353</guid>
@@ -4312,7 +4519,7 @@ Post type: wm_modules
 -->
 	<item>
 		<title>Responsive</title>
-		<link>http://themedemos.webmandesign.eu/mustang/module/responsive/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?module=responsive</link>
 		<pubDate>Wed, 26 Mar 2014 18:15:35 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_modules&amp;p=33</guid>
@@ -4359,7 +4566,7 @@ Post type: wm_modules
 	</item>
 	<item>
 		<title>Customizable</title>
-		<link>http://themedemos.webmandesign.eu/mustang/module/customizable/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?module=customizable</link>
 		<pubDate>Wed, 26 Mar 2014 18:16:47 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_modules&amp;p=35</guid>
@@ -4406,7 +4613,7 @@ Post type: wm_modules
 	</item>
 	<item>
 		<title>One-click Demo Import</title>
-		<link>http://themedemos.webmandesign.eu/mustang/module/one-click-demo-import/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?module=one-click-demo-import</link>
 		<pubDate>Sat, 29 Mar 2014 15:09:20 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_modules&amp;p=269</guid>
@@ -4449,7 +4656,7 @@ Post type: wm_modules
 	</item>
 	<item>
 		<title>Translation Ready</title>
-		<link>http://themedemos.webmandesign.eu/mustang/module/translation-ready/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?module=translation-ready</link>
 		<pubDate>Sat, 29 Mar 2014 15:18:33 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_modules&amp;p=272</guid>
@@ -4488,7 +4695,7 @@ Post type: wm_modules
 	</item>
 	<item>
 		<title>Page Builder</title>
-		<link>http://themedemos.webmandesign.eu/mustang/module/page-builder/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?module=page-builder</link>
 		<pubDate>Sun, 30 Mar 2014 15:44:07 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_modules&amp;p=276</guid>
@@ -4531,7 +4738,7 @@ Post type: wm_modules
 	</item>
 	<item>
 		<title>Well Documented</title>
-		<link>http://themedemos.webmandesign.eu/mustang/module/well-documented/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?module=well-documented</link>
 		<pubDate>Sat, 29 Mar 2014 15:32:47 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_modules&amp;p=277</guid>
@@ -4574,7 +4781,7 @@ Post type: wm_modules
 	</item>
 	<item>
 		<title>Completely Unlocked</title>
-		<link>http://themedemos.webmandesign.eu/mustang/module/completely-unlocked/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?module=completely-unlocked</link>
 		<pubDate>Sat, 29 Mar 2014 15:41:51 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_modules&amp;p=280</guid>
@@ -4617,7 +4824,7 @@ Post type: wm_modules
 	</item>
 	<item>
 		<title>WooCommerce</title>
-		<link>http://themedemos.webmandesign.eu/mustang/module/woocommerce/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?module=woocommerce</link>
 		<pubDate>Sat, 29 Mar 2014 15:46:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_modules&amp;p=283</guid>
@@ -4656,7 +4863,7 @@ Post type: wm_modules
 	</item>
 	<item>
 		<title>bbPress Forums</title>
-		<link>http://themedemos.webmandesign.eu/mustang/module/bbpress-forums/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?module=bbpress-forums</link>
 		<pubDate>Sat, 29 Mar 2014 15:48:46 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_modules&amp;p=284</guid>
@@ -4695,7 +4902,7 @@ Post type: wm_modules
 	</item>
 	<item>
 		<title>Address</title>
-		<link>http://themedemos.webmandesign.eu/mustang/module/address/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?module=address</link>
 		<pubDate>Tue, 01 Apr 2014 14:20:52 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_modules&amp;p=383</guid>
@@ -4726,7 +4933,7 @@ Post type: wm_modules
 	</item>
 	<item>
 		<title>Call us</title>
-		<link>http://themedemos.webmandesign.eu/mustang/module/call-us/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?module=call-us</link>
 		<pubDate>Tue, 01 Apr 2014 14:20:52 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/module/address-2/</guid>
@@ -4761,7 +4968,7 @@ Post type: wm_modules
 	</item>
 	<item>
 		<title>Social and email</title>
-		<link>http://themedemos.webmandesign.eu/mustang/module/social-and-email/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?module=social-and-email</link>
 		<pubDate>Tue, 01 Apr 2014 14:20:52 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/module/address-3/</guid>
@@ -4796,7 +5003,7 @@ Post type: wm_modules
 	</item>
 	<item>
 		<title>Need Support?</title>
-		<link>http://themedemos.webmandesign.eu/mustang/module/need-support/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?module=need-support</link>
 		<pubDate>Sun, 13 Apr 2014 11:01:01 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_modules&amp;p=458</guid>
@@ -4835,7 +5042,7 @@ Post type: wm_modules
 	</item>
 	<item>
 		<title>Got a Question?</title>
-		<link>http://themedemos.webmandesign.eu/mustang/module/got-a-question/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?module=got-a-question</link>
 		<pubDate>Sun, 13 Apr 2014 11:02:52 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_modules&amp;p=460</guid>
@@ -4874,7 +5081,7 @@ Post type: wm_modules
 	</item>
 	<item>
 		<title>Knowledgebase</title>
-		<link>http://themedemos.webmandesign.eu/mustang/module/knowledgebase/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/?module=knowledgebase</link>
 		<pubDate>Sun, 13 Apr 2014 11:05:29 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_modules&amp;p=461</guid>
@@ -5163,7 +5370,7 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[6048]]></wp:meta_value>
+			<wp:meta_value><![CDATA[6043]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -5618,7 +5825,7 @@ Post type: wm_staff
 -->
 	<item>
 		<title>Maxine Davidson</title>
-		<link>http://themedemos.webmandesign.eu/mustang/staff/maxine-davidson/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/person/maxine-davidson/</link>
 		<pubDate>Thu, 27 Mar 2014 10:19:36 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/?post_type=wm_staff&amp;p=105</guid>
@@ -5658,7 +5865,7 @@ Post type: wm_staff
 	</item>
 	<item>
 		<title>James Brown</title>
-		<link>http://themedemos.webmandesign.eu/mustang/staff/james-brown/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/person/james-brown/</link>
 		<pubDate>Thu, 27 Mar 2014 10:19:36 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/staff/lori-bowman-2/</guid>
@@ -5698,7 +5905,7 @@ Post type: wm_staff
 	</item>
 	<item>
 		<title>Samuel Vega</title>
-		<link>http://themedemos.webmandesign.eu/mustang/staff/samuel-vega/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/person/samuel-vega/</link>
 		<pubDate>Thu, 27 Mar 2014 10:19:36 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/staff/james-brown-2/</guid>
@@ -5755,7 +5962,7 @@ Post type: wm_staff
 	</item>
 	<item>
 		<title>Byrd Daisy</title>
-		<link>http://themedemos.webmandesign.eu/mustang/staff/byrd-daisy/</link>
+		<link>http://themedemos.webmandesign.eu/mustang/person/byrd-daisy/</link>
 		<pubDate>Thu, 27 Mar 2014 10:19:36 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/mustang/staff/samantha-vega-2/</guid>
