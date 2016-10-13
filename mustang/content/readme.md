@@ -9,8 +9,8 @@ You are browsing a repository for main demo content XML files of [**Mustang** Wo
 2. To allow all the demo content to be imported in whole, please install these plugins:
   * [WebMan Amplifier](https://wordpress.org/plugins/webman-amplifier/) - provides additional functionality, widgets, shortcodes, icon font and custom post types
   * [Beaver Builder](https://wordpress.org/plugins/beaver-builder-lite-version/) - page builder plugin used to build the demo content (make sure the page builder is enabled for Pages and Projects - check this under **Settings &raquo; Page Builder &raquo; Post Types**)
-  * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - provides e-commerce functionality
-  * [bbPress](https://wordpress.org/plugins/bbpress/) - provides forum functionality
+  * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - provides e-commerce functionality (only required with **paid theme version**)
+  * [bbPress](https://wordpress.org/plugins/bbpress/) - provides forum functionality (only required with **paid theme version**)
   * [WooSidebars](https://wordpress.org/plugins/woosidebars/) - allows to create custom sidebars
   * [Breadcrumb NavXT](https://wordpress.org/plugins/breadcrumb-navxt/) - provides breadcrumbs navigation
 
