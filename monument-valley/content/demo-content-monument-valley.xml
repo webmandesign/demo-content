@@ -20,7 +20,7 @@
 	<title>Monument Valley</title>
 	<link>http://themedemos.webmandesign.eu/monument-valley</link>
 	<description>Just another WebMan WordPress Themes site</description>
-	<pubDate>Tue, 13 Dec 2016 07:17:29 +0000</pubDate>
+	<pubDate>Sat, 17 Dec 2016 14:40:24 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://themedemos.webmandesign.eu/</wp:base_site_url>
@@ -42,9 +42,19 @@
 		<wp:cat_name><![CDATA[Standard Post Format]]></wp:cat_name>
 	</wp:category>
 	<wp:tag>
+		<wp:term_id>105</wp:term_id>
+		<wp:tag_slug><![CDATA[intro-widgets]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Intro widgets]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
 		<wp:term_id>48</wp:term_id>
 		<wp:tag_slug><![CDATA[my-team]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[My team]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>106</wp:term_id>
+		<wp:tag_slug><![CDATA[no-intro]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[No intro]]></wp:tag_name>
 	</wp:tag>
 	<wp:tag>
 		<wp:term_id>70</wp:term_id>
@@ -80,6 +90,11 @@
 		<wp:term_id>67</wp:term_id>
 		<wp:tag_slug><![CDATA[table-of-contents]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Table of contents]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>107</wp:term_id>
+		<wp:tag_slug><![CDATA[template]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Template]]></wp:tag_name>
 	</wp:tag>
 	<wp:term>
 		<wp:term_id><![CDATA[46]]></wp:term_id>
@@ -163,6 +178,13 @@
 		<wp:term_name><![CDATA[Default layout]]></wp:term_name>
 	</wp:term>
 	<wp:term>
+		<wp:term_id><![CDATA[110]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[staff_department]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[default-layout]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Default layout]]></wp:term_name>
+	</wp:term>
+	<wp:term>
 		<wp:term_id><![CDATA[26]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[staff_position]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[designer]]></wp:term_slug>
@@ -241,6 +263,31 @@
 		</wp:termmeta>
 	</wp:term>
 	<wp:term>
+		<wp:term_id><![CDATA[22]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[staff_department]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intro-widgets]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intro widgets]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[104]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intro-widgets]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intro Widgets]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[109]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[project_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intro-widgets]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intro widgets]]></wp:term_name>
+	</wp:term>
+	<wp:term>
 		<wp:term_id><![CDATA[94]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[living]]></wp:term_slug>
@@ -259,18 +306,25 @@
 		<wp:term_name><![CDATA[Logistics]]></wp:term_name>
 	</wp:term>
 	<wp:term>
-		<wp:term_id><![CDATA[23]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[staff_department]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[management]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Management]]></wp:term_name>
-	</wp:term>
-	<wp:term>
 		<wp:term_id><![CDATA[35]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[project_category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[modern]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Modern]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[113]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[staff_department]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[no-content]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[No content]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[21]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[staff_department]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[no-intro]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[No intro]]></wp:term_name>
 	</wp:term>
 	<wp:term>
 		<wp:term_id><![CDATA[55]]></wp:term_id>
@@ -280,13 +334,38 @@
 		<wp:term_name><![CDATA[No intro]]></wp:term_name>
 	</wp:term>
 	<wp:term>
+		<wp:term_id><![CDATA[103]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[no-intro]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[No intro]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
 		<wp:term_id><![CDATA[54]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[project_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[no-sidebar]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[No sidebar]]></wp:term_name>
 	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[111]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[staff_department]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[no-sidebar]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[No sidebar]]></wp:term_name>
+	</wp:term>
 	
+	<wp:term>
+		<wp:term_id><![CDATA[23]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[staff_department]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[page-builder]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Page builder]]></wp:term_name>
+	</wp:term>
 	<wp:term>
 		<wp:term_id><![CDATA[56]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[project_tag]]></wp:term_taxonomy>
@@ -333,13 +412,6 @@
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Purchasable]]></wp:term_name>
 	</wp:term><wp:term>
-		<wp:term_id><![CDATA[21]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[staff_department]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[sales]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Sales]]></wp:term_name>
-	</wp:term>
-	<wp:term>
 		<wp:term_id><![CDATA[44]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[module_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[services]]></wp:term_slug>
@@ -411,18 +483,22 @@
 		</wp:termmeta>
 	</wp:term>
 	<wp:term>
-		<wp:term_id><![CDATA[22]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[staff_department]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[support]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Support]]></wp:term_name>
-	</wp:term>
-	<wp:term>
 		<wp:term_id><![CDATA[25]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[staff_position]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[support-specialist]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Support Specialist]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[108]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[template]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Template]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:term>
 	<wp:term>
 		<wp:term_id><![CDATA[59]]></wp:term_id>
@@ -456,6 +532,13 @@
 	<wp:term>
 		<wp:term_id><![CDATA[52]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[project_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[with-sidebar]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[With sidebar]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[112]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[staff_department]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[with-sidebar]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[With sidebar]]></wp:term_name>
@@ -798,7 +881,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[16]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>6</wp:post_parent>
-		<wp:menu_order>49</wp:menu_order>
+		<wp:menu_order>51</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -853,7 +936,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[17]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>6</wp:post_parent>
-		<wp:menu_order>48</wp:menu_order>
+		<wp:menu_order>50</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -908,7 +991,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[18]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>47</wp:menu_order>
+		<wp:menu_order>49</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1332,6 +1415,122 @@ Post type: nav_menu_item
 		</wp:postmeta>
 	</item>
 	<item>
+		<title/>
+		<link>http://themedemos.webmandesign.eu/monument-valley/?p=1303</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?p=1303</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1303</wp:post_id>
+		<wp:post_date><![CDATA[2016-12-17 15:16:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[231]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wm_staff]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1481984197]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://themedemos.webmandesign.eu/monument-valley/?p=1304</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?p=1304</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1304</wp:post_id>
+		<wp:post_date><![CDATA[2016-12-17 15:16:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[229]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wm_staff]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1481984197]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Documentation</title>
 		<link>http://themedemos.webmandesign.eu/monument-valley/documentation/</link>
 		<pubDate>Wed, 14 Sep 2016 09:46:14 +0000</pubDate>
@@ -1458,7 +1657,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[features]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>63</wp:menu_order>
+		<wp:menu_order>67</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1513,7 +1712,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[141]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>102</wp:post_parent>
-		<wp:menu_order>64</wp:menu_order>
+		<wp:menu_order>68</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1568,7 +1767,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[142]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>102</wp:post_parent>
-		<wp:menu_order>72</wp:menu_order>
+		<wp:menu_order>76</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1623,7 +1822,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[143]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>102</wp:post_parent>
-		<wp:menu_order>70</wp:menu_order>
+		<wp:menu_order>74</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1678,7 +1877,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[144]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>102</wp:post_parent>
-		<wp:menu_order>71</wp:menu_order>
+		<wp:menu_order>75</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1733,7 +1932,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[145]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>102</wp:post_parent>
-		<wp:menu_order>68</wp:menu_order>
+		<wp:menu_order>72</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1788,7 +1987,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[146]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>102</wp:post_parent>
-		<wp:menu_order>67</wp:menu_order>
+		<wp:menu_order>71</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1843,7 +2042,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[page-templates]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>66</wp:menu_order>
+		<wp:menu_order>70</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1898,7 +2097,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[page-template-list-subpages]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>69</wp:menu_order>
+		<wp:menu_order>73</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1953,7 +2152,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[post-formats]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>37</wp:menu_order>
+		<wp:menu_order>39</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2008,7 +2207,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[standard-post]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>38</wp:menu_order>
+		<wp:menu_order>40</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2118,7 +2317,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[asides]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>39</wp:menu_order>
+		<wp:menu_order>41</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2173,7 +2372,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[audio-posts]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>40</wp:menu_order>
+		<wp:menu_order>42</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2228,7 +2427,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[video-posts]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>46</wp:menu_order>
+		<wp:menu_order>48</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2283,7 +2482,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[status-posts]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>45</wp:menu_order>
+		<wp:menu_order>47</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2338,7 +2537,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[quote-posts]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>44</wp:menu_order>
+		<wp:menu_order>46</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2393,7 +2592,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[image-posts]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>42</wp:menu_order>
+		<wp:menu_order>44</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2448,7 +2647,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[link-posts]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>43</wp:menu_order>
+		<wp:menu_order>45</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2503,7 +2702,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[gallery-posts]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>41</wp:menu_order>
+		<wp:menu_order>43</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2668,7 +2867,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[199]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>59</wp:menu_order>
+		<wp:menu_order>63</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2723,7 +2922,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[facebook]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>60</wp:menu_order>
+		<wp:menu_order>64</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2778,7 +2977,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[twitter]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>61</wp:menu_order>
+		<wp:menu_order>65</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2833,7 +3032,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[vimeo]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>62</wp:menu_order>
+		<wp:menu_order>66</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3273,7 +3472,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[210]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>6</wp:post_parent>
-		<wp:menu_order>50</wp:menu_order>
+		<wp:menu_order>52</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4208,7 +4407,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[520]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>102</wp:post_parent>
-		<wp:menu_order>65</wp:menu_order>
+		<wp:menu_order>69</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4648,7 +4847,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[page-builder-1]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>57</wp:menu_order>
+		<wp:menu_order>59</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4703,7 +4902,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[page-builder-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>58</wp:menu_order>
+		<wp:menu_order>60</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4758,7 +4957,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[virtual]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>53</wp:menu_order>
+		<wp:menu_order>55</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4813,7 +5012,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[simple]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>767</wp:post_parent>
-		<wp:menu_order>52</wp:menu_order>
+		<wp:menu_order>54</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4868,7 +5067,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[variable]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>54</wp:menu_order>
+		<wp:menu_order>56</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4923,7 +5122,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[externalaffiliate]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>55</wp:menu_order>
+		<wp:menu_order>57</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4978,7 +5177,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[grouped]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>56</wp:menu_order>
+		<wp:menu_order>58</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5033,7 +5232,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[product-examples-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>767</wp:post_parent>
-		<wp:menu_order>51</wp:menu_order>
+		<wp:menu_order>53</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5218,6 +5417,226 @@ Post type: nav_menu_item
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Post with intro widgets</title>
+		<link>http://themedemos.webmandesign.eu/monument-valley/post-with-intro-widgets/</link>
+		<pubDate>Sat, 17 Dec 2016 14:19:45 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?p=1301</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1301</wp:post_id>
+		<wp:post_date><![CDATA[2016-12-17 15:19:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-12-17 14:19:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[post-with-intro-widgets]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>37</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[203]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[49]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>No intro post</title>
+		<link>http://themedemos.webmandesign.eu/monument-valley/no-intro-post/</link>
+		<pubDate>Sat, 17 Dec 2016 14:19:45 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?p=1302</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1302</wp:post_id>
+		<wp:post_date><![CDATA[2016-12-17 15:19:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-12-17 14:19:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[no-intro-post]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>38</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[203]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[45]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>No intro product</title>
+		<link>http://themedemos.webmandesign.eu/monument-valley/no-intro-product/</link>
+		<pubDate>Sat, 17 Dec 2016 14:19:45 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?p=1305</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1305</wp:post_id>
+		<wp:post_date><![CDATA[2016-12-17 15:19:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-12-17 14:19:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[no-intro-product]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>62</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[871]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[495]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[product]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Product with intro widgets</title>
+		<link>http://themedemos.webmandesign.eu/monument-valley/product-with-intro-widgets/</link>
+		<pubDate>Sat, 17 Dec 2016 14:19:45 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?p=1306</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1306</wp:post_id>
+		<wp:post_date><![CDATA[2016-12-17 15:19:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-12-17 14:19:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[product-with-intro-widgets]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>61</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[871]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[499]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[product]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -6163,92 +6582,6 @@ Activities gateway ticket airBnB airmiles Moscow South-America worldwide exchang
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Page Template: Default</title>
-		<link>http://themedemos.webmandesign.eu/monument-valley/theme-features/template-default/</link>
-		<pubDate>Wed, 14 Sep 2016 07:58:23 +0000</pubDate>
-		<dc:creator><![CDATA[demoauthor]]></dc:creator>
-		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?page_id=115</guid>
-		<description/>
-		<content:encoded><![CDATA[Diary recommendations foreign relaxation bus lonely planet hiking Hong Kong adventure on a shoestring passport. Dollar people currency Amsterdam boat couchsurfing nature gateway China miles bunkbeds insurance adventure apartment. Vienna passport nighttrain car rental luxury. Stay Cuba diary discover wellness boat.
-<blockquote>Yacht hotel place to stay deal creditcard train foreign camper animals chartering. Earth boat luxury Budapest yacht. Caravan freedom bus. Discover train international animals.</blockquote>
-Stress free hitchhiking globe camper nighttrain. Creditcard cab itinerary lodge Australia. Last minute sight seeing rural earth private jet airplane bus maps. Kayak bus guest people unique experiences tourist attractions apartment Europe hitchhiking GEO airmiles nature.
-<h2>Activities cab <strong>Cuba China</strong></h2>
-Activities gateway ticket airBnB airmiles Moscow South-America worldwide exchange rate. Uncharted Brasil France taxi Germany bunkbeds Instagram explore USA housing Hungary freedom Budapest Japan. Spa national chartering sleep car rental earth.]]></content:encoded>
-		<excerpt:encoded><![CDATA[A standard, default WordPress page. There is no sidebar displayed on this page template.]]></excerpt:encoded>
-		<wp:post_id>115</wp:post_id>
-		<wp:post_date><![CDATA[2016-09-14 09:58:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-09-14 07:58:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[template-default]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>102</wp:post_parent>
-		<wp:menu_order>1010</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_no_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[monument_valley_no_title]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[intro_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[790]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_intro_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[monument_valley_intro_image]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[show_intro_widgets]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_show_intro_widgets]]></wp:meta_key>
-			<wp:meta_value><![CDATA[monument_valley_show_intro_widgets]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[no_custom_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_no_custom_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[monument_valley_no_custom_image]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1282]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[no_thumbnail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_no_thumbnail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[monument_valley_no_thumbnail]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
-			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Page Template: With sidebar</title>
 		<link>http://themedemos.webmandesign.eu/monument-valley/theme-features/template-sidebar/</link>
 		<pubDate>Wed, 14 Sep 2016 08:50:25 +0000</pubDate>
@@ -6692,6 +7025,92 @@ The list of CSS classes below is organized into groups and each CSS class inform
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1282]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Page Template: Default</title>
+		<link>http://themedemos.webmandesign.eu/monument-valley/theme-features/template-default/</link>
+		<pubDate>Wed, 14 Sep 2016 07:58:23 +0000</pubDate>
+		<dc:creator><![CDATA[demoauthor]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?page_id=115</guid>
+		<description/>
+		<content:encoded><![CDATA[Diary recommendations foreign relaxation bus lonely planet hiking Hong Kong adventure on a shoestring passport. Dollar people currency Amsterdam boat couchsurfing nature gateway China miles bunkbeds insurance adventure apartment. Vienna passport nighttrain car rental luxury. Stay Cuba diary discover wellness boat.
+<blockquote>Yacht hotel place to stay deal creditcard train foreign camper animals chartering. Earth boat luxury Budapest yacht. Caravan freedom bus. Discover train international animals.</blockquote>
+Stress free hitchhiking globe camper nighttrain. Creditcard cab itinerary lodge Australia. Last minute sight seeing rural earth private jet airplane bus maps. Kayak bus guest people unique experiences tourist attractions apartment Europe hitchhiking GEO airmiles nature.
+<h2>Activities cab <strong>Cuba China</strong></h2>
+Activities gateway ticket airBnB airmiles Moscow South-America worldwide exchange rate. Uncharted Brasil France taxi Germany bunkbeds Instagram explore USA housing Hungary freedom Budapest Japan. Spa national chartering sleep car rental earth.]]></content:encoded>
+		<excerpt:encoded><![CDATA[A standard, default WordPress page. There is no sidebar displayed on this page template.]]></excerpt:encoded>
+		<wp:post_id>115</wp:post_id>
+		<wp:post_date><![CDATA[2016-09-14 09:58:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-09-14 07:58:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[template-default]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>102</wp:post_parent>
+		<wp:menu_order>1010</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_no_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_no_title]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[790]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_intro_image]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[show_intro_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_show_intro_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_show_intro_widgets]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[no_custom_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_no_custom_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_no_custom_image]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1282]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[no_thumbnail]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_no_thumbnail]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_no_thumbnail]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
@@ -8599,56 +9018,6 @@ Post type: post
 
 -->
 	<item>
-		<title>Password Protected</title>
-		<link>http://themedemos.webmandesign.eu/monument-valley/post-0/</link>
-		<pubDate>Sun, 10 Jan 2016 12:04:10 +0000</pubDate>
-		<dc:creator><![CDATA[demoauthor]]></dc:creator>
-		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?p=580</guid>
-		<description/>
-		<content:encoded><![CDATA[Diary recommendations foreign relaxation bus lonely planet hiking Hong Kong adventure on a shoestring passport. Dollar people currency Amsterdam boat couchsurfing nature gateway China miles bunkbeds insurance adventure apartment. Vienna passport nighttrain car rental luxury. Stay Cuba diary discover wellness boat.
-<blockquote>Yacht hotel place to stay deal creditcard train foreign camper animals chartering. Earth boat luxury Budapest yacht. Caravan freedom bus. Discover train international animals.</blockquote>
-Stress free hitchhiking globe camper nighttrain. Creditcard cab itinerary lodge Australia. Last minute sight seeing rural earth private jet airplane bus maps. Kayak bus guest people unique experiences tourist attractions apartment Europe hitchhiking GEO airmiles nature.]]></content:encoded>
-		<excerpt:encoded><![CDATA[This post is password protected. No content is displayed unless you enter the "demo" password in the form.]]></excerpt:encoded>
-		<wp:post_id>580</wp:post_id>
-		<wp:post_date><![CDATA[2016-01-10 13:04:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-01-10 12:04:10]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[post-0]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[demo]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="news"><![CDATA[News]]></category>
-		<category domain="post_tag" nicename="password"><![CDATA[Password]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Password is "demo"]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[350]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[password-protected-post]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[password-protected]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Status post type</title>
 		<link>http://themedemos.webmandesign.eu/monument-valley/post-1/</link>
 		<pubDate>Mon, 25 Jan 2016 14:55:33 +0000</pubDate>
@@ -8807,9 +9176,11 @@ Activities gateway ticket airBnB airmiles Moscow South-America worldwide exchang
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="news"><![CDATA[News]]></category>
+		<category domain="post_tag" nicename="no-intro"><![CDATA[No intro]]></category>
 		<category domain="post_tag" nicename="post-formats"><![CDATA[Post formats]]></category>
 		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 		<category domain="post_tag" nicename="simple-news"><![CDATA[Simple news]]></category>
+		<category domain="post_tag" nicename="template"><![CDATA[Template]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -8829,6 +9200,10 @@ Activities gateway ticket airBnB airmiles Moscow South-America worldwide exchang
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[350]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/no-intro.php]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -8901,10 +9276,12 @@ Activities gateway ticket airBnB airmiles Moscow South-America worldwide exchang
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="intro-widgets"><![CDATA[Intro widgets]]></category>
 		<category domain="category" nicename="news"><![CDATA[News]]></category>
 		<category domain="post_tag" nicename="post-formats"><![CDATA[Post formats]]></category>
 		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
 		<category domain="post_tag" nicename="simple-news"><![CDATA[Simple news]]></category>
+		<category domain="post_tag" nicename="template"><![CDATA[Template]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -8924,6 +9301,10 @@ Activities gateway ticket airBnB airmiles Moscow South-America worldwide exchang
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[350]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/intro-widgets.php]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -9522,6 +9903,56 @@ Flexibility camper Europe tourist attractions bunkbeds airmiles Tripit guide sai
 			<wp:comment_user_id>26</wp:comment_user_id>
 		</wp:comment>
 	</item>
+	<item>
+		<title>Password Protected</title>
+		<link>http://themedemos.webmandesign.eu/monument-valley/post-0/</link>
+		<pubDate>Sun, 10 Jan 2016 12:04:10 +0000</pubDate>
+		<dc:creator><![CDATA[demoauthor]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?p=580</guid>
+		<description/>
+		<content:encoded><![CDATA[Diary recommendations foreign relaxation bus lonely planet hiking Hong Kong adventure on a shoestring passport. Dollar people currency Amsterdam boat couchsurfing nature gateway China miles bunkbeds insurance adventure apartment. Vienna passport nighttrain car rental luxury. Stay Cuba diary discover wellness boat.
+<blockquote>Yacht hotel place to stay deal creditcard train foreign camper animals chartering. Earth boat luxury Budapest yacht. Caravan freedom bus. Discover train international animals.</blockquote>
+Stress free hitchhiking globe camper nighttrain. Creditcard cab itinerary lodge Australia. Last minute sight seeing rural earth private jet airplane bus maps. Kayak bus guest people unique experiences tourist attractions apartment Europe hitchhiking GEO airmiles nature.]]></content:encoded>
+		<excerpt:encoded><![CDATA[This post is password protected. No content is displayed unless you enter the "demo" password in the form.]]></excerpt:encoded>
+		<wp:post_id>580</wp:post_id>
+		<wp:post_date><![CDATA[2016-01-10 13:04:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-01-10 12:04:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[post-0]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[demo]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="news"><![CDATA[News]]></category>
+		<category domain="post_tag" nicename="password"><![CDATA[Password]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Password is "demo"]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[350]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[password-protected-post]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[password-protected]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
 
 
 
@@ -9531,6 +9962,567 @@ SECTION
 Post type: product
 
 -->
+	<item>
+		<title>First Aid Kit</title>
+		<link>http://themedemos.webmandesign.eu/monument-valley/shop/product-2/</link>
+		<pubDate>Fri, 30 Sep 2016 13:30:22 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?post_type=product&amp;p=499</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[<strong>Reviews disabled.</strong> Things to do St. Petersburg Turkey activities couchsurfing Europe taxi. USA unique experiences sailing currency Hong Kong exchange rate territory Rome itinerary international.
+
+And that&#039;s it really. No other information for this product is provided. It is a simple affiliate. Surely, you can provide more details on the product or even use a page builder for that purpose, it&#039;s up to you.]]></excerpt:encoded>
+		<wp:post_id>499</wp:post_id>
+		<wp:post_date><![CDATA[2016-09-30 15:30:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-09-30 13:30:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[product-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="product_tag" nicename="affiliate"><![CDATA[Affiliate]]></category>
+		<category domain="product_type" nicename="external"><![CDATA[external]]></category>
+		<category domain="product_tag" nicename="external"><![CDATA[External]]></category>
+		<category domain="product_tag" nicename="help"><![CDATA[Help]]></category>
+		<category domain="product_tag" nicename="intro-widgets"><![CDATA[Intro Widgets]]></category>
+		<category domain="product_tag" nicename="template"><![CDATA[Template]]></category>
+		<category domain="product_tag" nicename="tools"><![CDATA[Tools]]></category>
+		<category domain="product_cat" nicename="tools"><![CDATA[Tools]]></category>
+		<category domain="product_cat" nicename="virtual-products"><![CDATA[Virtual Products]]></category>
+		<category domain="product_cat" nicename="watches-sporttesters"><![CDATA[Watches &amp; Sporttesters]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
+			<wp:meta_value><![CDATA[visible]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_purchase_note]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_length]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_height]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
+			<wp:meta_value><![CDATA[AFFILIATE]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[59]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[39]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sale_price_dates_from]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[39]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_upsell_ids]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_crosssell_ids]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2.6.9]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_intro_image]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[505]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[first-aid-kit]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_product_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#purchaselink]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_button_text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Get the theme!]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[External / Affiliate &amp; intro widgets]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/intro-widgets.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Flashlight</title>
+		<link>http://themedemos.webmandesign.eu/monument-valley/shop/product-1/</link>
+		<pubDate>Fri, 30 Sep 2016 13:24:12 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?post_type=product&amp;p=501</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[<p class="uppercase">Just a product short description. No product description, no additional information, no reviews, no up-sell products.</p>
+Long tail first mover advantage supply chain hypotheses product management partnership channels investor iPad mass market.
+
+Facebook analytics deployment incubator buyer release branding learning curve. Success innovator seed round incubator validation MVP business model canvas ramen startup pivot scrum project. Investor hackathon strategy scrum project. <strong>And that's it.</strong>]]></excerpt:encoded>
+		<wp:post_id>501</wp:post_id>
+		<wp:post_date><![CDATA[2016-09-30 15:24:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-09-30 13:24:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[product-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="product_tag" nicename="help"><![CDATA[Help]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+		<category domain="product_tag" nicename="tools"><![CDATA[Tools]]></category>
+		<category domain="product_tag" nicename="virtual"><![CDATA[Virtual]]></category>
+		<category domain="product_cat" nicename="tools"><![CDATA[Tools]]></category>
+		<category domain="product_cat" nicename="virtual-products"><![CDATA[Virtual Products]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
+			<wp:meta_value><![CDATA[visible]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_purchase_note]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_length]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_height]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
+			<wp:meta_value><![CDATA[PRICINGPLAN2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sale_price_dates_from]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_upsell_ids]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_crosssell_ids]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;i:495;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2.6.4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_intro_image]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[504]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Virtual pricing plan]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[flashlight]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Tent &amp; Sleeping Bag</title>
+		<link>http://themedemos.webmandesign.eu/monument-valley/shop/product-0/</link>
+		<pubDate>Mon, 19 Sep 2016 06:31:03 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?post_type=product&amp;p=767</guid>
+		<description/>
+		<content:encoded><![CDATA[<p class="dropcap-text">Transit tent adventure Cuba nighttrain relaxation maps boat. Money airBnB nighttrain France hiking train Japan St. Petersburg Asia foreign travel country apartment sleep. Lonely planet caravan taxi New York City package locals kayak expedia France creditcard. Australia Budapest lonely planet sailing car rental things to do Barcelona discover.</p>
+
+<ul>
+ 	<li>Spa passport guide package itinerary discount camper taxi group discount city trip car rental.</li>
+ 	<li>People group discount recommendations tour operator.</li>
+</ul>
+Flexibility booking tour operator national St. Petersburg Barcelona overnight money Berlin GEO horse riding frequent flyer.]]></content:encoded>
+		<excerpt:encoded><![CDATA[<h2>Convenient package</h2>
+Caravan territory South-America Cuba tourist attractions spa tent miles flying stress free expedia relaxation. Russia frequent flyer earth recommendations flying couchsurfing Cuba Moscow diary cabin Budapest uncharted group discount.]]></excerpt:encoded>
+		<wp:post_id>767</wp:post_id>
+		<wp:post_date><![CDATA[2016-09-19 08:31:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-09-19 06:31:03]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[product-0]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="product_type" nicename="grouped"><![CDATA[grouped]]></category>
+		<category domain="product_tag" nicename="living"><![CDATA[Living]]></category>
+		<category domain="product_cat" nicename="living"><![CDATA[Living]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
+			<wp:meta_value><![CDATA[visible]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_purchase_note]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_length]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_height]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
+			<wp:meta_value><![CDATA[GROUPED]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sale_price_dates_from]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_upsell_ids]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_crosssell_ids]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2.6.6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_intro_image]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Grouped product]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[25]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[510]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
 	<item>
 		<title>Sleeping Bag</title>
 		<link>http://themedemos.webmandesign.eu/monument-valley/shop/product-4/</link>
@@ -10158,7 +11150,9 @@ Spa passport guide package itinerary discount camper taxi group discount city tr
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[<p class="uppercase">Just a product short description. No product description, no additional information, no reviews, no up-sell products.</p>
-Facebook analytics deployment incubator buyer release branding learning curve. Success innovator seed round incubator validation MVP business model canvas ramen startup pivot scrum project. Investor hackathon strategy scrum project. <strong>And that's it.</strong>]]></excerpt:encoded>
+<strong>This product has a "No intro" template assigned.</strong>
+
+Facebook analytics deployment incubator buyer release branding learning curve. Success innovator seed round incubator validation MVP business model canvas ramen startup pivot scrum project. Investor hackathon strategy scrum project. <strong>And that&#039;s it.</strong>]]></excerpt:encoded>
 		<wp:post_id>495</wp:post_id>
 		<wp:post_date><![CDATA[2016-09-30 15:50:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-09-30 13:50:43]]></wp:post_date_gmt>
@@ -10172,7 +11166,9 @@ Facebook analytics deployment incubator buyer release branding learning curve. S
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="product_tag" nicename="help"><![CDATA[Help]]></category>
+		<category domain="product_tag" nicename="no-intro"><![CDATA[No intro]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+		<category domain="product_tag" nicename="template"><![CDATA[Template]]></category>
 		<category domain="product_tag" nicename="tools"><![CDATA[Tools]]></category>
 		<category domain="product_tag" nicename="virtual"><![CDATA[Virtual]]></category>
 		<category domain="product_cat" nicename="tools"><![CDATA[Tools]]></category>
@@ -10287,7 +11283,7 @@ Facebook analytics deployment incubator buyer release branding learning curve. S
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2.6.4]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2.6.9]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -10323,11 +11319,15 @@ Facebook analytics deployment incubator buyer release branding learning curve. S
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Virtual pricing plan]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Virtual pricing plan, no intro]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[compass]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/no-intro.php]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -10940,561 +11940,6 @@ France stay GEO park itinerary bus nighttrain gateway. Sleep Amsterdam Budapest 
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 			<wp:meta_value><![CDATA[205]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>First Aid Kit</title>
-		<link>http://themedemos.webmandesign.eu/monument-valley/shop/product-2/</link>
-		<pubDate>Fri, 30 Sep 2016 13:30:22 +0000</pubDate>
-		<dc:creator><![CDATA[demouser]]></dc:creator>
-		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?post_type=product&amp;p=499</guid>
-		<description/>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[<strong>Reviews disabled.</strong> Things to do St. Petersburg Turkey activities couchsurfing Europe taxi. USA unique experiences sailing currency Hong Kong exchange rate territory Rome itinerary international.
-
-And that's it really. No other information for this product is provided. It is a simple affiliate. Surely, you can provide more details on the product or even use a page builder for that purpose, it's up to you.]]></excerpt:encoded>
-		<wp:post_id>499</wp:post_id>
-		<wp:post_date><![CDATA[2016-09-30 15:30:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-09-30 13:30:22]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[product-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_tag" nicename="affiliate"><![CDATA[Affiliate]]></category>
-		<category domain="product_type" nicename="external"><![CDATA[external]]></category>
-		<category domain="product_tag" nicename="external"><![CDATA[External]]></category>
-		<category domain="product_tag" nicename="help"><![CDATA[Help]]></category>
-		<category domain="product_tag" nicename="tools"><![CDATA[Tools]]></category>
-		<category domain="product_cat" nicename="tools"><![CDATA[Tools]]></category>
-		<category domain="product_cat" nicename="virtual-products"><![CDATA[Virtual Products]]></category>
-		<category domain="product_cat" nicename="watches-sporttesters"><![CDATA[Watches &amp; Sporttesters]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
-			<wp:meta_value><![CDATA[visible]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_purchase_note]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_length]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_width]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_height]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
-			<wp:meta_value><![CDATA[AFFILIATE]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[59]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[39]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sale_price_dates_from]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[39]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_upsell_ids]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_crosssell_ids]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2.6.4]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[intro_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_intro_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[monument_valley_intro_image]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[505]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[first-aid-kit]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_product_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#purchaselink]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_button_text]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Get the theme!]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[External / Affiliate]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Flashlight</title>
-		<link>http://themedemos.webmandesign.eu/monument-valley/shop/product-1/</link>
-		<pubDate>Fri, 30 Sep 2016 13:24:12 +0000</pubDate>
-		<dc:creator><![CDATA[demouser]]></dc:creator>
-		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?post_type=product&amp;p=501</guid>
-		<description/>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[<p class="uppercase">Just a product short description. No product description, no additional information, no reviews, no up-sell products.</p>
-Long tail first mover advantage supply chain hypotheses product management partnership channels investor iPad mass market.
-
-Facebook analytics deployment incubator buyer release branding learning curve. Success innovator seed round incubator validation MVP business model canvas ramen startup pivot scrum project. Investor hackathon strategy scrum project. <strong>And that's it.</strong>]]></excerpt:encoded>
-		<wp:post_id>501</wp:post_id>
-		<wp:post_date><![CDATA[2016-09-30 15:24:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-09-30 13:24:12]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[product-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_tag" nicename="help"><![CDATA[Help]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="product_tag" nicename="tools"><![CDATA[Tools]]></category>
-		<category domain="product_tag" nicename="virtual"><![CDATA[Virtual]]></category>
-		<category domain="product_cat" nicename="tools"><![CDATA[Tools]]></category>
-		<category domain="product_cat" nicename="virtual-products"><![CDATA[Virtual Products]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
-			<wp:meta_value><![CDATA[visible]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_purchase_note]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_length]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_width]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_height]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
-			<wp:meta_value><![CDATA[PRICINGPLAN2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[29]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sale_price_dates_from]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[29]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_upsell_ids]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_crosssell_ids]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;i:495;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2.6.4]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[intro_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_intro_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[monument_valley_intro_image]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[504]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Virtual pricing plan]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[flashlight]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Tent &amp; Sleeping Bag</title>
-		<link>http://themedemos.webmandesign.eu/monument-valley/shop/product-0/</link>
-		<pubDate>Mon, 19 Sep 2016 06:31:03 +0000</pubDate>
-		<dc:creator><![CDATA[demouser]]></dc:creator>
-		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?post_type=product&amp;p=767</guid>
-		<description/>
-		<content:encoded><![CDATA[<p class="dropcap-text">Transit tent adventure Cuba nighttrain relaxation maps boat. Money airBnB nighttrain France hiking train Japan St. Petersburg Asia foreign travel country apartment sleep. Lonely planet caravan taxi New York City package locals kayak expedia France creditcard. Australia Budapest lonely planet sailing car rental things to do Barcelona discover.</p>
-
-<ul>
- 	<li>Spa passport guide package itinerary discount camper taxi group discount city trip car rental.</li>
- 	<li>People group discount recommendations tour operator.</li>
-</ul>
-Flexibility booking tour operator national St. Petersburg Barcelona overnight money Berlin GEO horse riding frequent flyer.]]></content:encoded>
-		<excerpt:encoded><![CDATA[<h2>Convenient package</h2>
-Caravan territory South-America Cuba tourist attractions spa tent miles flying stress free expedia relaxation. Russia frequent flyer earth recommendations flying couchsurfing Cuba Moscow diary cabin Budapest uncharted group discount.]]></excerpt:encoded>
-		<wp:post_id>767</wp:post_id>
-		<wp:post_date><![CDATA[2016-09-19 08:31:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-09-19 06:31:03]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[product-0]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="grouped"><![CDATA[grouped]]></category>
-		<category domain="product_tag" nicename="living"><![CDATA[Living]]></category>
-		<category domain="product_cat" nicename="living"><![CDATA[Living]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
-			<wp:meta_value><![CDATA[visible]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_purchase_note]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_length]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_width]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_height]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
-			<wp:meta_value><![CDATA[GROUPED]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sale_price_dates_from]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_upsell_ids]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_crosssell_ids]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2.6.6]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[intro_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_intro_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[monument_valley_intro_image]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Grouped product]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[25]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[510]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -12968,10 +13413,6 @@ Post type: sidebar
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_condition]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post-type-wm_staff]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_condition]]></wp:meta_key>
 			<wp:meta_value><![CDATA[term-70]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -12985,6 +13426,14 @@ Post type: sidebar
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_condition]]></wp:meta_key>
 			<wp:meta_value><![CDATA[in-term-54]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_condition]]></wp:meta_key>
+			<wp:meta_value><![CDATA[term-111]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_condition]]></wp:meta_key>
+			<wp:meta_value><![CDATA[in-term-111]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -13840,11 +14289,31 @@ Pulling teeth horsehead offer staff engagement, but i also believe it's importan
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
 			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/no-intro.php]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_intro_image]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[show_intro_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_show_intro_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -13880,6 +14349,7 @@ City trip park maps tourist attractions sailing Holland Tripit discover hotel. Y
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="project_category" nicename="analog"><![CDATA[Analog]]></category>
 		<category domain="project_tag" nicename="default-layout"><![CDATA[Default layout]]></category>
+		<category domain="project_tag" nicename="intro-widgets"><![CDATA[Intro widgets]]></category>
 		<category domain="project_tag" nicename="no-sidebar"><![CDATA[No sidebar]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -13903,7 +14373,7 @@ City trip park maps tourist attractions sailing Holland Tripit discover hotel. Y
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[show_intro_widgets]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_show_intro_widgets]]></wp:meta_key>
@@ -13932,6 +14402,10 @@ City trip park maps tourist attractions sailing Holland Tripit discover hotel. Y
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
 			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/intro-widgets.php]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -14023,11 +14497,15 @@ City trip park maps tourist attractions sailing Holland Tripit discover hotel. Y
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
 			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/no-intro.php]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -14099,11 +14577,31 @@ City trip park maps tourist attractions sailing Holland Tripit discover hotel. Y
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
 			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/no-intro.php]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_intro_image]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[show_intro_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_show_intro_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -14113,8 +14611,7 @@ City trip park maps tourist attractions sailing Holland Tripit discover hotel. Y
 		<dc:creator><![CDATA[demoauthor]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?post_type=wm_projects&amp;p=476</guid>
 		<description/>
-		<content:encoded><![CDATA[
-	<h1>Product Project</h1>
+		<content:encoded><![CDATA[	<h1>Product Project</h1>
 <p>Non-disclosure agreement venture return on technology. Learning curve lean startup monetization incubator. Social media startup bootstrapping traction business plan conversion.</p>
 <p>Beta crowdsource buyer angel investor twitter ownership leverage rockstar ecosystem agile development crowdfunding marketing startup. Beta angel investor iteration accelerator infrastructure seed money rockstar channels metrics hypotheses influencer product management.</p>
 <blockquote><p>Social media startup bootstrapping traction business plan conversion. Supply chain pitch validation.</p></blockquote>
@@ -14242,11 +14739,15 @@ Agile development alpha growth hacking assets traction social media leverage.";s
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
 			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/no-intro.php]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -14256,8 +14757,7 @@ Agile development alpha growth hacking assets traction social media leverage.";s
 		<dc:creator><![CDATA[demoauthor]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?post_type=wm_projects&amp;p=478</guid>
 		<description/>
-		<content:encoded><![CDATA[
-	<h1><strong>Simple</strong><br />
+		<content:encoded><![CDATA[	<h1><strong>Simple</strong><br />
 Project Layout</h1>
 [wm_divider appearance="line" /]
 	<p>Created using a page builder</p>
@@ -14332,11 +14832,31 @@ City trip park maps tourist attractions sailing Holland Tripit discover hotel. Y
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
 			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/no-intro.php]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_intro_image]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[show_intro_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_show_intro_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -14346,8 +14866,7 @@ City trip park maps tourist attractions sailing Holland Tripit discover hotel. Y
 		<dc:creator><![CDATA[demoauthor]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?post_type=wm_projects&amp;p=482</guid>
 		<description/>
-		<content:encoded><![CDATA[
-	<p>[gallery link="file" columns="1" size="medium" ids="483,481,350"]</p>
+		<content:encoded><![CDATA[	<p>[gallery link="file" columns="1" size="medium" ids="483,481,350"]</p>
 	<h1><strong>Popular</strong> Layout</h1>
 <p>Incubator channels advisor traction niche market. Return on investment ownership growth hacking infographic hackathon strategy burn rate business-to-consumer scrum project influencer venture metrics focus.</p>
 <p>City trip park maps tourist attractions sailing Holland Tripit discover hotel. Yacht deal camper creditcard taxi sleep. Bus hotspots dollar booking Instagram insurance creditcard Russia people caravan frequent flyer Moscow city trip guest.</p>
@@ -14422,11 +14941,31 @@ City trip park maps tourist attractions sailing Holland Tripit discover hotel. Y
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
 			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/no-intro.php]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_intro_image]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[show_intro_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_show_intro_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -14436,8 +14975,7 @@ City trip park maps tourist attractions sailing Holland Tripit discover hotel. Y
 		<dc:creator><![CDATA[demoauthor]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?post_type=wm_projects&amp;p=484</guid>
 		<description/>
-		<content:encoded><![CDATA[
-	<h1>Modern Project Layout</h1>
+		<content:encoded><![CDATA[	<h1>Modern Project Layout</h1>
 	<p>Using a page builder to build it</p>
 	<h2><strong>Client</strong></h2>
 	<p>WebMan Design</p>
@@ -14519,11 +15057,31 @@ City trip park maps tourist attractions sailing Holland Tripit discover hotel. Y
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
 			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/no-intro.php]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_intro_image]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[show_intro_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_show_intro_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 
@@ -14561,9 +15119,13 @@ Hackathon hypotheses graphical user interface scrum project marketing iPhone ret
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="staff_position" nicename="accountant"><![CDATA[Accountant]]></category>
 		<category domain="staff_specialty" nicename="accounting"><![CDATA[Accounting]]></category>
+		<category domain="staff_department" nicename="default-layout"><![CDATA[Default layout]]></category>
 		<category domain="staff_specialty" nicename="logistics"><![CDATA[Logistics]]></category>
 		<category domain="post_tag" nicename="my-team"><![CDATA[My team]]></category>
-		<category domain="staff_department" nicename="sales"><![CDATA[Sales]]></category>
+		<category domain="staff_department" nicename="no-intro"><![CDATA[No intro]]></category>
+		<category domain="post_tag" nicename="no-intro"><![CDATA[No intro]]></category>
+		<category domain="post_tag" nicename="template"><![CDATA[Template]]></category>
+		<category domain="staff_department" nicename="with-sidebar"><![CDATA[With sidebar]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -14598,7 +15160,7 @@ Hackathon hypotheses graphical user interface scrum project marketing iPhone ret
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Banking guru]]></wp:meta_value>
+			<wp:meta_value><![CDATA[No intro template]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
@@ -14614,11 +15176,15 @@ Hackathon hypotheses graphical user interface scrum project marketing iPhone ret
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
 			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/no-intro.php]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -14645,8 +15211,9 @@ Hackathon hypotheses graphical user interface scrum project marketing iPhone ret
 		<wp:post_type><![CDATA[wm_staff]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="staff_department" nicename="management"><![CDATA[Management]]></category>
+		<category domain="staff_department" nicename="default-layout"><![CDATA[Default layout]]></category>
 		<category domain="post_tag" nicename="my-team"><![CDATA[My team]]></category>
+		<category domain="staff_department" nicename="no-sidebar"><![CDATA[No sidebar]]></category>
 		<category domain="staff_specialty" nicename="public-relations"><![CDATA[Public relations]]></category>
 		<category domain="staff_specialty" nicename="social-media"><![CDATA[Social media]]></category>
 		<category domain="staff_position" nicename="social-media-specialist"><![CDATA[Social Media Specialist]]></category>
@@ -14698,6 +15265,18 @@ Hackathon hypotheses graphical user interface scrum project marketing iPhone ret
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[staff-25]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Evelyn Hale</title>
@@ -14710,7 +15289,7 @@ Hackathon hypotheses graphical user interface scrum project marketing iPhone ret
 Incubator channels advisor traction niche market. Return on investment ownership growth hacking infographic hackathon strategy burn rate business-to-consumer scrum project influencer venture metrics focus. Validation mass market social proof <em>infrastructure business model canvas</em> technology prototype release bootstrapping ramen traction strategy sales. Iteration pitch bootstrapping.
 <blockquote>Closing these latest prospects is like putting socks on an octopus not the long pole in my tent no scraps hit the floor.</blockquote>
 Hackathon hypotheses graphical user interface scrum project marketing iPhone return on investment leverage assets responsive web design. Leverage long tail mass market. Rockstar user experience deployment responsive web design vesting period infrastructure.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Intro section disabled in this post. Return on investment ownership growth hacking infographic hackathon strategy burn rate business-to-consumer scrum project influencer venture metrics focus.]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[Using Intro Widgets template here, and custom intro image. Return on investment ownership growth hacking infographic hackathon strategy burn rate business-to-consumer scrum project.]]></excerpt:encoded>
 		<wp:post_id>231</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-17 00:48:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-08-16 22:48:47]]></wp:post_date_gmt>
@@ -14724,9 +15303,13 @@ Hackathon hypotheses graphical user interface scrum project marketing iPhone ret
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="staff_specialty" nicename="client-services"><![CDATA[Client services]]></category>
+		<category domain="staff_department" nicename="default-layout"><![CDATA[Default layout]]></category>
+		<category domain="staff_department" nicename="intro-widgets"><![CDATA[Intro widgets]]></category>
+		<category domain="post_tag" nicename="intro-widgets"><![CDATA[Intro widgets]]></category>
 		<category domain="post_tag" nicename="my-team"><![CDATA[My team]]></category>
-		<category domain="staff_department" nicename="support"><![CDATA[Support]]></category>
 		<category domain="staff_position" nicename="support-specialist"><![CDATA[Support Specialist]]></category>
+		<category domain="post_tag" nicename="template"><![CDATA[Template]]></category>
+		<category domain="staff_department" nicename="with-sidebar"><![CDATA[With sidebar]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -14737,7 +15320,7 @@ Hackathon hypotheses graphical user interface scrum project marketing iPhone ret
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[intro_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[308]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_intro_image]]></wp:meta_key>
@@ -14761,7 +15344,7 @@ Hackathon hypotheses graphical user interface scrum project marketing iPhone ret
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Crazy one]]></wp:meta_value>
+			<wp:meta_value><![CDATA[With intro widgets template]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
@@ -14777,162 +15360,15 @@ Hackathon hypotheses graphical user interface scrum project marketing iPhone ret
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
-			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Flann McGill</title>
-		<link>http://themedemos.webmandesign.eu/monument-valley/person/staff-1/</link>
-		<pubDate>Mon, 23 May 2016 08:14:11 +0000</pubDate>
-		<dc:creator><![CDATA[demoauthor]]></dc:creator>
-		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?post_type=wm_staff&amp;p=320</guid>
-		<description/>
-		<content:encoded><![CDATA[<p class="dropcap-text">Angel investor stock advisor return on investment android iteration non-disclosure agreement influencer disruptive termsheet. Startup prototype lean startup alpha. Handshake angel investor responsive web design beta. MVP iPhone holy grail graphical user interface bootstrapping venture user experience first mover advantage creative paradigm shift learning curve founders ecosystem.</p>
-Incubator channels advisor traction niche market. Return on investment ownership growth hacking infographic hackathon strategy burn rate business-to-consumer scrum project influencer venture metrics focus. Validation mass market social proof <em>infrastructure business model canvas</em> technology prototype release bootstrapping ramen traction strategy sales. Iteration pitch bootstrapping.
-<blockquote>Closing these latest prospects is like putting socks on an octopus not the long pole in my tent no scraps hit the floor.</blockquote>
-Hackathon hypotheses graphical user interface scrum project marketing iPhone return on investment leverage assets responsive web design. Leverage long tail mass market. Rockstar user experience deployment responsive web design vesting period infrastructure.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>320</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-23 10:14:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-23 08:14:11]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[staff-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wm_staff]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="staff_specialty" nicename="development"><![CDATA[Development]]></category>
-		<category domain="staff_specialty" nicename="public-relations"><![CDATA[Public relations]]></category>
-		<category domain="staff_department" nicename="support"><![CDATA[Support]]></category>
-		<category domain="staff_position" nicename="support-specialist"><![CDATA[Support Specialist]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_no_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[monument_valley_no_title]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[intro_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_intro_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[monument_valley_intro_image]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[show_intro_widgets]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_show_intro_widgets]]></wp:meta_key>
-			<wp:meta_value><![CDATA[monument_valley_show_intro_widgets]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Support ninja with no excerpt]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[314]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[flann-mcgill]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[staff-6]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[staff-61]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
 			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>Carey O'Neill</title>
-		<link>http://themedemos.webmandesign.eu/monument-valley/person/staff-2/</link>
-		<pubDate>Mon, 23 May 2016 08:14:40 +0000</pubDate>
-		<dc:creator><![CDATA[demoauthor]]></dc:creator>
-		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?post_type=wm_staff&amp;p=321</guid>
-		<description/>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Angel investor stock advisor return on investment android iteration non-disclosure agreement influencer disruptive termsheet.]]></excerpt:encoded>
-		<wp:post_id>321</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-23 10:14:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-23 08:14:40]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[staff-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wm_staff]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="staff_position" nicename="accountant"><![CDATA[Accountant]]></category>
-		<category domain="staff_specialty" nicename="accounting"><![CDATA[Accounting]]></category>
-		<category domain="staff_specialty" nicename="client-services"><![CDATA[Client services]]></category>
-		<category domain="staff_department" nicename="sales"><![CDATA[Sales]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[310]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_no_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[monument_valley_no_title]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Just an excerpt, no content]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[carey-oneill]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[staff-5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[staff-52]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
-			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/intro-widgets.php]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -15014,7 +15450,9 @@ strategy series a financing churn rate social proof iPad ramen niche market.</p>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="staff_position" nicename="ceo"><![CDATA[CEO]]></category>
 		<category domain="staff_position" nicename="designer"><![CDATA[Designer]]></category>
-		<category domain="staff_department" nicename="management"><![CDATA[Management]]></category>
+		<category domain="staff_department" nicename="no-intro"><![CDATA[No intro]]></category>
+		<category domain="staff_department" nicename="no-sidebar"><![CDATA[No sidebar]]></category>
+		<category domain="staff_department" nicename="page-builder"><![CDATA[Page builder]]></category>
 		<category domain="staff_specialty" nicename="product-design"><![CDATA[Product design]]></category>
 		<category domain="staff_specialty" nicename="public-relations"><![CDATA[Public relations]]></category>
 		<wp:postmeta>
@@ -15096,11 +15534,196 @@ strategy series a financing churn rate social proof iPad ramen niche market.";s:
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
 			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/no-intro.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Flann McGill</title>
+		<link>http://themedemos.webmandesign.eu/monument-valley/person/staff-1/</link>
+		<pubDate>Mon, 23 May 2016 08:14:11 +0000</pubDate>
+		<dc:creator><![CDATA[demoauthor]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?post_type=wm_staff&amp;p=320</guid>
+		<description/>
+		<content:encoded><![CDATA[<p class="dropcap-text">Angel investor stock advisor return on investment android iteration non-disclosure agreement influencer disruptive termsheet. Startup prototype lean startup alpha. Handshake angel investor responsive web design beta. MVP iPhone holy grail graphical user interface bootstrapping venture user experience first mover advantage creative paradigm shift learning curve founders ecosystem.</p>
+Incubator channels advisor traction niche market. Return on investment ownership growth hacking infographic hackathon strategy burn rate business-to-consumer scrum project influencer venture metrics focus. Validation mass market social proof <em>infrastructure business model canvas</em> technology prototype release bootstrapping ramen traction strategy sales. Iteration pitch bootstrapping.
+<blockquote>Closing these latest prospects is like putting socks on an octopus not the long pole in my tent no scraps hit the floor.</blockquote>
+Hackathon hypotheses graphical user interface scrum project marketing iPhone return on investment leverage assets responsive web design. Leverage long tail mass market. Rockstar user experience deployment responsive web design vesting period infrastructure.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>320</wp:post_id>
+		<wp:post_date><![CDATA[2016-05-23 10:14:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-05-23 08:14:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[staff-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wm_staff]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="staff_department" nicename="default-layout"><![CDATA[Default layout]]></category>
+		<category domain="staff_specialty" nicename="development"><![CDATA[Development]]></category>
+		<category domain="staff_department" nicename="no-intro"><![CDATA[No intro]]></category>
+		<category domain="post_tag" nicename="no-intro"><![CDATA[No intro]]></category>
+		<category domain="staff_department" nicename="no-sidebar"><![CDATA[No sidebar]]></category>
+		<category domain="staff_specialty" nicename="public-relations"><![CDATA[Public relations]]></category>
+		<category domain="staff_position" nicename="support-specialist"><![CDATA[Support Specialist]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_no_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_no_title]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_intro_image]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[show_intro_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_show_intro_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_show_intro_widgets]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Support ninja with no excerpt]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[314]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[flann-mcgill]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[staff-6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[staff-61]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/no-intro.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Carey O'Neill</title>
+		<link>http://themedemos.webmandesign.eu/monument-valley/person/staff-2/</link>
+		<pubDate>Mon, 23 May 2016 08:14:40 +0000</pubDate>
+		<dc:creator><![CDATA[demoauthor]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/monument-valley/?post_type=wm_staff&amp;p=321</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Angel investor stock advisor return on investment android iteration non-disclosure agreement influencer disruptive termsheet.]]></excerpt:encoded>
+		<wp:post_id>321</wp:post_id>
+		<wp:post_date><![CDATA[2016-05-23 10:14:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-05-23 08:14:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[staff-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wm_staff]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="staff_position" nicename="accountant"><![CDATA[Accountant]]></category>
+		<category domain="staff_specialty" nicename="accounting"><![CDATA[Accounting]]></category>
+		<category domain="staff_specialty" nicename="client-services"><![CDATA[Client services]]></category>
+		<category domain="staff_department" nicename="no-content"><![CDATA[No content]]></category>
+		<category domain="staff_department" nicename="no-intro"><![CDATA[No intro]]></category>
+		<category domain="post_tag" nicename="no-intro"><![CDATA[No intro]]></category>
+		<category domain="staff_department" nicename="no-sidebar"><![CDATA[No sidebar]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[310]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_no_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_no_title]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Just an excerpt, no content]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[carey-oneill]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[staff-5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[staff-52]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_no_intro]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_no_intro]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/no-intro.php]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_intro_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_intro_image]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[show_intro_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_show_intro_widgets]]></wp:meta_key>
+			<wp:meta_value><![CDATA[monument_valley_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 
