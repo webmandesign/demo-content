@@ -1,6 +1,6 @@
 # What is this?
 
-You are browsing the demo widgets settings files for [**Mustang** WordPress theme by WebMan](http://www.webmandesign.eu/mustang-wordpress-theme/).
+You are browsing the demo widgets settings files for [**Mustang** WordPress theme by WebMan](https://www.webmandesign.eu/portfolio/mustang-wordpress-theme/).
 
 
 ## One-click installation
@@ -16,7 +16,7 @@ It will import all the demo widgets automatically. For more info on one-click de
 
 *These instructions are meant for manual installation only:*
 
-1. Install and active the [**Mustang** WordPress theme](http://www.webmandesign.eu/mustang-wordpress-theme/)
+1. Install and active the [**Mustang** WordPress theme](https://www.webmandesign.eu/portfolio/mustang-wordpress-theme/)
 2. Install and activate the [**Widget Importer &amp; Exporter**](https://wordpress.org/plugins/widget-importer-exporter/) plugin
 3. We suggest you remove all the existing widgets from your widget areas (sidebars) beforehand (do this in **Appearance &raquo; Widgets** in your WordPress admin)
 

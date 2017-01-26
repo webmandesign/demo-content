@@ -1,6 +1,6 @@
 # What is this?
 
-You are browsing the repository for the demo content files for [**Monument Valley** WordPress theme by WebMan](http://www.webmandesign.eu/monument-valley-wordpress-theme/).
+You are browsing the repository for the demo content files for [**Monument Valley** WordPress theme by WebMan](https://www.webmandesign.eu/portfolio/monument-valley-wordpress-theme/).
 
 
 ## One-click installation

@@ -1,6 +1,6 @@
 # What is this?
 
-You are browsing the repository for the demo content files for [**Mustang** WordPress theme by WebMan](http://www.webmandesign.eu/mustang-wordpress-theme/).
+You are browsing the repository for the demo content files for [**Mustang** WordPress theme by WebMan](https://www.webmandesign.eu/portfolio/mustang-wordpress-theme/).
 
 
 ## One-click installation

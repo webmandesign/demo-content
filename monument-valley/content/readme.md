@@ -1,11 +1,11 @@
 # What is this?
 
-You are browsing a repository for main demo content XML files of [**Monument Valley** WordPress theme by WebMan](http://www.webmandesign.eu/monument-valley-wordpress-theme/).
+You are browsing a repository for main demo content XML files of [**Monument Valley** WordPress theme by WebMan](https://www.webmandesign.eu/portfolio/monument-valley-wordpress-theme/).
 
 
 ## Before you begin
 
-1. Install and active the [**Monument Valley** WordPress theme](http://www.webmandesign.eu/monument-valley-wordpress-theme/)
+1. Install and active the [**Monument Valley** WordPress theme](https://www.webmandesign.eu/portfolio/monument-valley-wordpress-theme/)
 2. **Required plugins**: To allow all the demo content to be imported in whole, please install these plugins (they are required for [one-click demo content installation](#one-click-installation)):
   * [**WebMan Amplifier**](https://wordpress.org/plugins/webman-amplifier/) - provides additional functionality, widgets, shortcodes, icon font and custom post types
   * [**Beaver Builder**](https://wordpress.org/plugins/beaver-builder-lite-version/) - page builder plugin used to build the demo content (make sure the page builder is enabled for Posts, Pages, Projects, Staff and Products post types - check this under **Settings &raquo; Page Builder &raquo; Post Types**)

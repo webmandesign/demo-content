@@ -1,6 +1,6 @@
 # What is this?
 
-You are browsing a repository of demo content files for WordPress themes by [WebMan Design](http://www.webmandesign.eu).
+You are browsing a repository of demo content files for WordPress themes by [WebMan Design](https://www.webmandesign.eu).
 
 ## Folder structure
 

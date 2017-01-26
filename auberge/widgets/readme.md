@@ -1,6 +1,6 @@
 # What is this?
 
-You are browsing the demo widgets settings files for [**Auberge** WordPress theme by WebMan](http://www.webmandesign.eu/auberge-wordpress-theme/).
+You are browsing the demo widgets settings files for [**Auberge** WordPress theme by WebMan](https://www.webmandesign.eu/portfolio/auberge-wordpress-theme/).
 
 
 ## One-click installation
@@ -14,10 +14,10 @@ It will import all the demo widgets automatically. For more info on one-click de
 
 ## Before you begin
 
-1. Install and active the [**Auberge** WordPress theme](http://www.webmandesign.eu/auberge-wordpress-theme/)
+1. Install and active the [**Auberge** WordPress theme](https://www.webmandesign.eu/portfolio/auberge-wordpress-theme/)
 2. Install and activate the [**Widget Importer &amp; Exporter**](https://wordpress.org/plugins/widget-importer-exporter/) plugin
 3. We suggest you remove all the existing widgets from your widget areas (sidebars) beforehand (do this in **Appearance &raquo; Widgets** in your WordPress admin)
-4. In [paid **Auberge Plus** theme version](https://www.webmandesign.eu/auberge-wordpress-theme/#donate) demo there is also a [Jetpack](https://wordpress.org/plugins/jetpack/) plugin's "Image" widget used in custom banner widgets area - please enable "Extra Sidebar Widgets" module in your website Jetpack settings dashboard to import this widget settings
+4. In [paid **Auberge Plus** theme version](https://www.webmandesign.eu/portfolio/auberge-plus-wordpress-theme/#donate) demo there is also a [Jetpack](https://wordpress.org/plugins/jetpack/) plugin's "Image" widget used in custom banner widgets area - please enable "Extra Sidebar Widgets" module in your website Jetpack settings dashboard to import this widget settings
 
 
 ## Installation process

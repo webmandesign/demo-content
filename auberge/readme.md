@@ -1,6 +1,6 @@
 # What is this?
 
-You are browsing the repository for the demo content files for [**Auberge** WordPress theme by WebMan](http://www.webmandesign.eu/auberge-wordpress-theme/).
+You are browsing the repository for the demo content files for [**Auberge** WordPress theme by WebMan](https://www.webmandesign.eu/portfolio/auberge-wordpress-theme/).
 
 
 ## One-click installation

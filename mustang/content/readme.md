@@ -1,11 +1,11 @@
 # What is this?
 
-You are browsing a repository for main demo content XML files of [**Mustang** WordPress theme by WebMan](http://www.webmandesign.eu/mustang-wordpress-theme/).
+You are browsing a repository for main demo content XML files of [**Mustang** WordPress theme by WebMan](https://www.webmandesign.eu/portfolio/mustang-wordpress-theme/).
 
 
 ## Before you begin
 
-1. Install and active the [**Mustang** WordPress theme](http://www.webmandesign.eu/mustang-wordpress-theme/)
+1. Install and active the [**Mustang** WordPress theme](https://www.webmandesign.eu/portfolio/mustang-wordpress-theme/)
 2. To allow all the demo content to be imported in whole, please install these plugins:
   * [WebMan Amplifier](https://wordpress.org/plugins/webman-amplifier/) - provides additional functionality, widgets, shortcodes, icon font and custom post types
   * [Beaver Builder](https://wordpress.org/plugins/beaver-builder-lite-version/) - page builder plugin used to build the demo content (make sure the page builder is enabled for Pages and Projects - check this under **Settings &raquo; Page Builder &raquo; Post Types**)

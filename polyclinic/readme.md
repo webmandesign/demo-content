@@ -1,6 +1,6 @@
 # What is this?
 
-You are browsing the repository for the demo content files for [**Polyclinic** WordPress theme by WebMan](http://www.webmandesign.eu/polyclinic-wordpress-theme/).
+You are browsing the repository for the demo content files for [**Polyclinic** WordPress theme by WebMan](https://www.webmandesign.eu/portfolio/polyclinic-wordpress-theme/).
 
 
 ## One-click installation
