@@ -9,7 +9,7 @@ You are browsing a repository for main demo content XML files of [**Icelander** 
 2. **Required plugins**: To allow all the demo content to be imported in whole, please install these plugins (they are required for [one-click demo content installation](#one-click-installation) too):
     * [**WebMan Amplifier**](https://wordpress.org/plugins/webman-amplifier/) - provides additional functionality, widgets, shortcodes, icon font and custom post types,
     * [**Beaver Builder**](https://wordpress.org/plugins/beaver-builder-lite-version/) - page builder plugin used to build the demo content (make sure the page builder is enabled for Posts, Pages, Projects, Staff and Products post types - check this under **Settings &raquo; Page Builder &raquo; Post Types**),
-    * [**WooCommerce**](https://wordpress.org/plugins/woocommerce/) - provides e-commerce functionality,
+    * [**WooCommerce**](https://wordpress.org/plugins/woocommerce/) - provides e-commerce functionality (if you run the plugin Setup Wizard beforehand, make sure to **skip the step when WooCommerce pages are created**, as these will be imported with demo content),
     * [**WooSidebars**](https://wordpress.org/plugins/woosidebars/) - provides custom sidebars and widget areas functionality, allows you to disable sidebar on any page.
 3. **Optional plugins**: If you want to match your website exactly to [theme demo website](http://themedemos.webmandesign.eu/icelander/), please install also these plugins: 
     * [*Subtitles*](https://wordpress.org/plugins/subtitles/) - to display page/post subtitles used in the demo content,
