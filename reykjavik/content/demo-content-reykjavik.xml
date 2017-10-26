@@ -14,14 +14,14 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
-<!-- generator="WordPress/4.8.2" created="2017-10-12 10:45" -->
+<!-- generator="WordPress/4.8.2" created="2017-10-16 13:06" -->
 <rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
 
 <channel>
 	<title>Reykjavík</title>
 	<link>http://themedemos.webmandesign.eu/reykjavik</link>
 	<description>Icelandish style</description>
-	<pubDate>Thu, 12 Oct 2017 10:45:48 +0000</pubDate>
+	<pubDate>Mon, 16 Oct 2017 13:06:58 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://themedemos.webmandesign.eu/</wp:base_site_url>
@@ -75,10 +75,18 @@
 		<wp:term_slug><![CDATA[no-intro]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[No intro]]></wp:term_name>
+		<wp:term_description><![CDATA[You can easily disable the Intro section for any product. This can be done either with a page template (or should I say a "post type template") or with a dedicated custom field.]]></wp:term_description>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[52]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[jetpack-portfolio-tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[no-intro]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[No intro]]></wp:term_name>
 	</wp:term>
 	<wp:term>
 		<wp:term_id><![CDATA[32]]></wp:term_id>
@@ -86,6 +94,7 @@
 		<wp:term_slug><![CDATA[page-builder]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Page builder]]></wp:term_name>
+		<wp:term_description><![CDATA[You can also use a page builder for your products. This will simply allow you to build the product content more creatively. We are using <strong>Beaver Builder</strong> here - the best front-end page builder.]]></wp:term_description>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -133,6 +142,7 @@
 		<wp:term_slug><![CDATA[simple-layout]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Simple layout]]></wp:term_name>
+		<wp:term_description><![CDATA[There is <strong>no page builder layout</strong> on these products. They all simply use default theme layouts and styles.]]></wp:term_description>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
 			<wp:meta_value><![CDATA[7]]></wp:meta_value>
@@ -151,6 +161,7 @@
 		<wp:term_slug><![CDATA[with-intro-image]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[With intro image]]></wp:term_name>
+		<wp:term_description><![CDATA[By default, there is no image displayed in Intro section of products. But if you really want to display an image there, you can use a dedicated custom field for that.]]></wp:term_description>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -162,6 +173,7 @@
 		<wp:term_slug><![CDATA[with-intro-widgets]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[With intro widgets]]></wp:term_name>
+		<wp:term_description><![CDATA[You can easily enable the widgets area in the Intro section of any product. This can be done either with a page template (or should I say a "post type template") or with a dedicated custom field.]]></wp:term_description>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -175,7 +187,7 @@
 		<wp:term_name><![CDATA[Large yachts]]></wp:term_name>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
@@ -198,7 +210,7 @@
 		<wp:term_name><![CDATA[Small yachts]]></wp:term_name>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
@@ -221,7 +233,7 @@
 		<wp:term_name><![CDATA[Yacht accessories]]></wp:term_name>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
@@ -236,6 +248,150 @@
 			<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[38]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[affiliate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Affiliate]]></wp:term_name>
+		<wp:term_description><![CDATA[External or Affiliate products are ones that you list and describe on your website but are sold elsewhere. Please read <a href="https://docs.woocommerce.com/document/managing-products/#section-4">WooCommerce documentation</a> for more info.]]></wp:term_description>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[39]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[downloadable]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Downloadable]]></wp:term_name>
+		<wp:term_description><![CDATA[Downloadable product is much like a virtual product, but customers are given a downloadable file. For example, digital album, PDF magazine, or photo. Please read <a href="https://docs.woocommerce.com/document/managing-products/#section-4">WooCommerce documentation</a> for more info.]]></wp:term_description>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[40]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[grouped]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Grouped]]></wp:term_name>
+		<wp:term_description><![CDATA[Grouped product is a collection of related products that can be purchased individually and only consist of simple products. Read <a href="https://docs.woocommerce.com/document/managing-products/#section-4">WooCommerce documentation</a> for more info.]]></wp:term_description>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[41]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[simple]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Simple]]></wp:term_name>
+		<wp:term_description><![CDATA[Simple product covers the vast majority of any products you may sell. Simple products are shipped and have no options. For example, a book. Please read <a href="https://docs.woocommerce.com/document/managing-products/#section-4">WooCommerce documentation</a> for more info.]]></wp:term_description>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[42]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[variable]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Variable]]></wp:term_name>
+		<wp:term_description><![CDATA[Variable is a product with variations, each of which may have a different SKU, price, stock option, etc. For example, a t-shirt available in different colors and/or sizes. Please read <a href="https://docs.woocommerce.com/document/managing-products/#section-4">WooCommerce documentation</a> for more info.]]></wp:term_description>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[43]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[virtual]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Virtual]]></wp:term_name>
+		<wp:term_description><![CDATA[Virtual products are ones that don’t require shipping. For example, a service. Please read <a href="https://docs.woocommerce.com/document/managing-products/#section-4">WooCommerce documentation</a> for more info.]]></wp:term_description>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
 	<wp:term><wp:term_id>19</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[information]]></wp:term_slug><wp:term_name><![CDATA[Information]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>15</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[Primary]]></wp:term_name>
@@ -248,7 +404,9 @@
 </wp:term>
 
 	<generator>https://wordpress.org/?v=4.8.2</generator>
-<!--
+
+	
+	<!--
 
 SECTION
 Post type: jetpack-portfolio
@@ -345,7 +503,7 @@ Etiam elementum, leo quis mollis sagittis, ex erat sollicitudin libero, id iacul
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?post_type=jetpack-portfolio&amp;p=137</guid>
 		<description/>
-		<content:encoded><![CDATA[<p class="h3">Lorem ipsum dolor sit amet, consectetur elit. Fusce eget libero sit amet eros sagittis iaculis sed in est. Nulla porttitor tortor quis sem iaculis, nec elementum ante fermentum.</p>
+		<content:encoded><![CDATA[<p class="h3">You can easily disable the Intro section for any portfolio projects. This can be done either with a page template (or should I say a “post type template”) or with a dedicated custom field.</p>
 
 
 <hr />
@@ -379,6 +537,7 @@ Praesent vehicula aliquam sollicitudin. Suspendisse porta diam in augue mollis l
 		<wp:post_type><![CDATA[jetpack-portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="jetpack-portfolio-tag" nicename="no-intro"><![CDATA[No intro]]></category>
 		<category domain="jetpack-portfolio-type" nicename="race"><![CDATA[Race]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -424,6 +583,18 @@ Praesent vehicula aliquam sollicitudin. Suspendisse porta diam in augue mollis l
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[243]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/no-intro.php]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[No intro]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Surfing IS '16</title>
@@ -432,7 +603,7 @@ Praesent vehicula aliquam sollicitudin. Suspendisse porta diam in augue mollis l
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?post_type=jetpack-portfolio&amp;p=138</guid>
 		<description/>
-		<content:encoded><![CDATA[<p class="uppercase">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget libero sit amet eros sagittis iaculis sed in est. Nulla porttitor tortor quis sem iaculis, nec elementum ante fermentum.</p>
+		<content:encoded><![CDATA[<p class="uppercase">You can easily enable the widgets area in the Intro section of any portfolio project. This can be done either with a page template (or should I say a “post type template”) or with a dedicated custom field.</p>
 Aenean maximus, urna gravida dapibus accumsan, ante mauris semper ante, et lacinia erat ipsum fringilla risus. Donec non scelerisque lectus. Suspendisse non consequat risus.
 <div class="outdent-content">
 
@@ -504,7 +675,15 @@ Pellentesque mollis nulla quam, at ornare augue volutpat eu. Etiam elementum, le
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Comments enabled here]]></wp:meta_value>
+			<wp:meta_value><![CDATA[With intro widgets]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[templates/intro-widgets.php]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1122,7 +1301,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[32]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>5</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1177,7 +1356,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[33]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>23</wp:menu_order>
+		<wp:menu_order>24</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1204,7 +1383,7 @@ Post type: nav_menu_item
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:8:"megamenu";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -1232,7 +1411,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[34]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
+		<wp:menu_order>11</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1287,7 +1466,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[35]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>22</wp:menu_order>
+		<wp:menu_order>23</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1342,7 +1521,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[36]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
+		<wp:menu_order>8</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1397,7 +1576,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[37]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>26</wp:menu_order>
+		<wp:menu_order>33</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1452,7 +1631,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[38]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>5</wp:post_parent>
-		<wp:menu_order>28</wp:menu_order>
+		<wp:menu_order>48</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1507,7 +1686,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[39]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>5</wp:post_parent>
-		<wp:menu_order>29</wp:menu_order>
+		<wp:menu_order>49</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1562,7 +1741,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[40]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>5</wp:post_parent>
-		<wp:menu_order>30</wp:menu_order>
+		<wp:menu_order>50</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1617,7 +1796,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[41]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>9</wp:menu_order>
+		<wp:menu_order>10</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2002,7 +2181,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[59]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>27</wp:menu_order>
+		<wp:menu_order>34</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2497,7 +2676,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[utility-pages]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>17</wp:menu_order>
+		<wp:menu_order>18</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2552,7 +2731,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[search-results-page]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>19</wp:menu_order>
+		<wp:menu_order>20</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2607,7 +2786,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[error-404-page]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>18</wp:menu_order>
+		<wp:menu_order>19</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2662,7 +2841,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[archive-page]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>20</wp:menu_order>
+		<wp:menu_order>21</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2701,61 +2880,6 @@ Post type: nav_menu_item
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Blog with sidebar</title>
-		<link>http://themedemos.webmandesign.eu/reykjavik/blog-with-sidebar/</link>
-		<pubDate>Fri, 04 Aug 2017 15:03:33 +0000</pubDate>
-		<dc:creator><![CDATA[demouser]]></dc:creator>
-		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=174</guid>
-		<description/>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>174</wp:post_id>
-		<wp:post_date><![CDATA[2017-08-04 17:03:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-08-04 15:03:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog-with-sidebar]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>25</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[33]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[24]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_tag]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Blog without sidebar</title>
 		<link>http://themedemos.webmandesign.eu/reykjavik/blog-without-sidebar/</link>
 		<pubDate>Fri, 04 Aug 2017 15:03:33 +0000</pubDate>
@@ -2772,7 +2896,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[blog-without-sidebar]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>24</wp:menu_order>
+		<wp:menu_order>26</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2783,7 +2907,7 @@ Post type: nav_menu_item
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[33]]></wp:meta_value>
+			<wp:meta_value><![CDATA[335]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
@@ -2827,7 +2951,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[page-templates]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
+		<wp:menu_order>12</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2882,7 +3006,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[with-intro-widgets]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>15</wp:menu_order>
+		<wp:menu_order>16</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2937,7 +3061,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[list-child-pages]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>13</wp:menu_order>
+		<wp:menu_order>14</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2992,7 +3116,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[no-intro]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>14</wp:menu_order>
+		<wp:menu_order>15</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3047,7 +3171,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[blank]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>12</wp:menu_order>
+		<wp:menu_order>13</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3102,7 +3226,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[with-sidebar]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>16</wp:menu_order>
+		<wp:menu_order>17</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3157,7 +3281,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[280]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>21</wp:menu_order>
+		<wp:menu_order>22</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3212,7 +3336,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[about-us]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
+		<wp:menu_order>6</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3267,7 +3391,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[page-builder-layout]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
+		<wp:menu_order>9</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3322,7 +3446,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[303]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>5</wp:post_parent>
-		<wp:menu_order>32</wp:menu_order>
+		<wp:menu_order>52</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3432,7 +3556,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[319]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>5</wp:post_parent>
-		<wp:menu_order>31</wp:menu_order>
+		<wp:menu_order>51</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3487,7 +3611,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[328]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
+		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3542,7 +3666,7 @@ Post type: nav_menu_item
 		<wp:post_name><![CDATA[329]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
+		<wp:menu_order>7</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3562,6 +3686,1161 @@ Post type: nav_menu_item
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Home, boxed</title>
+		<link>http://themedemos.webmandesign.eu/reykjavik/home-boxed/</link>
+		<pubDate>Fri, 13 Oct 2017 21:46:14 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=333</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>333</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-13 23:46:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 21:46:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-boxed]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[42]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[333]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[/reykjavik/?layout_site=boxed]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Blog with sidebar</title>
+		<link>http://themedemos.webmandesign.eu/reykjavik/blog-with-sidebar-2/</link>
+		<pubDate>Fri, 13 Oct 2017 21:46:14 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=334</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>334</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-13 23:46:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 21:46:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog-with-sidebar-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>27</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[335]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[334]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[/reykjavik/blog/?has_sidebar=true]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Blog styles</title>
+		<link>http://themedemos.webmandesign.eu/reykjavik/blog-styles/</link>
+		<pubDate>Fri, 13 Oct 2017 22:02:58 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=335</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>335</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:02:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:02:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog-styles]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>25</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[33]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[335]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#0]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Post examples</title>
+		<link>http://themedemos.webmandesign.eu/reykjavik/post-examples/</link>
+		<pubDate>Fri, 13 Oct 2017 22:02:58 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=336</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>336</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:02:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:02:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[post-examples]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>28</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[33]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[336]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#0]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Why no post formats?</title>
+		<link>http://themedemos.webmandesign.eu/reykjavik/why-no-post-formats/</link>
+		<pubDate>Fri, 13 Oct 2017 22:02:58 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=337</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>337</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:02:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:02:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[why-no-post-formats]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>32</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[336]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[154]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Comments example</title>
+		<link>http://themedemos.webmandesign.eu/reykjavik/comments-example/</link>
+		<pubDate>Fri, 13 Oct 2017 22:02:58 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=338</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>338</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:02:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:02:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[comments-example]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>31</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[336]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[338]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[/reykjavik/post-4/#comments]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://themedemos.webmandesign.eu/reykjavik/339/</link>
+		<pubDate>Fri, 13 Oct 2017 22:02:58 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=339</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>339</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:02:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:02:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[339]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>30</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[336]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[156]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Table of contents</title>
+		<link>http://themedemos.webmandesign.eu/reykjavik/table-of-contents/</link>
+		<pubDate>Fri, 13 Oct 2017 22:02:58 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=340</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>340</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:02:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:02:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[table-of-contents]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>29</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[336]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[158]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Product types</title>
+		<link>http://themedemos.webmandesign.eu/reykjavik/product-types/</link>
+		<pubDate>Fri, 13 Oct 2017 22:08:15 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=341</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>341</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:08:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:08:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[product-types]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>35</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[37]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[341]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#0]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Product layouts</title>
+		<link>http://themedemos.webmandesign.eu/reykjavik/product-layouts/</link>
+		<pubDate>Fri, 13 Oct 2017 22:08:15 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=342</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>342</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:08:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:08:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[product-layouts]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>42</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[37]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[342]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#0]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://themedemos.webmandesign.eu/reykjavik/343/</link>
+		<pubDate>Fri, 13 Oct 2017 22:08:15 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=343</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>343</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:08:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:08:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[343]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>47</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[342]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[31]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[product_tag]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://themedemos.webmandesign.eu/reykjavik/344/</link>
+		<pubDate>Fri, 13 Oct 2017 22:08:15 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=344</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>344</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:08:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:08:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[344]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>44</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[342]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[product_tag]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://themedemos.webmandesign.eu/reykjavik/345/</link>
+		<pubDate>Fri, 13 Oct 2017 22:08:15 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=345</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>345</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:08:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:08:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[345]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>43</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[342]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[28]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[product_tag]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://themedemos.webmandesign.eu/reykjavik/346/</link>
+		<pubDate>Fri, 13 Oct 2017 22:08:15 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=346</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>346</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:08:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:08:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[346]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>45</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[342]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[product_tag]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://themedemos.webmandesign.eu/reykjavik/347/</link>
+		<pubDate>Fri, 13 Oct 2017 22:08:15 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=347</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>347</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:08:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:08:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[347]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>46</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[342]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[product_tag]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://themedemos.webmandesign.eu/reykjavik/348/</link>
+		<pubDate>Fri, 13 Oct 2017 22:18:59 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=348</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>348</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:18:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:18:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[348]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>40</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[341]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[38]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://themedemos.webmandesign.eu/reykjavik/349/</link>
+		<pubDate>Fri, 13 Oct 2017 22:18:59 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=349</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>349</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:18:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:18:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[349]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>38</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[341]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[39]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://themedemos.webmandesign.eu/reykjavik/350/</link>
+		<pubDate>Fri, 13 Oct 2017 22:18:59 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=350</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>350</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:18:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:18:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[350]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>41</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[341]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://themedemos.webmandesign.eu/reykjavik/351/</link>
+		<pubDate>Fri, 13 Oct 2017 22:18:59 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=351</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>351</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:18:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:18:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[351]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>36</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[341]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[41]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://themedemos.webmandesign.eu/reykjavik/352/</link>
+		<pubDate>Fri, 13 Oct 2017 22:18:59 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=352</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>352</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:18:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:18:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[352]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>37</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[341]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[42]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://themedemos.webmandesign.eu/reykjavik/353/</link>
+		<pubDate>Fri, 13 Oct 2017 22:18:59 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=353</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>353</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-14 00:18:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-13 22:18:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[353]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>39</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[341]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[43]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -3815,8 +5094,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in mauris el
 <div class="outdent-content">
 
 <img class="alignnone wp-image-87 size-full" src="https://themedemos.webmandesign.eu/reykjavik/wp-content/uploads/sites/19/SAMPLE/_waves.jpg" alt="Waves illustration" width="1200" height="200" />
-&nbsp;
-
 <h2 style="text-align: center;">We'd like to welcome you in person</h2>
 <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Vestibulum in mauris eleifend, egestas lectus et, vulputate orci.</p>
@@ -3875,6 +5152,10 @@ Vestibulum in mauris eleifend, egestas lectus et, vulputate orci.</p>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_show_intro_widgets]]></wp:meta_key>
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -4301,7 +5582,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in mauris el
 &nbsp;
 
 [testimonials columns=2 showposts=6 display_content=full]
-<p style="text-align: center;"><small><em>This page displays <a href="https://jetpack.com/support/custom-content-types/">Jetpack plugin's Testimonials custom post type</a> using a shortcode above.</em></small></p>
+<p style="text-align: center;">
+&nbsp;
+<small><em>This page displays <a href="https://jetpack.com/support/custom-content-types/">Jetpack plugin's Testimonials custom post type</a> using a shortcode above.</em></small></p>
 
 &nbsp;
 
@@ -4377,6 +5660,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in mauris el
 			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Jetpack Testimonials shortcode example]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Shop home</title>
@@ -4389,22 +5676,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in mauris el
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in mauris eleifend, egestas lectus et, vulputate orci. Integer in leo eget justo hendrerit consequat.
 <div class="outdent-content">
 
-[featured_products per_page="3" columns="3"]
+[products visibility="featured" limit="3" columns="3" orderby="date" order="DESC"]
 
 &nbsp;
 
-<img src="https://themedemos.webmandesign.eu/reykjavik/wp-content/uploads/sites/19/SAMPLE/_waves.jpg" alt="Waves illustration" width="1200" height="200" class="aligncenter size-full wp-image-87" />
+<img class="aligncenter size-full wp-image-87" src="https://themedemos.webmandesign.eu/reykjavik/wp-content/uploads/sites/19/SAMPLE/_waves.jpg" alt="Waves illustration" width="1200" height="200" />
 
 </div>
 <h2>Shop categories</h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in mauris eleifend, egestas lectus et, vulputate orci. Integer in leo eget justo hendrerit consequat.
 <div class="outdent-content">
 
-[product_categories per_page="3" columns="3"]
+[product_categories limit="3" columns="3"]
 
 &nbsp;
 
-<img src="https://themedemos.webmandesign.eu/reykjavik/wp-content/uploads/sites/19/SAMPLE/_waves.jpg" alt="Waves illustration" width="1200" height="200" class="aligncenter size-full wp-image-87" />
+<img class="aligncenter size-full wp-image-87" src="https://themedemos.webmandesign.eu/reykjavik/wp-content/uploads/sites/19/SAMPLE/_waves.jpg" alt="Waves illustration" width="1200" height="200" />
 
 </div>
 <h2>Shortly about us</h2>
@@ -4474,6 +5761,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in mauris el
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Ideal as a shop website homepage]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -6674,6 +7965,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit, varius lectus libero mol
 		<category domain="product_type" nicename="grouped"><![CDATA[grouped]]></category>
 		<category domain="product_tag" nicename="simple-layout"><![CDATA[Simple layout]]></category>
 		<category domain="product_cat" nicename="yacht-accessories"><![CDATA[Yacht accessories]]></category>
+		<category domain="product_cat" nicename="grouped"><![CDATA[Grouped]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -6804,7 +8096,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit, varius lectus libero mol
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3.1.2]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3.2.0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
@@ -6882,6 +8174,7 @@ You can easily disable the Intro section for any product. This can be done eithe
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="simple-layout"><![CDATA[Simple layout]]></category>
 		<category domain="product_cat" nicename="large-yachts"><![CDATA[Large yachts]]></category>
+		<category domain="product_cat" nicename="virtual"><![CDATA[Virtual]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -7012,7 +8305,7 @@ You can easily disable the Intro section for any product. This can be done eithe
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3.1.2]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3.2.1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -7054,6 +8347,10 @@ You can easily disable the Intro section for any product. This can be done eithe
 			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Virtual product example]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wp_featherlight_disable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Economic plan</title>
@@ -7082,6 +8379,7 @@ You can easily disable the Intro section for any product. This can be done eithe
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="simple-layout"><![CDATA[Simple layout]]></category>
 		<category domain="product_cat" nicename="large-yachts"><![CDATA[Large yachts]]></category>
+		<category domain="product_cat" nicename="virtual"><![CDATA[Virtual]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -7212,7 +8510,7 @@ You can easily disable the Intro section for any product. This can be done eithe
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3.1.2]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3.2.0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -7296,6 +8594,7 @@ Aenean maximus, urna gravida dapibus accumsan, ante mauris semper ante, et lacin
 		<category domain="product_type" nicename="external"><![CDATA[external]]></category>
 		<category domain="product_tag" nicename="simple-layout"><![CDATA[Simple layout]]></category>
 		<category domain="product_cat" nicename="large-yachts"><![CDATA[Large yachts]]></category>
+		<category domain="product_cat" nicename="affiliate"><![CDATA[Affiliate]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -7426,7 +8725,7 @@ Aenean maximus, urna gravida dapibus accumsan, ante mauris semper ante, et lacin
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3.1.2]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3.2.0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -7501,6 +8800,7 @@ There is no product description here. Also no attributes are set to display. But
 		<category domain="product_tag" nicename="simple-layout"><![CDATA[Simple layout]]></category>
 		<category domain="product_tag" nicename="with-intro-widgets"><![CDATA[With intro widgets]]></category>
 		<category domain="product_cat" nicename="yacht-accessories"><![CDATA[Yacht accessories]]></category>
+		<category domain="product_cat" nicename="downloadable"><![CDATA[Downloadable]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -7631,7 +8931,7 @@ There is no product description here. Also no attributes are set to display. But
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3.1.2]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3.2.0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -7738,6 +9038,7 @@ There is no page builder used to build this product layout. It&#039;s simply usi
 		<category domain="product_tag" nicename="simple-layout"><![CDATA[Simple layout]]></category>
 		<category domain="product_tag" nicename="with-intro-image"><![CDATA[With intro image]]></category>
 		<category domain="product_cat" nicename="yacht-accessories"><![CDATA[Yacht accessories]]></category>
+		<category domain="product_cat" nicename="simple"><![CDATA[Simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -7868,7 +9169,7 @@ There is no page builder used to build this product layout. It&#039;s simply usi
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3.1.2]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3.2.0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -8013,6 +9314,7 @@ Scroll down to see the layout built using a page builder. If you would like to r
 		<category domain="product_tag" nicename="page-builder"><![CDATA[Page builder]]></category>
 		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
 		<category domain="product_cat" nicename="small-yachts"><![CDATA[Small yachts]]></category>
+		<category domain="product_cat" nicename="variable"><![CDATA[Variable]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -8143,7 +9445,7 @@ Scroll down to see the layout built using a page builder. If you would like to r
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3.1.2]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3.2.0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[no_intro]]></wp:meta_key>
@@ -8186,14 +9488,6 @@ Scroll down to see the layout built using a page builder. If you would like to r
 			<wp:meta_value><![CDATA[a:1:{s:11:"frame-color";a:6:{s:4:"name";s:11:"Frame color";s:5:"value";s:20:"Wood | Black | White";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:1;s:11:"is_taxonomy";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[89]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[99]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_fl_builder_data]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:16:{s:13:"59d78b17429a3";O:8:"stdClass":5:{s:4:"node";s:13:"59d78b17429a3";s:4:"type";s:3:"row";s:6:"parent";N;s:8:"position";i:0;s:8:"settings";O:8:"stdClass":81:{s:5:"width";s:4:"full";s:13:"content_width";s:5:"fixed";s:11:"full_height";s:7:"default";s:17:"content_alignment";s:6:"center";s:18:"vertical_alignment";s:0:"";s:16:"predefined_color";s:0:"";s:10:"text_color";s:0:"";s:10:"link_color";s:0:"";s:11:"hover_color";s:0:"";s:13:"heading_color";s:0:"";s:7:"bg_type";s:4:"none";s:8:"bg_image";s:0:"";s:9:"bg_repeat";s:9:"no-repeat";s:11:"bg_position";s:13:"center center";s:13:"bg_attachment";s:6:"scroll";s:7:"bg_size";s:5:"cover";s:15:"bg_video_source";s:9:"wordpress";s:8:"bg_video";s:0:"";s:13:"bg_video_webm";s:0:"";s:16:"bg_video_url_mp4";s:0:"";s:17:"bg_video_url_webm";s:0:"";s:20:"bg_video_service_url";s:0:"";s:14:"bg_video_audio";s:2:"no";s:17:"bg_video_fallback";s:0:"";s:9:"ss_source";s:9:"wordpress";s:9:"ss_photos";s:0:"";s:11:"ss_feed_url";s:0:"";s:8:"ss_speed";s:1:"3";s:13:"ss_transition";s:4:"fade";s:21:"ss_transitionDuration";s:1:"1";s:12:"ss_randomize";s:5:"false";s:17:"bg_parallax_image";s:0:"";s:17:"bg_parallax_speed";s:1:"2";s:8:"bg_color";s:0:"";s:10:"bg_opacity";s:3:"100";s:16:"bg_overlay_color";s:0:"";s:18:"bg_overlay_opacity";s:2:"50";s:11:"border_type";s:0:"";s:12:"border_color";s:0:"";s:14:"border_opacity";s:3:"100";s:10:"border_top";s:1:"1";s:17:"border_top_medium";s:0:"";s:21:"border_top_responsive";s:0:"";s:13:"border_bottom";s:1:"1";s:20:"border_bottom_medium";s:0:"";s:24:"border_bottom_responsive";s:0:"";s:11:"border_left";s:1:"0";s:18:"border_left_medium";s:0:"";s:22:"border_left_responsive";s:0:"";s:12:"border_right";s:1:"0";s:19:"border_right_medium";s:0:"";s:23:"border_right_responsive";s:0:"";s:10:"margin_top";s:0:"";s:17:"margin_top_medium";s:0:"";s:21:"margin_top_responsive";s:0:"";s:13:"margin_bottom";s:0:"";s:20:"margin_bottom_medium";s:0:"";s:24:"margin_bottom_responsive";s:0:"";s:11:"margin_left";s:0:"";s:18:"margin_left_medium";s:0:"";s:22:"margin_left_responsive";s:0:"";s:12:"margin_right";s:0:"";s:19:"margin_right_medium";s:0:"";s:23:"margin_right_responsive";s:0:"";s:11:"padding_top";s:3:"160";s:18:"padding_top_medium";s:0:"";s:22:"padding_top_responsive";s:0:"";s:14:"padding_bottom";s:3:"100";s:21:"padding_bottom_medium";s:0:"";s:25:"padding_bottom_responsive";s:0:"";s:12:"padding_left";s:0:"";s:19:"padding_left_medium";s:0:"";s:23:"padding_left_responsive";s:0:"";s:13:"padding_right";s:0:"";s:20:"padding_right_medium";s:0:"";s:24:"padding_right_responsive";s:0:"";s:18:"responsive_display";s:0:"";s:18:"visibility_display";s:0:"";s:26:"visibility_user_capability";s:0:"";s:2:"id";s:0:"";s:5:"class";s:0:"";}}s:13:"59d78b1746951";O:8:"stdClass":5:{s:4:"node";s:13:"59d78b1746951";s:4:"type";s:12:"column-group";s:6:"parent";s:13:"59d78b17429a3";s:8:"position";i:0;s:8:"settings";s:0:"";}s:13:"59d78b17469bb";O:8:"stdClass":5:{s:4:"node";s:13:"59d78b17469bb";s:4:"type";s:6:"column";s:6:"parent";s:13:"59d78b1746951";s:8:"position";i:0;s:8:"settings";O:8:"stdClass":68:{s:4:"size";s:5:"10.02";s:12:"equal_height";s:2:"no";s:17:"content_alignment";s:3:"top";s:18:"vertical_alignment";s:0:"";s:16:"predefined_color";s:0:"";s:10:"text_color";s:0:"";s:10:"link_color";s:0:"";s:11:"hover_color";s:0:"";s:13:"heading_color";s:0:"";s:7:"bg_type";s:5:"color";s:8:"bg_color";s:0:"";s:10:"bg_opacity";s:3:"100";s:8:"bg_image";s:0:"";s:9:"bg_repeat";s:9:"no-repeat";s:11:"bg_position";s:13:"center center";s:13:"bg_attachment";s:6:"scroll";s:7:"bg_size";s:5:"cover";s:16:"bg_overlay_color";s:0:"";s:18:"bg_overlay_opacity";s:2:"50";s:11:"border_type";s:0:"";s:12:"border_color";s:0:"";s:14:"border_opacity";s:3:"100";s:10:"border_top";s:1:"1";s:17:"border_top_medium";s:0:"";s:21:"border_top_responsive";s:0:"";s:13:"border_bottom";s:1:"1";s:20:"border_bottom_medium";s:0:"";s:24:"border_bottom_responsive";s:0:"";s:11:"border_left";s:1:"1";s:18:"border_left_medium";s:0:"";s:22:"border_left_responsive";s:0:"";s:12:"border_right";s:1:"1";s:19:"border_right_medium";s:0:"";s:23:"border_right_responsive";s:0:"";s:10:"margin_top";s:0:"";s:17:"margin_top_medium";s:0:"";s:21:"margin_top_responsive";s:0:"";s:13:"margin_bottom";s:0:"";s:20:"margin_bottom_medium";s:0:"";s:24:"margin_bottom_responsive";s:0:"";s:11:"margin_left";s:0:"";s:18:"margin_left_medium";s:0:"";s:22:"margin_left_responsive";s:0:"";s:12:"margin_right";s:0:"";s:19:"margin_right_medium";s:0:"";s:23:"margin_right_responsive";s:0:"";s:11:"padding_top";s:0:"";s:18:"padding_top_medium";s:0:"";s:22:"padding_top_responsive";s:0:"";s:14:"padding_bottom";s:0:"";s:21:"padding_bottom_medium";s:0:"";s:25:"padding_bottom_responsive";s:0:"";s:12:"padding_left";s:0:"";s:19:"padding_left_medium";s:0:"";s:23:"padding_left_responsive";s:0:"";s:13:"padding_right";s:0:"";s:20:"padding_right_medium";s:0:"";s:24:"padding_right_responsive";s:0:"";s:18:"responsive_display";s:7:"desktop";s:11:"medium_size";s:7:"default";s:18:"custom_medium_size";s:3:"100";s:15:"responsive_size";s:7:"default";s:22:"custom_responsive_size";s:3:"100";s:16:"responsive_order";s:7:"default";s:18:"visibility_display";s:0:"";s:26:"visibility_user_capability";s:0:"";s:2:"id";s:0:"";s:5:"class";s:0:"";}}s:13:"59d78b17469f5";O:8:"stdClass":5:{s:4:"node";s:13:"59d78b17469f5";s:4:"type";s:6:"column";s:6:"parent";s:13:"59d78b1746951";s:8:"position";i:1;s:8:"settings";O:8:"stdClass":69:{s:4:"size";s:5:"39.98";s:12:"equal_height";s:2:"no";s:17:"content_alignment";s:3:"top";s:18:"vertical_alignment";s:21:"vertical-align-bottom";s:16:"predefined_color";s:0:"";s:10:"text_color";s:0:"";s:10:"link_color";s:0:"";s:11:"hover_color";s:0:"";s:13:"heading_color";s:0:"";s:7:"bg_type";s:5:"photo";s:8:"bg_color";s:0:"";s:10:"bg_opacity";s:3:"100";s:8:"bg_image";s:2:"78";s:9:"bg_repeat";s:9:"no-repeat";s:11:"bg_position";s:11:"left bottom";s:13:"bg_attachment";s:6:"scroll";s:7:"bg_size";s:7:"contain";s:16:"bg_overlay_color";s:6:"fefeff";s:18:"bg_overlay_opacity";s:2:"75";s:11:"border_type";s:0:"";s:12:"border_color";s:0:"";s:14:"border_opacity";s:3:"100";s:10:"border_top";s:1:"1";s:17:"border_top_medium";s:0:"";s:21:"border_top_responsive";s:0:"";s:13:"border_bottom";s:1:"1";s:20:"border_bottom_medium";s:0:"";s:24:"border_bottom_responsive";s:0:"";s:11:"border_left";s:1:"1";s:18:"border_left_medium";s:0:"";s:22:"border_left_responsive";s:0:"";s:12:"border_right";s:1:"1";s:19:"border_right_medium";s:0:"";s:23:"border_right_responsive";s:0:"";s:10:"margin_top";s:0:"";s:17:"margin_top_medium";s:0:"";s:21:"margin_top_responsive";s:0:"";s:13:"margin_bottom";s:0:"";s:20:"margin_bottom_medium";s:0:"";s:24:"margin_bottom_responsive";s:0:"";s:11:"margin_left";s:0:"";s:18:"margin_left_medium";s:0:"";s:22:"margin_left_responsive";s:0:"";s:12:"margin_right";s:0:"";s:19:"margin_right_medium";s:0:"";s:23:"margin_right_responsive";s:0:"";s:11:"padding_top";s:0:"";s:18:"padding_top_medium";s:0:"";s:22:"padding_top_responsive";s:0:"";s:14:"padding_bottom";s:0:"";s:21:"padding_bottom_medium";s:0:"";s:25:"padding_bottom_responsive";s:0:"";s:12:"padding_left";s:0:"";s:19:"padding_left_medium";s:0:"";s:23:"padding_left_responsive";s:0:"";s:13:"padding_right";s:0:"";s:20:"padding_right_medium";s:0:"";s:24:"padding_right_responsive";s:0:"";s:18:"responsive_display";s:0:"";s:11:"medium_size";s:6:"custom";s:18:"custom_medium_size";s:2:"50";s:15:"responsive_size";s:6:"custom";s:22:"custom_responsive_size";s:3:"100";s:16:"responsive_order";s:7:"default";s:18:"visibility_display";s:0:"";s:26:"visibility_user_capability";s:0:"";s:2:"id";s:0:"";s:5:"class";s:0:"";s:12:"bg_image_src";s:91:"https://themedemos.webmandesign.eu/reykjavik/wp-content/uploads/sites/19/SAMPLE/_boat-1.jpg";}}s:13:"59d78b1746a2f";O:8:"stdClass":5:{s:4:"node";s:13:"59d78b1746a2f";s:4:"type";s:6:"column";s:6:"parent";s:13:"59d78b1746951";s:8:"position";i:2;s:8:"settings";O:8:"stdClass":68:{s:4:"size";d:39.98;s:12:"equal_height";s:2:"no";s:17:"content_alignment";s:3:"top";s:18:"vertical_alignment";s:0:"";s:16:"predefined_color";s:0:"";s:10:"text_color";s:0:"";s:10:"link_color";s:0:"";s:11:"hover_color";s:0:"";s:13:"heading_color";s:0:"";s:7:"bg_type";s:5:"color";s:8:"bg_color";s:0:"";s:10:"bg_opacity";s:3:"100";s:8:"bg_image";s:0:"";s:9:"bg_repeat";s:9:"no-repeat";s:11:"bg_position";s:13:"center center";s:13:"bg_attachment";s:6:"scroll";s:7:"bg_size";s:5:"cover";s:16:"bg_overlay_color";s:0:"";s:18:"bg_overlay_opacity";s:2:"50";s:11:"border_type";s:0:"";s:12:"border_color";s:0:"";s:14:"border_opacity";s:3:"100";s:10:"border_top";s:1:"1";s:17:"border_top_medium";s:0:"";s:21:"border_top_responsive";s:0:"";s:13:"border_bottom";s:1:"1";s:20:"border_bottom_medium";s:0:"";s:24:"border_bottom_responsive";s:0:"";s:11:"border_left";s:1:"1";s:18:"border_left_medium";s:0:"";s:22:"border_left_responsive";s:0:"";s:12:"border_right";s:1:"1";s:19:"border_right_medium";s:0:"";s:23:"border_right_responsive";s:0:"";s:10:"margin_top";s:0:"";s:17:"margin_top_medium";s:0:"";s:21:"margin_top_responsive";s:0:"";s:13:"margin_bottom";s:0:"";s:20:"margin_bottom_medium";s:0:"";s:24:"margin_bottom_responsive";s:0:"";s:11:"margin_left";s:0:"";s:18:"margin_left_medium";s:0:"";s:22:"margin_left_responsive";s:0:"";s:12:"margin_right";s:0:"";s:19:"margin_right_medium";s:0:"";s:23:"margin_right_responsive";s:0:"";s:11:"padding_top";s:0:"";s:18:"padding_top_medium";s:0:"";s:22:"padding_top_responsive";s:0:"";s:14:"padding_bottom";s:0:"";s:21:"padding_bottom_medium";s:0:"";s:25:"padding_bottom_responsive";s:0:"";s:12:"padding_left";s:0:"";s:19:"padding_left_medium";s:0:"";s:23:"padding_left_responsive";s:0:"";s:13:"padding_right";s:0:"";s:20:"padding_right_medium";s:0:"";s:24:"padding_right_responsive";s:0:"";s:18:"responsive_display";s:0:"";s:11:"medium_size";s:6:"custom";s:18:"custom_medium_size";s:2:"50";s:15:"responsive_size";s:6:"custom";s:22:"custom_responsive_size";s:3:"100";s:16:"responsive_order";s:7:"default";s:18:"visibility_display";s:0:"";s:26:"visibility_user_capability";s:0:"";s:2:"id";s:0:"";s:5:"class";s:0:"";}}s:13:"59d78b1746a68";O:8:"stdClass":5:{s:4:"node";s:13:"59d78b1746a68";s:4:"type";s:6:"column";s:6:"parent";s:13:"59d78b1746951";s:8:"position";i:3;s:8:"settings";O:8:"stdClass":68:{s:4:"size";s:5:"10.02";s:12:"equal_height";s:2:"no";s:17:"content_alignment";s:3:"top";s:18:"vertical_alignment";s:0:"";s:16:"predefined_color";s:0:"";s:10:"text_color";s:0:"";s:10:"link_color";s:0:"";s:11:"hover_color";s:0:"";s:13:"heading_color";s:0:"";s:7:"bg_type";s:5:"color";s:8:"bg_color";s:0:"";s:10:"bg_opacity";s:3:"100";s:8:"bg_image";s:0:"";s:9:"bg_repeat";s:9:"no-repeat";s:11:"bg_position";s:13:"center center";s:13:"bg_attachment";s:6:"scroll";s:7:"bg_size";s:5:"cover";s:16:"bg_overlay_color";s:0:"";s:18:"bg_overlay_opacity";s:2:"50";s:11:"border_type";s:0:"";s:12:"border_color";s:0:"";s:14:"border_opacity";s:3:"100";s:10:"border_top";s:1:"1";s:17:"border_top_medium";s:0:"";s:21:"border_top_responsive";s:0:"";s:13:"border_bottom";s:1:"1";s:20:"border_bottom_medium";s:0:"";s:24:"border_bottom_responsive";s:0:"";s:11:"border_left";s:1:"1";s:18:"border_left_medium";s:0:"";s:22:"border_left_responsive";s:0:"";s:12:"border_right";s:1:"1";s:19:"border_right_medium";s:0:"";s:23:"border_right_responsive";s:0:"";s:10:"margin_top";s:0:"";s:17:"margin_top_medium";s:0:"";s:21:"margin_top_responsive";s:0:"";s:13:"margin_bottom";s:0:"";s:20:"margin_bottom_medium";s:0:"";s:24:"margin_bottom_responsive";s:0:"";s:11:"margin_left";s:0:"";s:18:"margin_left_medium";s:0:"";s:22:"margin_left_responsive";s:0:"";s:12:"margin_right";s:0:"";s:19:"margin_right_medium";s:0:"";s:23:"margin_right_responsive";s:0:"";s:11:"padding_top";s:0:"";s:18:"padding_top_medium";s:0:"";s:22:"padding_top_responsive";s:0:"";s:14:"padding_bottom";s:0:"";s:21:"padding_bottom_medium";s:0:"";s:25:"padding_bottom_responsive";s:0:"";s:12:"padding_left";s:0:"";s:19:"padding_left_medium";s:0:"";s:23:"padding_left_responsive";s:0:"";s:13:"padding_right";s:0:"";s:20:"padding_right_medium";s:0:"";s:24:"padding_right_responsive";s:0:"";s:18:"responsive_display";s:7:"desktop";s:11:"medium_size";s:7:"default";s:18:"custom_medium_size";s:3:"100";s:15:"responsive_size";s:7:"default";s:22:"custom_responsive_size";s:3:"100";s:16:"responsive_order";s:7:"default";s:18:"visibility_display";s:0:"";s:26:"visibility_user_capability";s:0:"";s:2:"id";s:0:"";s:5:"class";s:0:"";}}s:13:"59d78b806c8e6";O:8:"stdClass":5:{s:4:"node";s:13:"59d78b806c8e6";s:4:"type";s:6:"module";s:6:"parent";s:13:"59d78b1746a2f";s:8:"position";i:0;s:8:"settings";O:8:"stdClass":21:{s:4:"text";s:346:"<h3 class="display-1">Lorem ipsum</h3>
 <p class="uppercase">Lorem ipsum dolor sit amet consectetur adipiscing elit phasellus sem bibendum feugiat quisque.</p>
@@ -8208,6 +9502,14 @@ Nunc neque hac a placerat leo ultrices et luctus commodo, natoque class donec al
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_fl_builder_enabled]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[89]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[99]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -8250,6 +9552,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing, elit tempus viverra sociosqu 
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="simple-layout"><![CDATA[Simple layout]]></category>
 		<category domain="product_cat" nicename="yacht-accessories"><![CDATA[Yacht accessories]]></category>
+		<category domain="product_cat" nicename="simple"><![CDATA[Simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -8380,7 +9683,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing, elit tempus viverra sociosqu 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3.1.2]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3.2.0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -8605,7 +9908,7 @@ Post type: product_variation
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3.1.2]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3.2.0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[attribute_frame-color]]></wp:meta_key>
@@ -8763,7 +10066,7 @@ Post type: product_variation
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3.1.2]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3.2.0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[attribute_frame-color]]></wp:meta_key>
@@ -8781,7 +10084,7 @@ Post type: sidebar
 -->
 	<item>
 		<title>Sidebar with widgets</title>
-		<link>http://themedemos.webmandesign.eu/reykjavik/sidebars/sidebar-with-widgets/</link>
+		<link>http://themedemos.webmandesign.eu/reykjavik/sidebars/sidebar-with-content/</link>
 		<pubDate>Fri, 04 Aug 2017 15:00:36 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?post_type=sidebar&amp;p=173</guid>
@@ -8793,7 +10096,7 @@ Post type: sidebar
 		<wp:post_date_gmt><![CDATA[2017-08-04 15:00:36]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sidebar-with-widgets]]></wp:post_name>
+		<wp:post_name><![CDATA[sidebar-with-content]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -8807,6 +10110,10 @@ Post type: sidebar
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_sidebar_to_replace]]></wp:meta_key>
 			<wp:meta_value><![CDATA[sidebar]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[sidebar-with-widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_condition]]></wp:meta_key>
