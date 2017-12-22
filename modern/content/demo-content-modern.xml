@@ -14,14 +14,14 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
-<!-- generator="WordPress/4.9.1" created="2017-12-22 08:33" -->
+<!-- generator="WordPress/4.9.1" created="2017-12-22 09:20" -->
 <rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
 
 <channel>
 	<title>Modern</title>
 	<link>http://themedemos.webmandesign.eu/modern</link>
 	<description>Accessible blog &amp; portfolio</description>
-	<pubDate>Fri, 22 Dec 2017 08:33:58 +0000</pubDate>
+	<pubDate>Fri, 22 Dec 2017 09:20:06 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://themedemos.webmandesign.eu/</wp:base_site_url>
@@ -117,6 +117,7 @@ Post type: jetpack-portfolio
 		<link>http://themedemos.webmandesign.eu/modern/portfolio/project-1/</link>
 		<pubDate>Fri, 01 Dec 2017 13:23:27 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?post_type=jetpack-portfolio&amp;p=136</guid>
 		<description/>
 		<content:encoded><![CDATA[<p class="h3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget libero sit amet eros sagittis iaculis sed in est. Nulla porttitor tortor quis sem iaculis, nec elementum ante fermentum.</p>
 
@@ -215,6 +216,7 @@ Etiam elementum, leo quis mollis sagittis, ex erat sollicitudin libero, id iacul
 		<link>http://themedemos.webmandesign.eu/modern/portfolio/project-2/</link>
 		<pubDate>Fri, 01 Dec 2017 13:23:46 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?post_type=jetpack-portfolio&amp;p=137</guid>
 		<description/>
 		<content:encoded><![CDATA[<p class="h3">Lorem ipsum dolor sit amet consectetur adipiscing elit torquent per, litora risus semper leo integer primis urna nibh, facilisi facilisis suscipit nam hendrerit fames faucibus quisque.</p>
 
@@ -318,6 +320,7 @@ Praesent vehicula aliquam sollicitudin. Suspendisse porta diam in augue mollis l
 		<link>http://themedemos.webmandesign.eu/modern/portfolio/project-3/</link>
 		<pubDate>Sat, 02 Dec 2017 13:25:10 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?post_type=jetpack-portfolio&amp;p=138</guid>
 		<description/>
 		<content:encoded><![CDATA[<p class="uppercase">Lorem ipsum dolor sit amet consectetur adipiscing elit tortor mi potenti, malesuada proin purus pulvinar rutrum aenean enim sociis iaculis etiam mauris, urna leo massa cras vel pharetra quam duis viverra.</p>
 Aenean maximus, urna gravida dapibus accumsan, ante mauris semper ante, et lacinia erat ipsum fringilla risus. Donec non scelerisque lectus. Suspendisse non consequat risus.
@@ -413,6 +416,7 @@ Pellentesque mollis nulla quam, at ornare augue volutpat eu. Etiam elementum, le
 		<link>http://themedemos.webmandesign.eu/modern/portfolio/project-4/</link>
 		<pubDate>Fri, 01 Dec 2017 13:25:24 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?post_type=jetpack-portfolio&amp;p=139</guid>
 		<description/>
 		<content:encoded><![CDATA[Aenean maximus, urna gravida dapibus accumsan, ante mauris semper ante, et lacinia erat ipsum fringilla risus. Donec non scelerisque lectus. Suspendisse non consequat risus.
 <blockquote>Pellentesque mollis nulla quam, at ornare augue volutpat eu. Etiam elementum, leo quis mollis sagittis, ex erat sollicitudin libero, id iaculis tellus lacus bibendum tellus. Nam eu ex nec ante viverra elementum id eget mi.</blockquote>
@@ -497,6 +501,7 @@ Fusce dapibus imperdiet velit non sodales. Praesent vehicula aliquam sollicitudi
 		<link>http://themedemos.webmandesign.eu/modern/portfolio/project-7/</link>
 		<pubDate>Sun, 03 Dec 2017 19:48:57 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?post_type=jetpack-portfolio&amp;p=347</guid>
 		<description/>
 		<content:encoded><![CDATA[<p class="h3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget libero sit amet eros sagittis iaculis sed in est. Nulla porttitor tortor quis sem iaculis, nec elementum ante fermentum.</p>
 
@@ -580,6 +585,7 @@ Etiam elementum, leo quis mollis sagittis, ex erat sollicitudin libero, id iacul
 		<link>http://themedemos.webmandesign.eu/modern/portfolio/project-5/</link>
 		<pubDate>Mon, 04 Dec 2017 13:25:38 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?post_type=jetpack-portfolio&amp;p=140</guid>
 		<description/>
 		<content:encoded><![CDATA[<p class="uppercase">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget libero sit amet eros sagittis iaculis sed in est. Nulla porttitor tortor quis sem iaculis, nec elementum ante fermentum.</p>
 Aenean maximus, urna gravida dapibus accumsan, ante mauris semper ante, et lacinia erat ipsum fringilla risus. Donec non scelerisque lectus. Suspendisse non consequat risus.
@@ -697,6 +703,7 @@ Pellentesque mollis nulla quam, at ornare augue volutpat eu. Etiam elementum, le
 		<link>http://themedemos.webmandesign.eu/modern/portfolio/project-6/</link>
 		<pubDate>Wed, 06 Dec 2017 13:25:48 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?post_type=jetpack-portfolio&amp;p=141</guid>
 		<description/>
 		<content:encoded><![CDATA[<p class="h3">Lorem ipsum dolor sit amet, consectetur elit. Fusce eget libero sit amet eros sagittis iaculis sed in est. Nulla porttitor tortor quis sem iaculis, nec elementum ante fermentum.</p>
 
@@ -796,6 +803,7 @@ Aenean maximus, urna gravida dapibus accumsan, ante mauris semper ante, et lacin
 		<link>http://themedemos.webmandesign.eu/modern/portfolio/project-8/</link>
 		<pubDate>Tue, 05 Dec 2017 19:49:56 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?post_type=jetpack-portfolio&amp;p=348</guid>
 		<description/>
 		<content:encoded><![CDATA[<p class="h3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget libero sit amet eros sagittis iaculis sed in est. Nulla porttitor tortor quis sem iaculis, nec elementum ante fermentum.</p>
 
@@ -885,6 +893,7 @@ Post type: jetpack-testimonial
 		<link>http://themedemos.webmandesign.eu/modern/testimonial/testimonial-1/</link>
 		<pubDate>Fri, 04 Aug 2017 12:09:50 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?post_type=jetpack-testimonial&amp;p=121</guid>
 		<description/>
 		<content:encoded><![CDATA[<blockquote>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id vestibulum turpis, et varius nulla. Duis ante diam, pretium sollicitudin semper a, dignissim eu turpis.</blockquote>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -950,6 +959,7 @@ Post type: jetpack-testimonial
 		<link>http://themedemos.webmandesign.eu/modern/testimonial/testimonial-2/</link>
 		<pubDate>Fri, 04 Aug 2017 12:10:56 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?post_type=jetpack-testimonial&amp;p=124</guid>
 		<description/>
 		<content:encoded><![CDATA[<blockquote>Pellentesque vel placerat tortor, a consequat nisi. Nullam sit amet convallis leo, fringilla sagittis mi. Mauris gravida augue eget urna tristique accumsan sit amet vestibulum sem. Nulla facilisi.</blockquote>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1015,6 +1025,7 @@ Post type: jetpack-testimonial
 		<link>http://themedemos.webmandesign.eu/modern/testimonial/testimonial-3/</link>
 		<pubDate>Fri, 04 Aug 2017 12:11:26 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?post_type=jetpack-testimonial&amp;p=126</guid>
 		<description/>
 		<content:encoded><![CDATA[<blockquote>Nullam finibus sit amet orci id sagittis. Ut neque nulla, eleifend et auctor vitae, sodales quis sapien. Etiam convallis sem orci, tempor porta eros tincidunt vel.</blockquote>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1080,6 +1091,7 @@ Post type: jetpack-testimonial
 		<link>http://themedemos.webmandesign.eu/modern/testimonial/testimonial-4/</link>
 		<pubDate>Fri, 04 Aug 2017 12:11:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?post_type=jetpack-testimonial&amp;p=128</guid>
 		<description/>
 		<content:encoded><![CDATA[<blockquote>Sed mollis, ligula id dignissim congue, odio dolor consequat eros, ut feugiat diam diam non tellus. Vestibulum in tristique eros, sed lacinia turpis. Donec sed lectus ac ligula scelerisque feugiat.</blockquote>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1145,6 +1157,7 @@ Post type: jetpack-testimonial
 		<link>http://themedemos.webmandesign.eu/modern/testimonial/testimonial-5/</link>
 		<pubDate>Wed, 06 Dec 2017 19:52:49 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?post_type=jetpack-testimonial&amp;p=349</guid>
 		<description/>
 		<content:encoded><![CDATA[<blockquote>This is a demo of free accessibility ready WordPress theme by <a href="https://www.webmandesign.eu">WebMan Design</a>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id vestibulum turpis, et varius nulla.</blockquote>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1179,6 +1192,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/webman-design-on-facebook/</link>
 		<pubDate>Wed, 06 Dec 2017 20:14:49 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=359</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1233,6 +1247,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/webman-design-on-twitter/</link>
 		<pubDate>Wed, 06 Dec 2017 20:14:49 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=360</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1287,6 +1302,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/tutorial-videos-by-webman-design/</link>
 		<pubDate>Wed, 06 Dec 2017 20:14:49 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=361</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1341,6 +1357,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/webman-design-at-wordpress-org/</link>
 		<pubDate>Wed, 06 Dec 2017 20:14:49 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=362</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1395,6 +1412,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/get-more-themes-at-webman-design/</link>
 		<pubDate>Wed, 06 Dec 2017 20:14:49 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=363</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1449,6 +1467,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/get-the-theme/</link>
 		<pubDate>Wed, 06 Dec 2017 20:16:37 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=364</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1503,6 +1522,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/documentation/</link>
 		<pubDate>Wed, 06 Dec 2017 20:16:37 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=365</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1557,6 +1577,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/get-more-themes/</link>
 		<pubDate>Wed, 06 Dec 2017 20:16:37 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=366</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1611,6 +1632,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/support-center/</link>
 		<pubDate>Wed, 06 Dec 2017 20:16:37 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=367</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1665,6 +1687,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/home/</link>
 		<pubDate>Wed, 06 Dec 2017 20:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=369</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1719,6 +1742,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/370/</link>
 		<pubDate>Wed, 06 Dec 2017 20:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=370</guid>
 		<description/>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1773,6 +1797,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/blog/</link>
 		<pubDate>Wed, 06 Dec 2017 20:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=372</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1827,6 +1852,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/371/</link>
 		<pubDate>Wed, 06 Dec 2017 20:31:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=371</guid>
 		<description/>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1881,6 +1907,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/373/</link>
 		<pubDate>Wed, 06 Dec 2017 20:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=373</guid>
 		<description/>
 		<content:encoded><![CDATA[Page template example]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1935,6 +1962,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/page-examples/</link>
 		<pubDate>Wed, 06 Dec 2017 20:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=374</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1989,6 +2017,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/theme-links/</link>
 		<pubDate>Wed, 06 Dec 2017 20:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=375</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2043,6 +2072,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/post-examples/</link>
 		<pubDate>Wed, 06 Dec 2017 20:31:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=376</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2097,6 +2127,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/post-formats/</link>
 		<pubDate>Wed, 06 Dec 2017 20:31:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=377</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2151,6 +2182,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/get-this-theme/</link>
 		<pubDate>Wed, 06 Dec 2017 20:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=378</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2205,6 +2237,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/theme-documentation/</link>
 		<pubDate>Wed, 06 Dec 2017 20:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=379</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2259,6 +2292,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/get-more-themes-2/</link>
 		<pubDate>Wed, 06 Dec 2017 20:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=380</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2313,6 +2347,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/get-support/</link>
 		<pubDate>Wed, 06 Dec 2017 20:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=381</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2367,6 +2402,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/search-results-page/</link>
 		<pubDate>Wed, 06 Dec 2017 20:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=383</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2421,6 +2457,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/error-404-page/</link>
 		<pubDate>Wed, 06 Dec 2017 20:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=384</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2475,6 +2512,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/archive-page/</link>
 		<pubDate>Wed, 06 Dec 2017 20:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=385</guid>
 		<description/>
 		<content:encoded><![CDATA[Post category archive]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2529,6 +2567,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/testimonials/</link>
 		<pubDate>Wed, 06 Dec 2017 20:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=386</guid>
 		<description/>
 		<content:encoded><![CDATA[Customer Testimonials]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2583,6 +2622,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/portfolio/</link>
 		<pubDate>Wed, 06 Dec 2017 20:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=387</guid>
 		<description/>
 		<content:encoded><![CDATA[Portfolio Items]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2637,6 +2677,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/comments-disabled/</link>
 		<pubDate>Wed, 06 Dec 2017 20:31:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=388</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2691,6 +2732,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/comments-example/</link>
 		<pubDate>Wed, 06 Dec 2017 20:31:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=389</guid>
 		<description/>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2745,6 +2787,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/formats-button-styles/</link>
 		<pubDate>Wed, 06 Dec 2017 20:31:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=390</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2799,6 +2842,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/style-guide/</link>
 		<pubDate>Wed, 06 Dec 2017 20:31:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=391</guid>
 		<description/>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2853,6 +2897,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/how-to-use-post-formats/</link>
 		<pubDate>Wed, 06 Dec 2017 20:31:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=392</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2907,6 +2952,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/donate/</link>
 		<pubDate>Thu, 07 Dec 2017 14:59:48 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=411</guid>
 		<description/>
 		<content:encoded><![CDATA[Support theme author]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2961,6 +3007,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/donate-2/</link>
 		<pubDate>Thu, 07 Dec 2017 15:01:01 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=412</guid>
 		<description/>
 		<content:encoded><![CDATA[Support theme author]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3015,6 +3062,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/472/</link>
 		<pubDate>Thu, 07 Dec 2017 21:07:34 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=472</guid>
 		<description/>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3069,6 +3117,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/473/</link>
 		<pubDate>Thu, 07 Dec 2017 21:07:34 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=473</guid>
 		<description/>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3123,6 +3172,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/474/</link>
 		<pubDate>Thu, 07 Dec 2017 21:07:34 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=474</guid>
 		<description/>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3177,6 +3227,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/475/</link>
 		<pubDate>Thu, 07 Dec 2017 21:07:34 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=475</guid>
 		<description/>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3231,6 +3282,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/476/</link>
 		<pubDate>Thu, 07 Dec 2017 21:07:34 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=476</guid>
 		<description/>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3285,6 +3337,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/477/</link>
 		<pubDate>Thu, 07 Dec 2017 21:07:34 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=477</guid>
 		<description/>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3339,6 +3392,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/front-page-template/</link>
 		<pubDate>Sun, 10 Dec 2017 14:13:18 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=483</guid>
 		<description/>
 		<content:encoded><![CDATA[Page template example]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3393,6 +3447,7 @@ Post type: nav_menu_item
 		<link>http://themedemos.webmandesign.eu/modern/490/</link>
 		<pubDate>Mon, 18 Dec 2017 13:16:07 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern/?p=490</guid>
 		<description/>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3456,6 +3511,7 @@ Post type: page
 		<link>http://themedemos.webmandesign.eu/modern/</link>
 		<pubDate>Wed, 12 Jul 2017 14:43:23 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?page_id=15</guid>
 		<description/>
 		<content:encoded><![CDATA[<p class="h3">This is your homepage, which is what most visitors will see when they come to your site for the first time. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in mauris eleifend, egestas lectus et, vulputate orci.</p>
 
@@ -3540,6 +3596,7 @@ Vestibulum in mauris eleifend, egestas lectus et, vulputate orci.</p>
 		<link>http://themedemos.webmandesign.eu/modern/blog/</link>
 		<pubDate>Wed, 12 Jul 2017 14:47:37 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?page_id=19</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a blog page excerpt text. You might need to enable the excerpt field in screen options first when editing the page you have set for your website blog.]]></excerpt:encoded>
@@ -3605,6 +3662,7 @@ Vestibulum in mauris eleifend, egestas lectus et, vulputate orci.</p>
 		<link>http://themedemos.webmandesign.eu/modern/about-me/</link>
 		<pubDate>Wed, 12 Jul 2017 14:47:48 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?page_id=21</guid>
 		<description/>
 		<content:encoded><![CDATA[<p class="h3">Introduce yourself. You might be an artist who would like to introduce yourself and your work here or maybe you’re a business with a mission to describe. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 
@@ -3700,6 +3758,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in mauris el
 		<link>http://themedemos.webmandesign.eu/modern/contact-me/</link>
 		<pubDate>Wed, 12 Jul 2017 14:48:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?page_id=25</guid>
 		<description/>
 		<content:encoded><![CDATA[<h2>Get in touch</h2>
 This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
@@ -3784,6 +3843,7 @@ This is a page with some basic contact information, such as an address and phone
 		<link>http://themedemos.webmandesign.eu/modern/page-with-sidebar/</link>
 		<pubDate>Fri, 04 Aug 2017 18:19:49 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?page_id=202</guid>
 		<description/>
 		<content:encoded><![CDATA[<h2>How to further control sidebar display?</h2>
 Sidebars and other widgetized areas display can be further controlled with <a href="https://wordpress.org/plugins/woosidebars/" target="_blank" rel="noopener noreferrer"><strong>WooSidebars</strong></a> plugin. If you only want to control display of specific widgets, you can use <a href="https://wordpress.org/plugins/jetpack/" target="_blank" rel="noopener noreferrer"><strong>Jetpack</strong></a> plugin’s <a href="https://jetpack.com/support/widget-visibility/" target="_blank" rel="noopener noreferrer">Visibility module</a> for that. Both of these will give you a great control over you website sidebars.
@@ -3865,6 +3925,7 @@ Nunc vehicula, arcu nec euismod dignissim, sapien nulla pulvinar nisl, ut fermen
 		<link>http://themedemos.webmandesign.eu/modern/donate/</link>
 		<pubDate>Thu, 07 Dec 2017 14:12:37 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?page_id=393</guid>
 		<description/>
 		<content:encoded><![CDATA[If you like this free WordPress theme, please, consider supporting its development by purchasing one of <a href="https://www.webmandesign.eu/">WebMan Design premium products</a>. Or perhaps you are considering a small donation?
 
@@ -3909,6 +3970,7 @@ Post type: post
 		<link>http://themedemos.webmandesign.eu/modern/post-6/</link>
 		<pubDate>Sat, 02 Dec 2017 15:48:47 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=165</guid>
 		<description/>
 		<content:encoded><![CDATA[<p class="dropcap-text">Their new technique, described in a study published on Thursday in the journal Science, promises to open new avenues of research into human prehistory and was met with excitement by geneticists and archaeologists.</p>
 
@@ -4024,6 +4086,7 @@ To identify the Denisovans, Svante Paabo, a geneticist at the Planck Institute a
 		<link>http://themedemos.webmandesign.eu/modern/post-8/</link>
 		<pubDate>Fri, 01 Dec 2017 15:55:38 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=167</guid>
 		<description/>
 		<content:encoded><![CDATA[<blockquote>Space is full of radio waves, and those waves, just like the ones bouncing through the Earth's atmosphere, can be converted into audible sounds. The recording starts with the patter of a summer squall. Later, a drifting tone like that of a not-quite-tuned-in radio station rises and for a while drowns out the patter.</blockquote>
 https://open.spotify.com/track/2rgraXNrUO66qHvaxft3C3
@@ -4129,6 +4192,7 @@ Dr. Kurth said the background patter was likely oscillations of charged particle
 		<link>http://themedemos.webmandesign.eu/modern/post-7/</link>
 		<pubDate>Fri, 01 Dec 2017 15:53:32 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=170</guid>
 		<description/>
 		<content:encoded><![CDATA[Status post format displays the whole content of your post. It is a short status update, similar to a Twitter status update. You can set post featured image or your gravatar will be displayed instead.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4213,6 +4277,7 @@ Dr. Kurth said the background patter was likely oscillations of charged particle
 		<link>http://themedemos.webmandesign.eu/modern/link-post-format-example/</link>
 		<pubDate>Fri, 01 Dec 2017 04:58:55 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=459</guid>
 		<description/>
 		<content:encoded><![CDATA[This is an example of <strong>link post format</strong>, which display a whole post content and emphasize the link within. This is an <a href="https://www.webmandesign.eu">example of link</a> in post content.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4278,6 +4343,7 @@ Dr. Kurth said the background patter was likely oscillations of charged particle
 		<link>http://themedemos.webmandesign.eu/modern/post-1/</link>
 		<pubDate>Wed, 06 Dec 2017 15:32:08 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=154</guid>
 		<description/>
 		<content:encoded><![CDATA[<h2>What is a post format?</h2>
 A post format is used by a theme for presenting posts in a certain format and style, such as "standard", "image", "gallery" "audio", "video", "quote", "status", "aside", "link" and/or a "chat" post. You can actually read thorough <a href="https://developer.wordpress.org/themes/functionality/post-formats/" target="_blank" rel="noopener noreferrer">explanation of post formats</a> on WordPress codex pages. (Post formats should not be confused with <a href="https://developer.wordpress.org/themes/basics/post-types/" target="_blank" rel="noopener noreferrer">post types</a>!)
@@ -4434,6 +4500,7 @@ If you experience any difficulty setting up post formats, please <a href="https:
 		<link>http://themedemos.webmandesign.eu/modern/post-2/</link>
 		<pubDate>Tue, 05 Dec 2017 15:35:53 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=156</guid>
 		<description/>
 		<content:encoded><![CDATA[<p class="dropcap-text">Below is just about every HTML element you might want to use in your blog posts. Check the source code to see the many embedded elements within paragraphs. This is also an example of text paragraph with dropcap first letter. Simply add <code>class="dropcap-text"</code> on the paragraph HTML tag where you want to display the dropcap.</p>
 
@@ -4713,6 +4780,7 @@ The awesome mosaic thumbnail gallery is provided by the Jetpack plugin. To add t
 		<link>http://themedemos.webmandesign.eu/modern/post-3/</link>
 		<pubDate>Mon, 04 Dec 2017 15:38:35 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=158</guid>
 		<description/>
 		<content:encoded><![CDATA[<h2>Text styles</h2>
 <p class="dropcap-text">Dropcap text. Apply this format on a text paragraph. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat voltu.</p>
@@ -4853,6 +4921,7 @@ Create a link and then turn it into a button. Like this:
 		<link>http://themedemos.webmandesign.eu/modern/post-4/</link>
 		<pubDate>Mon, 04 Dec 2017 15:41:37 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=160</guid>
 		<description/>
 		<content:encoded><![CDATA[<p class="uppercase">Swimming hundreds of feet beneath the ocean’s surface in many parts of the world are prolific architects called giant larvaceans. These zooplankton are not particularly giant themselves (they resemble tadpoles and are about the size of a pinkie finger), but every day, they construct one or more spacious "houses” that can exceed three feet in length.</p>
 The houses are transparent mucus structures that encase the creatures inside. Giant larvaceans beat their tails to pump seawater through these structures, which filter tiny bits of dead or drifting organic matter for the animals to eat. When their filters get clogged, the larvaceans abandon ship and construct a new house.
@@ -4997,6 +5066,7 @@ A high-definition camera on the remotely operated vehicle can then capture the i
 		<link>http://themedemos.webmandesign.eu/modern/post-5/</link>
 		<pubDate>Sun, 03 Dec 2017 15:45:33 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?p=163</guid>
 		<description/>
 		<content:encoded><![CDATA[<p class="dropcap-text">Sifting through teaspoons of clay and sand scraped from the floors of caves, researchers have managed to isolate ancient human DNA without turning up a single bone. Their new technique, described in a study published on Thursday in the journal Science, promises to open new avenues of research into human prehistory and was met with excitement by geneticists and archaeologists.</p>
 
@@ -5117,6 +5187,7 @@ To identify the Denisovans, Svante Paabo, a geneticist at the Planck Institute a
 		<link>http://themedemos.webmandesign.eu/modern/post-9/</link>
 		<pubDate>Sat, 02 Dec 2017 18:44:52 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/modern-new/?p=455</guid>
 		<description/>
 		<content:encoded><![CDATA[<blockquote><strong>Quote post format</strong> also displays post featured image if it's set. This is a demo of free accessibility ready WordPress theme by <a href="https://www.webmandesign.eu">WebMan Design</a>.
 <cite>Oliver, <a href="https://www.webmandesign.eu">WebMan Design</a></cite></blockquote>]]></content:encoded>
@@ -5203,6 +5274,7 @@ Post type: sidebar
 		<link>http://themedemos.webmandesign.eu/modern/sidebars/sidebar-with-content/</link>
 		<pubDate>Fri, 04 Aug 2017 15:00:36 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?post_type=sidebar&amp;p=173</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Example sidebar created with WooSidebars plugin.]]></excerpt:encoded>
@@ -5253,6 +5325,7 @@ Post type: attachment
 		<link>http://themedemos.webmandesign.eu/modern/sample/_rob-potter-398564/</link>
 		<pubDate>Thu, 07 Dec 2017 16:10:03 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/modern-new/wp-content/uploads/sites/21/SAMPLE/_rob-potter-398564.jpg</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5291,6 +5364,7 @@ Post type: attachment
 		<link>http://themedemos.webmandesign.eu/modern/sample/_rob-potter-364323/</link>
 		<pubDate>Thu, 07 Dec 2017 16:18:05 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/modern-new/wp-content/uploads/sites/21/SAMPLE/_rob-potter-364323.jpg</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5329,6 +5403,7 @@ Post type: attachment
 		<link>http://themedemos.webmandesign.eu/modern/sample/_marcus-cramer-455992/</link>
 		<pubDate>Thu, 07 Dec 2017 16:20:26 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/modern-new/wp-content/uploads/sites/21/SAMPLE/_marcus-cramer-455992.jpg</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Gallery is displayed in masonry layout in the theme by default]]></excerpt:encoded>
@@ -5367,6 +5442,7 @@ Post type: attachment
 		<link>http://themedemos.webmandesign.eu/modern/sample/_nikolai-voelcker-455917/</link>
 		<pubDate>Thu, 07 Dec 2017 16:25:23 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/modern-new/wp-content/uploads/sites/21/SAMPLE/_nikolai-voelcker-455917.jpg</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5405,6 +5481,7 @@ Post type: attachment
 		<link>http://themedemos.webmandesign.eu/modern/sample/_armando-castillejos-140540/</link>
 		<pubDate>Thu, 07 Dec 2017 16:35:17 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/modern-new/wp-content/uploads/sites/21/SAMPLE/_armando-castillejos-140540.jpg</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5443,6 +5520,7 @@ Post type: attachment
 		<link>http://themedemos.webmandesign.eu/modern/sample/_hollie-harmsworth-392580/</link>
 		<pubDate>Thu, 07 Dec 2017 16:35:24 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/modern-new/wp-content/uploads/sites/21/SAMPLE/_hollie-harmsworth-392580.jpg</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5481,6 +5559,7 @@ Post type: attachment
 		<link>http://themedemos.webmandesign.eu/modern/sample/_nick-adams-457460/</link>
 		<pubDate>Thu, 07 Dec 2017 16:35:33 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/modern-new/wp-content/uploads/sites/21/SAMPLE/_nick-adams-457460.jpg</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5519,6 +5598,7 @@ Post type: attachment
 		<link>http://themedemos.webmandesign.eu/modern/sample/_nik-shuliahin-359344/</link>
 		<pubDate>Thu, 07 Dec 2017 16:35:43 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/modern-new/wp-content/uploads/sites/21/SAMPLE/_nik-shuliahin-359344.jpg</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5557,6 +5637,7 @@ Post type: attachment
 		<link>http://themedemos.webmandesign.eu/modern/sample/_will-swann-459480/</link>
 		<pubDate>Thu, 07 Dec 2017 16:35:52 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/modern-new/wp-content/uploads/sites/21/SAMPLE/_will-swann-459480.jpg</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5595,6 +5676,7 @@ Post type: attachment
 		<link>http://themedemos.webmandesign.eu/modern/sample/_alessio-lin-427614/</link>
 		<pubDate>Thu, 07 Dec 2017 16:42:36 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/modern-new/wp-content/uploads/sites/21/SAMPLE/_alessio-lin-427614.jpg</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5633,6 +5715,7 @@ Post type: attachment
 		<link>http://themedemos.webmandesign.eu/modern/sample/_alessio-lin-455449/</link>
 		<pubDate>Thu, 07 Dec 2017 16:42:46 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/modern-new/wp-content/uploads/sites/21/SAMPLE/_alessio-lin-455449.jpg</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5671,6 +5754,7 @@ Post type: attachment
 		<link>http://themedemos.webmandesign.eu/modern/sample/_liam-simpson-421994/</link>
 		<pubDate>Thu, 07 Dec 2017 16:42:54 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/modern-new/wp-content/uploads/sites/21/SAMPLE/_liam-simpson-421994.jpg</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5709,6 +5793,7 @@ Post type: attachment
 		<link>http://themedemos.webmandesign.eu/modern/sample/_pietro-de-grandi-455251/</link>
 		<pubDate>Thu, 07 Dec 2017 16:43:05 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/modern-new/wp-content/uploads/sites/21/SAMPLE/_pietro-de-grandi-455251.jpg</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5747,6 +5832,7 @@ Post type: attachment
 		<link>http://themedemos.webmandesign.eu/modern/sample/_paul-johnston-458400/</link>
 		<pubDate>Thu, 07 Dec 2017 18:07:19 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/modern-new/wp-content/uploads/sites/21/SAMPLE/_paul-johnston-458400.jpg</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
