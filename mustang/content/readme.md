@@ -7,12 +7,12 @@ You are browsing a repository for main demo content XML files of [**Mustang** Wo
 
 1. Install and active the [**Mustang** WordPress theme](https://www.webmandesign.eu/portfolio/mustang-wordpress-theme/)
 2. To allow all the demo content to be imported in whole, please install these plugins:
-  * [WebMan Amplifier](https://wordpress.org/plugins/webman-amplifier/) - provides additional functionality, widgets, shortcodes, icon font and custom post types
-  * [Beaver Builder](https://wordpress.org/plugins/beaver-builder-lite-version/) - page builder plugin used to build the demo content (make sure the page builder is enabled for Pages and Projects - check this under **Settings &raquo; Page Builder &raquo; Post Types**)
-  * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - provides e-commerce functionality (only required with **paid theme version**)
-  * [bbPress](https://wordpress.org/plugins/bbpress/) - provides forum functionality (only required with **paid theme version**)
-  * [WooSidebars](https://wordpress.org/plugins/woosidebars/) - allows to create custom sidebars
-  * [Breadcrumb NavXT](https://wordpress.org/plugins/breadcrumb-navxt/) - provides breadcrumbs navigation
+    * [WebMan Amplifier](https://wordpress.org/plugins/webman-amplifier/) - provides additional functionality, widgets, shortcodes, icon font and custom post types
+    * [Beaver Builder](https://wordpress.org/plugins/beaver-builder-lite-version/) - page builder plugin used to build the demo content (make sure the page builder is enabled for Pages and Projects - check this under **Settings &raquo; Page Builder &raquo; Post Types**)
+    * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - provides e-commerce functionality (only required with **paid theme version**)
+    * [bbPress](https://wordpress.org/plugins/bbpress/) - provides forum functionality (only required with **paid theme version**)
+    * [WooSidebars](https://wordpress.org/plugins/woosidebars/) - allows to create custom sidebars
+    * [Breadcrumb NavXT](https://wordpress.org/plugins/breadcrumb-navxt/) - provides breadcrumbs navigation
 
 Also, please understand that **demo images (and other media files) will be imported in low quality** and you should replace them with your own (properly copyrighted) images.
 
@@ -35,7 +35,7 @@ Once you have installed and activated demo content required plugins as listed ab
   > The original [**WordPress Importer** plugin](https://wordpress.org/plugins/wordpress-importer/) is pretty *outdated* and buggy. To eliminate the issues during theme demo content import I suggest using [a new version of the plugin](https://github.com/humanmade/WordPress-Importer). Although it is *still in development*, it is perfectly usable and you can [**download it** from its Github repository](https://github.com/humanmade/WordPress-Importer#how-do-i-use-it).
 3. After the demo content is imported, set up your home and blog page under **Settings &raquo; Reading &raquo; "Front page displays"** (set "Front page" to "Homepage" and "Posts page" to "Blog")
 4. Now we need to assign navigational menus in **Appearance &raquo; Menus &raquo; Manage Locations** as follows:
-  * Set "Main" menu for "Main navigation" location
+    * Set "Main" menu for "Main navigation" location
 5. If you would like to set up widgets the way they are displayed on the [theme demo website](http://themedemos.webmandesign.eu/mustang/), use a procedure under [`widgets` subfolder](https://github.com/webmandesign/demo-content/tree/master/mustang/widgets)
 
 
