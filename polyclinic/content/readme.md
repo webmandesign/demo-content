@@ -7,10 +7,10 @@ You are browsing a repository for main demo content XML files of [**Polyclinic**
 
 1. Install and active the [**Polyclinic** WordPress theme](https://www.webmandesign.eu/portfolio/polyclinic-wordpress-theme/)
 2. To allow all the demo content to be imported in whole, please install these plugins:
-  * [WebMan Amplifier](https://wordpress.org/plugins/webman-amplifier/) - provides additional functionality, widgets, shortcodes, icon font and custom post types
-  * [Beaver Builder](https://wordpress.org/plugins/beaver-builder-lite-version/) - page builder plugin used to build the demo content (make sure the page builder is enabled for Posts, Pages and Staff - check this under **Settings &raquo; Page Builder &raquo; Post Types**)
-  * [Subtitles](https://wordpress.org/plugins/subtitles/) - to display page/post subtitles used in the demo content
-  * [Jetpack](https://wordpress.org/plugins/jetpack/) - demo content includes [tiled galleries](https://jetpack.me/support/tiled-galleries/) which are feature of this plugin
+    * [WebMan Amplifier](https://wordpress.org/plugins/webman-amplifier/) - provides additional functionality, widgets, shortcodes, icon font and custom post types
+    * [Beaver Builder](https://wordpress.org/plugins/beaver-builder-lite-version/) - page builder plugin used to build the demo content (make sure the page builder is enabled for Posts, Pages and Staff - check this under **Settings &raquo; Page Builder &raquo; Post Types**)
+    * [Subtitles](https://wordpress.org/plugins/subtitles/) - to display page/post subtitles used in the demo content
+    * [Jetpack](https://wordpress.org/plugins/jetpack/) - demo content includes [tiled galleries](https://jetpack.me/support/tiled-galleries/) which are feature of this plugin
 
 Also, please understand that **demo images (and other media files) will be imported in low quality** and you should replace them with your own (properly copyrighted) images.
 
@@ -33,9 +33,9 @@ Once you have installed and activated demo content required plugins as listed ab
   > The original [**WordPress Importer** plugin](https://wordpress.org/plugins/wordpress-importer/) is pretty *outdated* and buggy. To eliminate the issues during theme demo content import I suggest using [a new version of the plugin](https://github.com/humanmade/WordPress-Importer). Although it is *still in development*, it is perfectly usable and you can [**download it** from its Github repository](https://github.com/humanmade/WordPress-Importer#how-do-i-use-it).
 3. After the demo content is imported, set up your home and blog page under **Settings &raquo; Reading &raquo; "Front page displays"** (set "Front page" to "Homepage" and "Posts page" to "News")
 4. Now we need to assign navigational menus in **Appearance &raquo; Menus &raquo; Manage Locations** as follows:
-  * Set "Main navigation" menu for "Primary Menu" location
-  * Set "Social links" menu for "Social Links Menu" location
-  * Set "Mobile bar" menu for "Mobile Bar (max 4 links)" location
+    * Set "Main navigation" menu for "Primary Menu" location
+    * Set "Social links" menu for "Social Links Menu" location
+    * Set "Mobile bar" menu for "Mobile Bar (max 4 links)" location
 5. If you would like to set up widgets the way they are displayed on the [theme demo website](http://themedemos.webmandesign.eu/polyclinic/), use a procedure under [`widgets` subfolder](https://github.com/webmandesign/demo-content/tree/master/polyclinic/widgets)
 
 
