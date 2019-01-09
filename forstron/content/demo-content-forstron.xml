@@ -2416,7 +2416,7 @@ Post type: page
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[The most impressive elegant WordPress theme!]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -2482,7 +2482,7 @@ Post type: page
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Read our news feed]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -2594,7 +2594,7 @@ The list of CSS classes below is organized into groups and each CSS class inform
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Change the appearance and behavior simply]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -2644,7 +2644,7 @@ Solicitor and Solicitor offer conveyancing services, business services and perso
 			<wp:meta_value><![CDATA[a:4:{s:16:"wm-intro-disable";N;s:23:"wm-sections-description";N;s:9:"wm-header";s:0:"";s:9:"wm-footer";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[With default settings]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -2678,7 +2678,7 @@ Solicitor and Solicitor offer conveyancing services, business services and perso
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Why we are the best on the market]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -2927,7 +2927,7 @@ The only essential plugin for the theme to work is <strong>WebMan Amplifier</str
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Plugins used in this demo website]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -2995,7 +2995,7 @@ The only essential plugin for the theme to work is <strong>WebMan Amplifier</str
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Meet the dedicated professionals]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -3268,7 +3268,7 @@ Weekends, Closed";s:4:"name";s:8:"Forstron";s:5:"phone";s:12:"0800 123 654";s:5:
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[You ask, we answer]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -3363,7 +3363,7 @@ You can make this module behave as accordion (only 1 item opened at the time) or
 			<wp:meta_value><![CDATA[a:4:{s:16:"wm-intro-disable";N;s:23:"wm-sections-description";N;s:9:"wm-header";s:0:"";s:9:"wm-footer";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Where you can find the assets used for this demo website?]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -4329,7 +4329,7 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 			<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[How the theme handles HTML elements?]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -5493,7 +5493,7 @@ Solicitor and Solicitor offer conveyancing services, business services and perso
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[With post subtitle]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -6371,7 +6371,7 @@ Solicitor and Solicitor offer conveyancing services, business services and perso
 			<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[With more tag]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -6423,7 +6423,7 @@ Solicitor and Solicitor offer conveyancing services, business services and perso
 			<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[With post subtitle]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8587,7 +8587,7 @@ Solicitor and Solicitor offer conveyancing services, business services and perso
 			<wp:meta_value><![CDATA[959]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[The Four Courts]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8650,7 +8650,7 @@ Solicitor and Solicitor offer conveyancing services, business services and perso
 			<wp:meta_value><![CDATA[956]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[The Four Courts]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8743,7 +8743,7 @@ They will also act on your behalf throughout the process whether it’s dealing 
 			<wp:meta_value><![CDATA[970]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Cork Court Office]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8851,7 +8851,7 @@ They will make sure that everything is <strong>explained to you in plain English
 			<wp:meta_value><![CDATA[960]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Cork Court Office]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8959,7 +8959,7 @@ They will make sure that everything is <strong>explained to you in plain English
 			<wp:meta_value><![CDATA[958]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[The Four Courts]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -9067,7 +9067,7 @@ They will make sure that everything is <strong>explained to you in plain English
 			<wp:meta_value><![CDATA[972]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[The Four Courts]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -9168,7 +9168,7 @@ They will make sure that everything is <strong>explained to you in plain English
 			<wp:meta_value><![CDATA[a:5:{s:16:"wm-intro-disable";s:1:"1";s:23:"wm-sections-description";N;s:9:"wm-header";s:23:"forced-background--dark";s:7:"wm-link";s:0:"";s:14:"wm-link-action";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[The Four Courts]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -9259,7 +9259,7 @@ They will make sure that everything is <strong>explained to you in plain English
 			<wp:meta_value><![CDATA[963]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Cork Court Office]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -9357,7 +9357,7 @@ Solicitor and Solicitor are an established firm of solicitors that was started i
 			<wp:meta_value><![CDATA[961]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[The Four Courts]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
