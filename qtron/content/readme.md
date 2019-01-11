@@ -9,8 +9,8 @@ You are browsing a repository for main demo content XML files of [**Q'tron** Wor
 2. **Required plugins**: To allow all the demo content to be imported in whole, please install these plugins (they are required for [one-click demo content installation](#one-click-installation)):
     * [**WebMan Amplifier**](https://wordpress.org/plugins/webman-amplifier/) - provides additional functionality, widgets, shortcodes, icon font and custom post types
     * [**Beaver Builder**](https://wordpress.org/plugins/beaver-builder-lite-version/) - page builder plugin used to build the demo content (make sure the page builder is enabled for Pages and Projects post types - check this under **Settings &raquo; Page Builder &raquo; Post Types**)
-3. **Optional plugins**: If you want to match your website exactly to [theme demo website](http://themedemos.webmandesign.eu/qtron/), please install also these plugins: 
-    * [*Subtitles*](https://wordpress.org/plugins/subtitles/) - to display page/post subtitles used in the demo content
+3. **Optional plugins**: If you want to match your website exactly to [theme demo website](http://themedemos.webmandesign.eu/qtron/), please install also these plugins:
+    * [*WP Subtitle*](https://wordpress.org/plugins/wp-subtitle/) - to display page/post subtitles used in the demo content
     * [*Jetpack*](https://wordpress.org/plugins/jetpack/) - demo content includes [tiled galleries](https://jetpack.me/support/tiled-galleries/) which are feature of this plugin ([how to install Jetpack?](https://jetpack.com/support/installing-jetpack/))
     * [*WP Featherlight*](https://wordpress.org/plugins/wp-featherlight/) - for image zooming lightbox
 

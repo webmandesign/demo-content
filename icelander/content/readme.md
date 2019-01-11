@@ -12,7 +12,7 @@ You are browsing a repository for main demo content XML files of [**Icelander** 
     * [**WooCommerce**](https://wordpress.org/plugins/woocommerce/) - provides e-commerce functionality (if you run the plugin Setup Wizard beforehand, make sure to **skip the step when WooCommerce pages are created**, as these will be imported with demo content),
     * [**WooSidebars**](https://wordpress.org/plugins/woosidebars/) - provides custom sidebars and widget areas functionality, allows you to disable sidebar on any page.
 3. **Optional plugins**: If you want to match your website exactly to [theme demo website](http://themedemos.webmandesign.eu/icelander/), please install also these plugins: 
-    * [*Subtitles*](https://wordpress.org/plugins/subtitles/) - to display page/post subtitles used in the demo content,
+    * [*WP Subtitle*](https://wordpress.org/plugins/wp-subtitle/) - to display page/post subtitles used in the demo content,
     * [*WooCommerce Cart Tab*](https://wordpress.org/plugins/woocommerce-cart-tab/) - adds a sitewide tab cart with a link to the checkout,
     * [*Widget CSS Classes*](https://wordpress.org/plugins/widget-css-classes/) - allows applying layout CSS classes on theme demo [widgets](https://github.com/webmandesign/demo-content/tree/master/icelander/widgets),
     * [*Jetpack*](https://wordpress.org/plugins/jetpack/) - demo content includes [tiled galleries](https://jetpack.me/support/tiled-galleries/) which are feature of this plugin ([how to install Jetpack?](https://jetpack.com/support/installing-jetpack/)),
