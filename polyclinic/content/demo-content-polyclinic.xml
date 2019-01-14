@@ -4640,7 +4640,7 @@ Just send us your feedback today via a form on our <a href="http://themedemos.we
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[We are hiring]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -5203,7 +5203,7 @@ Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lec
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[No page builder used]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -5254,7 +5254,7 @@ Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lec
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[No page builder used]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -6025,7 +6025,7 @@ Sat, 9:30 - 14:00";s:4:"name";s:11:"Clinic Name";s:5:"phone";s:37:"+421-900-123-
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[With us you get the full service health care]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -6859,7 +6859,7 @@ You can put gallery anywhere in the gallery post format.]]></content:encoded>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Gallery post format]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -6917,7 +6917,7 @@ More on <a href="https://en.wikipedia.org/wiki/Pregnancy" target="_blank">Wikipe
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Audio post format]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -6985,7 +6985,7 @@ More on <a href="https://en.wikipedia.org/wiki/Pregnancy" target="_blank">Wikipe
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Video post format]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -7040,7 +7040,7 @@ More on <a href="https://en.wikipedia.org/wiki/Pregnancy" target="_blank">Wikipe
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Page builder post]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -7108,7 +7108,7 @@ Granser recollected himself, and with a start tore himself away from the rostrum
 			<wp:meta_value><![CDATA[a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1452718612;s:7:"payload";a:2:{i:0;a:1:{s:2:"id";i:55;}i:1;a:1:{s:2:"id";i:11;}}}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[How easy it is to read a post]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -7342,7 +7342,7 @@ United States</address>]]></content:encoded>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[How the theme handles HTML elements?]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -7410,7 +7410,7 @@ Read more at <a href="https://en.wikipedia.org/wiki/Influenza" target="_blank">W
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[With comments and more tag]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -7567,7 +7567,7 @@ More on <a href="https://en.wikipedia.org/wiki/Pneumonia" target="_blank">Wikipe
 			<wp:meta_value><![CDATA[this-is-a-standard-post-2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Example of table of contents (parted post)]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -7645,7 +7645,7 @@ More on <a href="https://en.wikipedia.org/wiki/Pregnancy" target="_blank">Wikipe
 			<wp:meta_value><![CDATA[1249]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Welcome a newborn]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -7689,7 +7689,7 @@ More on <a href="https://en.wikipedia.org/wiki/Web_accessibility" target="_blank
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[For wide range of visitors]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -7968,7 +7968,7 @@ Post type: wm_modules
 			<wp:meta_value><![CDATA[a:7:{s:7:"wm-link";s:0:"";s:14:"wm-link-action";s:5:"_self";s:11:"wm-icon-box";s:1:"1";s:12:"wm-icon-font";s:15:"icon-wheelchair";s:13:"wm-icon-color";s:0:"";s:24:"wm-icon-color-background";s:0:"";s:22:"wm-module-icon-section";N;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[For all visitors]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -8008,7 +8008,7 @@ Post type: wm_modules
 			<wp:meta_value><![CDATA[a:7:{s:7:"wm-link";s:0:"";s:14:"wm-link-action";s:5:"_self";s:11:"wm-icon-box";s:1:"1";s:12:"wm-icon-font";s:11:"icon-beaker";s:13:"wm-icon-color";s:0:"";s:24:"wm-icon-color-background";s:0:"";s:22:"wm-module-icon-section";N;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[No coding required]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -8048,7 +8048,7 @@ Post type: wm_modules
 			<wp:meta_value><![CDATA[a:7:{s:7:"wm-link";s:0:"";s:14:"wm-link-action";s:5:"_self";s:11:"wm-icon-box";s:1:"1";s:12:"wm-icon-font";s:13:"icon-lifebuoy";s:13:"wm-icon-color";s:0:"";s:24:"wm-icon-color-background";s:0:"";s:22:"wm-module-icon-section";N;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[And thorough theme documentation]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -8088,7 +8088,7 @@ Post type: wm_modules
 			<wp:meta_value><![CDATA[a:7:{s:7:"wm-link";s:0:"";s:14:"wm-link-action";s:5:"_self";s:11:"wm-icon-box";s:1:"1";s:12:"wm-icon-font";s:16:"icon-stethoscope";s:13:"wm-icon-color";s:0:"";s:24:"wm-icon-color-background";s:0:"";s:22:"wm-module-icon-section";N;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Very easy to extend]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -8163,7 +8163,7 @@ Post type: wm_modules
 			<wp:meta_value><![CDATA[a:7:{s:7:"wm-link";s:0:"";s:14:"wm-link-action";s:5:"_self";s:11:"wm-icon-box";s:1:"1";s:12:"wm-icon-font";s:26:"icon-medical-ophthalmology";s:13:"wm-icon-color";s:0:"";s:24:"wm-icon-color-background";s:0:"";s:22:"wm-module-icon-section";N;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Looks great on any device]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -8203,7 +8203,7 @@ Post type: wm_modules
 			<wp:meta_value><![CDATA[a:7:{s:7:"wm-link";s:0:"";s:14:"wm-link-action";s:5:"_self";s:11:"wm-icon-box";s:1:"1";s:12:"wm-icon-font";s:13:"icon-hospital";s:13:"wm-icon-color";s:0:"";s:24:"wm-icon-color-background";s:0:"";s:22:"wm-module-icon-section";N;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[For the real world]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -8419,7 +8419,7 @@ Post type: wm_modules
 			<wp:meta_value><![CDATA[1238]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Join our team]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8460,7 +8460,7 @@ Post type: wm_modules
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Find out how you can help]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8505,7 +8505,7 @@ Post type: wm_modules
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Explore our services]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8711,7 +8711,7 @@ Post type: wm_staff
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Nutrition Specialist]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8976,7 +8976,7 @@ Sat - Sun, 9:30 - 14:00";s:4:"name";s:11:"Doctor Name";s:5:"phone";s:16:"+421-90
 			<wp:meta_value><![CDATA[O:8:"stdClass":2:{s:3:"css";s:0:"";s:2:"js";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[CEO]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -9156,7 +9156,7 @@ Sat - Sun, 9:30 - 14:00";s:4:"name";s:11:"Doctor Name";s:5:"phone";s:16:"+421-90
 			<wp:meta_value><![CDATA[a:3:{s:7:"wm-link";s:53:"http://themedemos.webmandesign.eu/polyclinic/contact/";s:12:"wm-link-page";s:0:"";s:14:"wm-link-action";s:5:"_self";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Linking to a contact page]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -9221,7 +9221,7 @@ Donec gravida augue eget risus varius lacinia. Vestibulum gravida dictum est eu 
 			<wp:meta_value><![CDATA[a:3:{s:7:"wm-link";s:0:"";s:12:"wm-link-page";s:0:"";s:14:"wm-link-action";s:5:"_self";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[With a basic profile]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -9312,7 +9312,7 @@ Sat - Sun, 9:30 - 14:00";s:4:"name";s:11:"Doctor Name";s:5:"phone";s:16:"+421-90
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Page builder profile]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
