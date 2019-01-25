@@ -175,7 +175,7 @@ Etiam elementum, leo quis mollis sagittis, ex erat sollicitudin libero, id iacul
 			<wp:meta_value><![CDATA[437]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[With icons list]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -283,7 +283,7 @@ Praesent vehicula aliquam sollicitudin. Suspendisse porta diam in augue mollis l
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[No intro]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -375,7 +375,7 @@ Pellentesque mollis nulla quam, at ornare augue volutpat eu. Etiam elementum, le
 			<wp:meta_value><![CDATA[420]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[With intro widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -634,7 +634,7 @@ Pellentesque mollis nulla quam, at ornare augue volutpat eu. Etiam elementum, le
 			<wp:meta_value><![CDATA[432]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Comments enabled here]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -762,7 +762,7 @@ Aenean maximus, urna gravida dapibus accumsan, ante mauris semper ante, et lacin
 			<wp:meta_value><![CDATA[434]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Subtitle here]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -950,7 +950,7 @@ Post type: jetpack-testimonial
 			<wp:meta_value><![CDATA[eirikur-leifsson]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Subtitle on testimonial]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1016,7 +1016,7 @@ Post type: jetpack-testimonial
 			<wp:meta_value><![CDATA[dagmar-agnarsson]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Fisherwoman]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1082,7 +1082,7 @@ Post type: jetpack-testimonial
 			<wp:meta_value><![CDATA[arni-leifsson]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Fisherman]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1148,7 +1148,7 @@ Post type: jetpack-testimonial
 			<wp:meta_value><![CDATA[benedikt-ingolfsson]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Googlee, SEO]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -3637,7 +3637,7 @@ Vestibulum in mauris eleifend, egestas lectus et, vulputate orci.</p>
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[What we are up to&hellip;]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -3725,7 +3725,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in mauris el
 			<wp:meta_value><![CDATA[414]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[We have a rich history]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -3810,7 +3810,7 @@ This is a page with some basic contact information, such as an address and phone
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Get in touch with us now]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -4041,7 +4041,7 @@ To identify the Denisovans, Svante Paabo, a geneticist at the Planck Institute a
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Follow me to Slovakia!]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -4147,7 +4147,7 @@ Dr. Kurth said the background patter was likely oscillations of charged particle
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Recorded by Cassini spacecraft]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -4236,7 +4236,7 @@ Dr. Kurth said the background patter was likely oscillations of charged particle
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[With auto generated excerpt]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -4451,7 +4451,7 @@ If you experience any difficulty setting up post formats, please <a href="https:
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[This theme does not support post formats]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -4975,7 +4975,7 @@ A high-definition camera on the remotely operated vehicle can then capture the i
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[We have intro image here, but no featured image]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -5142,7 +5142,7 @@ To identify the Denisovans, Svante Paabo, a geneticist at the Planck Institute a
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Not displaying intro image here]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
