@@ -405,7 +405,7 @@
 
 	<generator>https://wordpress.org/?v=4.8.2</generator>
 
-	
+
 	<!--
 
 SECTION
@@ -492,7 +492,7 @@ Etiam elementum, leo quis mollis sagittis, ex erat sollicitudin libero, id iacul
 			<wp:meta_value><![CDATA[252]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[With icons list]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -592,7 +592,7 @@ Praesent vehicula aliquam sollicitudin. Suspendisse porta diam in augue mollis l
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[No intro]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -674,7 +674,7 @@ Pellentesque mollis nulla quam, at ornare augue volutpat eu. Etiam elementum, le
 			<wp:meta_value><![CDATA[143]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[With intro widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -827,7 +827,7 @@ Aenean maximus, urna gravida dapibus accumsan, ante mauris semper ante, et lacin
 			<wp:meta_value><![CDATA[142]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Comments enabled here]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
@@ -943,7 +943,7 @@ Aenean maximus, urna gravida dapibus accumsan, ante mauris semper ante, et lacin
 			<wp:meta_value><![CDATA[247]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Subtitle here]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1018,7 +1018,7 @@ Post type: jetpack-testimonial
 			<wp:meta_value><![CDATA[eirikur-leifsson]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Subtitle on testimonial]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1084,7 +1084,7 @@ Post type: jetpack-testimonial
 			<wp:meta_value><![CDATA[dagmar-agnarsson]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Fisherwoman]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1150,7 +1150,7 @@ Post type: jetpack-testimonial
 			<wp:meta_value><![CDATA[arni-leifsson]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Fisherman]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1216,7 +1216,7 @@ Post type: jetpack-testimonial
 			<wp:meta_value><![CDATA[benedikt-ingolfsson]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Googlee, SEO]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -4930,7 +4930,7 @@ Post type: page
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[The best on the market]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -5328,7 +5328,7 @@ Vestibulum in mauris eleifend, egestas lectus et, vulputate orci.</p>
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[What we are up to&hellip;]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -5420,7 +5420,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in mauris el
 			<wp:meta_value><![CDATA[110]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[We have a rich history]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -5581,7 +5581,7 @@ This is a page with some basic contact information, such as an address and phone
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Get in touch with us now]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -5660,7 +5660,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in mauris el
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Jetpack Portfolio shortcode example]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -5765,7 +5765,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in mauris el
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Jetpack Testimonials shortcode example]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -5867,7 +5867,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in mauris el
 			<wp:meta_value><![CDATA[110]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Ideal as a shop website homepage]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -6327,7 +6327,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in mauris el
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/reykjavik/?page_id=202</guid>
 		<description/>
 		<content:encoded><![CDATA[<h2>How to further control sidebar display?</h2>
-Sidebars and other widgetized areas display can be further controlled with <a href="https://wordpress.org/plugins/woosidebars/" target="_blank" rel="noopener noreferrer"><strong>WooSidebars</strong></a> plugin. If you only want to control display of specific widgets, you can use <a href="https://wordpress.org/plugins/jetpack/" target="_blank" rel="noopener noreferrer"><strong>Jetpack</strong></a> plugin’s <a href="https://jetpack.com/support/widget-visibility/" target="_blank" rel="noopener noreferrer">Visibility module</a> for that. Both of these will give you a great control over you website layouts.
+Sidebars and other widgetized areas display can be further controlled with a sidebar management plugin. If you only want to control display of specific widgets, you can use <a href="https://wordpress.org/plugins/jetpack/" target="_blank" rel="noopener noreferrer"><strong>Jetpack</strong></a> plugin’s <a href="https://jetpack.com/support/widget-visibility/" target="_blank" rel="noopener noreferrer">Visibility module</a> for that. Both of these will give you a great control over you website layouts.
 
 <hr />
 <p class="h3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas accumsan aliquet erat sed tincidunt. Vestibulum cursus neque quis dignissim hendrerit.</p>
@@ -6512,7 +6512,7 @@ Vestibulum in mauris eleifend, egestas lectus et, vulputate orci.</p>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Page builder example]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -6785,7 +6785,7 @@ Vestibulum in mauris eleifend, egestas lectus et, vulputate orci.</p>
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Page builder example]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -6897,7 +6897,7 @@ Iceland</p>]]></content:encoded>
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[And Privacy Policy]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -7091,7 +7091,7 @@ If you still need to use post formats, <a href="https://developer.wordpress.org/
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[This theme does not support post formats]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -7599,7 +7599,7 @@ A high-definition camera on the remotely operated vehicle can then capture the i
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[We have intro image here, but no featured image]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -7738,7 +7738,7 @@ To identify the Denisovans, Svante Paabo, a geneticist at the Planck Institute a
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Not displaying intro image here]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -7839,7 +7839,7 @@ To identify the Denisovans, Svante Paabo, a geneticist at the Planck Institute a
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Follow me to Slovakia!]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -7932,7 +7932,7 @@ Dr. Kurth said the background patter was likely oscillations of charged particle
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Recorded by Cassini spacecraft]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8022,7 +8022,7 @@ A high-definition camera on the remotely operated vehicle can then capture the i
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[With auto generated excerpt]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8251,7 +8251,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit, varius lectus libero mol
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[No reviews, just description]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8464,7 +8464,7 @@ You can easily disable the Intro section for any product. This can be done eithe
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Virtual product example]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8669,7 +8669,7 @@ You can easily disable the Intro section for any product. This can be done eithe
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Virtual product example]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -9090,7 +9090,7 @@ There is no product description here. Also no attributes are set to display. But
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[With intro widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -9328,7 +9328,7 @@ There is no page builder used to build this product layout. It&#039;s simply usi
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[With intro image and some reviews]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
@@ -9600,7 +9600,7 @@ Scroll down to see the layout built using a page builder. If you would like to r
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Page builder for product content]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -9842,7 +9842,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing, elit tempus viverra sociosqu 
 			<wp:meta_value><![CDATA[reykjavik_show_intro_widgets]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_subtitle]]></wp:meta_key>
+			<wp:meta_key><![CDATA[wps_subtitle]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Simple layout with product gallery]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>

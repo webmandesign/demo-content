@@ -12,7 +12,7 @@ You are browsing a repository for main demo content XML files of [**Reykjavik** 
     * [**Beaver Builder**](https://wordpress.org/plugins/beaver-builder-lite-version/) - page builder plugin used to build some of demo pages (make sure the page builder is enabled for Pages and Products post types - check this under **Settings &raquo; Page Builder &raquo; Post Types**),
     * [**WooSidebars**](https://wordpress.org/plugins/woosidebars/) - provides custom sidebars and widget areas functionality, allows you to disable sidebar on any page.
 3. **Optional plugins**: If you want to match your website exactly to [the theme demo website](http://themedemos.webmandesign.eu/reykjavik/), please install also these plugins: 
-    * [*Subtitles*](https://wordpress.org/plugins/subtitles/) - to display page/post subtitles used in the demo content,
+    * [*WP Subtitle*](https://wordpress.org/plugins/wp-subtitle/) - to display page/post subtitles used in the demo content,
     * [*Widget CSS Classes*](https://wordpress.org/plugins/widget-css-classes/) - allows applying layout CSS classes on theme demo [widgets](https://github.com/webmandesign/demo-content/tree/master/reykjavik/widgets),
     * [*Breadcrumbs NavXT*](https://wordpress.org/plugins/breadcrumb-navxt/) - for adding a perfect, SEO friendly [breadcrumbs navigation](http://en.wikipedia.org/wiki/Breadcrumb_%28navigation%29) (see [theme documentation](https://www.webmandesign.eu/manual/reykjavik/#breadcrumbs) for custom plugin setup),
     * [*Advanced Custom Fields*](https://wordpress.org/plugins/advanced-custom-fields/) - for easy [page/post attributes editing](https://www.webmandesign.eu/manual/reykjavik/#custom-fields),
