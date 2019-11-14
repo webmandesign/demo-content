@@ -3,7 +3,7 @@
 You are browsing the repository for the demo content files for [**Reykjavik** WordPress theme by WebManDesign.eu](https://www.webmandesign.eu/portfolio/reykjavik-wordpress-theme/).
 
 
-## How to
+## How to install theme demo content
 
 The easiest way to install theme demo content is using **One Click Demo Import** plugin:
 
@@ -15,6 +15,7 @@ The easiest way to install theme demo content is using **One Click Demo Import**
   ![One Click Demo Import plugin manual upload procedure](https://easycaptures.com/fs/uploaded/1417/4892725901.png)
 5. Now, after the demo content is imported, you can delete the One Click Demo Import plugin from your website. Your website should be set up as the theme demo website now.
 
+In case you experience an issue during the one-click demo content import, please [read the online information article](https://github.com/proteusthemes/one-click-demo-import/blob/master/docs/import-problems.md).
 
 ## Required plugins
 
