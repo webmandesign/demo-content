@@ -1,15 +1,31 @@
 # What is this?
 
-You are browsing the repository for the demo content files for [**Auberge** WordPress theme by WebMan](https://www.webmandesign.eu/portfolio/auberge-wordpress-theme/).
+You are browsing the repository for the demo content files for [**Auberge** WordPress theme by WebManDesign.eu](https://www.webmandesign.eu/portfolio/auberge-wordpress-theme/).
 
 
-## One-click installation
+## How to install theme demo content
 
-**Auberge** theme supports one-click demo content installation via your WordPress dashboard. Please refer to [theme documentation](https://www.webmandesign.eu/manual/auberge/#demo-content) for more information.
+The easiest way to install theme demo content is using **One Click Demo Import** plugin:
 
+1. Install and activate the [**One Click Demo Import** plugin](https://wordpress.org/plugins/one-click-demo-import/) in your WordPress website.
+2. [Download ZIP package](https://github.com/webmandesign/demo-content/raw/master/auberge/auberge-theme-demo.zip) of theme demo files to your computer and unpack the files.
+3. In your WordPress admin area navigate to **Appearance &rarr; Import Demo Data** and read the information. (Make sure you have all the demo content [required plugins](#required-plugins) installed and activated before proceeding with demo import.)
+4. Complete the "Manual demo files upload" procedure:
+  &nbsp;
+  ![One Click Demo Import plugin manual upload procedure](https://easycaptures.com/fs/uploaded/1417/4892725901.png)
+5. Now, after the demo content is imported, you can delete the One Click Demo Import plugin from your website. Your website should be set up as the theme demo website now.
 
-## Folder structure
+In case you experience an issue during the one-click demo content import, please [read the online information article](https://github.com/proteusthemes/one-click-demo-import/blob/master/docs/import-problems.md).
 
-* [`content/`](https://github.com/webmandesign/demo-content/tree/master/auberge/content) - The main WordPress demo content XML file with instructions on how to install resides here
-* [`widgets/`](https://github.com/webmandesign/demo-content/tree/master/auberge/widgets) - Widgets settings and instructions on how to install them
+## Required plugins
 
+To allow all the demo content to be imported in whole, please install these plugins (they are required for [one-click demo content installation](#one-click-installation) too):
+
+- [WebMan Amplifier](https://wordpress.org/plugins/webman-amplifier/) - provides recipes functionality, **works only with [paid **Auberge Plus** theme version](https://www.webmandesign.eu/portfolio/auberge-plus-wordpress-theme/#donate)**
+- [Beaver Builder](https://wordpress.org/plugins/beaver-builder-lite-version/) - page builder plugin used to build the demo content
+- [Jetpack](https://wordpress.org/plugins/jetpack/) - demo content includes [tiled galleries](https://jetpack.me/support/tiled-galleries/) which are feature of this plugin, also there is a contact form displayed on the "Contact" page - please enable these modules in your website Jetpack settings dashboard
+- [Restaurant Reservations](https://wordpress.org/plugins/restaurant-reservations/) - the reservation form displayed on "Reservations" page is provided with this plugin
+
+## Quality of imported media files
+
+Please understand that **demo images (and other media files) will be imported in low quality** and you should replace them with your own (properly copyrighted) images.
