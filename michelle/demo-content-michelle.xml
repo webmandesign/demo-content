@@ -14,14 +14,14 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
-<!-- generator="WordPress/5.3.2" created="2020-01-22 08:54" -->
+<!-- generator="WordPress/5.3.2" created="2020-01-22 10:34" -->
 <rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
 
 <channel>
 	<title>Michelle</title>
 	<link>http://themedemos.webmandesign.eu/michelle</link>
 	<description>Inclusive &amp; Accessible</description>
-	<pubDate>Wed, 22 Jan 2020 08:54:26 +0000</pubDate>
+	<pubDate>Wed, 22 Jan 2020 10:34:30 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://themedemos.webmandesign.eu/</wp:base_site_url>
@@ -78,9 +78,9 @@
 		<wp:tag_slug><![CDATA[page-template]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Page template]]></wp:tag_name>
 	</wp:tag>
-
-
-
+			
+		
+		
 		<wp:term>
 		<wp:term_id><![CDATA[38]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[jetpack-portfolio-type]]></wp:term_taxonomy>
@@ -319,6 +319,157 @@
 
 	<generator>https://wordpress.org/?v=5.3.2</generator>
 
+		
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				
 
 
 
@@ -335,8 +486,8 @@ Post type: jetpack-portfolio
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?post_type=jetpack-portfolio&amp;p=348</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:image {"align":"full","id":306,"sizeSlug":"large"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_curved-shadow-top-1200x100.png" alt="" class="wp-image-306"/></figure>
+		<content:encoded><![CDATA[<!-- wp:image {"align":"full","id":306,"sizeSlug":"full"} -->
+<figure class="wp-block-image alignfull size-full"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_curved-shadow-top.png" alt="" class="wp-image-306"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer -->
@@ -391,14 +542,14 @@ Post type: jetpack-portfolio
 
 <!-- wp:columns {"verticalAlignment":"bottom"} -->
 <div class="wp-block-columns are-vertically-aligned-bottom"><!-- wp:column {"verticalAlignment":"bottom"} -->
-<div class="wp-block-column is-vertically-aligned-bottom"><!-- wp:image {"id":491,"sizeSlug":"medium"} -->
-<figure class="wp-block-image size-medium"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_PettingDoodle-640x631.png" alt="" class="wp-image-491"/></figure>
+<div class="wp-block-column is-vertically-aligned-bottom"><!-- wp:image {"id":491,"sizeSlug":"thumbnail"} -->
+<figure class="wp-block-image size-thumbnail"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_PettingDoodle-480x473.png" alt="" class="wp-image-491"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"bottom"} -->
-<div class="wp-block-column is-vertically-aligned-bottom"><!-- wp:image {"id":498,"sizeSlug":"medium"} -->
-<figure class="wp-block-image size-medium"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_DogJumpDoodle-640x519.png" alt="" class="wp-image-498"/></figure>
+<div class="wp-block-column is-vertically-aligned-bottom"><!-- wp:image {"id":498,"sizeSlug":"thumbnail"} -->
+<figure class="wp-block-image size-thumbnail"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_DogJumpDoodle-480x389.png" alt="" class="wp-image-498"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -4079,8 +4230,8 @@ Post type: page
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":734,"sizeSlug":"large","className":"is-style-default"} -->
-<figure class="wp-block-image size-large is-style-default"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_man-wearing-dress-shirt-holding-dandelion-1250426.jpg" alt="" class="wp-image-734"/></figure>
+<div class="wp-block-column"><!-- wp:image {"id":734,"sizeSlug":"thumbnail","className":"is-style-default"} -->
+<figure class="wp-block-image size-thumbnail is-style-default"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_man-wearing-dress-shirt-holding-dandelion-1250426-480x640.jpg" alt="" class="wp-image-734"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"align":"center","level":3,"className":"has-no-margin-top"} -->
@@ -4275,8 +4426,8 @@ Post type: page
 <p class="has-text-align-center">Lorem ipsum dolor sit amet consectetur adipiscing, elit semper leo ante pharetra. Ad habitant accumsan quisque risus nec orci nunc, primis nisl aliquet mus enim maecenas, morbi fringilla donec torquent porttitor tristique.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"center","id":189,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_signature-webman-design-black-320.png" alt="" class="wp-image-189"/></figure></div>
+<!-- wp:image {"align":"center","id":189,"sizeSlug":"full"} -->
+<div class="wp-block-image"><figure class="aligncenter size-full"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_signature-webman-design-black-320.png" alt="" class="wp-image-189"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:spacer -->
@@ -4791,8 +4942,8 @@ Post type: page
 
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"align":"center","id":501,"sizeSlug":"thumbnail"} -->
-<div class="wp-block-image"><figure class="aligncenter size-thumbnail"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_SprintingDoodle-480x324.png" alt="" class="wp-image-501"/></figure></div>
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":501,"width":240,"height":162,"sizeSlug":"thumbnail"} -->
+<div class="wp-block-image"><figure class="aligncenter size-thumbnail is-resized"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_SprintingDoodle-480x324.png" alt="" class="wp-image-501" width="240" height="162"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:heading {"align":"center","className":"has-no-margin-top"} -->
@@ -4805,8 +4956,8 @@ Post type: page
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"align":"center","id":533,"sizeSlug":"thumbnail"} -->
-<div class="wp-block-image"><figure class="aligncenter size-thumbnail"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_ReadingSideDoodle-480x300.png" alt="" class="wp-image-533"/></figure></div>
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":533,"width":240,"height":150,"sizeSlug":"thumbnail"} -->
+<div class="wp-block-image"><figure class="aligncenter size-thumbnail is-resized"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_ReadingSideDoodle-480x300.png" alt="" class="wp-image-533" width="240" height="150"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:heading {"align":"center","className":"has-no-margin-top"} -->
@@ -4819,8 +4970,8 @@ Post type: page
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"align":"center","id":503,"sizeSlug":"thumbnail"} -->
-<div class="wp-block-image"><figure class="aligncenter size-thumbnail"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_chilling-480x309.png" alt="" class="wp-image-503"/></figure></div>
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":503,"width":240,"height":155,"sizeSlug":"thumbnail"} -->
+<div class="wp-block-image"><figure class="aligncenter size-thumbnail is-resized"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_chilling-480x309.png" alt="" class="wp-image-503" width="240" height="155"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:heading {"align":"center","className":"has-no-margin-top"} -->
@@ -5021,8 +5172,8 @@ Post type: page
 <p>Lorem ipsum dolor sit amet consectetur adipiscing, elit nibh tempor sodales posuere, scelerisque curabitur senectus porttitor nullam. Eget rutrum ac pretium metus class, aptent nisi taciti vel auctor, sociis cras cursus laoreet.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":189,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_signature-webman-design-black-320.png" alt="" class="wp-image-189"/></figure>
+<!-- wp:image {"id":189,"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_signature-webman-design-black-320.png" alt="" class="wp-image-189"/></figure>
 <!-- /wp:image -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet consectetur adipiscing, elit nibh tempor sodales posuere, scelerisque curabitur senectus porttitor nullam.]]></excerpt:encoded>
 		<wp:post_id>23</wp:post_id>
@@ -5365,8 +5516,8 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?page_id=29</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:image {"align":"full","id":307,"sizeSlug":"large"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_curved-shadow-bottom-1200x100.png" alt="" class="wp-image-307"/></figure>
+		<content:encoded><![CDATA[<!-- wp:image {"align":"full","id":307,"sizeSlug":"full"} -->
+<figure class="wp-block-image alignfull size-full"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_curved-shadow-bottom.png" alt="" class="wp-image-307"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":50} -->
@@ -5566,8 +5717,8 @@ Post type: page
 <!-- /wp:spacer -->
 
 <!-- wp:group {"align":"full"} -->
-<div class="wp-block-group alignfull"><div class="wp-block-group__inner-container"><!-- wp:image {"align":"center","id":539,"sizeSlug":"medium"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_PlantDoodle-640x597.png" alt="" class="wp-image-539"/></figure></div>
+<div class="wp-block-group alignfull"><div class="wp-block-group__inner-container"><!-- wp:image {"align":"center","id":539,"sizeSlug":"thumbnail"} -->
+<div class="wp-block-image"><figure class="aligncenter size-thumbnail"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_PlantDoodle-480x447.png" alt="" class="wp-image-539"/></figure></div>
 <!-- /wp:image --></div></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet consectetur adipiscing elit congue, felis aliquet est velit inceptos cum praesent habitant, magnis placerat integer posuere arcu fringilla dis. Cras montes sem mattis sed, id augue dictum.]]></excerpt:encoded>
@@ -5607,8 +5758,8 @@ Post type: page
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:image {"align":"full","id":307,"sizeSlug":"large"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_curved-shadow-bottom-1200x100.png" alt="" class="wp-image-307"/></figure>
+<!-- wp:image {"align":"full","id":307,"sizeSlug":"full"} -->
+<figure class="wp-block-image alignfull size-full"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_curved-shadow-bottom.png" alt="" class="wp-image-307"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:media-text {"mediaId":491,"mediaType":"image","isStackedOnMobile":true,"verticalAlignment":"center"} -->
@@ -5819,8 +5970,8 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?page_id=41</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:image {"id":503,"sizeSlug":"medium"} -->
-<figure class="wp-block-image size-medium"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_chilling-640x413.png" alt="" class="wp-image-503"/></figure>
+		<content:encoded><![CDATA[<!-- wp:image {"align":"center","id":503,"sizeSlug":"thumbnail"} -->
+<div class="wp-block-image"><figure class="aligncenter size-thumbnail"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_chilling-480x309.png" alt="" class="wp-image-503"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
@@ -6166,8 +6317,8 @@ Post type: post
 <p>The facts relating to this apparition (entered in various log-books) agreed in most respects as to the shape of the object or creature in question, the untiring rapidity of its movements, its surprising power of locomotion, and the peculiar life with which it seemed endowed. If it was a whale, it surpassed in size all those hitherto classified in science. Taking into consideration the mean of observations made at divers times-- rejecting the timid estimate of those who assigned to this object a length of two hundred feet, equally with the exaggerated opinions which set it down as a mile in width and three in length--we might fairly conclude that this mysterious being surpassed greatly all dimensions admitted by the learned ones of the day, if it existed at all. And that it did exist was an undeniable fact; and, with that tendency which disposes the human mind in favour of the marvellous, we can understand the excitement produced in the entire world by this supernatural apparition. As to classing it in the list of fables, the idea was out of the question.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"full","id":306,"sizeSlug":"large"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_curved-shadow-top-1200x100.png" alt="" class="wp-image-306"/></figure>
+<!-- wp:image {"align":"full","id":306,"sizeSlug":"full"} -->
+<figure class="wp-block-image alignfull size-full"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_curved-shadow-top.png" alt="" class="wp-image-306"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer -->
@@ -6178,8 +6329,8 @@ Post type: post
 <p>On the 20th of July, 1866, the steamer Governor Higginson, of the Calcutta and Burnach Steam Navigation Company, had met this moving mass five miles off the east coast of Australia. Captain Baker thought at first that he was in the presence of an unknown sandbank; he even prepared to determine its exact position when two columns of water, projected by the mysterious object, shot with a hissing noise a hundred and fifty feet up into the air. Now, unless the sandbank had been submitted to the intermittent eruption of a geyser, the Governor Higginson had to do neither more nor less than with an aquatic mammal, unknown till then, which threw up from its blow-holes columns of water mixed with air and vapour.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"full","id":306,"sizeSlug":"large"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_curved-shadow-top-1200x100.png" alt="" class="wp-image-306"/></figure>
+<!-- wp:image {"align":"full","id":306,"sizeSlug":"full"} -->
+<figure class="wp-block-image alignfull size-full"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_curved-shadow-top.png" alt="" class="wp-image-306"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer -->
