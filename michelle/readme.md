@@ -1,6 +1,6 @@
 # What is this?
 
-You are browsing the repository for the demo content files for [**Michelle** WordPress theme by WebManDesign.eu](https://www.webmandesign.eu/portfolio/michelle-wordpress-theme/).
+You are browsing a demo content files repository for [**Michelle** WordPress theme by WebManDesign.eu](https://www.webmandesign.eu/portfolio/michelle-wordpress-theme/).
 
 
 ## Quality of imported media files
