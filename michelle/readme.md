@@ -3,6 +3,13 @@
 You are browsing the repository for the demo content files for [**Michelle** WordPress theme by WebManDesign.eu](https://www.webmandesign.eu/portfolio/michelle-wordpress-theme/).
 
 
+## Quality of imported media files
+
+To prevent any copyright infringement, please understand that **demo media files (such as images) will be imported in low quality** and may also contain a watermark. You should replace them with your own, properly copyrighted images.
+
+(Some useful sources for obtaining copyright free images: [StockSnap](https://stocksnap.io/), [Pexels](https://www.pexels.com), [Unsplash](https://unsplash.com), [Open Doodles](https://www.opendoodles.com/), [Ouch!](https://icons8.com/ouch/).)
+
+
 ## Automatic theme demo content installation
 
 This is a commercial theme and so it contains an automatic, true one-click theme demo installation functionality. Just install and activate the [**One Click Demo Import** plugin](https://wordpress.org/plugins/one-click-demo-import/) in your WordPress website and navigate to **Appearance &rarr; Import Demo Data** to run the demo content import procedure.
@@ -25,12 +32,14 @@ The easiest way to install theme demo content is using **One Click Demo Import**
 
 In case you experience an issue during the one-click demo content import, please [read the online information article](https://github.com/proteusthemes/one-click-demo-import/blob/master/docs/import-problems.md).
 
+
 ## Required plugins
 
 To allow all the demo content to be imported in whole, please install these plugins (they are required for [one-click demo content installation](#one-click-installation) too):
 
 - [**Jetpack**](https://wordpress.org/plugins/webman-amplifier/) - provides additional Portfolio and Testimonials custom post types (please do not forget to [enable these post types in plugin settings](https://jetpack.com/support/custom-content-types/)), and other cool features, ([how to install Jetpack?](https://jetpack.com/support/installing-jetpack/)),
 - [**WooCommerce**](https://wordpress.org/plugins/woocommerce/) - provides e-commerce functionality.
+
 
 ## Optional plugins
 
@@ -39,7 +48,3 @@ If you want to match your website exactly to [the theme demo website](http://the
 - [*Widget CSS Classes*](https://wordpress.org/plugins/widget-css-classes/) - allows applying layout CSS classes on theme demo widgets,
 - [*Breadcrumbs NavXT*](https://wordpress.org/plugins/breadcrumb-navxt/) - for adding a perfect, SEO friendly [breadcrumbs navigation](http://en.wikipedia.org/wiki/Breadcrumb_%28navigation%29) (see [theme documentation](https://webmandesign.github.io/docs/michelle/#breadcrumbs) for custom plugin setup),
 - ...and you can use any other plugin you want. See [theme documentation](https://webmandesign.github.io/docs/michelle/#plugins-others) for information on some additional, tested and recommended plugins.
-
-## Quality of imported media files
-
-Please understand that **demo images (and other media files) will be imported in low quality** and you should replace them with your own (properly copyrighted) images.
