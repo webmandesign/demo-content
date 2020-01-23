@@ -3,15 +3,23 @@
 You are browsing the repository for the demo content files for [**Michelle** WordPress theme by WebManDesign.eu](https://www.webmandesign.eu/portfolio/michelle-wordpress-theme/).
 
 
-## How to install theme demo content
+## Automatic theme demo content installation
+
+This is a commercial theme and so it contains an automatic, true one-click theme demo installation functionality. Just install and activate the [**One Click Demo Import** plugin](https://wordpress.org/plugins/one-click-demo-import/) in your WordPress website and navigate to **Appearance &rarr; Import Demo Data** to run the demo content import procedure.
+
+Also, do not forget to enable the demo content [required plugins](#required-plugins) beforehand!
+
+*(**Info**: Due to WordPress requirements no free theme provided via WordPress themes repository can contain automatic demo content installation functionality. So, such functionality is only available in commercial themes.)*  
+
+
+## How to install theme demo content manually
 
 The easiest way to install theme demo content is using **One Click Demo Import** plugin:
 
 1. Install and activate the [**One Click Demo Import** plugin](https://wordpress.org/plugins/one-click-demo-import/) in your WordPress website.
 2. [Download ZIP package](https://github.com/webmandesign/demo-content/raw/master/michelle/michelle-theme-demo.zip) of theme demo files to your computer and unpack the files.
 3. In your WordPress admin area navigate to **Appearance &rarr; Import Demo Data** and read the information. (Make sure you have all the demo content [required plugins](#required-plugins) installed and activated before proceeding with demo import.)
-4. Complete the "Manual demo files upload" procedure:
-  &nbsp;
+4. Complete the "Manual demo files upload" procedure:<br><br>
   ![One Click Demo Import plugin manual upload procedure](https://easycaptures.com/fs/uploaded/1417/4892725901.png)
 5. Now, after the demo content is imported, you can delete the One Click Demo Import plugin from your website. Your website should be set up as the theme demo website now.
 
