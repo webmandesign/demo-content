@@ -12,7 +12,7 @@ Also, do not forget to enable the demo content [required plugins](#required-plug
 *(**Info**: Due to WordPress requirements no free theme provided via WordPress themes repository can contain automatic demo content installation functionality. So, such functionality is only available in commercial themes.)*  
 
 
-## How to install theme demo content manually
+## Manual theme demo content installation
 
 The easiest way to install theme demo content is using **One Click Demo Import** plugin:
 
