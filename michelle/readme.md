@@ -37,6 +37,7 @@ In case you experience an issue during the one-click demo content import, please
 
 To allow all the demo content to be imported in whole, please install these plugins (they are required for [one-click demo content installation](#one-click-installation) too):
 
+- [**CoBlocks**](https://wordpress.org/plugins/coblocks/) - collection of page building blocks for WordPress block editor,
 - [**Jetpack**](https://wordpress.org/plugins/webman-amplifier/) - provides additional Portfolio and Testimonials custom post types (please do not forget to [enable these post types in plugin settings](https://jetpack.com/support/custom-content-types/)), and other cool features, ([how to install Jetpack?](https://jetpack.com/support/installing-jetpack/)),
 - [**WooCommerce**](https://wordpress.org/plugins/woocommerce/) - provides e-commerce functionality.
 
