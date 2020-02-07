@@ -14,14 +14,14 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
-<!-- generator="WordPress/5.3.2" created="2020-02-05 12:51" -->
+<!-- generator="WordPress/5.3.2" created="2020-02-07 17:49" -->
 <rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
 
 <channel>
 	<title>Michelle</title>
 	<link>http://themedemos.webmandesign.eu/michelle</link>
 	<description>Inclusive &amp; Accessible</description>
-	<pubDate>Wed, 05 Feb 2020 12:51:01 +0000</pubDate>
+	<pubDate>Fri, 07 Feb 2020 17:49:57 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://themedemos.webmandesign.eu/</wp:base_site_url>
@@ -78,9 +78,9 @@
 		<wp:tag_slug><![CDATA[page-template]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Page template]]></wp:tag_name>
 	</wp:tag>
-
-
-
+			
+		
+		
 		<wp:term>
 		<wp:term_id><![CDATA[38]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[jetpack-portfolio-type]]></wp:term_taxonomy>
@@ -319,6 +319,166 @@
 
 	<generator>https://wordpress.org/?v=5.3.2</generator>
 
+		
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				
+
+
 
 <!--
 
@@ -540,7 +700,7 @@ Post type: jetpack-portfolio
 		<content:encoded><![CDATA[<!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":33.33} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:paragraph {"fontSize":"large"} -->
-<p class="has-large-font-size">Big a in much a of pink allow theoretically put had wanted have gm the must makers to was the are their process been mountains, in the forth. Must a like rewritten the wellfeigned regulatory issues the complicated the after for to in my of, finds remote on retired, slightly.</p>
+<p class="has-large-font-size">Big a in much a of pink allow theoretically put had wanted have gm the must makers to was the are their process been mountains, in the forth. Must a like rewritten the regulatory issues the the after for to in my of, finds remote on retired, slightly.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -2567,13 +2727,13 @@ Post type: nav_menu_item
 		</wp:postmeta>
 							</item>
 	<item>
-		<title>About Freelancer</title>
+		<title/>
 		<link>http://themedemos.webmandesign.eu/michelle/134/</link>
 		<pubDate>Fri, 17 Jan 2020 16:09:45 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?p=134</guid>
 		<description/>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>134</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-17 17:09:45]]></wp:post_date>
@@ -2842,13 +3002,13 @@ Post type: nav_menu_item
 		</wp:postmeta>
 							</item>
 	<item>
-		<title>Home Portfolio</title>
+		<title/>
 		<link>http://themedemos.webmandesign.eu/michelle/home-portfolio/</link>
 		<pubDate>Fri, 17 Jan 2020 16:09:45 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?p=140</guid>
 		<description/>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>140</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-17 17:09:45]]></wp:post_date>
@@ -2897,13 +3057,13 @@ Post type: nav_menu_item
 		</wp:postmeta>
 							</item>
 	<item>
-		<title>Home Shop</title>
+		<title/>
 		<link>http://themedemos.webmandesign.eu/michelle/home-shop/</link>
 		<pubDate>Fri, 17 Jan 2020 16:09:45 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?p=141</guid>
 		<description/>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>141</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-17 17:09:45]]></wp:post_date>
@@ -3997,13 +4157,13 @@ Post type: nav_menu_item
 		</wp:postmeta>
 							</item>
 	<item>
-		<title>Gallery</title>
+		<title/>
 		<link>http://themedemos.webmandesign.eu/michelle/gallery/</link>
 		<pubDate>Sun, 26 Jan 2020 10:56:35 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?p=811</guid>
 		<description/>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>811</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-26 11:56:35]]></wp:post_date>
@@ -4217,13 +4377,13 @@ Post type: nav_menu_item
 		</wp:postmeta>
 							</item>
 	<item>
-		<title>Home Agency</title>
+		<title/>
 		<link>http://themedemos.webmandesign.eu/michelle/980/</link>
 		<pubDate>Thu, 30 Jan 2020 15:15:49 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?p=980</guid>
 		<description/>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>980</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-30 16:15:49]]></wp:post_date>
@@ -4382,13 +4542,13 @@ Post type: nav_menu_item
 		</wp:postmeta>
 							</item>
 	<item>
-		<title>Contact Vertical</title>
+		<title/>
 		<link>http://themedemos.webmandesign.eu/michelle/contact-2-2/</link>
 		<pubDate>Sat, 01 Feb 2020 16:17:56 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?p=1155</guid>
 		<description/>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1155</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-01 17:17:56]]></wp:post_date>
@@ -4599,6 +4759,61 @@ Post type: nav_menu_item
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+	<item>
+		<title>RTL</title>
+		<link>http://themedemos.webmandesign.eu/michelle/rtl/</link>
+		<pubDate>Thu, 06 Feb 2020 07:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?p=1478</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Switches the current page to Right To Left language layout]]></excerpt:encoded>
+		<wp:post_id>1478</wp:post_id>
+		<wp:post_date><![CDATA[2020-02-06 08:23:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-02-06 07:23:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[rtl]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>45</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1478]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[?d=rtl]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 
@@ -5117,21 +5332,15 @@ Post type: page
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer mt-0"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p>Home, at so of what regulatory and the felt impact their how to in of maybe eating he alphabet begin mouth. Refinement sleep get beginnings, is it problems occupied the any endeavours, it getting had like…. Them outfits her because doctor's and high trying. Great for talking enough feedback temple.</p>
+<!-- wp:media-text {"mediaPosition":"right","mediaId":1309,"mediaType":"image","isStackedOnMobile":true,"verticalAlignment":"center","imageFill":true} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center is-image-fill"><figure class="wp-block-media-text__media" style="background-image:url(https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_dots-gray.png);background-position:50% 50%"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_dots-gray.png" alt="Do not forget to set image alt text!" class="wp-image-1309"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<p>Home, at so of what regulatory and the felt impact their how to in of maybe eating he alphabet begin mouth. Refinement sleep get beginnings, is it problems occupied the any endeavours, it getting had like…. Them outfits her because doctor's and high trying.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:button -->
 <div class="wp-block-button"><a class="wp-block-button__link" href="#0">Our services</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
+<!-- /wp:button --></div></div>
+<!-- /wp:media-text -->
 
 <!-- wp:spacer {"height":150,"noBottomMargin":true} -->
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer mb-0"></div>
@@ -5358,8 +5567,8 @@ Post type: page
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:coblocks/media-card {"mediaId":912,"mediaType":"image","align":"","coblocks":{"id":"1592937151"}} -->
-<div class="wp-block-coblocks-media-card is-style-left is-stacked-on-mobile coblocks-media-card-1592937151"><div class="wp-block-coblocks-media-card__inner has-no-padding"><div class="wp-block-coblocks-media-card__wrapper"><figure class="wp-block-coblocks-media-card__media"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_black-lamp-on-white-table-945225-1200x1600.jpg" alt="" class="wp-image-912"/></figure><div class="wp-block-coblocks-media-card__content"><!-- wp:coblocks/row {"paddingSize":"medium","hasMarginControl":false,"hasAlignmentControls":false,"hasStackedControl":false,"customBackgroundColor":"#FFFFFF","columns":1,"layout":"100","coblocks":{"id":"1592937274"}} -->
-<div class="wp-block-coblocks-row coblocks-row-1592937274" data-columns="1" data-layout="100"><div class="wp-block-coblocks-row__inner has-background has-medium-gutter has-padding has-medium-padding has-no-margin is-stacked-on-mobile" style="background-color:#FFFFFF"><!-- wp:coblocks/column {"width":"100","coblocks":{"id":"1592937284"}} -->
+<div class="wp-block-coblocks-media-card is-style-left is-stacked-on-mobile coblocks-media-card-1592937151"><div class="wp-block-coblocks-media-card__inner has-no-padding"><div class="wp-block-coblocks-media-card__wrapper"><figure class="wp-block-coblocks-media-card__media"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_black-lamp-on-white-table-945225-1200x1600.jpg" alt="" class="wp-image-912"/></figure><div class="wp-block-coblocks-media-card__content"><!-- wp:coblocks/row {"paddingSize":"large","hasMarginControl":false,"hasAlignmentControls":false,"hasStackedControl":false,"customBackgroundColor":"#FFFFFF","columns":1,"layout":"100","coblocks":{"id":"1592937274"}} -->
+<div class="wp-block-coblocks-row coblocks-row-1592937274" data-columns="1" data-layout="100"><div class="wp-block-coblocks-row__inner has-background has-medium-gutter has-padding has-large-padding has-no-margin is-stacked-on-mobile" style="background-color:#FFFFFF"><!-- wp:coblocks/column {"width":"100","coblocks":{"id":"1592937284"}} -->
 <div class="wp-block-coblocks-column coblocks-column-1592937284" style="width:100%"><div class="wp-block-coblocks-column__inner has-no-padding has-no-margin"><!-- wp:heading {"level":3,"placeholder":"Add heading…"} -->
 <h3>Shop Category</h3>
 <!-- /wp:heading -->
@@ -5382,8 +5591,8 @@ Post type: page
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:coblocks/media-card {"backgroundImg":"","backgroundPosition":"","backgroundSize":"cover","mediaId":911,"mediaType":"image","align":"","coblocks":{"id":"1592937151"}} -->
-<div class="wp-block-coblocks-media-card is-style-left is-stacked-on-mobile coblocks-media-card-1592937151"><div class="wp-block-coblocks-media-card__inner has-no-padding"><div class="wp-block-coblocks-media-card__wrapper"><figure class="wp-block-coblocks-media-card__media"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_green-leaf-plant-beside-brown-electric-guitar-on-sofa-892617-1200x1600.jpg" alt="" class="wp-image-911"/></figure><div class="wp-block-coblocks-media-card__content"><!-- wp:coblocks/row {"paddingSize":"medium","hasMarginControl":false,"hasAlignmentControls":false,"hasStackedControl":false,"customBackgroundColor":"#FFFFFF","columns":1,"layout":"100","coblocks":{"id":"1592937274"}} -->
-<div class="wp-block-coblocks-row coblocks-row-1592937274" data-columns="1" data-layout="100"><div class="wp-block-coblocks-row__inner has-background has-medium-gutter has-padding has-medium-padding has-no-margin is-stacked-on-mobile" style="background-color:#FFFFFF"><!-- wp:coblocks/column {"width":"100","coblocks":{"id":"1592937284"}} -->
+<div class="wp-block-coblocks-media-card is-style-left is-stacked-on-mobile coblocks-media-card-1592937151"><div class="wp-block-coblocks-media-card__inner has-no-padding"><div class="wp-block-coblocks-media-card__wrapper"><figure class="wp-block-coblocks-media-card__media"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_green-leaf-plant-beside-brown-electric-guitar-on-sofa-892617-1200x1600.jpg" alt="" class="wp-image-911"/></figure><div class="wp-block-coblocks-media-card__content"><!-- wp:coblocks/row {"paddingSize":"large","hasMarginControl":false,"hasAlignmentControls":false,"hasStackedControl":false,"customBackgroundColor":"#FFFFFF","columns":1,"layout":"100","coblocks":{"id":"1592937274"}} -->
+<div class="wp-block-coblocks-row coblocks-row-1592937274" data-columns="1" data-layout="100"><div class="wp-block-coblocks-row__inner has-background has-medium-gutter has-padding has-large-padding has-no-margin is-stacked-on-mobile" style="background-color:#FFFFFF"><!-- wp:coblocks/column {"width":"100","coblocks":{"id":"1592937284"}} -->
 <div class="wp-block-coblocks-column coblocks-column-1592937284" style="width:100%"><div class="wp-block-coblocks-column__inner has-no-padding has-no-margin"><!-- wp:heading {"level":3,"placeholder":"Add heading…"} -->
 <h3>Another Category</h3>
 <!-- /wp:heading -->
@@ -5529,11 +5738,11 @@ Post type: page
 <!-- /wp:coblocks/icon -->
 
 <!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4>Accessibility Ready</h4>
+<h4>Inclusive</h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-1"} -->
-<p class="has-text-color has-palette-1-color">This theme is for everyone - literally! We don't restrain your website visitors, we don't make their life harder.</p>
+<p class="has-text-color has-palette-1-color">This theme is for everyone - literally! We don't restrain your website visitors, we don't make their lifes harder.</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:coblocks/feature -->
 
@@ -5567,69 +5776,165 @@ Post type: page
 <!-- /wp:coblocks/features --></div></div>
 <!-- /wp:group -->
 
-<!-- wp:spacer {"height":150} -->
+<!-- wp:html -->
+<style>
+[src*="dl.dropbox"] { border-width: 1px; border-style: solid; box-shadow: 0 0.5em 2em rgba(0,0,0,.25); }
+h3 a { text-decoration: none; color: inherit; }
+.link-color-inherit a { color: inherit; }
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"backgroundColor":"palette-4","align":"full","noBottomMargin":true} -->
+<div class="wp-block-group alignfull has-palette-4-background-color has-background mb-0"><div class="wp-block-group__inner-container"><!-- wp:spacer {"height":150} -->
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:media-text {"align":"","mediaId":929,"mediaType":"image","isStackedOnMobile":true} -->
-<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_architectural-design-architecture-building-colors-534247-1200x1800.jpg" alt="" class="wp-image-929"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
-<h2>Agency<br />Home</h2>
+<!-- wp:heading {"align":"center"} -->
+<h2 class="has-text-align-center">Home page examples</h2>
 <!-- /wp:heading -->
 
-<!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/michelle/">Visit the page</a></div>
-<!-- /wp:button --></div></div>
-<!-- /wp:media-text -->
-
-<!-- wp:media-text {"align":"","mediaPosition":"right","mediaId":929,"mediaType":"image","isStackedOnMobile":true} -->
-<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_architectural-design-architecture-building-colors-534247-1200x1800.jpg" alt="" class="wp-image-929"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
-<h2>Portfolio<br />Home</h2>
-<!-- /wp:heading -->
-
-<!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/michelle/home-2/">Visit the page</a></div>
-<!-- /wp:button --></div></div>
-<!-- /wp:media-text -->
-
-<!-- wp:media-text {"align":"","mediaId":929,"mediaType":"image","isStackedOnMobile":true} -->
-<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_architectural-design-architecture-building-colors-534247-1200x1800.jpg" alt="" class="wp-image-929"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
-<h2>Shop<br />Home</h2>
-<!-- /wp:heading -->
-
-<!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/michelle/home-3/">Visit the page</a></div>
-<!-- /wp:button --></div></div>
-<!-- /wp:media-text -->
-
-<!-- wp:spacer {"height":150} -->
-<div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:coblocks/shape-divider {"color":"palette-4","justAdded":false,"className":"is-style-hills","coblocks":{"id":"1511755942"}} -->
-<div class="wp-block-coblocks-shape-divider alignfull has-palette-4-color coblocks-shape-divider-1511755942 is-style-hills mb-0 mt-0" aria-hidden="true"><div class="wp-block-coblocks-shape-divider__svg-wrapper" style="min-height:100px"><svg class="divider--hills" viewbox="0 0 1920 105" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none" role="img" aria-hidden="true" focusable="false"><g fillrule="evenodd" transform="matrix(1 0 0 -1 0 105)"><path d="m1920 14.8827052c-116.23325 0-224.05162 88.3906828-395.09265 88.3906828-160.92196 0-254.53172-83.4344997-444.90735-83.4344997-154.297581 0-240.095847 39.6344097-367.66819 39.6344097-154.121863 0-198.902329-36.1223133-349.458242-36.1223133-144.878137 0-241.175717 80.8685493-362.873568 80.8685493 0-34.0793243 0-68.1494291 0-102.219534h1920z"></path><path d="m1920 14.6612844c-116.11434 0-223.9659 88.8291396-395.06196 88.8291396-160.92415 0-254.54487-83.7874573-444.93804-83.7874573-154.317311 0-240.088941 39.8974838-367.565152 39.8974838-154.034172 0-198.792715-36.4840402-349.164477-36.4840402-144.965828 0-241.283139 81.1250467-363.270371 81.1250467 0-34.7474052 0-69.4948104 0-104.241457h1920z"></path></g></svg></div><div class="wp-block-coblocks-shape-divider__alt-wrapper" style="min-height:50px"></div></div>
-<!-- /wp:coblocks/shape-divider -->
-
-<!-- wp:group {"backgroundColor":"palette-4","align":"full","className":"has-no-padding","noTopMargin":true} -->
-<div class="wp-block-group alignfull has-palette-4-background-color has-background has-no-padding mt-0"><div class="wp-block-group__inner-container"><!-- wp:spacer -->
+<!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">This page uses <a href="https://webmandesign.github.io/docs/michelle/#page-templates">"Content only" page template</a>, which is perfect for landing pages. It does not display theme header and footer, just content area.</p>
-<!-- /wp:paragraph -->
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/michelle/"><img src="https://dl.dropboxusercontent.com/s/u1ng9db2i7onylj/agency.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
 
-<!-- wp:button {"textColor":"palette-1","align":"center","className":"is-style-outline"} -->
-<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-text-color has-palette-1-color" href="https://themedemos.webmandesign.eu/michelle/">Back to homepage</a></div>
-<!-- /wp:button -->
+<!-- wp:heading {"align":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
+<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" style="text-transform:uppercase;letter-spacing:3px;font-size:20px"><a href="https://themedemos.webmandesign.eu/michelle/">Agency</a></h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/michelle/home-2/"><img src="https://dl.dropboxusercontent.com/s/b0kcz3sq639opyu/portfolio.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"align":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
+<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" style="text-transform:uppercase;letter-spacing:3px;font-size:20px"><a href="https://themedemos.webmandesign.eu/michelle/home-2/">Portfolio</a></h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/michelle/home-3/"><img src="https://dl.dropboxusercontent.com/s/rhpqm0ia19se6eg/shop.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"align":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
+<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" style="text-transform:uppercase;letter-spacing:3px;font-size:20px"><a href="https://themedemos.webmandesign.eu/michelle/home-3/">Agency</a></h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:coblocks/shape-divider {"color":"color-accent-text","backgroundColor":"palette-4","justAdded":false,"className":"is-style-hills","coblocks":{"id":"1718400870"}} -->
+<div class="wp-block-coblocks-shape-divider alignfull has-color-accent-text-color has-palette-4-background-color coblocks-shape-divider-1718400870 is-style-hills mb-0 mt-0" aria-hidden="true"><div class="wp-block-coblocks-shape-divider__svg-wrapper" style="min-height:100px"><svg class="divider--hills" viewbox="0 0 1920 105" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none" role="img" aria-hidden="true" focusable="false"><g fillrule="evenodd" transform="matrix(1 0 0 -1 0 105)"><path d="m1920 14.8827052c-116.23325 0-224.05162 88.3906828-395.09265 88.3906828-160.92196 0-254.53172-83.4344997-444.90735-83.4344997-154.297581 0-240.095847 39.6344097-367.66819 39.6344097-154.121863 0-198.902329-36.1223133-349.458242-36.1223133-144.878137 0-241.175717 80.8685493-362.873568 80.8685493 0-34.0793243 0-68.1494291 0-102.219534h1920z"></path><path d="m1920 14.6612844c-116.11434 0-223.9659 88.8291396-395.06196 88.8291396-160.92415 0-254.54487-83.7874573-444.93804-83.7874573-154.317311 0-240.088941 39.8974838-367.565152 39.8974838-154.034172 0-198.792715-36.4840402-349.164477-36.4840402-144.965828 0-241.283139 81.1250467-363.270371 81.1250467 0-34.7474052 0-69.4948104 0-104.241457h1920z"></path></g></svg></div><div class="wp-block-coblocks-shape-divider__alt-wrapper" style="min-height:50px"></div></div>
+<!-- /wp:coblocks/shape-divider -->
+
+<!-- wp:spacer {"height":150,"noTopMargin":true} -->
+<div style="height:150px" aria-hidden="true" class="wp-block-spacer mt-0"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"align":"center"} -->
+<h2 class="has-text-align-center">Internal page examples</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/michelle/about-5/"><img src="https://dl.dropboxusercontent.com/s/t138lalpo1idiu1/page-about-person.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"align":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
+<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" style="text-transform:uppercase;letter-spacing:3px;font-size:20px"><a href="https://themedemos.webmandesign.eu/michelle/about-5/">About person</a></h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/michelle/services-4/"><img src="https://dl.dropboxusercontent.com/s/pz2r3mwngylj9kw/page-services-minimal.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"align":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
+<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" style="text-transform:uppercase;letter-spacing:3px;font-size:20px"><a href="https://themedemos.webmandesign.eu/michelle/services-4/">Services minimal</a></h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/michelle/faq-1/"><img src="https://dl.dropboxusercontent.com/s/5as89pbn7qhzydb/page-faq-1.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"align":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
+<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" style="text-transform:uppercase;letter-spacing:3px;font-size:20px"><a href="https://themedemos.webmandesign.eu/michelle/faq-1/">FAQ simple</a></h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/michelle/contact-1/"><img src="https://dl.dropboxusercontent.com/s/07wusayv6i2rixf/page-contact.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"align":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
+<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" style="text-transform:uppercase;letter-spacing:3px;font-size:20px"><a href="https://themedemos.webmandesign.eu/michelle/contact-1/">Contact</a></h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/michelle/pricing-1/"><img src="https://dl.dropboxusercontent.com/s/ekutb9cdfoii8n3/page-pricing.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"align":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
+<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" style="text-transform:uppercase;letter-spacing:3px;font-size:20px"><a href="https://themedemos.webmandesign.eu/michelle/pricing-1/">Pricing</a></h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/michelle/gallery-1/"><img src="https://dl.dropboxusercontent.com/s/8izoddrua8wisxi/page-gallery.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"align":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
+<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" style="text-transform:uppercase;letter-spacing:3px;font-size:20px"><a href="https://themedemos.webmandesign.eu/michelle/gallery-1/">Gallery</a></h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
 
 <!-- wp:spacer {"height":150} -->
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:image {"align":"full","id":1205,"sizeSlug":"full","className":"is-style-top-wave"} -->
-<figure class="wp-block-image alignfull size-full is-style-top-wave"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_macro-photograph-of-grass-1090977-narrow.jpg" alt="" class="wp-image-1205"/></figure>
-<!-- /wp:image --></div></div>
-<!-- /wp:group -->]]></content:encoded>
+<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1198,"minHeight":653,"align":"full"} -->
+<div class="wp-block-cover alignfull has-background-dim" style="background-image:url(https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg);min-height:653px"><div class="wp-block-cover__inner-container"><!-- wp:media-text {"mediaId":1197,"mediaType":"image","isStackedOnMobile":true} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_dots-white.png" alt="" class="wp-image-1197"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"className":"link-color-inherit"} -->
+<p class="link-color-inherit">This page uses <a href="https://webmandesign.github.io/docs/michelle/#page-templates">"Content only" page template</a>, which is perfect for landing pages. It does not display theme header and footer, just content area.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:coblocks/buttons {"isStackedOnMobile":true} -->
+<div class="wp-block-coblocks-buttons"><div class="wp-block-coblocks-buttons__inner flex-align-left is-stacked-on-mobile"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="#purchaselink">Purchase</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"textColor":"color-accent-text","className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color has-color-accent-text-color" href="https://themedemos.webmandesign.eu/michelle/">Back to home</a></div>
+<!-- /wp:button --></div></div>
+<!-- /wp:coblocks/buttons --></div></div>
+<!-- /wp:media-text --></div></div>
+<!-- /wp:cover -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-15 21:31:04]]></wp:post_date>
@@ -6403,8 +6708,8 @@ Post type: page
 <div class="wp-block-coblocks-shape-divider alignfull has-palette-4-color has-color-accent-text-background-color coblocks-shape-divider-14155024562 mb-0" aria-hidden="true"><div class="wp-block-coblocks-shape-divider__svg-wrapper" style="min-height:100px"><svg class="divider--wavy" viewbox="0 0 100 10" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none" role="img" aria-hidden="true" focusable="false"><path d="m42.19.65c2.26-.25 5.15.04 7.55.53 2.36.49 7.09 2.35 10.05 3.57 7.58 3.22 13.37 4.45 19.26 4.97 2.36.21 4.87.35 10.34-.25s10.62-2.56 10.62-2.56v-6.91h-100.01v3.03s7.2 3.26 15.84 3.05c3.92-.07 9.28-.67 13.4-2.24 2.12-.81 5.22-1.82 7.97-2.42 2.72-.63 3.95-.67 4.98-.77z" fillrule="evenodd" transform="matrix(1 0 0 -1 0 10)"></path></svg></div><div class="wp-block-coblocks-shape-divider__alt-wrapper" style="min-height:50px"></div></div>
 <!-- /wp:coblocks/shape-divider -->
 
-<!-- wp:group {"backgroundColor":"palette-4","align":"full","className":"has-no-padding has-wide-content-width"} -->
-<div class="wp-block-group alignfull has-palette-4-background-color has-background has-no-padding has-wide-content-width"><div class="wp-block-group__inner-container"><!-- wp:spacer {"noTopMargin":true} -->
+<!-- wp:group {"backgroundColor":"palette-4","align":"full","className":"has-no-padding has-wide-content-width","noBottomMargin":true} -->
+<div class="wp-block-group alignfull has-palette-4-background-color has-background has-no-padding has-wide-content-width mb-0"><div class="wp-block-group__inner-container"><!-- wp:spacer {"noTopMargin":true} -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer mt-0"></div>
 <!-- /wp:spacer -->
 
@@ -6414,10 +6719,11 @@ Post type: page
 
 <!-- wp:spacer {"height":150} -->
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
+<!-- /wp:spacer --></div></div>
+<!-- /wp:group -->
 
-<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1198,"minHeight":653,"align":"full"} -->
-<div class="wp-block-cover alignfull has-background-dim" style="background-image:url(https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg);min-height:653px"><div class="wp-block-cover__inner-container"><!-- wp:media-text {"mediaId":1197,"mediaType":"image","isStackedOnMobile":true} -->
+<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1198,"minHeight":653,"align":"full","noTopMargin":true} -->
+<div class="wp-block-cover alignfull has-background-dim mt-0" style="background-image:url(https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg);min-height:653px"><div class="wp-block-cover__inner-container"><!-- wp:media-text {"mediaId":1197,"mediaType":"image","isStackedOnMobile":true} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_dots-white.png" alt="" class="wp-image-1197"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"color-accent-text"} -->
 <h2 class="has-color-accent-text-color has-text-color">Contact us now</h2>
 <!-- /wp:heading -->
@@ -6430,8 +6736,7 @@ Post type: page
 <div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="#0">Get in touch</a></div>
 <!-- /wp:button --></div></div>
 <!-- /wp:media-text --></div></div>
-<!-- /wp:cover --></div></div>
-<!-- /wp:group -->]]></content:encoded>
+<!-- /wp:cover -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[Longer though, his were longer it act to after it to design the necessary not the make temple would been in he get not all family far attributing to named outcomes the are readers or lots not to for of objects the for officers.]]></excerpt:encoded>
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-15 21:32:33]]></wp:post_date>
@@ -6907,14 +7212,22 @@ Post type: page
 <figure class="wp-block-gallery alignwide columns-2 is-cropped mb-0"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_pexels-716460-1200x1200.jpg" alt="" data-id="917" data-full-url="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_pexels-716460.jpg" data-link="http://themedemos.webmandesign.eu/michelle/sample/_pexels-716460/" class="wp-image-917"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_brown-wooden-sideboard-700549-1200x1200.jpg" alt="" data-id="910" data-full-url="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_brown-wooden-sideboard-700549.jpg" data-link="http://themedemos.webmandesign.eu/michelle/sample/_brown-wooden-sideboard-700549/" class="wp-image-910"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
-<!-- wp:group {"backgroundColor":"color-accent","align":"wide","noTopMargin":true} -->
-<div class="wp-block-group alignwide has-color-accent-background-color has-background mt-0"><div class="wp-block-group__inner-container"><!-- wp:quote {"customTextColor":"#ffffff"} -->
+<!-- wp:group {"backgroundColor":"color-accent","align":"wide","noBottomMargin":true,"noTopMargin":true} -->
+<div class="wp-block-group alignwide has-color-accent-background-color has-background mb-0 mt-0"><div class="wp-block-group__inner-container"><!-- wp:spacer {"height":50} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:quote {"customTextColor":"#ffffff"} -->
 <blockquote class="wp-block-quote" style="color:#ffffff"><p>Concepts decisions, I of first the money its odd instruments, fifteen men's what posterity moment. But poster distance been who lie and subdued.</p><cite>Customer's Name</cite></blockquote>
 <!-- /wp:quote --></div></div>
 <!-- /wp:group -->
 
-<!-- wp:spacer {"height":150} -->
-<div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:coblocks/shape-divider {"align":"wide","color":"color-accent-text","backgroundColor":"color-accent","justAdded":false,"className":"is-style-wavy","coblocks":{"id":"15201938407"}} -->
+<div class="wp-block-coblocks-shape-divider alignwide has-color-accent-text-color has-color-accent-background-color coblocks-shape-divider-15201938407 is-style-wavy mb-0 mt-0" aria-hidden="true"><div class="wp-block-coblocks-shape-divider__svg-wrapper" style="min-height:100px"><svg class="divider--wavy" viewbox="0 0 100 10" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none" role="img" aria-hidden="true" focusable="false"><path d="m42.19.65c2.26-.25 5.15.04 7.55.53 2.36.49 7.09 2.35 10.05 3.57 7.58 3.22 13.37 4.45 19.26 4.97 2.36.21 4.87.35 10.34-.25s10.62-2.56 10.62-2.56v-6.91h-100.01v3.03s7.2 3.26 15.84 3.05c3.92-.07 9.28-.67 13.4-2.24 2.12-.81 5.22-1.82 7.97-2.42 2.72-.63 3.95-.67 4.98-.77z" fillrule="evenodd" transform="matrix(1 0 0 -1 0 10)"></path></svg></div><div class="wp-block-coblocks-shape-divider__alt-wrapper" style="min-height:50px"></div></div>
+<!-- /wp:coblocks/shape-divider -->
+
+<!-- wp:spacer {"noTopMargin":true} -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer mt-0"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:columns {"align":"wide"} -->
@@ -6942,7 +7255,11 @@ Post type: page
 <!-- /wp:spacer -->
 
 <!-- wp:media-text {"align":"full","backgroundColor":"palette-4","mediaId":903,"mediaType":"image","isStackedOnMobile":true} -->
-<div class="wp-block-media-text alignfull has-background has-palette-4-background-color is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_photo-of-a-plant-1859622-1200x1800.jpg" alt="" class="wp-image-903"/></figure><div class="wp-block-media-text__content"><!-- wp:quote {"className":"is-style-large","customTextColor":"#111111"} -->
+<div class="wp-block-media-text alignfull has-background has-palette-4-background-color is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_photo-of-a-plant-1859622-1200x1800.jpg" alt="" class="wp-image-903"/></figure><div class="wp-block-media-text__content"><!-- wp:image {"id":1309,"sizeSlug":"thumbnail"} -->
+<figure class="wp-block-image size-thumbnail"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_dots-gray-480x373.png" alt="Do not forget to set image alt text!" class="wp-image-1309"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:quote {"className":"is-style-large","customTextColor":"#111111"} -->
 <blockquote class="wp-block-quote is-style-large" style="color:#111111"><p>And I a the her. Easier may box I quarter with thin in with better a head in during audience. At and the or of past we're little secure in on willingly of little control frugality to you because himself familiar were of immune him more will.</p><cite>Customer's Name</cite></blockquote>
 <!-- /wp:quote --></div></div>
 <!-- /wp:media-text -->
@@ -6955,16 +7272,16 @@ Post type: page
 <blockquote class="wp-block-quote has-text-align-center"><p> Concepts decisions, I of first the money its odd instruments, fifteen men's what posterity moment. But poster distance been who lie and subdued on primarily be or not the emerge place.</p><cite>Customer's Name</cite></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:spacer {"height":150,"noBottomMargin":true} -->
-<div style="height:150px" aria-hidden="true" class="wp-block-spacer mb-0"></div>
+<!-- wp:spacer {"noBottomMargin":true} -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer mb-0"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:coblocks/shape-divider {"color":"palette-3","justAdded":false,"coblocks":{"id":"14162546705"}} -->
 <div class="wp-block-coblocks-shape-divider alignfull has-palette-3-color coblocks-shape-divider-14162546705 mb-0 mt-0" aria-hidden="true"><div class="wp-block-coblocks-shape-divider__svg-wrapper" style="min-height:100px"><svg class="divider--wavy" viewbox="0 0 100 10" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none" role="img" aria-hidden="true" focusable="false"><path d="m42.19.65c2.26-.25 5.15.04 7.55.53 2.36.49 7.09 2.35 10.05 3.57 7.58 3.22 13.37 4.45 19.26 4.97 2.36.21 4.87.35 10.34-.25s10.62-2.56 10.62-2.56v-6.91h-100.01v3.03s7.2 3.26 15.84 3.05c3.92-.07 9.28-.67 13.4-2.24 2.12-.81 5.22-1.82 7.97-2.42 2.72-.63 3.95-.67 4.98-.77z" fillrule="evenodd" transform="matrix(1 0 0 -1 0 10)"></path></svg></div><div class="wp-block-coblocks-shape-divider__alt-wrapper" style="min-height:50px"></div></div>
 <!-- /wp:coblocks/shape-divider -->
 
-<!-- wp:group {"backgroundColor":"palette-3","align":"full","noTopMargin":true} -->
-<div class="wp-block-group alignfull has-palette-3-background-color has-background mt-0"><div class="wp-block-group__inner-container"><!-- wp:spacer -->
+<!-- wp:group {"backgroundColor":"palette-3","align":"full","className":"has-no-padding","noTopMargin":true} -->
+<div class="wp-block-group alignfull has-palette-3-background-color has-background has-no-padding mt-0"><div class="wp-block-group__inner-container"><!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -6980,9 +7297,13 @@ Post type: page
 <div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-text-color has-palette-1-color" href="#0">Get in touch</a></div>
 <!-- /wp:button -->
 
-<!-- wp:spacer {"height":150} -->
-<div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
+<!-- wp:spacer {"noTopMargin":true} -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer mt-0"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:coblocks/shape-divider {"color":"palette-1","justAdded":false,"className":"is-style-hills","coblocks":{"id":"15202019167"}} -->
+<div class="wp-block-coblocks-shape-divider alignfull has-palette-1-color coblocks-shape-divider-15202019167 is-style-hills mb-0 mt-0" aria-hidden="true"><div class="wp-block-coblocks-shape-divider__svg-wrapper" style="min-height:100px"><svg class="divider--hills" viewbox="0 0 1920 105" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none" role="img" aria-hidden="true" focusable="false"><g fillrule="evenodd" transform="matrix(1 0 0 -1 0 105)"><path d="m1920 14.8827052c-116.23325 0-224.05162 88.3906828-395.09265 88.3906828-160.92196 0-254.53172-83.4344997-444.90735-83.4344997-154.297581 0-240.095847 39.6344097-367.66819 39.6344097-154.121863 0-198.902329-36.1223133-349.458242-36.1223133-144.878137 0-241.175717 80.8685493-362.873568 80.8685493 0-34.0793243 0-68.1494291 0-102.219534h1920z"></path><path d="m1920 14.6612844c-116.11434 0-223.9659 88.8291396-395.06196 88.8291396-160.92415 0-254.54487-83.7874573-444.93804-83.7874573-154.317311 0-240.088941 39.8974838-367.565152 39.8974838-154.034172 0-198.792715-36.4840402-349.164477-36.4840402-144.965828 0-241.283139 81.1250467-363.270371 81.1250467 0-34.7474052 0-69.4948104 0-104.241457h1920z"></path></g></svg></div><div class="wp-block-coblocks-shape-divider__alt-wrapper" style="min-height:50px"></div></div>
+<!-- /wp:coblocks/shape-divider --></div></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[But to same likewise, title with business the far an leaning would he but the hopes as the small travelling, succeeded to instead, examination still was the move bored right, tones.]]></excerpt:encoded>
 		<wp:post_id>792</wp:post_id>
@@ -7017,8 +7338,12 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?page_id=802</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":917,"mediaType":"image","isStackedOnMobile":true} -->
-<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_pexels-716460-1200x1200.jpg" alt="" class="wp-image-917"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"fontSize":"large","className":"has-uppercase-text-transform has-no-margin-bottom"} -->
+		<content:encoded><![CDATA[<!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":917,"mediaType":"image","isStackedOnMobile":true,"verticalAlignment":"top"} -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_pexels-716460-1200x1200.jpg" alt="" class="wp-image-917"/></figure><div class="wp-block-media-text__content"><!-- wp:image {"id":1309,"sizeSlug":"thumbnail"} -->
+<figure class="wp-block-image size-thumbnail"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_dots-gray-480x373.png" alt="Do not forget to set image alt text!" class="wp-image-1309"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"fontSize":"large","className":"has-uppercase-text-transform has-no-margin-bottom"} -->
 <p class="has-large-font-size has-uppercase-text-transform has-no-margin-bottom">How we see the world</p>
 <!-- /wp:paragraph -->
 
@@ -7036,7 +7361,11 @@ Post type: page
 <!-- /wp:spacer -->
 
 <!-- wp:media-text {"mediaId":908,"mediaType":"image","isStackedOnMobile":true} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_green-leaf-plant-in-brown-pot-inside-room-916339-1200x1800.jpg" alt="" class="wp-image-908"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_green-leaf-plant-in-brown-pot-inside-room-916339-1200x1800.jpg" alt="" class="wp-image-908"/></figure><div class="wp-block-media-text__content"><!-- wp:image {"id":1309,"sizeSlug":"thumbnail"} -->
+<figure class="wp-block-image size-thumbnail"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_dots-gray-480x373.png" alt="Do not forget to set image alt text!" class="wp-image-1309"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
 <h2>The organization.<br />Titles to is them.</h2>
 <!-- /wp:heading -->
 
@@ -7057,8 +7386,8 @@ Post type: page
 <figure class="wp-block-image alignfull size-full is-style-top-wave mb-0"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_macro-photograph-of-grass-1090977-narrow.jpg" alt="" class="wp-image-1205"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:group {"backgroundColor":"palette-3","align":"full","noTopMargin":true} -->
-<div class="wp-block-group alignfull has-palette-3-background-color has-background mt-0"><div class="wp-block-group__inner-container"><!-- wp:spacer {"height":150} -->
+<!-- wp:group {"backgroundColor":"palette-3","align":"full","className":"has-no-padding","noTopMargin":true} -->
+<div class="wp-block-group alignfull has-palette-3-background-color has-background has-no-padding mt-0"><div class="wp-block-group__inner-container"><!-- wp:spacer {"height":150} -->
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -7074,9 +7403,13 @@ Post type: page
 <div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="#0">Get in touch</a></div>
 <!-- /wp:button -->
 
-<!-- wp:spacer {"height":150} -->
-<div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
+<!-- wp:spacer {"noTopMargin":true} -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer mt-0"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:coblocks/shape-divider {"color":"palette-1","justAdded":false,"coblocks":{"id":"15201257880"}} -->
+<div class="wp-block-coblocks-shape-divider alignfull has-palette-1-color coblocks-shape-divider-15201257880 mb-0 mt-0" aria-hidden="true"><div class="wp-block-coblocks-shape-divider__svg-wrapper" style="min-height:100px"><svg class="divider--wavy" viewbox="0 0 100 10" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none" role="img" aria-hidden="true" focusable="false"><path d="m42.19.65c2.26-.25 5.15.04 7.55.53 2.36.49 7.09 2.35 10.05 3.57 7.58 3.22 13.37 4.45 19.26 4.97 2.36.21 4.87.35 10.34-.25s10.62-2.56 10.62-2.56v-6.91h-100.01v3.03s7.2 3.26 15.84 3.05c3.92-.07 9.28-.67 13.4-2.24 2.12-.81 5.22-1.82 7.97-2.42 2.72-.63 3.95-.67 4.98-.77z" fillrule="evenodd" transform="matrix(1 0 0 -1 0 10)"></path></svg></div><div class="wp-block-coblocks-shape-divider__alt-wrapper" style="min-height:50px"></div></div>
+<!-- /wp:coblocks/shape-divider --></div></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>802</wp:post_id>
@@ -7179,7 +7512,8 @@ Post type: page
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1198,"hasParallax":true,"align":"wide"} -->
+<!-- wp:group {"backgroundColor":"palette-4","align":"full","className":"has-no-padding"} -->
+<div class="wp-block-group alignfull has-palette-4-background-color has-background has-no-padding"><div class="wp-block-group__inner-container"><!-- wp:cover {"url":"https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1198,"hasParallax":true,"align":"wide"} -->
 <div class="wp-block-cover alignwide has-background-dim has-parallax" style="background-image:url(https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:image {"id":1197,"width":360,"height":280,"sizeSlug":"thumbnail"} -->
 <figure class="wp-block-image size-thumbnail is-resized"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_dots-white-480x373.png" alt="" class="wp-image-1197" width="360" height="280"/></figure>
 <!-- /wp:image -->
@@ -7195,7 +7529,8 @@ Post type: page
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div></div>
-<!-- /wp:cover -->
+<!-- /wp:cover --></div></div>
+<!-- /wp:group -->
 
 <!-- wp:spacer {"height":150} -->
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -7209,7 +7544,11 @@ Post type: page
 
 <!-- wp:paragraph -->
 <p>Through economics around but considerable, post of taken simply. And I was he we've you instruments, if psychological new must his harmonic into a it former was in here. The caches the this I presented concepts was duckthemed answer if of, as is man some pleasure their so of and.</p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1309,"width":360,"height":280,"sizeSlug":"thumbnail"} -->
+<figure class="wp-block-image size-thumbnail is-resized"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_dots-gray-480x373.png" alt="Do not forget to set image alt text!" class="wp-image-1309" width="360" height="280"/></figure>
+<!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":62} -->
@@ -7327,8 +7666,8 @@ Post type: page
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:media-text {"mediaId":904,"mediaType":"image","isStackedOnMobile":true} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_growth-leaves-notebook-pen-380810-1200x1200.jpg" alt="" class="wp-image-904"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
+<!-- wp:media-text {"mediaId":917,"mediaType":"image","isStackedOnMobile":true} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/23/SAMPLE/_pexels-716460-1200x1200.jpg" alt="Do not forget to set image alt text!" class="wp-image-917"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
 <h2>Early to than was any they ago. Their well, present?</h2>
 <!-- /wp:heading -->
 
