@@ -1,6 +1,6 @@
 # What is this?
 
-You are browsing a demo content files repository for [**Michelle** WordPress theme by WebManDesign.eu](https://www.webmandesign.eu/portfolio/michelle-wordpress-theme/).
+You are browsing a demo content files repository for [**Björk** WordPress theme by WebManDesign.eu](https://www.webmandesign.eu/portfolio/bjork-wordpress-theme/).
 
 
 ## Quality of imported media files
@@ -24,7 +24,7 @@ Also, do not forget to enable the demo content [required plugins](#required-plug
 The easiest way to install theme demo content is using **One Click Demo Import** plugin:
 
 1. Install and activate the [**One Click Demo Import** plugin](https://wordpress.org/plugins/one-click-demo-import/) in your WordPress website.
-2. [Download ZIP package](https://github.com/webmandesign/demo-content/raw/master/michelle/michelle-theme-demo.zip) of theme demo files to your computer and unpack the files.
+2. [Download ZIP package](https://github.com/webmandesign/demo-content/raw/master/bjork/bjork-theme-demo.zip) of theme demo files to your computer and unpack the files.
 3. In your WordPress admin area navigate to **Appearance &rarr; Import Demo Data** and read the information. (Make sure you have all the demo content [required plugins](#required-plugins) installed and activated before proceeding with demo import.)
 4. Complete the "Manual demo files upload" procedure:<br><br>
   ![One Click Demo Import plugin manual upload procedure](https://easycaptures.com/fs/uploaded/1417/4892725901.png)
@@ -44,8 +44,8 @@ To allow all the demo content to be imported in whole, please install these plug
 
 ## Optional plugins
 
-If you want to match your website exactly to [the theme demo website](http://themedemos.webmandesign.eu/michelle/), please install also these plugins: 
+If you want to match your website exactly to [the theme demo website](http://themedemos.webmandesign.eu/bjork/), please install also these plugins: 
 
 - [*Widget CSS Classes*](https://wordpress.org/plugins/widget-css-classes/) - allows applying layout CSS classes on theme demo widgets,
-- [*Breadcrumbs NavXT*](https://wordpress.org/plugins/breadcrumb-navxt/) - for adding a perfect, SEO friendly [breadcrumbs navigation](http://en.wikipedia.org/wiki/Breadcrumb_%28navigation%29) (see [theme documentation](https://webmandesign.github.io/docs/michelle/#breadcrumbs) for custom plugin setup),
-- ...and you can use any other plugin you want. See [theme documentation](https://webmandesign.github.io/docs/michelle/#plugins-others) for information on some additional, tested and recommended plugins.
+- [*Breadcrumbs NavXT*](https://wordpress.org/plugins/breadcrumb-navxt/) - for adding a perfect, SEO friendly [breadcrumbs navigation](http://en.wikipedia.org/wiki/Breadcrumb_%28navigation%29) (see [theme documentation](https://webmandesign.github.io/docs/bjork/#breadcrumbs) for custom plugin setup),
+- ...and you can use any other plugin you want. See [theme documentation](https://webmandesign.github.io/docs/bjork/#plugins-others) for information on some additional, tested and recommended plugins.
