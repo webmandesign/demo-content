@@ -7770,41 +7770,6 @@ Post type: attachment
 		</wp:postmeta>
 							</item>
 	<item>
-		<title>crop-0-0-1920-1080-0-SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash.jpg</title>
-		<link>http://themedemos.webmandesign.eu/cindy/crop-0-0-1920-1080-0-sample/_paladini-mauro-sbkxc5ddmfy-unsplash-jpg/</link>
-		<pubDate>Mon, 08 Jun 2020 16:00:49 +0000</pubDate>
-		<dc:creator><![CDATA[demouser]]></dc:creator>
-		<guid isPermaLink="false">/_path_to_your_wordpress_installation_folder/wp-content/uploads/sites/25/crop-0-0-1920-1080-0-SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash.jpg</guid>
-		<description/>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>381</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-08 18:00:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-08 16:00:49]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[crop-0-0-1920-1080-0-sample/_paladini-mauro-sbkxc5ddmfy-unsplash-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/crop-0-0-1920-1080-0-SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[crop-0-0-1920-1080-0-SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:68:"crop-0-0-1920-1080-0-SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash.jpg";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:76:"crop-0-0-1920-1080-0-SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash-640x360.jpg";s:5:"width";i:640;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:77:"crop-0-0-1920-1080-0-SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash-1320x743.jpg";s:5:"width";i:1320;s:6:"height";i:743;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:76:"crop-0-0-1920-1080-0-SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash-480x270.jpg";s:5:"width";i:480;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:76:"crop-0-0-1920-1080-0-SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:77:"crop-0-0-1920-1080-0-SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.66540794472829301042793304077349603176116943359375;s:5:"bytes";i:19549;s:11:"size_before";i:345059;s:10:"size_after";i:325510;s:4:"time";d:0.190000000000000002220446049250313080847263336181640625;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:4:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:6.12000000000000010658141036401502788066864013671875;s:5:"bytes";i:3304;s:11:"size_before";i:53973;s:10:"size_after";i:50669;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:5.339999999999999857891452847979962825775146484375;s:5:"bytes";i:9953;s:11:"size_before";i:186212;s:10:"size_after";i:176259;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:6.30999999999999960920149533194489777088165283203125;s:5:"bytes";i:2020;s:11:"size_before";i:31997;s:10:"size_after";i:29977;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:5.86000000000000031974423109204508364200592041015625;s:5:"bytes";i:4272;s:11:"size_before";i:72877;s:10:"size_after";i:68605;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-	<item>
 		<title>SAMPLE/_icon-exchange</title>
 		<link>http://themedemos.webmandesign.eu/cindy/sample/_icon-exchange/</link>
 		<pubDate>Sat, 13 Jun 2020 16:59:37 +0000</pubDate>
