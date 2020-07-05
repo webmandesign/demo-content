@@ -40,7 +40,7 @@ To allow all the demo content to be imported in whole, please install these plug
 - [**Beaver Builder Plugin (Lite Version)**](https://wordpress.org/plugins/beaver-builder-lite-version/) - allow assigning pages to categories,
 - [**Church Content**](https://wordpress.org/plugins/church-theme-content/) - provides an interface for managing sermons, events, people and locations,
 - [**CoBlocks**](https://wordpress.org/plugins/coblocks/) - page builder Gutenberg blocks,
-- [**Content Aware Sidebars**](https://wordpress.org/plugins/content-aware-sidebars/) - manages custom sidebars.
+- [**Content Aware Sidebars**](https://wordpress.org/plugins/content-aware-sidebars/) - manages custom sidebars. **IMPORTANT**: Please note that the theme demo website uses this plugin to hide sidebar on certain pages. However, it is not possible to import the custom created "Empty" sidebar with the demo content, so you will need to recreate it manually for you website with  display conditions applicable to your needs (see the [screenshot of the sidebar setup for demo website](https://easycaptures.com/fs/uploaded/1384/7293179243.png)).
 
 
 ## Optional plugins
