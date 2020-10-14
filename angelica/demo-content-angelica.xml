@@ -14,14 +14,14 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
-<!-- generator="WordPress/5.4.2" created="2020-06-25 21:14" -->
+<!-- generator="WordPress/5.5.1" created="2020-10-14 20:31" -->
 <rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
 
 <channel>
 	<title>Angelica</title>
 	<link>http://themedemos.webmandesign.eu/angelica</link>
 	<description>Inclusive bookstore</description>
-	<pubDate>Thu, 25 Jun 2020 21:14:11 +0000</pubDate>
+	<pubDate>Wed, 14 Oct 2020 20:31:55 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://themedemos.webmandesign.eu/</wp:base_site_url>
@@ -84,9 +84,17 @@
 		<wp:tag_slug><![CDATA[page-template]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Page template]]></wp:tag_name>
 	</wp:tag>
-
+			
+		
+		
+		
+		
+		
+		
+		
+		
 		<wp:term>
-		<wp:term_id><![CDATA[27]]></wp:term_id>
+		<wp:term_id>27</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[biographies]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -110,7 +118,7 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[70]]></wp:term_id>
+		<wp:term_id>70</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[biography]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -121,7 +129,7 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[64]]></wp:term_id>
+		<wp:term_id>64</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[business]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -144,7 +152,7 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[71]]></wp:term_id>
+		<wp:term_id>71</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[business]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -154,9 +162,9 @@
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
-
+		
 		<wp:term>
-		<wp:term_id><![CDATA[62]]></wp:term_id>
+		<wp:term_id>62</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[children-books]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -179,7 +187,7 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[63]]></wp:term_id>
+		<wp:term_id>63</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[cooking]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -203,7 +211,7 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[73]]></wp:term_id>
+		<wp:term_id>73</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[cooking]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -213,9 +221,9 @@
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
-
+		
 		<wp:term>
-		<wp:term_id><![CDATA[66]]></wp:term_id>
+		<wp:term_id>66</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[dictionaries]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -238,7 +246,7 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[74]]></wp:term_id>
+		<wp:term_id>74</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[dictionary]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -249,7 +257,7 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[60]]></wp:term_id>
+		<wp:term_id>60</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[educational]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -272,7 +280,7 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[75]]></wp:term_id>
+		<wp:term_id>75</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[educational]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -282,30 +290,30 @@
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
-
+		
 		<wp:term>
-		<wp:term_id><![CDATA[7]]></wp:term_id>
+		<wp:term_id>7</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[exclude-from-catalog]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[exclude-from-catalog]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[6]]></wp:term_id>
+		<wp:term_id>6</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[exclude-from-search]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[exclude-from-search]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[5]]></wp:term_id>
+		<wp:term_id>5</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[external]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[external]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[72]]></wp:term_id>
+		<wp:term_id>72</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fairytale]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -316,14 +324,14 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[8]]></wp:term_id>
+		<wp:term_id>8</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[featured]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[featured]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[15]]></wp:term_id>
+		<wp:term_id>15</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fiction]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -343,7 +351,7 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[76]]></wp:term_id>
+		<wp:term_id>76</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fiction]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -354,15 +362,15 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[grouped]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[grouped]]></wp:term_name>
 	</wp:term>
-
+		
 		<wp:term>
-		<wp:term_id><![CDATA[67]]></wp:term_id>
+		<wp:term_id>67</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[has-linked-products]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -373,7 +381,7 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[31]]></wp:term_id>
+		<wp:term_id>31</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[history]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -388,7 +396,7 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[77]]></wp:term_id>
+		<wp:term_id>77</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[history]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -398,55 +406,55 @@
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
-
-
+		
+		
 		<wp:term>
-		<wp:term_id><![CDATA[9]]></wp:term_id>
+		<wp:term_id>9</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[outofstock]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[outofstock]]></wp:term_name>
 	</wp:term>
-
-
+		
+		
 		<wp:term>
-		<wp:term_id><![CDATA[10]]></wp:term_id>
+		<wp:term_id>10</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[rated-1]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[rated-1]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[11]]></wp:term_id>
+		<wp:term_id>11</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[rated-2]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[rated-2]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[12]]></wp:term_id>
+		<wp:term_id>12</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[rated-3]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[rated-3]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[13]]></wp:term_id>
+		<wp:term_id>13</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[rated-4]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[rated-4]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[14]]></wp:term_id>
+		<wp:term_id>14</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[rated-5]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[rated-5]]></wp:term_name>
 	</wp:term>
-
+		
 		<wp:term>
-		<wp:term_id><![CDATA[65]]></wp:term_id>
+		<wp:term_id>65</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[self-development]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -469,7 +477,7 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[78]]></wp:term_id>
+		<wp:term_id>78</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[self-development]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -480,17 +488,17 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[2]]></wp:term_id>
+		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[simple]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[simple]]></wp:term_name>
 	</wp:term>
-
-
-
+		
+		
+		
 		<wp:term>
-		<wp:term_id><![CDATA[79]]></wp:term_id>
+		<wp:term_id>79</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[travel]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -501,7 +509,7 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[61]]></wp:term_id>
+		<wp:term_id>61</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[traveling]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -524,14 +532,14 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[4]]></wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[variable]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[variable]]></wp:term_name>
 	</wp:term>
-
-
+		
+		
 			<wp:term><wp:term_id>69</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[information]]></wp:term_slug><wp:term_name><![CDATA[Information]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>34</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary menu]]></wp:term_name>
@@ -545,8 +553,197 @@
 	<wp:term><wp:term_id>68</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[theme-links]]></wp:term_slug><wp:term_name><![CDATA[Theme links]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
 <site xmlns="com-wordpress:feed-additions:1">172718880</site>
+		
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				
+
 
 
 <!--
@@ -3549,8 +3746,8 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/laura/?page_id=433</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:group {"customBackgroundColor":"#f5f5f5","align":"full","className":"has-no-margin-bottom"} -->
-<div class="wp-block-group alignfull has-background has-no-margin-bottom" style="background-color:#f5f5f5"><div class="wp-block-group__inner-container"><!-- wp:spacer -->
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","className":"has-no-margin-bottom","style":{"color":{"background":"#f5f5f5"}}} -->
+<div class="wp-block-group alignfull has-no-margin-bottom has-background" style="background-color:#f5f5f5"><div class="wp-block-group__inner-container"><!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -3564,8 +3761,8 @@ Post type: page
 <hr class="wp-block-separator is-style-wide"/>
 <!-- /wp:separator -->
 
-<!-- wp:paragraph {"textColor":"palette-1","fontSize":"huge","className":"has-extra-small-line-height has-800-font-weight"} -->
-<p class="has-text-color has-huge-font-size has-palette-1-color has-extra-small-line-height has-800-font-weight">Sell anything.<br />To anyone.<br />Accessibly!</p>
+<!-- wp:paragraph {"className":"has-extra-small-line-height has-800-font-weight","textColor":"palette-1","fontSize":"huge"} -->
+<p class="has-extra-small-line-height has-800-font-weight has-palette-1-color has-text-color has-huge-font-size">Sell anything.<br />To anyone.<br />Accessibly!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
@@ -3578,7 +3775,7 @@ Post type: page
 <!-- /wp:button -->
 
 <!-- wp:button {"textColor":"palette-1","className":"has-large-font-size is-style-outline"} -->
-<div class="wp-block-button has-large-font-size is-style-outline"><a class="wp-block-button__link has-text-color has-palette-1-color" href="#purchaselink">Get Angelica</a></div>
+<div class="wp-block-button has-large-font-size is-style-outline"><a class="wp-block-button__link has-palette-1-color has-text-color" href="#purchaselink">Get Angelica</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -3597,24 +3794,24 @@ Post type: page
 <!-- /wp:spacer --></div></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"textColor":"palette-4","align":"full"} -->
-<div class="wp-block-group alignfull has-palette-4-color has-text-color"><div class="wp-block-group__inner-container"><!-- wp:group {"customBackgroundColor":"#dededf","align":"full"} -->
+<!-- wp:group {"align":"full","textColor":"palette-4"} -->
+<div class="wp-block-group alignfull has-palette-4-color has-text-color"><div class="wp-block-group__inner-container"><!-- wp:group {"align":"full","style":{"color":{"background":"#dededf"}}} -->
 <div class="wp-block-group alignfull has-background" style="background-color:#dededf"><div class="wp-block-group__inner-container"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":33.3,"className":"has-no-margin-bottom"} -->
 <div class="wp-block-column has-no-margin-bottom" style="flex-basis:33.3%"><!-- wp:paragraph {"align":"center","backgroundColor":"palette-1"} -->
-<p class="has-background has-text-align-center has-palette-1-background-color">Holiday Sale<strong> 20% Off</strong></p>
+<p class="has-text-align-center has-palette-1-background-color has-background">Holiday Sale<strong> 20% Off</strong></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":33.3,"className":"has-no-margin-bottom"} -->
 <div class="wp-block-column has-no-margin-bottom" style="flex-basis:33.3%"><!-- wp:paragraph {"align":"center","backgroundColor":"palette-1"} -->
-<p class="has-background has-text-align-center has-palette-1-background-color">First audio book <strong>for Free</strong></p>
+<p class="has-text-align-center has-palette-1-background-color has-background">First audio book <strong>for Free</strong></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":33.3,"className":"has-no-margin-bottom"} -->
 <div class="wp-block-column has-no-margin-bottom" style="flex-basis:33.3%"><!-- wp:paragraph {"align":"center","backgroundColor":"palette-1"} -->
-<p class="has-background has-text-align-center has-palette-1-background-color"><strong>Free Shipping</strong>, within 2 days</p>
+<p class="has-text-align-center has-palette-1-background-color has-background"><strong>Free Shipping</strong>, within 2 days</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div></div>
@@ -3629,19 +3826,15 @@ Post type: page
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":70,"editMode":false,"focalPoint":{"x":"0.00","y":"0.52"},"mediaId":1550,"mediaSrc":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg","overlayColor":"palette-1","categoryId":27} -->
 <!-- wp:button {"textColor":"palette-4","align":"center","className":"is-style-outline"} -->
-<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-text-color has-palette-4-color" href="https://themedemos.webmandesign.eu/angelica/product-category/biographies/">Shop now</a></div>
+<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-palette-4-color has-text-color" href="https://themedemos.webmandesign.eu/angelica/product-category/biographies/">Shop now</a></div>
 <!-- /wp:button -->
-<!-- /wp:woocommerce/featured-category -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:woocommerce/featured-category --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":70,"editMode":false,"mediaId":1550,"mediaSrc":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg","overlayColor":"palette-1","categoryId":15} -->
 <!-- wp:button {"textColor":"palette-4","align":"center","className":"is-style-outline"} -->
-<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-text-color has-palette-4-color" href="https://themedemos.webmandesign.eu/angelica/product-category/fiction/">Shop now</a></div>
+<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-palette-4-color has-text-color" href="https://themedemos.webmandesign.eu/angelica/product-category/fiction/">Shop now</a></div>
 <!-- /wp:button -->
 <!-- /wp:woocommerce/featured-category --></div>
 <!-- /wp:column -->
@@ -3649,7 +3842,7 @@ Post type: page
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":70,"editMode":false,"focalPoint":{"x":"1.00","y":"0.49"},"mediaId":1550,"mediaSrc":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg","overlayColor":"palette-1","categoryId":63} -->
 <!-- wp:button {"textColor":"palette-4","align":"center","className":"is-style-outline"} -->
-<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-text-color has-palette-4-color" href="https://themedemos.webmandesign.eu/angelica/product-category/cooking/">Shop now</a></div>
+<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-palette-4-color has-text-color" href="https://themedemos.webmandesign.eu/angelica/product-category/cooking/">Shop now</a></div>
 <!-- /wp:button -->
 <!-- /wp:woocommerce/featured-category --></div>
 <!-- /wp:column --></div>
@@ -3679,7 +3872,7 @@ Post type: page
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:woocommerce/product-best-sellers {"columns":5,"contentVisibility":{"title":true,"price":true,"rating":true,"button":false},"align":"wide"} /-->
+<!-- wp:woocommerce/product-best-sellers {"columns":5,"rows":1,"contentVisibility":{"title":true,"price":true,"rating":true,"button":false},"align":"wide"} /-->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -3705,7 +3898,7 @@ Post type: page
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:woocommerce/product-on-sale {"columns":5,"contentVisibility":{"title":true,"price":true,"rating":true,"button":false},"align":"wide"} /-->
+<!-- wp:woocommerce/product-on-sale {"columns":5,"rows":1,"contentVisibility":{"title":true,"price":true,"rating":true,"button":false},"align":"wide"} /-->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -3718,14 +3911,10 @@ Post type: page
 <div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="#0"><img src="https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_rawpixel-id-556522-1000.png" alt="Don't forget to set alternative text." class="wp-image-1569" height="240"/></a></figure></div>
 <!-- /wp:image -->
 
-<!-- wp:heading {"align":"center","textColor":"palette-1","className":"h4"} -->
-<h2 class="has-palette-1-color has-text-color has-text-align-center h4">Pink<br />remedies</h2>
+<!-- wp:heading {"align":"center","className":"h4","textColor":"palette-1"} -->
+<h2 class="has-text-align-center h4 has-palette-1-color has-text-color">Pink<br />remedies</h2>
 <!-- /wp:heading --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:cover --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
@@ -3734,8 +3923,8 @@ Post type: page
 <div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="#0"><img src="https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_image-from-rawpixel-id-562477.png" alt="Don't forget to set alternative text." class="wp-image-1881" height="240"/></a></figure></div>
 <!-- /wp:image -->
 
-<!-- wp:heading {"align":"center","textColor":"palette-1","className":"h4"} -->
-<h2 class="has-palette-1-color has-text-color has-text-align-center h4">Better<br />that way</h2>
+<!-- wp:heading {"align":"center","className":"h4","textColor":"palette-1"} -->
+<h2 class="has-text-align-center h4 has-palette-1-color has-text-color">Better<br />that way</h2>
 <!-- /wp:heading --></div></div>
 <!-- /wp:cover --></div>
 <!-- /wp:column -->
@@ -3746,8 +3935,8 @@ Post type: page
 <div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="#0"><img src="https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_image-from-rawpixel-id-556496.png" alt="Don't forget to set alternative text." class="wp-image-1876" height="240"/></a></figure></div>
 <!-- /wp:image -->
 
-<!-- wp:heading {"align":"center","textColor":"palette-1","className":"h4"} -->
-<h2 class="has-palette-1-color has-text-color has-text-align-center h4">Rank<br />ability</h2>
+<!-- wp:heading {"align":"center","className":"h4","textColor":"palette-1"} -->
+<h2 class="has-text-align-center h4 has-palette-1-color has-text-color">Rank<br />ability</h2>
 <!-- /wp:heading --></div></div>
 <!-- /wp:cover --></div>
 <!-- /wp:column -->
@@ -3758,8 +3947,8 @@ Post type: page
 <div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="#0"><img src="https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_rawpixel-id-556376-1000.png" alt="Don't forget to set alternative text." class="wp-image-1566" height="240"/></a></figure></div>
 <!-- /wp:image -->
 
-<!-- wp:heading {"align":"center","textColor":"palette-1","className":"h4"} -->
-<h2 class="has-palette-1-color has-text-color has-text-align-center h4">Green<br />remedy</h2>
+<!-- wp:heading {"align":"center","className":"h4","textColor":"palette-1"} -->
+<h2 class="has-text-align-center h4 has-palette-1-color has-text-color">Green<br />remedy</h2>
 <!-- /wp:heading --></div></div>
 <!-- /wp:cover --></div>
 <!-- /wp:column -->
@@ -3770,8 +3959,8 @@ Post type: page
 <div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="#0"><img src="https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_image-from-rawpixel-id-572906.png" alt="Don't forget to set alternative text." class="wp-image-1882" height="240"/></a></figure></div>
 <!-- /wp:image -->
 
-<!-- wp:heading {"align":"center","textColor":"palette-1","className":"h4"} -->
-<h2 class="has-palette-1-color has-text-color has-text-align-center h4">It's<br />this way</h2>
+<!-- wp:heading {"align":"center","className":"h4","textColor":"palette-1"} -->
+<h2 class="has-text-align-center h4 has-palette-1-color has-text-color">It's<br />this way</h2>
 <!-- /wp:heading --></div></div>
 <!-- /wp:cover --></div>
 <!-- /wp:column --></div>
@@ -3801,7 +3990,7 @@ Post type: page
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:woocommerce/product-new {"columns":5,"categories":[],"contentVisibility":{"title":true,"price":true,"rating":true,"button":false},"align":"wide"} /-->]]></content:encoded>
+<!-- wp:woocommerce/product-new {"columns":5,"rows":1,"categories":[],"contentVisibility":{"title":true,"price":true,"rating":true,"button":false},"align":"wide"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>433</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-11 12:11:08]]></wp:post_date>
@@ -3838,6 +4027,10 @@ Post type: page
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[spay_email]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 	<item>
@@ -4313,7 +4506,7 @@ Post type: page
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"palette-4","fontSize":"large"} -->
-<p class="has-text-color has-large-font-size has-palette-4-color">To, stairs leaves only checkin able dressed coordinates the field to of the thousands. Identification as recommendation for or service tones been make reedy, this she upper back, passion result, apprehend of but didn't made through.</p>
+<p class="has-palette-4-color has-text-color has-large-font-size">To, stairs leaves only checkin able dressed coordinates the field to of the thousands. Identification as recommendation for or service tones been make reedy, this she upper back, passion result, apprehend of but didn't made through.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":120} -->
@@ -4326,11 +4519,11 @@ Post type: page
 <div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:group {"backgroundColor":"palette-1","textColor":"palette-4","align":"wide"} -->
-<div class="wp-block-group alignwide has-palette-1-background-color has-palette-4-color has-text-color has-background"><div class="wp-block-group__inner-container"><!-- wp:columns {"align":"wide","className":"has-extra-large-padding has-center-text-align has-no-margin-bottom"} -->
+<!-- wp:group {"align":"wide","backgroundColor":"palette-1","textColor":"palette-4"} -->
+<div class="wp-block-group alignwide has-palette-4-color has-palette-1-background-color has-text-color has-background"><div class="wp-block-group__inner-container"><!-- wp:columns {"align":"wide","className":"has-extra-large-padding has-center-text-align has-no-margin-bottom"} -->
 <div class="wp-block-columns alignwide has-extra-large-padding has-center-text-align has-no-margin-bottom"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"className":"h4"} -->
-<h2 class="h4">Shipping</h2>
+<div class="wp-block-column"><!-- wp:heading {"className":"h4","textColor":"palette-4"} -->
+<h2 class="h4 has-palette-4-color has-text-color">Shipping</h2>
 <!-- /wp:heading -->
 
 <!-- wp:jetpack/contact-info -->
@@ -4349,8 +4542,8 @@ Post type: page
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"className":"h4"} -->
-<h2 class="h4">Returns</h2>
+<div class="wp-block-column"><!-- wp:heading {"className":"h4","textColor":"palette-4"} -->
+<h2 class="h4 has-palette-4-color has-text-color">Returns</h2>
 <!-- /wp:heading -->
 
 <!-- wp:jetpack/contact-info -->
@@ -4369,8 +4562,8 @@ Post type: page
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"className":"h4"} -->
-<h2 class="h4">Orders</h2>
+<div class="wp-block-column"><!-- wp:heading {"className":"h4","textColor":"palette-4"} -->
+<h2 class="h4 has-palette-4-color has-text-color">Orders</h2>
 <!-- /wp:heading -->
 
 <!-- wp:jetpack/contact-info -->
@@ -4442,6 +4635,10 @@ Post type: page
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[templates/no-intro.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 	<item>
@@ -5748,7 +5945,7 @@ Post type: page
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:woocommerce/product-best-sellers {"columns":5,"align":"wide"} /-->
+<!-- wp:woocommerce/product-best-sellers {"columns":5,"rows":1,"align":"wide"} /-->
 
 <!-- wp:spacer {"height":90} -->
 <div style="height:90px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -5804,7 +6001,7 @@ Post type: page
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:woocommerce/product-on-sale {"columns":5,"align":"wide"} /-->
+<!-- wp:woocommerce/product-on-sale {"columns":5,"rows":1,"align":"wide"} /-->
 
 <!-- wp:spacer {"height":90} -->
 <div style="height:90px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -5915,6 +6112,10 @@ Post type: page
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[templates/no-intro.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 
@@ -8399,8 +8600,8 @@ Big a in much a of pink allow theoretically put had wanted have gm the must make
 <p class="has-large-font-size">Tin, desires options the thought, so cheek, at blind it its rival subjective far the me, could a to can top as by success supposedly never necessary and I own emphasis if feel little food, sofas consider middle the from this the you approach head his of me train over be their tricoloured.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH-1320x743.jpg","id":1550,"dimRatio":70,"align":"wide"} -->
-<div class="wp-block-cover alignwide has-background-dim-70 has-background-dim" style="background-image:url(https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH-1320x743.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:pullquote -->
+<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1550,"dimRatio":70,"align":"wide"} -->
+<div class="wp-block-cover alignwide has-background-dim-70 has-background-dim" style="background-image:url(https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:pullquote -->
 <figure class="wp-block-pullquote"><blockquote><p>And assisted at that and bit presented. Up pointing, and in attribute human can of are the to on immense client at any to emerge.</p></blockquote></figure>
 <!-- /wp:pullquote --></div></div>
 <!-- /wp:cover -->
@@ -8490,7 +8691,7 @@ Big a in much a of pink allow theoretically put had wanted have gm the must make
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4.0.1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4.2.2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -8612,10 +8813,16 @@ Big a in much a of pink allow theoretically put had wanted have gm the must make
 <p class="has-large-font-size">Tin, desires options the thought, so cheek, at blind it its rival subjective far the me, could a to can top as by success supposedly never necessary and I own emphasis if feel little food, sofas consider middle the from this the you approach head his of me train over be their tricoloured.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH-1320x743.jpg","id":1550,"dimRatio":70,"align":"wide"} -->
-<div class="wp-block-cover alignwide has-background-dim-70 has-background-dim" style="background-image:url(https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH-1320x743.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:pullquote -->
-<figure class="wp-block-pullquote"><blockquote><p>And assisted at that and bit presented. Up pointing, and in attribute human can of are the to on immense client at any to emerge.</p></blockquote></figure>
-<!-- /wp:pullquote --></div></div>
+<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1550,"dimRatio":70,"align":"wide"} -->
+<div class="wp-block-cover alignwide has-background-dim-70 has-background-dim" style="background-image: url('https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg');">
+<div class="wp-block-cover__inner-container"><!-- wp:pullquote -->
+<figure class="wp-block-pullquote">
+<blockquote>
+<p>And assisted at that and bit presented. Up pointing, and in attribute human can of are the to on immense client at any to emerge.</p>
+</blockquote>
+</figure>
+<!-- /wp:pullquote --></div>
+</div>
 <!-- /wp:cover -->
 
 <!-- wp:paragraph -->
@@ -8653,7 +8860,7 @@ Big a in much a of pink allow theoretically put had wanted have gm the must make
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
@@ -8693,7 +8900,7 @@ Big a in much a of pink allow theoretically put had wanted have gm the must make
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6.000000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -8709,7 +8916,7 @@ Big a in much a of pink allow theoretically put had wanted have gm the must make
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4.0.1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4.5.2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
@@ -8725,7 +8932,7 @@ Big a in much a of pink allow theoretically put had wanted have gm the must make
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:9:"pa_writer";a:6:{s:4:"name";s:9:"pa_writer";s:5:"value";s:0:"";s:8:"position";s:1:"0";s:10:"is_visible";s:1:"1";s:12:"is_variation";s:1:"0";s:11:"is_taxonomy";s:1:"1";}s:12:"pa_publisher";a:6:{s:4:"name";s:12:"pa_publisher";s:5:"value";s:0:"";s:8:"position";s:1:"1";s:10:"is_visible";s:1:"1";s:12:"is_variation";s:1:"0";s:11:"is_taxonomy";s:1:"1";}s:19:"pa_publication-year";a:6:{s:4:"name";s:19:"pa_publication-year";s:5:"value";s:0:"";s:8:"position";s:1:"2";s:10:"is_visible";s:1:"1";s:12:"is_variation";s:1:"0";s:11:"is_taxonomy";s:1:"1";}s:18:"pa_number-of-pages";a:6:{s:4:"name";s:18:"pa_number-of-pages";s:5:"value";s:0:"";s:8:"position";s:1:"3";s:10:"is_visible";s:1:"1";s:12:"is_variation";s:1:"0";s:11:"is_taxonomy";s:1:"1";}s:7:"pa_isbn";a:6:{s:4:"name";s:7:"pa_isbn";s:5:"value";s:0:"";s:8:"position";s:1:"4";s:10:"is_visible";s:1:"1";s:12:"is_variation";s:1:"0";s:11:"is_taxonomy";s:1:"1";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:9:"pa_writer";a:6:{s:4:"name";s:9:"pa_writer";s:5:"value";s:0:"";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:12:"pa_publisher";a:6:{s:4:"name";s:12:"pa_publisher";s:5:"value";s:0:"";s:8:"position";i:1;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:19:"pa_publication-year";a:6:{s:4:"name";s:19:"pa_publication-year";s:5:"value";s:0:"";s:8:"position";i:2;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:18:"pa_number-of-pages";a:6:{s:4:"name";s:18:"pa_number-of-pages";s:5:"value";s:0:"";s:8:"position";i:3;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:7:"pa_isbn";a:6:{s:4:"name";s:7:"pa_isbn";s:5:"value";s:0:"";s:8:"position";i:4;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -8754,6 +8961,10 @@ Big a in much a of pink allow theoretically put had wanted have gm the must make
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:3;i:1;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7,17,18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>38</wp:comment_id>
@@ -8789,8 +9000,8 @@ Big a in much a of pink allow theoretically put had wanted have gm the must make
 <p class="has-large-font-size">Tin, desires options the thought, so cheek, at blind it its rival subjective far the me, could a to can top as by success supposedly never necessary and I own emphasis if feel little food, sofas consider middle the from this the you approach head his of me train over be their tricoloured.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH-1320x743.jpg","id":1550,"dimRatio":70,"align":"wide"} -->
-<div class="wp-block-cover alignwide has-background-dim-70 has-background-dim" style="background-image:url(https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH-1320x743.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:pullquote -->
+<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1550,"dimRatio":70,"align":"wide"} -->
+<div class="wp-block-cover alignwide has-background-dim-70 has-background-dim" style="background-image:url(https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:pullquote -->
 <figure class="wp-block-pullquote"><blockquote><p>And assisted at that and bit presented. Up pointing, and in attribute human can of are the to on immense client at any to emerge.</p></blockquote></figure>
 <!-- /wp:pullquote --></div></div>
 <!-- /wp:cover -->
@@ -8885,7 +9096,7 @@ Big a in much a of pink allow theoretically put had wanted have gm the must make
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4.0.1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4.2.2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
@@ -9774,8 +9985,8 @@ Up pointing, and in attribute human can of are the to on immense client at any t
 <p class="has-large-font-size">Tin, desires options the thought, so cheek, at blind it its rival subjective far the me, could a to can top as by success supposedly never necessary and I own emphasis if feel little food, sofas consider middle the from this the you approach head his of me train over be their tricoloured.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH-1320x743.jpg","id":1550,"dimRatio":70,"align":"wide"} -->
-<div class="wp-block-cover alignwide has-background-dim-70 has-background-dim" style="background-image:url(https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH-1320x743.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:pullquote -->
+<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1550,"dimRatio":70,"align":"wide"} -->
+<div class="wp-block-cover alignwide has-background-dim-70 has-background-dim" style="background-image:url(https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:pullquote -->
 <figure class="wp-block-pullquote"><blockquote><p>And assisted at that and bit presented. Up pointing, and in attribute human can of are the to on immense client at any to emerge.</p></blockquote></figure>
 <!-- /wp:pullquote --></div></div>
 <!-- /wp:cover -->
@@ -9808,7 +10019,7 @@ Up pointing, and in attribute human can of are the to on immense client at any t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
@@ -9848,7 +10059,7 @@ Up pointing, and in attribute human can of are the to on immense client at any t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6.000000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -9864,7 +10075,7 @@ Up pointing, and in attribute human can of are the to on immense client at any t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4.0.1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4.3.0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -10956,8 +11167,8 @@ Up pointing, and in attribute human can of are the to on immense client at any t
 <p class="has-large-font-size">Tin, desires options the thought, so cheek, at blind it its rival subjective far the me, could a to can top as by success supposedly never necessary and I own emphasis if feel little food, sofas consider middle the from this the you approach head his of me train over be their tricoloured.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH-1320x743.jpg","id":1550,"dimRatio":70,"align":"wide"} -->
-<div class="wp-block-cover alignwide has-background-dim-70 has-background-dim" style="background-image:url(https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH-1320x743.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:pullquote -->
+<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1550,"dimRatio":70,"align":"wide"} -->
+<div class="wp-block-cover alignwide has-background-dim-70 has-background-dim" style="background-image:url(https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:pullquote -->
 <figure class="wp-block-pullquote"><blockquote><p>And assisted at that and bit presented. Up pointing, and in attribute human can of are the to on immense client at any to emerge.</p></blockquote></figure>
 <!-- /wp:pullquote --></div></div>
 <!-- /wp:cover -->
@@ -10996,7 +11207,7 @@ Up pointing, and in attribute human can of are the to on immense client at any t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
@@ -11036,7 +11247,7 @@ Up pointing, and in attribute human can of are the to on immense client at any t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8.000000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -11052,7 +11263,7 @@ Up pointing, and in attribute human can of are the to on immense client at any t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4.0.1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4.5.2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
@@ -11298,8 +11509,8 @@ Up pointing, and in attribute human can of are the to on immense client at any t
 <p class="has-large-font-size">Tin, desires options the thought, so cheek, at blind it its rival subjective far the me, could a to can top as by success supposedly never necessary and I own emphasis if feel little food, sofas consider middle the from this the you approach head his of me train over be their tricoloured.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH-1320x743.jpg","id":1550,"dimRatio":70,"align":"wide"} -->
-<div class="wp-block-cover alignwide has-background-dim-70 has-background-dim" style="background-image:url(https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH-1320x743.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:pullquote -->
+<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1550,"dimRatio":70,"align":"wide"} -->
+<div class="wp-block-cover alignwide has-background-dim-70 has-background-dim" style="background-image:url(https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:pullquote -->
 <figure class="wp-block-pullquote"><blockquote><p>And assisted at that and bit presented. Up pointing, and in attribute human can of are the to on immense client at any to emerge.</p></blockquote></figure>
 <!-- /wp:pullquote --></div></div>
 <!-- /wp:cover -->
@@ -11392,7 +11603,7 @@ Up pointing, and in attribute human can of are the to on immense client at any t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4.0.1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4.2.2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
@@ -12173,8 +12384,8 @@ Up pointing, and in attribute human can of are the to on immense client at any t
 <p class="has-large-font-size">Tin, desires options the thought, so cheek, at blind it its rival subjective far the me, could a to can top as by success supposedly never necessary and I own emphasis if feel little food, sofas consider middle the from this the you approach head his of me train over be their tricoloured.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH-1320x743.jpg","id":1550,"dimRatio":70,"align":"wide"} -->
-<div class="wp-block-cover alignwide has-background-dim-70 has-background-dim" style="background-image:url(https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH-1320x743.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:pullquote -->
+<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1550,"dimRatio":70,"align":"wide"} -->
+<div class="wp-block-cover alignwide has-background-dim-70 has-background-dim" style="background-image:url(https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:pullquote -->
 <figure class="wp-block-pullquote"><blockquote><p>And assisted at that and bit presented. Up pointing, and in attribute human can of are the to on immense client at any to emerge.</p></blockquote></figure>
 <!-- /wp:pullquote --></div></div>
 <!-- /wp:cover -->
@@ -12269,7 +12480,7 @@ Up pointing, and in attribute human can of are the to on immense client at any t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4.0.1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4.2.2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
@@ -12303,8 +12514,8 @@ Up pointing, and in attribute human can of are the to on immense client at any t
 <p class="has-large-font-size">Tin, desires options the thought, so cheek, at blind it its rival subjective far the me, could a to can top as by success supposedly never necessary and I own emphasis if feel little food, sofas consider middle the from this the you approach head his of me train over be their tricoloured.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH-1320x743.jpg","id":1550,"dimRatio":70,"align":"wide"} -->
-<div class="wp-block-cover alignwide has-background-dim-70 has-background-dim" style="background-image:url(https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH-1320x743.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:pullquote -->
+<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1550,"dimRatio":70,"align":"wide"} -->
+<div class="wp-block-cover alignwide has-background-dim-70 has-background-dim" style="background-image:url(https://themedemos.webmandesign.eu/angelica/wp-content/uploads/sites/24/SAMPLE/_StockSnap_HWASWXWKGH.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:pullquote -->
 <figure class="wp-block-pullquote"><blockquote><p>And assisted at that and bit presented. Up pointing, and in attribute human can of are the to on immense client at any to emerge.</p></blockquote></figure>
 <!-- /wp:pullquote --></div></div>
 <!-- /wp:cover -->
@@ -12397,7 +12608,7 @@ Up pointing, and in attribute human can of are the to on immense client at any t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4.0.1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4.2.2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
