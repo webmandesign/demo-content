@@ -14,14 +14,14 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
-<!-- generator="WordPress/5.4.2" created="2020-07-10 09:43" -->
+<!-- generator="WordPress/5.5.1" created="2020-10-19 15:57" -->
 <rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
 
 <channel>
 	<title>Deborah</title>
 	<link>http://themedemos.webmandesign.eu/deborah</link>
 	<description>Inclusive Church</description>
-	<pubDate>Fri, 10 Jul 2020 09:43:41 +0000</pubDate>
+	<pubDate>Mon, 19 Oct 2020 15:57:11 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://themedemos.webmandesign.eu/</wp:base_site_url>
@@ -61,203 +61,203 @@
 		<wp:tag_name><![CDATA[No sidebar]]></wp:tag_name>
 	</wp:tag>
 			<wp:term>
-		<wp:term_id><![CDATA[21]]></wp:term_id>
+		<wp:term_id>21</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_speaker]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[aidan-horan]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Aidan Horan]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[8]]></wp:term_id>
+		<wp:term_id>8</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_series]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[attributes-of-god]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Attributes of God]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[23]]></wp:term_id>
+		<wp:term_id>23</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_speaker]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[bob-mayor]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Bob Mayor]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[9]]></wp:term_id>
+		<wp:term_id>9</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_series]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[christmas]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Christmas]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[26]]></wp:term_id>
+		<wp:term_id>26</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_topic]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[coping-in-difficult-times]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Coping in difficult times]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[13]]></wp:term_id>
+		<wp:term_id>13</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_book]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[deuteronomy]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Deuteronomy]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[12]]></wp:term_id>
+		<wp:term_id>12</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_book]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[exodus]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Exodus]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[35]]></wp:term_id>
+		<wp:term_id>35</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_event_category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[festival]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Festival]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[11]]></wp:term_id>
+		<wp:term_id>11</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_book]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[genesis]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Genesis]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[20]]></wp:term_id>
+		<wp:term_id>20</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[has-audio]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Has audio]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[40]]></wp:term_id>
+		<wp:term_id>40</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[has-pdf]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Has PDF]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[19]]></wp:term_id>
+		<wp:term_id>19</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[has-video]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Has video]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[36]]></wp:term_id>
+		<wp:term_id>36</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_event_category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[holiday]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Holiday]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[16]]></wp:term_id>
+		<wp:term_id>16</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_book]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[john]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[John]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[14]]></wp:term_id>
+		<wp:term_id>14</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_book]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[joshua]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Joshua]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[27]]></wp:term_id>
+		<wp:term_id>27</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_topic]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[joy-of-life]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Joy of life]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[24]]></wp:term_id>
+		<wp:term_id>24</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_speaker]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[julia-maccarthy]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Julia MacCarthy]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[6]]></wp:term_id>
+		<wp:term_id>6</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_person_group]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[leadership]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Leadership]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[28]]></wp:term_id>
+		<wp:term_id>28</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_topic]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[love]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Love]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[10]]></wp:term_id>
+		<wp:term_id>10</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_series]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[marriage-family-and-children]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Marriage, Family and Children]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[5]]></wp:term_id>
+		<wp:term_id>5</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_person_group]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[no-sidebar]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[No sidebar]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[18]]></wp:term_id>
+		<wp:term_id>18</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[no-sidebar]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[No sidebar]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[41]]></wp:term_id>
+		<wp:term_id>41</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_event_category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[no-sidebar]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[No sidebar]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[15]]></wp:term_id>
+		<wp:term_id>15</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_book]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[psalms]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Psalms]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[25]]></wp:term_id>
+		<wp:term_id>25</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_topic]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[remembrance]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Remembrance]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[17]]></wp:term_id>
+		<wp:term_id>17</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_book]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[revelation]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Revelation]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[34]]></wp:term_id>
+		<wp:term_id>34</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_event_category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[sport]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Sport]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[7]]></wp:term_id>
+		<wp:term_id>7</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_person_group]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[support]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Support]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[22]]></wp:term_id>
+		<wp:term_id>22</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_sermon_speaker]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[zoe-auliffe]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -276,7 +276,160 @@
 	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[theme-links]]></wp:term_slug><wp:term_name><![CDATA[Theme Links]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+		
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				
+
+
 
 <!--
 
@@ -6530,11 +6683,11 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/deborah/?page_id=39</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:group {"backgroundColor":"palette-3","textColor":"palette-1","align":"full","className":"has-no-padding"} -->
-<div class="wp-block-group alignfull has-palette-3-background-color has-palette-1-color has-text-color has-background has-no-padding"><div class="wp-block-group__inner-container"><!-- wp:coblocks/features {"gutter":"no","columns":3,"align":"wide","coblocks":{"id":"14192456468"}} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-14192456468"><div class="wp-block-coblocks-features__inner has-columns has-3-columns has-responsive-columns has-no-gutter has-center-content"><!-- wp:coblocks/feature {"paddingSize":"huge","className":"has-no-margin-vertical","coblocks":{"id":"14192456531"}} -->
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","className":"has-no-padding","backgroundColor":"palette-3","textColor":"palette-1"} -->
+<div class="wp-block-group alignfull has-no-padding has-palette-1-color has-palette-3-background-color has-text-color has-background"><div class="wp-block-group__inner-container"><!-- wp:coblocks/features {"columns":3,"align":"wide","coblocks":{"id":"14192456468"},"gutter":"no"} -->
+<div class="wp-block-coblocks-features alignwide coblocks-features-14192456468"><div class="wp-block-coblocks-features__inner has-columns has-3-columns has-responsive-columns has-center-content has-no-gutter"><!-- wp:coblocks/feature {"paddingSize":"huge","className":"has-no-margin-vertical","coblocks":{"id":"14192456531"}} -->
 <div class="wp-block-coblocks-feature coblocks-feature-14192456531 has-no-margin-vertical"><div class="wp-block-coblocks-feature__inner has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"accessible","hasContentAlign":false} -->
-<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false"><path d="M0 0h24v24H0z" fill="none"></path><circle cx="12" cy="4" r="2"></circle><path d="M19 13v-2c-1.54.02-3.09-.75-4.07-1.83l-1.29-1.43c-.17-.19-.38-.34-.61-.45-.01 0-.01-.01-.02-.01H13c-.35-.2-.75-.3-1.19-.26C10.76 7.11 10 8.04 10 9.09V15c0 1.1.9 2 2 2h5v5h2v-5.5c0-1.1-.9-2-2-2h-3v-3.45c1.29 1.07 3.25 1.94 5 1.95zm-6.17 5c-.41 1.16-1.52 2-2.83 2-1.66 0-3-1.34-3-3 0-1.31.84-2.41 2-2.83V12.1c-2.28.46-4 2.48-4 4.9 0 2.76 2.24 5 5 5 2.42 0 4.44-1.72 4.9-4h-2.07z"></path></svg></div></div>
+<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" role="img" aria-hidden="true"><path d="M0 0h24v24H0z" fill="none"></path><circle cx="12" cy="4" r="2"></circle><path d="M19 13v-2c-1.54.02-3.09-.75-4.07-1.83l-1.29-1.43c-.17-.19-.38-.34-.61-.45-.01 0-.01-.01-.02-.01H13c-.35-.2-.75-.3-1.19-.26C10.76 7.11 10 8.04 10 9.09V15c0 1.1.9 2 2 2h5v5h2v-5.5c0-1.1-.9-2-2-2h-3v-3.45c1.29 1.07 3.25 1.94 5 1.95zm-6.17 5c-.41 1.16-1.52 2-2.83 2-1.66 0-3-1.34-3-3 0-1.31.84-2.41 2-2.83V12.1c-2.28.46-4 2.48-4 4.9 0 2.76 2.24 5 5 5 2.42 0 4.44-1.72 4.9-4h-2.07z"></path></svg></div></div>
 <!-- /wp:coblocks/icon -->
 
 <!-- wp:heading {"level":3,"placeholder":"Add feature title…"} -->
@@ -6548,7 +6701,7 @@ Post type: page
 
 <!-- wp:coblocks/feature {"paddingSize":"huge","customBackgroundColor":"#eed792","className":"has-no-margin-vertical","coblocks":{"id":"14192456535"}} -->
 <div class="wp-block-coblocks-feature coblocks-feature-14192456535 has-no-margin-vertical"><div class="wp-block-coblocks-feature__inner has-background has-padding has-huge-padding" style="background-color:#eed792"><!-- wp:coblocks/icon {"icon":"flower","hasContentAlign":false} -->
-<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true" focusable="false"><path d="m6.81904762 11.4952381c.14285714 0 .27619048-.0095238.40952381-.0285714.44761905 1.0952381 1.52380952 1.8666666 2.77142857 1.8666666 1.247619 0 2.3238095-.7714285 2.7714286-1.8666666.1333333.0190476.2761904.0285714.4095238.0285714 1.647619 0 2.9904762-1.3428571 2.9904762-2.9904762 0-.67619047-.2380953-1.32380952-.6380953-1.83809523.4095238-.51428572.6380953-1.16190477.6380953-1.83809524 0-1.64761905-1.3428572-2.99047619-2.9904762-2.99047619-.1428572 0-.2761905.00952381-.4095238.02857143-.4476191-1.0952381-1.5238096-1.86666667-2.7714286-1.86666667-1.24761905 0-2.32380952.77142857-2.77142857 1.86666667-.13333333-.01904762-.27619048-.02857143-.40952381-.02857143-1.64761905 0-2.99047619 1.34285714-2.99047619 2.99047619 0 .67619047.23809524 1.32380952.63809524 1.83809524-.40952381.51428571-.64761905 1.16190476-.64761905 1.83809523 0 1.6476191 1.34285714 2.9904762 3 2.9904762zm3.18095238-.0666667c-.59047619 0-1.06666667-.4666666-1.08571429-1.047619l.11428572-1.03809526c.3047619.11428572.62857143.18095238.97142857.18095238.3428571 0 .6761905-.06666666.9809524-.18095238l.1047619 1.03809526c-.0190476.5809524-.4952381 1.047619-1.0857143 1.047619zm3.1809524-1.83809521c-.2285714 0-.4380953-.06666667-.6095238-.19047619l-.7714286-.54285714c.5238095-.42857143.8952381-1.03809524 1.0095238-1.74285715l.8380952.4c.3809524.18095239.6285715.56190477.6285715.98095239 0 .6095238-.4952381 1.09523809-1.0952381 1.09523809zm-.6190476-5.65714286c.1904762-.12380952.4-.19047619.6190476-.19047619.6 0 1.0857143.48571429 1.0857143 1.08571429 0 .41904762-.2380953.79047619-.6285715.98095238l-.8380952.4c-.1142857-.70476191-.4857143-1.31428571-1.0190476-1.74285714zm-2.5619048-2.02857143c.5904762 0 1.0666667.46666667 1.0857143 1.04761905l-.1047619 1.03809524c-.3047619-.11428571-.6380953-.18095238-.9809524-.18095238-.34285714 0-.66666667.06666667-.97142857.18095238l-.11428572-1.03809524c.01904762-.58095238.4952381-1.04761905 1.08571429-1.04761905zm-3.18095238 1.83809524c.22857143 0 .43809524.06666667.60952381.19047619l.77142857.53333334c-.52380952.42857143-.8952381 1.03809523-1.00952381 1.74285714l-.83809524-.4c-.38095238-.19047619-.62857143-.56190476-.62857143-.98095238 0-.6.4952381-1.08571429 1.0952381-1.08571429zm-.46666667 3.78095238.83809524-.4c.11428571.70476191.48571429 1.31428572 1.01904762 1.74285715l-.77142857.52380952c-.19047619.12380952-.4.19047619-.61904762.19047619-.6 0-1.08571429-.48571428-1.08571429-1.08571428-.00952381-.40952381.23809524-.78095239.61904762-.97142858zm3.64761905 12.47619048c4.7333333 0 8.5714286-3.8380952 8.5714286-8.5714286-4.7333334 0-8.5714286 3.8380953-8.5714286 8.5714286zm2.3238095-2.3238095c.6761905-1.8095238 2.1142857-3.2571429 3.9238095-3.9238095-.6761904 1.8095238-2.1142857 3.247619-3.9238095 3.9238095zm-10.89523807-6.2476191c0 4.7333334 3.83809524 8.5714286 8.57142857 8.5714286 0-4.7333333-3.83809524-8.5714286-8.57142857-8.5714286zm2.32380952 2.3238096c1.80952381.6761904 3.25714286 2.1142857 3.92380953 3.9238095-1.80952381-.6761905-3.24761905-2.1142857-3.92380953-3.9238095z"></path></svg></div></div>
+<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><path d="m6.81904762 11.4952381c.14285714 0 .27619048-.0095238.40952381-.0285714.44761905 1.0952381 1.52380952 1.8666666 2.77142857 1.8666666 1.247619 0 2.3238095-.7714285 2.7714286-1.8666666.1333333.0190476.2761904.0285714.4095238.0285714 1.647619 0 2.9904762-1.3428571 2.9904762-2.9904762 0-.67619047-.2380953-1.32380952-.6380953-1.83809523.4095238-.51428572.6380953-1.16190477.6380953-1.83809524 0-1.64761905-1.3428572-2.99047619-2.9904762-2.99047619-.1428572 0-.2761905.00952381-.4095238.02857143-.4476191-1.0952381-1.5238096-1.86666667-2.7714286-1.86666667-1.24761905 0-2.32380952.77142857-2.77142857 1.86666667-.13333333-.01904762-.27619048-.02857143-.40952381-.02857143-1.64761905 0-2.99047619 1.34285714-2.99047619 2.99047619 0 .67619047.23809524 1.32380952.63809524 1.83809524-.40952381.51428571-.64761905 1.16190476-.64761905 1.83809523 0 1.6476191 1.34285714 2.9904762 3 2.9904762zm3.18095238-.0666667c-.59047619 0-1.06666667-.4666666-1.08571429-1.047619l.11428572-1.03809526c.3047619.11428572.62857143.18095238.97142857.18095238.3428571 0 .6761905-.06666666.9809524-.18095238l.1047619 1.03809526c-.0190476.5809524-.4952381 1.047619-1.0857143 1.047619zm3.1809524-1.83809521c-.2285714 0-.4380953-.06666667-.6095238-.19047619l-.7714286-.54285714c.5238095-.42857143.8952381-1.03809524 1.0095238-1.74285715l.8380952.4c.3809524.18095239.6285715.56190477.6285715.98095239 0 .6095238-.4952381 1.09523809-1.0952381 1.09523809zm-.6190476-5.65714286c.1904762-.12380952.4-.19047619.6190476-.19047619.6 0 1.0857143.48571429 1.0857143 1.08571429 0 .41904762-.2380953.79047619-.6285715.98095238l-.8380952.4c-.1142857-.70476191-.4857143-1.31428571-1.0190476-1.74285714zm-2.5619048-2.02857143c.5904762 0 1.0666667.46666667 1.0857143 1.04761905l-.1047619 1.03809524c-.3047619-.11428571-.6380953-.18095238-.9809524-.18095238-.34285714 0-.66666667.06666667-.97142857.18095238l-.11428572-1.03809524c.01904762-.58095238.4952381-1.04761905 1.08571429-1.04761905zm-3.18095238 1.83809524c.22857143 0 .43809524.06666667.60952381.19047619l.77142857.53333334c-.52380952.42857143-.8952381 1.03809523-1.00952381 1.74285714l-.83809524-.4c-.38095238-.19047619-.62857143-.56190476-.62857143-.98095238 0-.6.4952381-1.08571429 1.0952381-1.08571429zm-.46666667 3.78095238.83809524-.4c.11428571.70476191.48571429 1.31428572 1.01904762 1.74285715l-.77142857.52380952c-.19047619.12380952-.4.19047619-.61904762.19047619-.6 0-1.08571429-.48571428-1.08571429-1.08571428-.00952381-.40952381.23809524-.78095239.61904762-.97142858zm3.64761905 12.47619048c4.7333333 0 8.5714286-3.8380952 8.5714286-8.5714286-4.7333334 0-8.5714286 3.8380953-8.5714286 8.5714286zm2.3238095-2.3238095c.6761905-1.8095238 2.1142857-3.2571429 3.9238095-3.9238095-.6761904 1.8095238-2.1142857 3.247619-3.9238095 3.9238095zm-10.89523807-6.2476191c0 4.7333334 3.83809524 8.5714286 8.57142857 8.5714286 0-4.7333333-3.83809524-8.5714286-8.57142857-8.5714286zm2.32380952 2.3238096c1.80952381.6761904 3.25714286 2.1142857 3.92380953 3.9238095-1.80952381-.6761905-3.24761905-2.1142857-3.92380953-3.9238095z"></path></svg></div></div>
 <!-- /wp:coblocks/icon -->
 
 <!-- wp:heading {"level":3,"placeholder":"Add feature title…"} -->
@@ -6562,7 +6715,7 @@ Post type: page
 
 <!-- wp:coblocks/feature {"paddingSize":"huge","className":"has-no-margin-vertical","coblocks":{"id":"14192458487"}} -->
 <div class="wp-block-coblocks-feature coblocks-feature-14192458487 has-no-margin-vertical"><div class="wp-block-coblocks-feature__inner has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"gallery","hasContentAlign":false} -->
-<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true" focusable="false"><path d="m18 2v12h-12v-12zm0-2h-12c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2v-12c0-1.1-.9-2-2-2zm-8.5 9.67 1.69 2.26 2.48-3.1 3.33 4.17h-10zm-9.5-5.67v14c0 1.1.9 2 2 2h14v-2h-14v-14z"></path></svg></div></div>
+<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><path d="m18 2v12h-12v-12zm0-2h-12c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2v-12c0-1.1-.9-2-2-2zm-8.5 9.67 1.69 2.26 2.48-3.1 3.33 4.17h-10zm-9.5-5.67v14c0 1.1.9 2 2 2h14v-2h-14v-14z"></path></svg></div></div>
 <!-- /wp:coblocks/icon -->
 
 <!-- wp:heading {"level":3,"placeholder":"Add feature title…"} -->
@@ -6587,7 +6740,7 @@ Post type: page
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"dropCap":true,"textColor":"palette-2","fontSize":"large"} -->
-<p class="has-text-color has-drop-cap has-large-font-size has-palette-2-color"><strong>Maybe he has a little friend that lives right over here. And maybe a little bush lives there. Just take out whatever you don't want. It'll change your entire perspective. This is where you take out.</strong></p>
+<p class="has-drop-cap has-palette-2-color has-text-color has-large-font-size"><strong>Maybe he has a little friend that lives right over here. And maybe a little bush lives there. Just take out whatever you don't want. It'll change your entire perspective. This is where you take out.</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -6610,8 +6763,8 @@ Post type: page
 <figure class="wp-block-image alignwide size-large has-no-margin-bottom is-style-top-wave"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_white-and-black-houses-with-brown-grass-with-overlooking-1245066-1360x765.jpg" alt="Don't forget to set alt text." class="wp-image-192"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:group {"backgroundColor":"palette-3","textColor":"palette-1","align":"wide","noBottomMargin":true,"noTopMargin":true} -->
-<div class="wp-block-group alignwide has-palette-3-background-color has-palette-1-color has-text-color has-background mb-0 mt-0"><div class="wp-block-group__inner-container"><!-- wp:spacer {"height":75} -->
+<!-- wp:group {"align":"wide","backgroundColor":"palette-3","textColor":"palette-1","noBottomMargin":true,"noTopMargin":true} -->
+<div class="wp-block-group alignwide has-palette-1-color has-palette-3-background-color has-text-color has-background mb-0 mt-0"><div class="wp-block-group__inner-container"><!-- wp:spacer {"height":75} -->
 <div style="height:75px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -6646,8 +6799,8 @@ Post type: page
 <!-- /wp:spacer --></div></div>
 <!-- /wp:group -->
 
-<!-- wp:coblocks/shape-divider {"align":"wide","backgroundHeight":20,"color":"palette-5","backgroundColor":"palette-3","justAdded":false,"className":"is-style-wavy","coblocks":{"id":"61124024916"}} -->
-<div class="wp-block-coblocks-shape-divider alignwide has-palette-5-color has-palette-3-background-color coblocks-shape-divider-61124024916 is-style-wavy mb-0 mt-0" aria-hidden="true"><div class="wp-block-coblocks-shape-divider__svg-wrapper" style="min-height:100px"><svg viewBox="0 0 100 10" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none" class="divider--wavy" role="img" aria-hidden="true" focusable="false"><path d="m42.19.65c2.26-.25 5.15.04 7.55.53 2.36.49 7.09 2.35 10.05 3.57 7.58 3.22 13.37 4.45 19.26 4.97 2.36.21 4.87.35 10.34-.25s10.62-2.56 10.62-2.56v-6.91h-100.01v3.03s7.2 3.26 15.84 3.05c3.92-.07 9.28-.67 13.4-2.24 2.12-.81 5.22-1.82 7.97-2.42 2.72-.63 3.95-.67 4.98-.77z" fillrule="evenodd" transform="matrix(1 0 0 -1 0 10)"></path></svg></div><div class="wp-block-coblocks-shape-divider__alt-wrapper" style="min-height:20px"></div></div>
+<!-- wp:coblocks/shape-divider {"align":"wide","backgroundHeight":20,"color":"palette-5","backgroundColor":"palette-3","justAdded":false,"coblocks":{"id":"919175414117"}} -->
+<div class="wp-block-coblocks-shape-divider alignwide has-palette-5-color has-palette-3-background-color coblocks-shape-divider-919175414117 mb-0 mt-0" aria-hidden="true"><div class="wp-block-coblocks-shape-divider__svg-wrapper" style="min-height:100px"><svg viewbox="0 0 100 10" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none" class="divider--wavy" role="img" aria-hidden="true"><path d="m42.19.65c2.26-.25 5.15.04 7.55.53 2.36.49 7.09 2.35 10.05 3.57 7.58 3.22 13.37 4.45 19.26 4.97 2.36.21 4.87.35 10.34-.25s10.62-2.56 10.62-2.56v-6.91h-100.01v3.03s7.2 3.26 15.84 3.05c3.92-.07 9.28-.67 13.4-2.24 2.12-.81 5.22-1.82 7.97-2.42 2.72-.63 3.95-.67 4.98-.77z" fillrule="evenodd" transform="matrix(1 0 0 -1 0 10)"></path></svg></div><div class="wp-block-coblocks-shape-divider__alt-wrapper" style="min-height:20px"></div></div>
 <!-- /wp:coblocks/shape-divider -->
 
 <!-- wp:spacer {"height":60,"noTopMargin":true} -->
@@ -6662,8 +6815,8 @@ Post type: page
 <div style="height:110px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:media-text {"backgroundColor":"palette-4","mediaId":89,"mediaLink":"http://themedemos.webmandesign.eu/deborah/sample/_etty-fidele-vnycibzju0o-unsplash/","mediaType":"image","className":"has-no-margin-bottom"} -->
-<div class="wp-block-media-text alignwide has-background has-palette-4-background-color is-stacked-on-mobile has-no-margin-bottom"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_etty-fidele-VNYCIbZju0o-unsplash.jpg" alt="Don't forget to set alt text." class="wp-image-89"/></figure><div class="wp-block-media-text__content"><!-- wp:spacer -->
+<!-- wp:media-text {"mediaId":89,"mediaLink":"http://themedemos.webmandesign.eu/deborah/sample/_etty-fidele-vnycibzju0o-unsplash/","mediaType":"image","className":"has-no-margin-bottom","backgroundColor":"palette-4"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile has-no-margin-bottom has-palette-4-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_etty-fidele-VNYCIbZju0o-unsplash.jpg" alt="Don't forget to set alt text." class="wp-image-89"/></figure><div class="wp-block-media-text__content"><!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -6672,7 +6825,7 @@ Post type: page
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"palette-1","fontSize":"large"} -->
-<p class="has-text-color has-large-font-size has-palette-1-color">It’ll change your entire perspective. This is where you take out all your hostilities and frustrations. It’s better than kicking the puppy dog around and all that so.</p>
+<p class="has-palette-1-color has-text-color has-large-font-size">It’ll change your entire perspective. This is where you take out all your hostilities and frustrations. It’s better than kicking the puppy dog around and all that so.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:columns -->
@@ -6702,12 +6855,12 @@ Post type: page
 <div style="height:130px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:coblocks/shape-divider {"backgroundHeight":20,"color":"palette-3","justAdded":false,"className":"is-style-hills","coblocks":{"id":"6112362607"}} -->
-<div class="wp-block-coblocks-shape-divider alignfull has-palette-3-color coblocks-shape-divider-6112362607 is-style-hills mb-0 mt-0" aria-hidden="true"><div class="wp-block-coblocks-shape-divider__svg-wrapper" style="min-height:100px"><svg viewBox="0 0 1920 105" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none" class="divider--hills" role="img" aria-hidden="true" focusable="false"><g fillrule="evenodd" transform="matrix(1 0 0 -1 0 105)"><path d="m1920 14.8827052c-116.23325 0-224.05162 88.3906828-395.09265 88.3906828-160.92196 0-254.53172-83.4344997-444.90735-83.4344997-154.297581 0-240.095847 39.6344097-367.66819 39.6344097-154.121863 0-198.902329-36.1223133-349.458242-36.1223133-144.878137 0-241.175717 80.8685493-362.873568 80.8685493 0-34.0793243 0-68.1494291 0-102.219534h1920z"></path><path d="m1920 14.6612844c-116.11434 0-223.9659 88.8291396-395.06196 88.8291396-160.92415 0-254.54487-83.7874573-444.93804-83.7874573-154.317311 0-240.088941 39.8974838-367.565152 39.8974838-154.034172 0-198.792715-36.4840402-349.164477-36.4840402-144.965828 0-241.283139 81.1250467-363.270371 81.1250467 0-34.7474052 0-69.4948104 0-104.241457h1920z"></path></g></svg></div><div class="wp-block-coblocks-shape-divider__alt-wrapper" style="min-height:20px"></div></div>
+<!-- wp:coblocks/shape-divider {"backgroundHeight":20,"color":"palette-3","justAdded":false,"className":"is-style-hills","coblocks":{"id":"919175510147"}} -->
+<div class="wp-block-coblocks-shape-divider alignfull has-palette-3-color coblocks-shape-divider-919175510147 is-style-hills mb-0 mt-0" aria-hidden="true"><div class="wp-block-coblocks-shape-divider__svg-wrapper" style="min-height:100px"><svg viewbox="0 0 1920 105" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none" class="divider--hills" role="img" aria-hidden="true"><g fillrule="evenodd" transform="matrix(1 0 0 -1 0 105)"><path d="m1920 14.8827052c-116.23325 0-224.05162 88.3906828-395.09265 88.3906828-160.92196 0-254.53172-83.4344997-444.90735-83.4344997-154.297581 0-240.095847 39.6344097-367.66819 39.6344097-154.121863 0-198.902329-36.1223133-349.458242-36.1223133-144.878137 0-241.175717 80.8685493-362.873568 80.8685493 0-34.0793243 0-68.1494291 0-102.219534h1920z"></path><path d="m1920 14.6612844c-116.11434 0-223.9659 88.8291396-395.06196 88.8291396-160.92415 0-254.54487-83.7874573-444.93804-83.7874573-154.317311 0-240.088941 39.8974838-367.565152 39.8974838-154.034172 0-198.792715-36.4840402-349.164477-36.4840402-144.965828 0-241.283139 81.1250467-363.270371 81.1250467 0-34.7474052 0-69.4948104 0-104.241457h1920z"></path></g></svg></div><div class="wp-block-coblocks-shape-divider__alt-wrapper" style="min-height:20px"></div></div>
 <!-- /wp:coblocks/shape-divider -->
 
-<!-- wp:group {"backgroundColor":"palette-3","textColor":"palette-1","align":"full","className":"has-no-padding-vertical","noTopMargin":true} -->
-<div class="wp-block-group alignfull has-palette-3-background-color has-palette-1-color has-text-color has-background has-no-padding-vertical mt-0"><div class="wp-block-group__inner-container"><!-- wp:spacer {"height":130} -->
+<!-- wp:group {"align":"full","className":"has-no-padding-vertical","backgroundColor":"palette-3","textColor":"palette-1","noTopMargin":true} -->
+<div class="wp-block-group alignfull has-no-padding-vertical has-palette-1-color has-palette-3-background-color has-text-color has-background mt-0"><div class="wp-block-group__inner-container"><!-- wp:spacer {"height":130} -->
 <div style="height:130px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -6721,7 +6874,7 @@ Post type: page
 
 <!-- wp:buttons {"align":"center","className":"has-large-font-size"} -->
 <div class="wp-block-buttons aligncenter has-large-font-size"><!-- wp:button {"backgroundColor":"palette-1","textColor":"palette-3","className":"is-style-fill"} -->
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-text-color has-palette-3-color has-background has-palette-1-background-color" href="#purchaselink">Get in touch</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-palette-3-color has-palette-1-background-color has-text-color has-background" href="#purchaselink">Get in touch</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -6768,7 +6921,7 @@ Post type: page
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_coblocks_responsive_height]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"coblocks-shape-divider-6112362607":{"backgroundHeight":{"height":20}},"coblocks-shape-divider-61124024916":{"backgroundHeight":{"height":20}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[{"coblocks-shape-divider-6112362607":{"backgroundHeight":{"height":20}},"coblocks-shape-divider-61124024916":{"backgroundHeight":{"height":20}},"coblocks-shape-divider-919175414117":{"shapeHeight":{"height":100},"backgroundHeight":{"height":20}},"coblocks-shape-divider-919175510147":{"backgroundHeight":{"height":20}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_coblocks_accordion_ie_support]]></wp:meta_key>
@@ -6798,7 +6951,7 @@ Post type: page
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"huge","lineHeight":1.25,"fontWeight":"bold"} -->
-<p style="line-height:1.25;font-weight:bold" class="has-huge-font-size has-custom-weight has-custom-lineheight">We Are Happy To Guide You</p>
+<p class="has-huge-font-size has-custom-weight has-custom-lineheight" style="line-height:1.25;font-weight:bold">We Are Happy To Guide You</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -6837,7 +6990,7 @@ Post type: page
 <!-- wp:columns {"verticalAlignment":"center","align":"wide"} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:coblocks/gallery-collage {"gutter":"medium","className":"is-style-tiled"} -->
-<div class="wp-block-coblocks-gallery-collage has-medium-gutter is-style-tiled"><ul><li class="wp-block-coblocks-gallery-collage__item item-1"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_body-of-water-beside-green-trees-2793048.jpg" alt="Don't forget to set alt text." data-index="0" data-id="195" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_body-of-water-beside-green-trees-2793048/" class="wp-image-195"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-2"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_pedro-lima-IkqhfoJjwSI-unsplash-1360x765.jpg" alt="Don't forget to set alt text." data-index="1" data-id="196" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_pedro-lima-ikqhfojjwsi-unsplash/" class="wp-image-196"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-3"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397.jpg" alt="Don't forget to set alt text." data-index="2" data-id="201" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_brown-and-white-cathedral-interior-3661397/" class="wp-image-201"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-4"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_pedro-lima-HtwsbbClBOs-unsplash-1360x765.jpg" alt="Don't forget to set alt text." data-index="3" data-id="197" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_pedro-lima-htwsbbclbos-unsplash/" class="wp-image-197"/></figure></li></ul></div>
+<div class="wp-block-coblocks-gallery-collage is-style-tiled has-medium-gutter"><ul><li class="wp-block-coblocks-gallery-collage__item item-1"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_body-of-water-beside-green-trees-2793048.jpg" alt="Don't forget to set alt text." data-index="0" data-id="195" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_body-of-water-beside-green-trees-2793048/" class="wp-image-195"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-2"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_pedro-lima-IkqhfoJjwSI-unsplash-1360x765.jpg" alt="Don't forget to set alt text." data-index="1" data-id="196" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_pedro-lima-ikqhfojjwsi-unsplash/" class="wp-image-196"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-3"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397.jpg" alt="Don't forget to set alt text." data-index="2" data-id="201" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_brown-and-white-cathedral-interior-3661397/" class="wp-image-201"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-4"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_pedro-lima-HtwsbbClBOs-unsplash-1360x765.jpg" alt="Don't forget to set alt text." data-index="3" data-id="197" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_pedro-lima-htwsbbclbos-unsplash/" class="wp-image-197"/></figure></li></ul></div>
 <!-- /wp:coblocks/gallery-collage --></div>
 <!-- /wp:column -->
 
@@ -6870,13 +7023,13 @@ Post type: page
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"textColor":"palette-5","className":"has-no-margin-top"} -->
-<h2 class="has-palette-5-color has-text-color has-no-margin-top">It's a super day, so why not make a beautiful sky?</h2>
+<!-- wp:heading {"className":"has-no-margin-top","textColor":"palette-5"} -->
+<h2 class="has-no-margin-top has-palette-5-color has-text-color">It's a super day, so why not make a beautiful sky?</h2>
 <!-- /wp:heading -->
 
 <!-- wp:buttons {"className":"has-large-font-size"} -->
 <div class="wp-block-buttons has-large-font-size"><!-- wp:button {"backgroundColor":"palette-3","textColor":"palette-1","className":"is-style-fill"} -->
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-text-color has-palette-1-color has-background has-palette-3-background-color" href="#purchaselink">Contact us</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-palette-1-color has-palette-3-background-color has-text-color has-background" href="#purchaselink">Contact us</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -6911,9 +7064,9 @@ Post type: page
 <!-- /wp:spacer -->
 
 <!-- wp:coblocks/features {"marginBottom":0,"marginBottomTablet":0,"marginBottomMobile":0,"columns":3,"align":"wide","coblocks":{"id":"0261263149"}} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-0261263149"><div class="wp-block-coblocks-features__inner has-columns has-3-columns has-responsive-columns has-medium-gutter has-center-content"><!-- wp:coblocks/feature {"paddingSize":"huge","backgroundColor":"palette-3","textColor":"palette-1","coblocks":{"id":"02612631186"}} -->
+<div class="wp-block-coblocks-features alignwide coblocks-features-0261263149"><div class="wp-block-coblocks-features__inner has-columns has-3-columns has-responsive-columns has-center-content has-medium-gutter"><!-- wp:coblocks/feature {"paddingSize":"huge","backgroundColor":"palette-3","textColor":"palette-1","coblocks":{"id":"02612631186"}} -->
 <div class="wp-block-coblocks-feature coblocks-feature-02612631186"><div class="wp-block-coblocks-feature__inner has-palette-3-background-color has-background has-text-color has-palette-1-color has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"color_lens","hasContentAlign":false} -->
-<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true" focusable="false"><g fillrule="evenodd"><path d="m10 20c-5.51 0-10-4.49-10-10s4.49-10 10-10 10 4.04 10 9c0 3.31-2.69 6-6 6h-1.77c-.28 0-.5.22-.5.5 0 .12.05.23.13.33.41.47.64 1.06.64 1.67 0 1.38-1.12 2.5-2.5 2.5zm0-18c-4.41 0-8 3.59-8 8s3.59 8 8 8c.28 0 .5-.22.5-.5 0-.16-.08-.28-.14-.35-.41-.46-.63-1.05-.63-1.65 0-1.38 1.12-2.5 2.5-2.5h1.77c2.21 0 4-1.79 4-4 0-3.86-3.59-7-8-7z" fillrule="nonzero"></path><circle cx="4.5" cy="9.5" r="1.5"></circle><circle cx="7.5" cy="5.5" r="1.5"></circle><circle cx="12.5" cy="5.5" r="1.5"></circle><circle cx="15.5" cy="9.5" r="1.5"></circle></g></svg></div></div>
+<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><g fillrule="evenodd"><path d="m10 20c-5.51 0-10-4.49-10-10s4.49-10 10-10 10 4.04 10 9c0 3.31-2.69 6-6 6h-1.77c-.28 0-.5.22-.5.5 0 .12.05.23.13.33.41.47.64 1.06.64 1.67 0 1.38-1.12 2.5-2.5 2.5zm0-18c-4.41 0-8 3.59-8 8s3.59 8 8 8c.28 0 .5-.22.5-.5 0-.16-.08-.28-.14-.35-.41-.46-.63-1.05-.63-1.65 0-1.38 1.12-2.5 2.5-2.5h1.77c2.21 0 4-1.79 4-4 0-3.86-3.59-7-8-7z" fillrule="nonzero"></path><circle cx="4.5" cy="9.5" r="1.5"></circle><circle cx="7.5" cy="5.5" r="1.5"></circle><circle cx="12.5" cy="5.5" r="1.5"></circle><circle cx="15.5" cy="9.5" r="1.5"></circle></g></svg></div></div>
 <!-- /wp:coblocks/icon -->
 
 <!-- wp:heading {"level":3,"placeholder":"Add feature title…"} -->
@@ -6927,7 +7080,7 @@ Post type: page
 
 <!-- wp:coblocks/feature {"paddingSize":"huge","backgroundColor":"palette-3","textColor":"palette-1","coblocks":{"id":"02612631193"}} -->
 <div class="wp-block-coblocks-feature coblocks-feature-02612631193"><div class="wp-block-coblocks-feature__inner has-palette-3-background-color has-background has-text-color has-palette-1-color has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"emoticon","hasContentAlign":false} -->
-<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true" focusable="false"><path d="m9.99 0c-5.52 0-9.99 4.48-9.99 10s4.47 10 9.99 10c5.53 0 10.01-4.48 10.01-10s-4.48-10-10.01-10zm.01 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5s-.67-1.5-1.5-1.5-1.5.67-1.5 1.5.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5s-.67-1.5-1.5-1.5-1.5.67-1.5 1.5.67 1.5 1.5 1.5zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5h-10.22c.8 2.04 2.78 3.5 5.11 3.5z"></path></svg></div></div>
+<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><path d="m9.99 0c-5.52 0-9.99 4.48-9.99 10s4.47 10 9.99 10c5.53 0 10.01-4.48 10.01-10s-4.48-10-10.01-10zm.01 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5s-.67-1.5-1.5-1.5-1.5.67-1.5 1.5.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5s-.67-1.5-1.5-1.5-1.5.67-1.5 1.5.67 1.5 1.5 1.5zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5h-10.22c.8 2.04 2.78 3.5 5.11 3.5z"></path></svg></div></div>
 <!-- /wp:coblocks/icon -->
 
 <!-- wp:heading {"level":3,"placeholder":"Add feature title…","textColor":"color-accent-text"} -->
@@ -6941,7 +7094,7 @@ Post type: page
 
 <!-- wp:coblocks/feature {"paddingSize":"huge","backgroundColor":"palette-3","textColor":"palette-1","coblocks":{"id":"69183121317"}} -->
 <div class="wp-block-coblocks-feature coblocks-feature-69183121317"><div class="wp-block-coblocks-feature__inner has-palette-3-background-color has-background has-text-color has-palette-1-color has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"circle_add","hasContentAlign":false} -->
-<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true" focusable="false"><path d="m11 5h-2v4h-4v2h4v4h2v-4h4v-2h-4zm-1-5c-5.52 0-10 4.48-10 10s4.48 10 10 10 10-4.48 10-10-4.48-10-10-10zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"></path></svg></div></div>
+<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><path d="m11 5h-2v4h-4v2h4v4h2v-4h4v-2h-4zm-1-5c-5.52 0-10 4.48-10 10s4.48 10 10 10 10-4.48 10-10-4.48-10-10-10zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"></path></svg></div></div>
 <!-- /wp:coblocks/icon -->
 
 <!-- wp:heading {"level":3,"placeholder":"Add feature title…"} -->
@@ -7646,8 +7799,8 @@ Post type: page
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:coblocks/icon {"icon":"accessible","iconSize":"large","backgroundColor":"palette-3","iconColor":"palette-2","height":120,"width":120,"borderRadius":200,"padding":30} -->
-<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner has-text-color has-palette-2-color has-background has-palette-3-background-color" style="height:120px;width:120px;border-radius:200px;padding:30px"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false"><path d="M0 0h24v24H0z" fill="none"></path><circle cx="12" cy="4" r="2"></circle><path d="M19 13v-2c-1.54.02-3.09-.75-4.07-1.83l-1.29-1.43c-.17-.19-.38-.34-.61-.45-.01 0-.01-.01-.02-.01H13c-.35-.2-.75-.3-1.19-.26C10.76 7.11 10 8.04 10 9.09V15c0 1.1.9 2 2 2h5v5h2v-5.5c0-1.1-.9-2-2-2h-3v-3.45c1.29 1.07 3.25 1.94 5 1.95zm-6.17 5c-.41 1.16-1.52 2-2.83 2-1.66 0-3-1.34-3-3 0-1.31.84-2.41 2-2.83V12.1c-2.28.46-4 2.48-4 4.9 0 2.76 2.24 5 5 5 2.42 0 4.44-1.72 4.9-4h-2.07z"></path></svg></div></div>
+<div class="wp-block-column"><!-- wp:coblocks/icon {"icon":"accessible","iconSize":"advanced","hasContentAlign":false,"backgroundColor":"palette-3","iconColor":"palette-1","height":120,"width":120,"borderRadius":200,"padding":30,"className":"is-style-outlined"} -->
+<div class="wp-block-coblocks-icon is-style-outlined"><div class="wp-block-coblocks-icon__inner has-text-color has-palette-1-color has-background has-palette-3-background-color" style="height:120px;width:120px;border-radius:200px;padding:30px"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" role="img" aria-hidden="true"><path d="M0 0h24v24H0z" fill="none"></path><circle cx="12" cy="4" r="2"></circle><path d="M19 13v-2c-1.54.02-3.09-.75-4.07-1.83l-1.29-1.43c-.17-.19-.38-.34-.61-.45-.01 0-.01-.01-.02-.01H13c-.35-.2-.75-.3-1.19-.26C10.76 7.11 10 8.04 10 9.09V15c0 1.1.9 2 2 2h5v5h2v-5.5c0-1.1-.9-2-2-2h-3v-3.45c1.29 1.07 3.25 1.94 5 1.95zm-6.17 5c-.41 1.16-1.52 2-2.83 2-1.66 0-3-1.34-3-3 0-1.31.84-2.41 2-2.83V12.1c-2.28.46-4 2.48-4 4.9 0 2.76 2.24 5 5 5 2.42 0 4.44-1.72 4.9-4h-2.07z"></path></svg></div></div>
 <!-- /wp:coblocks/icon -->
 
 <!-- wp:heading {"className":"h3"} -->
@@ -7660,8 +7813,8 @@ Post type: page
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:coblocks/icon {"icon":"color_lens","iconSize":"large","backgroundColor":"palette-3","iconColor":"palette-2","height":120,"width":120,"borderRadius":200,"padding":30} -->
-<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner has-text-color has-palette-2-color has-background has-palette-3-background-color" style="height:120px;width:120px;border-radius:200px;padding:30px"><svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true" focusable="false"><g fillrule="evenodd"><path d="m10 20c-5.51 0-10-4.49-10-10s4.49-10 10-10 10 4.04 10 9c0 3.31-2.69 6-6 6h-1.77c-.28 0-.5.22-.5.5 0 .12.05.23.13.33.41.47.64 1.06.64 1.67 0 1.38-1.12 2.5-2.5 2.5zm0-18c-4.41 0-8 3.59-8 8s3.59 8 8 8c.28 0 .5-.22.5-.5 0-.16-.08-.28-.14-.35-.41-.46-.63-1.05-.63-1.65 0-1.38 1.12-2.5 2.5-2.5h1.77c2.21 0 4-1.79 4-4 0-3.86-3.59-7-8-7z" fillrule="nonzero"></path><circle cx="4.5" cy="9.5" r="1.5"></circle><circle cx="7.5" cy="5.5" r="1.5"></circle><circle cx="12.5" cy="5.5" r="1.5"></circle><circle cx="15.5" cy="9.5" r="1.5"></circle></g></svg></div></div>
+<div class="wp-block-column"><!-- wp:coblocks/icon {"icon":"color_lens","iconSize":"advanced","hasContentAlign":false,"backgroundColor":"palette-3","iconColor":"palette-1","height":120,"width":120,"borderRadius":200,"padding":30,"className":"is-style-outlined"} -->
+<div class="wp-block-coblocks-icon is-style-outlined"><div class="wp-block-coblocks-icon__inner has-text-color has-palette-1-color has-background has-palette-3-background-color" style="height:120px;width:120px;border-radius:200px;padding:30px"><svg viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><g fillrule="evenodd"><path d="m10 20c-5.51 0-10-4.49-10-10s4.49-10 10-10 10 4.04 10 9c0 3.31-2.69 6-6 6h-1.77c-.28 0-.5.22-.5.5 0 .12.05.23.13.33.41.47.64 1.06.64 1.67 0 1.38-1.12 2.5-2.5 2.5zm0-18c-4.41 0-8 3.59-8 8s3.59 8 8 8c.28 0 .5-.22.5-.5 0-.16-.08-.28-.14-.35-.41-.46-.63-1.05-.63-1.65 0-1.38 1.12-2.5 2.5-2.5h1.77c2.21 0 4-1.79 4-4 0-3.86-3.59-7-8-7z" fillrule="nonzero"></path><circle cx="4.5" cy="9.5" r="1.5"></circle><circle cx="7.5" cy="5.5" r="1.5"></circle><circle cx="12.5" cy="5.5" r="1.5"></circle><circle cx="15.5" cy="9.5" r="1.5"></circle></g></svg></div></div>
 <!-- /wp:coblocks/icon -->
 
 <!-- wp:heading {"className":"h3"} -->
@@ -7680,8 +7833,8 @@ Post type: page
 
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:coblocks/icon {"icon":"security","iconSize":"large","backgroundColor":"palette-3","iconColor":"palette-2","height":120,"width":120,"borderRadius":200,"padding":30} -->
-<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner has-text-color has-palette-2-color has-background has-palette-3-background-color" style="height:120px;width:120px;border-radius:200px;padding:30px"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm0 10.99h7c-.53 4.12-3.28 7.79-7 8.94V12H5V6.3l7-3.11v8.8z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg></div></div>
+<div class="wp-block-column"><!-- wp:coblocks/icon {"icon":"security","iconSize":"advanced","hasContentAlign":false,"backgroundColor":"palette-3","iconColor":"palette-1","height":120,"width":120,"borderRadius":200,"padding":30,"className":"is-style-outlined"} -->
+<div class="wp-block-coblocks-icon is-style-outlined"><div class="wp-block-coblocks-icon__inner has-text-color has-palette-1-color has-background has-palette-3-background-color" style="height:120px;width:120px;border-radius:200px;padding:30px"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" role="img" aria-hidden="true"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm0 10.99h7c-.53 4.12-3.28 7.79-7 8.94V12H5V6.3l7-3.11v8.8z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg></div></div>
 <!-- /wp:coblocks/icon -->
 
 <!-- wp:heading {"className":"h3"} -->
@@ -7694,8 +7847,8 @@ Post type: page
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:coblocks/icon {"icon":"flower","iconSize":"large","backgroundColor":"palette-3","iconColor":"palette-2","height":120,"width":120,"borderRadius":200,"padding":30} -->
-<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner has-text-color has-palette-2-color has-background has-palette-3-background-color" style="height:120px;width:120px;border-radius:200px;padding:30px"><svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true" focusable="false"><path d="m6.81904762 11.4952381c.14285714 0 .27619048-.0095238.40952381-.0285714.44761905 1.0952381 1.52380952 1.8666666 2.77142857 1.8666666 1.247619 0 2.3238095-.7714285 2.7714286-1.8666666.1333333.0190476.2761904.0285714.4095238.0285714 1.647619 0 2.9904762-1.3428571 2.9904762-2.9904762 0-.67619047-.2380953-1.32380952-.6380953-1.83809523.4095238-.51428572.6380953-1.16190477.6380953-1.83809524 0-1.64761905-1.3428572-2.99047619-2.9904762-2.99047619-.1428572 0-.2761905.00952381-.4095238.02857143-.4476191-1.0952381-1.5238096-1.86666667-2.7714286-1.86666667-1.24761905 0-2.32380952.77142857-2.77142857 1.86666667-.13333333-.01904762-.27619048-.02857143-.40952381-.02857143-1.64761905 0-2.99047619 1.34285714-2.99047619 2.99047619 0 .67619047.23809524 1.32380952.63809524 1.83809524-.40952381.51428571-.64761905 1.16190476-.64761905 1.83809523 0 1.6476191 1.34285714 2.9904762 3 2.9904762zm3.18095238-.0666667c-.59047619 0-1.06666667-.4666666-1.08571429-1.047619l.11428572-1.03809526c.3047619.11428572.62857143.18095238.97142857.18095238.3428571 0 .6761905-.06666666.9809524-.18095238l.1047619 1.03809526c-.0190476.5809524-.4952381 1.047619-1.0857143 1.047619zm3.1809524-1.83809521c-.2285714 0-.4380953-.06666667-.6095238-.19047619l-.7714286-.54285714c.5238095-.42857143.8952381-1.03809524 1.0095238-1.74285715l.8380952.4c.3809524.18095239.6285715.56190477.6285715.98095239 0 .6095238-.4952381 1.09523809-1.0952381 1.09523809zm-.6190476-5.65714286c.1904762-.12380952.4-.19047619.6190476-.19047619.6 0 1.0857143.48571429 1.0857143 1.08571429 0 .41904762-.2380953.79047619-.6285715.98095238l-.8380952.4c-.1142857-.70476191-.4857143-1.31428571-1.0190476-1.74285714zm-2.5619048-2.02857143c.5904762 0 1.0666667.46666667 1.0857143 1.04761905l-.1047619 1.03809524c-.3047619-.11428571-.6380953-.18095238-.9809524-.18095238-.34285714 0-.66666667.06666667-.97142857.18095238l-.11428572-1.03809524c.01904762-.58095238.4952381-1.04761905 1.08571429-1.04761905zm-3.18095238 1.83809524c.22857143 0 .43809524.06666667.60952381.19047619l.77142857.53333334c-.52380952.42857143-.8952381 1.03809523-1.00952381 1.74285714l-.83809524-.4c-.38095238-.19047619-.62857143-.56190476-.62857143-.98095238 0-.6.4952381-1.08571429 1.0952381-1.08571429zm-.46666667 3.78095238.83809524-.4c.11428571.70476191.48571429 1.31428572 1.01904762 1.74285715l-.77142857.52380952c-.19047619.12380952-.4.19047619-.61904762.19047619-.6 0-1.08571429-.48571428-1.08571429-1.08571428-.00952381-.40952381.23809524-.78095239.61904762-.97142858zm3.64761905 12.47619048c4.7333333 0 8.5714286-3.8380952 8.5714286-8.5714286-4.7333334 0-8.5714286 3.8380953-8.5714286 8.5714286zm2.3238095-2.3238095c.6761905-1.8095238 2.1142857-3.2571429 3.9238095-3.9238095-.6761904 1.8095238-2.1142857 3.247619-3.9238095 3.9238095zm-10.89523807-6.2476191c0 4.7333334 3.83809524 8.5714286 8.57142857 8.5714286 0-4.7333333-3.83809524-8.5714286-8.57142857-8.5714286zm2.32380952 2.3238096c1.80952381.6761904 3.25714286 2.1142857 3.92380953 3.9238095-1.80952381-.6761905-3.24761905-2.1142857-3.92380953-3.9238095z"></path></svg></div></div>
+<div class="wp-block-column"><!-- wp:coblocks/icon {"icon":"flower","iconSize":"advanced","hasContentAlign":false,"backgroundColor":"palette-3","iconColor":"palette-1","height":120,"width":120,"borderRadius":200,"padding":30,"className":"is-style-outlined"} -->
+<div class="wp-block-coblocks-icon is-style-outlined"><div class="wp-block-coblocks-icon__inner has-text-color has-palette-1-color has-background has-palette-3-background-color" style="height:120px;width:120px;border-radius:200px;padding:30px"><svg viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><path d="m6.81904762 11.4952381c.14285714 0 .27619048-.0095238.40952381-.0285714.44761905 1.0952381 1.52380952 1.8666666 2.77142857 1.8666666 1.247619 0 2.3238095-.7714285 2.7714286-1.8666666.1333333.0190476.2761904.0285714.4095238.0285714 1.647619 0 2.9904762-1.3428571 2.9904762-2.9904762 0-.67619047-.2380953-1.32380952-.6380953-1.83809523.4095238-.51428572.6380953-1.16190477.6380953-1.83809524 0-1.64761905-1.3428572-2.99047619-2.9904762-2.99047619-.1428572 0-.2761905.00952381-.4095238.02857143-.4476191-1.0952381-1.5238096-1.86666667-2.7714286-1.86666667-1.24761905 0-2.32380952.77142857-2.77142857 1.86666667-.13333333-.01904762-.27619048-.02857143-.40952381-.02857143-1.64761905 0-2.99047619 1.34285714-2.99047619 2.99047619 0 .67619047.23809524 1.32380952.63809524 1.83809524-.40952381.51428571-.64761905 1.16190476-.64761905 1.83809523 0 1.6476191 1.34285714 2.9904762 3 2.9904762zm3.18095238-.0666667c-.59047619 0-1.06666667-.4666666-1.08571429-1.047619l.11428572-1.03809526c.3047619.11428572.62857143.18095238.97142857.18095238.3428571 0 .6761905-.06666666.9809524-.18095238l.1047619 1.03809526c-.0190476.5809524-.4952381 1.047619-1.0857143 1.047619zm3.1809524-1.83809521c-.2285714 0-.4380953-.06666667-.6095238-.19047619l-.7714286-.54285714c.5238095-.42857143.8952381-1.03809524 1.0095238-1.74285715l.8380952.4c.3809524.18095239.6285715.56190477.6285715.98095239 0 .6095238-.4952381 1.09523809-1.0952381 1.09523809zm-.6190476-5.65714286c.1904762-.12380952.4-.19047619.6190476-.19047619.6 0 1.0857143.48571429 1.0857143 1.08571429 0 .41904762-.2380953.79047619-.6285715.98095238l-.8380952.4c-.1142857-.70476191-.4857143-1.31428571-1.0190476-1.74285714zm-2.5619048-2.02857143c.5904762 0 1.0666667.46666667 1.0857143 1.04761905l-.1047619 1.03809524c-.3047619-.11428571-.6380953-.18095238-.9809524-.18095238-.34285714 0-.66666667.06666667-.97142857.18095238l-.11428572-1.03809524c.01904762-.58095238.4952381-1.04761905 1.08571429-1.04761905zm-3.18095238 1.83809524c.22857143 0 .43809524.06666667.60952381.19047619l.77142857.53333334c-.52380952.42857143-.8952381 1.03809523-1.00952381 1.74285714l-.83809524-.4c-.38095238-.19047619-.62857143-.56190476-.62857143-.98095238 0-.6.4952381-1.08571429 1.0952381-1.08571429zm-.46666667 3.78095238.83809524-.4c.11428571.70476191.48571429 1.31428572 1.01904762 1.74285715l-.77142857.52380952c-.19047619.12380952-.4.19047619-.61904762.19047619-.6 0-1.08571429-.48571428-1.08571429-1.08571428-.00952381-.40952381.23809524-.78095239.61904762-.97142858zm3.64761905 12.47619048c4.7333333 0 8.5714286-3.8380952 8.5714286-8.5714286-4.7333334 0-8.5714286 3.8380953-8.5714286 8.5714286zm2.3238095-2.3238095c.6761905-1.8095238 2.1142857-3.2571429 3.9238095-3.9238095-.6761904 1.8095238-2.1142857 3.247619-3.9238095 3.9238095zm-10.89523807-6.2476191c0 4.7333334 3.83809524 8.5714286 8.57142857 8.5714286 0-4.7333333-3.83809524-8.5714286-8.57142857-8.5714286zm2.32380952 2.3238096c1.80952381.6761904 3.25714286 2.1142857 3.92380953 3.9238095-1.80952381-.6761905-3.24761905-2.1142857-3.92380953-3.9238095z"></path></svg></div></div>
 <!-- /wp:coblocks/icon -->
 
 <!-- wp:heading {"className":"h3"} -->
@@ -7712,17 +7865,17 @@ Post type: page
 <div style="height:70px" aria-hidden="true" class="wp-block-spacer mb-0"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:coblocks/shape-divider {"backgroundHeight":20,"color":"palette-3","justAdded":false,"className":"is-style-hills","coblocks":{"id":"530155529178"}} -->
-<div class="wp-block-coblocks-shape-divider alignfull has-palette-3-color coblocks-shape-divider-530155529178 is-style-hills mb-0 mt-0" aria-hidden="true"><div class="wp-block-coblocks-shape-divider__svg-wrapper" style="min-height:100px"><svg viewBox="0 0 1920 105" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none" class="divider--hills" role="img" aria-hidden="true" focusable="false"><g fillrule="evenodd" transform="matrix(1 0 0 -1 0 105)"><path d="m1920 14.8827052c-116.23325 0-224.05162 88.3906828-395.09265 88.3906828-160.92196 0-254.53172-83.4344997-444.90735-83.4344997-154.297581 0-240.095847 39.6344097-367.66819 39.6344097-154.121863 0-198.902329-36.1223133-349.458242-36.1223133-144.878137 0-241.175717 80.8685493-362.873568 80.8685493 0-34.0793243 0-68.1494291 0-102.219534h1920z"></path><path d="m1920 14.6612844c-116.11434 0-223.9659 88.8291396-395.06196 88.8291396-160.92415 0-254.54487-83.7874573-444.93804-83.7874573-154.317311 0-240.088941 39.8974838-367.565152 39.8974838-154.034172 0-198.792715-36.4840402-349.164477-36.4840402-144.965828 0-241.283139 81.1250467-363.270371 81.1250467 0-34.7474052 0-69.4948104 0-104.241457h1920z"></path></g></svg></div><div class="wp-block-coblocks-shape-divider__alt-wrapper" style="min-height:20px"></div></div>
+<!-- wp:coblocks/shape-divider {"backgroundHeight":20,"color":"palette-3","justAdded":false,"className":"is-style-hills","coblocks":{"id":"919174525977"}} -->
+<div class="wp-block-coblocks-shape-divider alignfull has-palette-3-color coblocks-shape-divider-919174525977 is-style-hills mb-0 mt-0" aria-hidden="true"><div class="wp-block-coblocks-shape-divider__svg-wrapper" style="min-height:100px"><svg viewbox="0 0 1920 105" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none" class="divider--hills" role="img" aria-hidden="true"><g fillrule="evenodd" transform="matrix(1 0 0 -1 0 105)"><path d="m1920 14.8827052c-116.23325 0-224.05162 88.3906828-395.09265 88.3906828-160.92196 0-254.53172-83.4344997-444.90735-83.4344997-154.297581 0-240.095847 39.6344097-367.66819 39.6344097-154.121863 0-198.902329-36.1223133-349.458242-36.1223133-144.878137 0-241.175717 80.8685493-362.873568 80.8685493 0-34.0793243 0-68.1494291 0-102.219534h1920z"></path><path d="m1920 14.6612844c-116.11434 0-223.9659 88.8291396-395.06196 88.8291396-160.92415 0-254.54487-83.7874573-444.93804-83.7874573-154.317311 0-240.088941 39.8974838-367.565152 39.8974838-154.034172 0-198.792715-36.4840402-349.164477-36.4840402-144.965828 0-241.283139 81.1250467-363.270371 81.1250467 0-34.7474052 0-69.4948104 0-104.241457h1920z"></path></g></svg></div><div class="wp-block-coblocks-shape-divider__alt-wrapper" style="min-height:20px"></div></div>
 <!-- /wp:coblocks/shape-divider -->
 
-<!-- wp:group {"backgroundColor":"palette-3","textColor":"palette-1","align":"full","className":"has-no-padding-vertical","noTopMargin":true} -->
-<div class="wp-block-group alignfull has-palette-3-background-color has-palette-1-color has-text-color has-background has-no-padding-vertical mt-0"><div class="wp-block-group__inner-container"><!-- wp:spacer {"height":80} -->
+<!-- wp:group {"align":"full","className":"has-no-padding-vertical","backgroundColor":"palette-3","textColor":"palette-1","noTopMargin":true} -->
+<div class="wp-block-group alignfull has-no-padding-vertical has-palette-1-color has-palette-3-background-color has-text-color has-background mt-0"><div class="wp-block-group__inner-container"><!-- wp:spacer {"height":80} -->
 <div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"align":"center","textColor":"palette-1"} -->
-<h2 class="has-palette-1-color has-text-color has-text-align-center">Contact us now</h2>
+<h2 class="has-text-align-center has-palette-1-color has-text-color">Contact us now</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"large"} -->
@@ -7731,7 +7884,7 @@ Post type: page
 
 <!-- wp:buttons {"align":"center","className":"has-large-font-size"} -->
 <div class="wp-block-buttons aligncenter has-large-font-size"><!-- wp:button {"backgroundColor":"palette-1","textColor":"palette-3","className":"is-style-fill"} -->
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-text-color has-palette-3-color has-background has-palette-1-background-color" href="#purchaselink">Get in touch</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-palette-3-color has-palette-1-background-color has-text-color has-background" href="#purchaselink">Get in touch</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -7778,7 +7931,7 @@ Post type: page
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_coblocks_responsive_height]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"coblocks-shape-divider-530155529178":{"shapeHeight":{"height":100},"backgroundHeight":{"height":20}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[{"coblocks-shape-divider-530155529178":{"shapeHeight":{"height":100},"backgroundHeight":{"height":20}},"coblocks-shape-divider-919174525977":{"backgroundHeight":{"height":20}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_coblocks_accordion_ie_support]]></wp:meta_key>
@@ -8020,11 +8173,11 @@ Post type: page
 <!-- /wp:spacer --></div></div>
 <!-- /wp:media-text -->
 
-<!-- wp:group {"backgroundColor":"palette-3","textColor":"palette-1","align":"full","className":"has-no-padding"} -->
-<div class="wp-block-group alignfull has-palette-3-background-color has-palette-1-color has-text-color has-background has-no-padding"><div class="wp-block-group__inner-container"><!-- wp:coblocks/features {"gutter":"no","columns":3,"align":"wide","coblocks":{"id":"14192456468"}} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-14192456468"><div class="wp-block-coblocks-features__inner has-columns has-3-columns has-responsive-columns has-no-gutter has-center-content"><!-- wp:coblocks/feature {"paddingSize":"huge","className":"has-no-margin-vertical","coblocks":{"id":"14192456531"}} -->
+<!-- wp:group {"align":"full","className":"has-no-padding","backgroundColor":"palette-3","textColor":"palette-1"} -->
+<div class="wp-block-group alignfull has-no-padding has-palette-1-color has-palette-3-background-color has-text-color has-background"><div class="wp-block-group__inner-container"><!-- wp:coblocks/features {"columns":3,"align":"wide","coblocks":{"id":"14192456468"},"gutter":"no"} -->
+<div class="wp-block-coblocks-features alignwide coblocks-features-14192456468"><div class="wp-block-coblocks-features__inner has-columns has-3-columns has-responsive-columns has-center-content has-no-gutter"><!-- wp:coblocks/feature {"paddingSize":"huge","className":"has-no-margin-vertical","coblocks":{"id":"14192456531"}} -->
 <div class="wp-block-coblocks-feature coblocks-feature-14192456531 has-no-margin-vertical"><div class="wp-block-coblocks-feature__inner has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"accessible","hasContentAlign":false} -->
-<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false"><path d="M0 0h24v24H0z" fill="none"></path><circle cx="12" cy="4" r="2"></circle><path d="M19 13v-2c-1.54.02-3.09-.75-4.07-1.83l-1.29-1.43c-.17-.19-.38-.34-.61-.45-.01 0-.01-.01-.02-.01H13c-.35-.2-.75-.3-1.19-.26C10.76 7.11 10 8.04 10 9.09V15c0 1.1.9 2 2 2h5v5h2v-5.5c0-1.1-.9-2-2-2h-3v-3.45c1.29 1.07 3.25 1.94 5 1.95zm-6.17 5c-.41 1.16-1.52 2-2.83 2-1.66 0-3-1.34-3-3 0-1.31.84-2.41 2-2.83V12.1c-2.28.46-4 2.48-4 4.9 0 2.76 2.24 5 5 5 2.42 0 4.44-1.72 4.9-4h-2.07z"></path></svg></div></div>
+<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" role="img" aria-hidden="true"><path d="M0 0h24v24H0z" fill="none"></path><circle cx="12" cy="4" r="2"></circle><path d="M19 13v-2c-1.54.02-3.09-.75-4.07-1.83l-1.29-1.43c-.17-.19-.38-.34-.61-.45-.01 0-.01-.01-.02-.01H13c-.35-.2-.75-.3-1.19-.26C10.76 7.11 10 8.04 10 9.09V15c0 1.1.9 2 2 2h5v5h2v-5.5c0-1.1-.9-2-2-2h-3v-3.45c1.29 1.07 3.25 1.94 5 1.95zm-6.17 5c-.41 1.16-1.52 2-2.83 2-1.66 0-3-1.34-3-3 0-1.31.84-2.41 2-2.83V12.1c-2.28.46-4 2.48-4 4.9 0 2.76 2.24 5 5 5 2.42 0 4.44-1.72 4.9-4h-2.07z"></path></svg></div></div>
 <!-- /wp:coblocks/icon -->
 
 <!-- wp:heading {"level":3,"placeholder":"Add feature title…"} -->
@@ -8038,7 +8191,7 @@ Post type: page
 
 <!-- wp:coblocks/feature {"paddingSize":"huge","customBackgroundColor":"#eed792","className":"has-no-margin-vertical","coblocks":{"id":"14192456535"}} -->
 <div class="wp-block-coblocks-feature coblocks-feature-14192456535 has-no-margin-vertical"><div class="wp-block-coblocks-feature__inner has-background has-padding has-huge-padding" style="background-color:#eed792"><!-- wp:coblocks/icon {"icon":"flower","hasContentAlign":false} -->
-<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true" focusable="false"><path d="m6.81904762 11.4952381c.14285714 0 .27619048-.0095238.40952381-.0285714.44761905 1.0952381 1.52380952 1.8666666 2.77142857 1.8666666 1.247619 0 2.3238095-.7714285 2.7714286-1.8666666.1333333.0190476.2761904.0285714.4095238.0285714 1.647619 0 2.9904762-1.3428571 2.9904762-2.9904762 0-.67619047-.2380953-1.32380952-.6380953-1.83809523.4095238-.51428572.6380953-1.16190477.6380953-1.83809524 0-1.64761905-1.3428572-2.99047619-2.9904762-2.99047619-.1428572 0-.2761905.00952381-.4095238.02857143-.4476191-1.0952381-1.5238096-1.86666667-2.7714286-1.86666667-1.24761905 0-2.32380952.77142857-2.77142857 1.86666667-.13333333-.01904762-.27619048-.02857143-.40952381-.02857143-1.64761905 0-2.99047619 1.34285714-2.99047619 2.99047619 0 .67619047.23809524 1.32380952.63809524 1.83809524-.40952381.51428571-.64761905 1.16190476-.64761905 1.83809523 0 1.6476191 1.34285714 2.9904762 3 2.9904762zm3.18095238-.0666667c-.59047619 0-1.06666667-.4666666-1.08571429-1.047619l.11428572-1.03809526c.3047619.11428572.62857143.18095238.97142857.18095238.3428571 0 .6761905-.06666666.9809524-.18095238l.1047619 1.03809526c-.0190476.5809524-.4952381 1.047619-1.0857143 1.047619zm3.1809524-1.83809521c-.2285714 0-.4380953-.06666667-.6095238-.19047619l-.7714286-.54285714c.5238095-.42857143.8952381-1.03809524 1.0095238-1.74285715l.8380952.4c.3809524.18095239.6285715.56190477.6285715.98095239 0 .6095238-.4952381 1.09523809-1.0952381 1.09523809zm-.6190476-5.65714286c.1904762-.12380952.4-.19047619.6190476-.19047619.6 0 1.0857143.48571429 1.0857143 1.08571429 0 .41904762-.2380953.79047619-.6285715.98095238l-.8380952.4c-.1142857-.70476191-.4857143-1.31428571-1.0190476-1.74285714zm-2.5619048-2.02857143c.5904762 0 1.0666667.46666667 1.0857143 1.04761905l-.1047619 1.03809524c-.3047619-.11428571-.6380953-.18095238-.9809524-.18095238-.34285714 0-.66666667.06666667-.97142857.18095238l-.11428572-1.03809524c.01904762-.58095238.4952381-1.04761905 1.08571429-1.04761905zm-3.18095238 1.83809524c.22857143 0 .43809524.06666667.60952381.19047619l.77142857.53333334c-.52380952.42857143-.8952381 1.03809523-1.00952381 1.74285714l-.83809524-.4c-.38095238-.19047619-.62857143-.56190476-.62857143-.98095238 0-.6.4952381-1.08571429 1.0952381-1.08571429zm-.46666667 3.78095238.83809524-.4c.11428571.70476191.48571429 1.31428572 1.01904762 1.74285715l-.77142857.52380952c-.19047619.12380952-.4.19047619-.61904762.19047619-.6 0-1.08571429-.48571428-1.08571429-1.08571428-.00952381-.40952381.23809524-.78095239.61904762-.97142858zm3.64761905 12.47619048c4.7333333 0 8.5714286-3.8380952 8.5714286-8.5714286-4.7333334 0-8.5714286 3.8380953-8.5714286 8.5714286zm2.3238095-2.3238095c.6761905-1.8095238 2.1142857-3.2571429 3.9238095-3.9238095-.6761904 1.8095238-2.1142857 3.247619-3.9238095 3.9238095zm-10.89523807-6.2476191c0 4.7333334 3.83809524 8.5714286 8.57142857 8.5714286 0-4.7333333-3.83809524-8.5714286-8.57142857-8.5714286zm2.32380952 2.3238096c1.80952381.6761904 3.25714286 2.1142857 3.92380953 3.9238095-1.80952381-.6761905-3.24761905-2.1142857-3.92380953-3.9238095z"></path></svg></div></div>
+<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><path d="m6.81904762 11.4952381c.14285714 0 .27619048-.0095238.40952381-.0285714.44761905 1.0952381 1.52380952 1.8666666 2.77142857 1.8666666 1.247619 0 2.3238095-.7714285 2.7714286-1.8666666.1333333.0190476.2761904.0285714.4095238.0285714 1.647619 0 2.9904762-1.3428571 2.9904762-2.9904762 0-.67619047-.2380953-1.32380952-.6380953-1.83809523.4095238-.51428572.6380953-1.16190477.6380953-1.83809524 0-1.64761905-1.3428572-2.99047619-2.9904762-2.99047619-.1428572 0-.2761905.00952381-.4095238.02857143-.4476191-1.0952381-1.5238096-1.86666667-2.7714286-1.86666667-1.24761905 0-2.32380952.77142857-2.77142857 1.86666667-.13333333-.01904762-.27619048-.02857143-.40952381-.02857143-1.64761905 0-2.99047619 1.34285714-2.99047619 2.99047619 0 .67619047.23809524 1.32380952.63809524 1.83809524-.40952381.51428571-.64761905 1.16190476-.64761905 1.83809523 0 1.6476191 1.34285714 2.9904762 3 2.9904762zm3.18095238-.0666667c-.59047619 0-1.06666667-.4666666-1.08571429-1.047619l.11428572-1.03809526c.3047619.11428572.62857143.18095238.97142857.18095238.3428571 0 .6761905-.06666666.9809524-.18095238l.1047619 1.03809526c-.0190476.5809524-.4952381 1.047619-1.0857143 1.047619zm3.1809524-1.83809521c-.2285714 0-.4380953-.06666667-.6095238-.19047619l-.7714286-.54285714c.5238095-.42857143.8952381-1.03809524 1.0095238-1.74285715l.8380952.4c.3809524.18095239.6285715.56190477.6285715.98095239 0 .6095238-.4952381 1.09523809-1.0952381 1.09523809zm-.6190476-5.65714286c.1904762-.12380952.4-.19047619.6190476-.19047619.6 0 1.0857143.48571429 1.0857143 1.08571429 0 .41904762-.2380953.79047619-.6285715.98095238l-.8380952.4c-.1142857-.70476191-.4857143-1.31428571-1.0190476-1.74285714zm-2.5619048-2.02857143c.5904762 0 1.0666667.46666667 1.0857143 1.04761905l-.1047619 1.03809524c-.3047619-.11428571-.6380953-.18095238-.9809524-.18095238-.34285714 0-.66666667.06666667-.97142857.18095238l-.11428572-1.03809524c.01904762-.58095238.4952381-1.04761905 1.08571429-1.04761905zm-3.18095238 1.83809524c.22857143 0 .43809524.06666667.60952381.19047619l.77142857.53333334c-.52380952.42857143-.8952381 1.03809523-1.00952381 1.74285714l-.83809524-.4c-.38095238-.19047619-.62857143-.56190476-.62857143-.98095238 0-.6.4952381-1.08571429 1.0952381-1.08571429zm-.46666667 3.78095238.83809524-.4c.11428571.70476191.48571429 1.31428572 1.01904762 1.74285715l-.77142857.52380952c-.19047619.12380952-.4.19047619-.61904762.19047619-.6 0-1.08571429-.48571428-1.08571429-1.08571428-.00952381-.40952381.23809524-.78095239.61904762-.97142858zm3.64761905 12.47619048c4.7333333 0 8.5714286-3.8380952 8.5714286-8.5714286-4.7333334 0-8.5714286 3.8380953-8.5714286 8.5714286zm2.3238095-2.3238095c.6761905-1.8095238 2.1142857-3.2571429 3.9238095-3.9238095-.6761904 1.8095238-2.1142857 3.247619-3.9238095 3.9238095zm-10.89523807-6.2476191c0 4.7333334 3.83809524 8.5714286 8.57142857 8.5714286 0-4.7333333-3.83809524-8.5714286-8.57142857-8.5714286zm2.32380952 2.3238096c1.80952381.6761904 3.25714286 2.1142857 3.92380953 3.9238095-1.80952381-.6761905-3.24761905-2.1142857-3.92380953-3.9238095z"></path></svg></div></div>
 <!-- /wp:coblocks/icon -->
 
 <!-- wp:heading {"level":3,"placeholder":"Add feature title…"} -->
@@ -8052,7 +8205,7 @@ Post type: page
 
 <!-- wp:coblocks/feature {"paddingSize":"huge","className":"has-no-margin-vertical","coblocks":{"id":"14192458487"}} -->
 <div class="wp-block-coblocks-feature coblocks-feature-14192458487 has-no-margin-vertical"><div class="wp-block-coblocks-feature__inner has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"gallery","hasContentAlign":false} -->
-<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true" focusable="false"><path d="m18 2v12h-12v-12zm0-2h-12c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2v-12c0-1.1-.9-2-2-2zm-8.5 9.67 1.69 2.26 2.48-3.1 3.33 4.17h-10zm-9.5-5.67v14c0 1.1.9 2 2 2h14v-2h-14v-14z"></path></svg></div></div>
+<div class="wp-block-coblocks-icon"><div class="wp-block-coblocks-icon__inner" style="height:60px;width:60px"><svg viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><path d="m18 2v12h-12v-12zm0-2h-12c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2v-12c0-1.1-.9-2-2-2zm-8.5 9.67 1.69 2.26 2.48-3.1 3.33 4.17h-10zm-9.5-5.67v14c0 1.1.9 2 2 2h14v-2h-14v-14z"></path></svg></div></div>
 <!-- /wp:coblocks/icon -->
 
 <!-- wp:heading {"level":3,"placeholder":"Add feature title…"} -->
@@ -8271,7 +8424,7 @@ Post type: page
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"className":"h2","lineHeight":1.25} -->
-<p style="line-height:1.25" class="h2 has-custom-lineheight">Give him a friend, we forget the trees get lonely</p>
+<p class="h2 has-custom-lineheight" style="line-height:1.25">Give him a friend, we forget the trees get lonely</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -8293,13 +8446,13 @@ Post type: page
 <!-- wp:columns {"align":"full","className":"has-large-padding"} -->
 <div class="wp-block-columns alignfull has-large-padding"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:coblocks/gallery-collage {"className":"is-style-tiled"} -->
-<div class="wp-block-coblocks-gallery-collage has-small-gutter is-style-tiled"><ul><li class="wp-block-coblocks-gallery-collage__item item-1"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_pedro-lima-HtwsbbClBOs-unsplash-1360x765.jpg" alt="Don't forget to set alt text." data-index="0" data-id="197" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_pedro-lima-htwsbbclbos-unsplash/" class="wp-image-197"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-2"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_body-of-water-beside-green-trees-2793048.jpg" alt="Don't forget to set alt text." data-index="1" data-id="195" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_body-of-water-beside-green-trees-2793048/" class="wp-image-195"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-3"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_photo-of-church-building-3389616.jpg" alt="Don't forget to set alt text." data-index="2" data-id="193" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_photo-of-church-building-3389616/" class="wp-image-193"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-4"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_pedro-lima-IkqhfoJjwSI-unsplash-1360x765.jpg" alt="Don't forget to set alt text." data-index="3" data-id="196" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_pedro-lima-ikqhfojjwsi-unsplash/" class="wp-image-196"/></figure></li></ul></div>
+<div class="wp-block-coblocks-gallery-collage is-style-tiled has-small-gutter"><ul><li class="wp-block-coblocks-gallery-collage__item item-1"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_pedro-lima-HtwsbbClBOs-unsplash-1360x765.jpg" alt="Don't forget to set alt text." data-index="0" data-id="197" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_pedro-lima-htwsbbclbos-unsplash/" class="wp-image-197"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-2"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_body-of-water-beside-green-trees-2793048.jpg" alt="Don't forget to set alt text." data-index="1" data-id="195" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_body-of-water-beside-green-trees-2793048/" class="wp-image-195"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-3"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_photo-of-church-building-3389616.jpg" alt="Don't forget to set alt text." data-index="2" data-id="193" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_photo-of-church-building-3389616/" class="wp-image-193"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-4"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_pedro-lima-IkqhfoJjwSI-unsplash-1360x765.jpg" alt="Don't forget to set alt text." data-index="3" data-id="196" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_pedro-lima-ikqhfojjwsi-unsplash/" class="wp-image-196"/></figure></li></ul></div>
 <!-- /wp:coblocks/gallery-collage --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:coblocks/gallery-collage {"className":"is-style-tiled"} -->
-<div class="wp-block-coblocks-gallery-collage has-small-gutter is-style-tiled"><ul><li class="wp-block-coblocks-gallery-collage__item item-1"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_james-coleman-QHRZv6PIW4s-unsplash-1360x765.jpg" alt="Don't forget to set alt text." data-index="0" data-id="198" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_james-coleman-qhrzv6piw4s-unsplash/" class="wp-image-198"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-2"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_rod-long-TzgZrZQFVPc-unsplash-1360x765.jpg" alt="Don't forget to set alt text." data-index="1" data-id="194" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_rod-long-tzgzrzqfvpc-unsplash/" class="wp-image-194"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-3"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397.jpg" alt="Don't forget to set alt text." data-index="2" data-id="201" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_brown-and-white-cathedral-interior-3661397/" class="wp-image-201"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-4"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_patrick-fore-b_SHPU5M3nk-unsplash-1360x765.jpg" alt="Don't forget to set alt text." data-index="3" data-id="203" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_patrick-fore-b_shpu5m3nk-unsplash/" class="wp-image-203"/></figure></li></ul></div>
+<div class="wp-block-coblocks-gallery-collage is-style-tiled has-small-gutter"><ul><li class="wp-block-coblocks-gallery-collage__item item-1"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_james-coleman-QHRZv6PIW4s-unsplash-1360x765.jpg" alt="Don't forget to set alt text." data-index="0" data-id="198" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_james-coleman-qhrzv6piw4s-unsplash/" class="wp-image-198"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-2"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_rod-long-TzgZrZQFVPc-unsplash-1360x765.jpg" alt="Don't forget to set alt text." data-index="1" data-id="194" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_rod-long-tzgzrzqfvpc-unsplash/" class="wp-image-194"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-3"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397.jpg" alt="Don't forget to set alt text." data-index="2" data-id="201" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_brown-and-white-cathedral-interior-3661397/" class="wp-image-201"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-4"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_patrick-fore-b_SHPU5M3nk-unsplash-1360x765.jpg" alt="Don't forget to set alt text." data-index="3" data-id="203" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_patrick-fore-b_shpu5m3nk-unsplash/" class="wp-image-203"/></figure></li></ul></div>
 <!-- /wp:coblocks/gallery-collage --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -8316,13 +8469,13 @@ Post type: page
 <div style="height:110px" aria-hidden="true" class="wp-block-spacer mb-0"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:media-text {"backgroundColor":"palette-4","mediaId":201,"mediaLink":"http://themedemos.webmandesign.eu/deborah/sample/_brown-and-white-cathedral-interior-3661397/","mediaType":"image"} -->
-<div class="wp-block-media-text alignwide has-background has-palette-4-background-color is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397.jpg" alt="Don't forget to set alt text." class="wp-image-201"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
+<!-- wp:media-text {"mediaId":201,"mediaLink":"http://themedemos.webmandesign.eu/deborah/sample/_brown-and-white-cathedral-interior-3661397/","mediaType":"image","backgroundColor":"palette-4"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile has-palette-4-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397.jpg" alt="Don't forget to set alt text." class="wp-image-201"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
 <h2>Tree trunks grow however makes them happy</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"palette-1","fontSize":"extra-large"} -->
-<p class="has-text-color has-extra-large-font-size has-palette-1-color">This is your world. Just let these leaves jump off the brush The man who does the best job is the one who is happy at his job.</p>
+<p class="has-palette-1-color has-text-color has-extra-large-font-size">This is your world. Just let these leaves jump off the brush The man who does the best job is the one who is happy at his job.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"className":"is-style-wide"} -->
@@ -8335,7 +8488,7 @@ Post type: page
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"palette-1","textColor":"palette-3","className":"has-large-font-size"} -->
-<div class="wp-block-button has-large-font-size"><a class="wp-block-button__link has-text-color has-palette-3-color has-background has-palette-1-background-color" href="#0" rel="">Apply here</a></div>
+<div class="wp-block-button has-large-font-size"><a class="wp-block-button__link has-palette-3-color has-palette-1-background-color has-text-color has-background" href="#0" rel="">Apply here</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:media-text -->
@@ -8344,12 +8497,12 @@ Post type: page
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:coblocks/shape-divider {"backgroundHeight":20,"color":"palette-3","justAdded":false,"className":"is-style-hills","coblocks":{"id":"61121027929"}} -->
-<div class="wp-block-coblocks-shape-divider alignfull has-palette-3-color coblocks-shape-divider-61121027929 is-style-hills mb-0 mt-0" aria-hidden="true"><div class="wp-block-coblocks-shape-divider__svg-wrapper" style="min-height:100px"><svg viewBox="0 0 1920 105" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none" class="divider--hills" role="img" aria-hidden="true" focusable="false"><g fillrule="evenodd" transform="matrix(1 0 0 -1 0 105)"><path d="m1920 14.8827052c-116.23325 0-224.05162 88.3906828-395.09265 88.3906828-160.92196 0-254.53172-83.4344997-444.90735-83.4344997-154.297581 0-240.095847 39.6344097-367.66819 39.6344097-154.121863 0-198.902329-36.1223133-349.458242-36.1223133-144.878137 0-241.175717 80.8685493-362.873568 80.8685493 0-34.0793243 0-68.1494291 0-102.219534h1920z"></path><path d="m1920 14.6612844c-116.11434 0-223.9659 88.8291396-395.06196 88.8291396-160.92415 0-254.54487-83.7874573-444.93804-83.7874573-154.317311 0-240.088941 39.8974838-367.565152 39.8974838-154.034172 0-198.792715-36.4840402-349.164477-36.4840402-144.965828 0-241.283139 81.1250467-363.270371 81.1250467 0-34.7474052 0-69.4948104 0-104.241457h1920z"></path></g></svg></div><div class="wp-block-coblocks-shape-divider__alt-wrapper" style="min-height:20px"></div></div>
+<!-- wp:coblocks/shape-divider {"backgroundHeight":20,"color":"palette-3","justAdded":false,"className":"is-style-hills","coblocks":{"id":"919175119219"}} -->
+<div class="wp-block-coblocks-shape-divider alignfull has-palette-3-color coblocks-shape-divider-919175119219 is-style-hills mb-0 mt-0" aria-hidden="true"><div class="wp-block-coblocks-shape-divider__svg-wrapper" style="min-height:100px"><svg viewbox="0 0 1920 105" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none" class="divider--hills" role="img" aria-hidden="true"><g fillrule="evenodd" transform="matrix(1 0 0 -1 0 105)"><path d="m1920 14.8827052c-116.23325 0-224.05162 88.3906828-395.09265 88.3906828-160.92196 0-254.53172-83.4344997-444.90735-83.4344997-154.297581 0-240.095847 39.6344097-367.66819 39.6344097-154.121863 0-198.902329-36.1223133-349.458242-36.1223133-144.878137 0-241.175717 80.8685493-362.873568 80.8685493 0-34.0793243 0-68.1494291 0-102.219534h1920z"></path><path d="m1920 14.6612844c-116.11434 0-223.9659 88.8291396-395.06196 88.8291396-160.92415 0-254.54487-83.7874573-444.93804-83.7874573-154.317311 0-240.088941 39.8974838-367.565152 39.8974838-154.034172 0-198.792715-36.4840402-349.164477-36.4840402-144.965828 0-241.283139 81.1250467-363.270371 81.1250467 0-34.7474052 0-69.4948104 0-104.241457h1920z"></path></g></svg></div><div class="wp-block-coblocks-shape-divider__alt-wrapper" style="min-height:20px"></div></div>
 <!-- /wp:coblocks/shape-divider -->
 
-<!-- wp:group {"backgroundColor":"palette-3","align":"full","className":"has-no-padding-vertical","noTopMargin":true} -->
-<div class="wp-block-group alignfull has-palette-3-background-color has-background has-no-padding-vertical mt-0"><div class="wp-block-group__inner-container"><!-- wp:spacer {"height":120} -->
+<!-- wp:group {"align":"full","className":"has-no-padding-vertical","backgroundColor":"palette-3","noTopMargin":true} -->
+<div class="wp-block-group alignfull has-no-padding-vertical has-palette-3-background-color has-background mt-0"><div class="wp-block-group__inner-container"><!-- wp:spacer {"height":120} -->
 <div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -8412,7 +8565,7 @@ Post type: page
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_coblocks_responsive_height]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"coblocks-shape-divider-61121027929":{"backgroundHeight":{"height":20}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[{"coblocks-shape-divider-61121027929":{"backgroundHeight":{"height":20}},"coblocks-shape-divider-919175119219":{"backgroundHeight":{"height":20}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_coblocks_accordion_ie_support]]></wp:meta_key>
