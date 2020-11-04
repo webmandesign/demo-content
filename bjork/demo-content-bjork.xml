@@ -14,14 +14,14 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
-<!-- generator="WordPress/5.5.3" created="2020-11-03 17:30" -->
+<!-- generator="WordPress/5.5.3" created="2020-11-04 13:20" -->
 <rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
 
 <channel>
 	<title>Björk</title>
 	<link>http://themedemos.webmandesign.eu/bjork</link>
 	<description>Inclusive &amp; Accessible</description>
-	<pubDate>Tue, 03 Nov 2020 17:30:11 +0000</pubDate>
+	<pubDate>Wed, 04 Nov 2020 13:20:36 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://themedemos.webmandesign.eu/</wp:base_site_url>
@@ -78,9 +78,9 @@
 		<wp:tag_slug><![CDATA[page-template]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Page template]]></wp:tag_name>
 	</wp:tag>
-
-
-
+			
+		
+		
 		<wp:term>
 		<wp:term_id>38</wp:term_id>
 		<wp:term_taxonomy><![CDATA[jetpack-portfolio-type]]></wp:term_taxonomy>
@@ -309,6 +309,170 @@
 </wp:term>
 
 	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+		
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				
+
 
 
 <!--
@@ -5477,8 +5641,8 @@ Post type: page
 <figure class="wp-block-image alignwide size-large is-style-top-wave has-decoration"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_macro-photograph-of-grass-1090977-narrow-1200x400.jpg" alt="" class="wp-image-1205"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:coblocks/pricing-table {"className":"alignwide"} -->
-<div class="wp-block-coblocks-pricing-table has-text-align-center alignwide"><div class="alignwide wp-block-coblocks-pricing-table__inner has-columns has-2-columns has-responsive-columns"><!-- wp:coblocks/pricing-table-item {"backgroundColor":"palette-3","textColor":"palette-1","placeholder":"Plan 1","className":"has-extra-large-padding has-no-margin-vertical"} -->
+<!-- wp:coblocks/pricing-table {"align":"wide"} -->
+<div class="wp-block-coblocks-pricing-table alignwide has-text-align-center"><div class="wp-block-coblocks-pricing-table__inner has-columns has-2-columns has-responsive-columns has-medium-gutter"><!-- wp:coblocks/pricing-table-item {"backgroundColor":"palette-3","textColor":"palette-1","placeholder":"Plan 1","className":"has-extra-large-padding has-no-margin-vertical"} -->
 <div class="wp-block-coblocks-pricing-table-item has-background has-palette-3-background-color has-text-color has-palette-1-color has-extra-large-padding has-no-margin-vertical"><span class="wp-block-coblocks-pricing-table-item__title"><strong>Plan 1</strong></span><div class="wp-block-coblocks-pricing-table-item__price-wrapper"><span class="wp-block-coblocks-pricing-table-item__currency">€</span><span class="wp-block-coblocks-pricing-table-item__amount">19</span></div><ul class="wp-block-coblocks-pricing-table-item__features"><li>Vertical platforms</li><li>Rather than extensive</li><li>Customer service</li><li><s>Phosfluorescently</s></li><li><s>  Expedite team building</s></li></ul><!-- wp:button {"placeholder":"Buy Now","textColor":"palette-1","className":"is-style-outline"} -->
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-palette-1-color has-text-color" href="#0">Buy now</a></div>
 <!-- /wp:button --></div>
