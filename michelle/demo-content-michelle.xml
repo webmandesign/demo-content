@@ -14,14 +14,14 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
-<!-- generator="WordPress/5.7" created="2021-03-22 17:05" -->
+<!-- generator="WordPress/5.7" created="2021-03-28 19:54" -->
 <rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
 
 <channel>
 	<title>Michelle</title>
 	<link>https://themedemos.webmandesign.eu/michelle</link>
 	<description>Inclusive Theme</description>
-	<pubDate>Mon, 22 Mar 2021 17:05:19 +0000</pubDate>
+	<pubDate>Sun, 28 Mar 2021 19:54:14 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themedemos.webmandesign.eu/</wp:base_site_url>
@@ -49,66 +49,6 @@ SECTION
 Post type: nav_menu_item
 
 -->
-	<item>
-		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/?p=9</link>
-		<pubDate/>
-		<dc:creator><![CDATA[demouser]]></dc:creator>
-		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?p=9</guid>
-		<description/>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-21 21:19:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-21 21:19:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1613938763]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 	<item>
 		<title><![CDATA[]]></title>
 		<link>https://themedemos.webmandesign.eu/michelle/home-2/</link>
@@ -2020,12 +1960,12 @@ figcaption.blocks-gallery-item__caption a {
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?page_id=6</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[<a href="/michelle/page-excerpt/" title="How to set up page excerpt?">Page excerpt</a> text here.  Lorem ipsum dolor sit amet consectetur adipiscing elit tempus quisque fringilla id lectus, vel arcu integer ridiculus convallis penatibus neque curabitur rhoncus vitae venenatis.]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[<a href="/michelle/page-excerpt/" title="How to set up page excerpt?">Page excerpt</a> text here.  Lorem ipsum dolor sit amet consectetur adipiscing elit tempus quisque fringilla id lectus, vel arcu integer ridiculus convallis penatibus neque curabitur rhoncus.]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-21 21:19:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-21 20:19:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-12 19:07:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-12 18:07:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-03-28 21:41:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-28 19:41:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[news]]></wp:post_name>
@@ -2882,9 +2822,9 @@ figcaption.blocks-gallery-item__caption a {
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"1.25"}},"textColor":"palette-2","fontSize":"extra-large"} -->
-<p class="has-text-align-center has-palette-2-color has-text-color has-extra-large-font-size" style="line-height:1.25"><em>Yet some</em><br /><em>more doggie love...</em></p>
-<!-- /wp:paragraph -->
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Yet some<br />more doggie love...</p></blockquote>
+<!-- /wp:quote -->
 
 <!-- wp:spacer {"height":50} -->
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -2897,8 +2837,8 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-25 02:43:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-25 01:43:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-22 10:30:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-22 09:30:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-03-28 21:42:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-28 19:42:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-5]]></wp:post_name>
@@ -3143,7 +3083,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:quote {"className":"is-style-large"} -->
-<blockquote class="wp-block-quote is-style-large"><p>Lorem ipsum dolor sit amet consectetur adipiscing elit dui, fringilla non natoque scelerisque nec massa semper curabitur, risus ridiculus donec commodo cum accumsan ante.</p><cite>John Roe</cite></blockquote>
+<blockquote class="wp-block-quote is-style-large"><p>Lorem ipsum dolor sit amet elit dui, fringilla non natoque scelerisque nec massa semper, risus ridiculus donec commodo cum accumsan ante.</p><cite>John Roe</cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:spacer {"height":150} -->
@@ -3175,7 +3115,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"large"} -->
-<p class="has-text-align-center has-large-font-size">Lorem ipsum dolor sit amet consectetur adipiscing elit condimentum, feugiat pharetra in orci aliquet at enim donec, arcu quisque hac nisi nam fames tempus.</p>
+<p class="has-text-align-center has-large-font-size">Lorem ipsum dolor sit amet elit condimentum, feugiat pharetra in orci aliquet at enim donec, arcu quisque hac nisi nam fames tempus.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer -->
@@ -3191,7 +3131,12 @@ figcaption.blocks-gallery-item__caption a {
 
 <!-- wp:paragraph {"placeholder":"Write title…","textColor":"palette-2"} -->
 <p class="has-palette-2-color has-text-color">Lorem ipsum dolor sit amet consectetur adipiscing elit litora, mus neque taciti porta class in cursus netus, semper urna faucibus per mollis.</p>
-<!-- /wp:paragraph --></div></div>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<!-- Icon from https://iconify.design/icon-sets/ -->
+<svg class="svg-icon" width="5em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" viewBox="0 0 15 15"><g fill="none"><path d="M7.5 15V7m0 .5v3m0-3a4 4 0 0 0-4-4h-3v3a4 4 0 0 0 4 4h3m0-3h3a4 4 0 0 0 4-4v-3h-3a4 4 0 0 0-4 4v3zm0 0l4-4m-4 7l-4-4" stroke="#030507"></path></g></svg>
+<!-- /wp:html --></div></div>
 <!-- /wp:cover --></div>
 <!-- /wp:column -->
 
@@ -3203,7 +3148,12 @@ figcaption.blocks-gallery-item__caption a {
 
 <!-- wp:paragraph {"placeholder":"Write title…","textColor":"palette-2"} -->
 <p class="has-palette-2-color has-text-color">Lorem ipsum dolor sit amet consectetur adipiscing elit litora, mus neque taciti porta class in cursus netus, semper urna faucibus per mollis.</p>
-<!-- /wp:paragraph --></div></div>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<!-- Icon from https://iconify.design/icon-sets/ -->
+<svg class="svg-icon" width="5em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" viewBox="0 0 15 15"><path fill="#030507" d="M7.5 1H8a.5.5 0 0 0-.276-.447L7.5 1zm0 1l.224.447A.5.5 0 0 0 8 2h-.5zm-1 .5l-.224-.447a.5.5 0 0 0-.053.863L6.5 2.5zm1.5 1l-.277.416A.5.5 0 0 0 8 4v-.5zm.5 0V4a.5.5 0 0 0 .5-.5h-.5zm0-1V2a.5.5 0 0 0-.5.5h.5zm1.5 0h.5A.5.5 0 0 0 10 2v.5zm0 1h-.5a.5.5 0 0 0 .146.354L10 3.5zm.5.5h.5a.5.5 0 0 0-.146-.354L10.5 4zm0 1l.354.354A.5.5 0 0 0 11 5h-.5zm-.5.5V6a.5.5 0 0 0 .354-.146L10 5.5zm-1 0l-.224.447A.5.5 0 0 0 9 6v-.5zm-2-1l.224-.447a.5.5 0 0 0-.448 0L7 4.5zM6 5v.5a.5.5 0 0 0 .224-.053L6 5zM4.5 5v-.5a.5.5 0 0 0-.485.379L4.5 5zM4 7l-.485-.121a.5.5 0 0 0 .131.475L4 7zm1.5 1.5l-.354.354a.5.5 0 0 0 .13.093L5.5 8.5zm1 .5H7a.5.5 0 0 0-.276-.447L6.5 9zm0 1.5H6a.5.5 0 0 0 .146.354L6.5 10.5zm.5.5h.5a.5.5 0 0 0-.146-.354L7 11zm0 1h-.5a.5.5 0 0 0 .053.224L7 12zm.5 1l-.447.224a.5.5 0 0 0 .447.276V13zm1 0v.5a.5.5 0 0 0 .416-.223L8.5 13zm1-1.5l.416.277a.5.5 0 0 0 .031-.053L9.5 11.5zm.5-1l.447.224a.5.5 0 0 0 .053-.224H10zm0-1l-.4-.3a.5.5 0 0 0-.1.3h.5zm1.5-2l.4.3a.5.5 0 0 0 .047-.524L11.5 7.5zm-.5-1V6a.5.5 0 0 0-.447.724L11 6.5zm1.5 0V7a.5.5 0 0 0 .5-.5h-.5zm0-1V5a.5.5 0 0 0-.5.5h.5zm-5 8.5A6.5 6.5 0 0 1 1 7.5H0A7.5 7.5 0 0 0 7.5 15v-1zM14 7.5A6.5 6.5 0 0 1 7.5 14v1A7.5 7.5 0 0 0 15 7.5h-1zM7.5 1A6.5 6.5 0 0 1 14 7.5h1A7.5 7.5 0 0 0 7.5 0v1zm0-1A7.5 7.5 0 0 0 0 7.5h1A6.5 6.5 0 0 1 7.5 1V0zM6.276.947l1 .5l.448-.894l-1-.5l-.448.894zM7 1v1h1V1H7zm.276.553l-1 .5l.448.894l1-.5l-.448-.894zM6.223 2.916l1.5 1l.554-.832l-1.5-1l-.554.832zM8 4h.5V3H8v1zm1-.5v-1H8v1h1zM8.5 3H10V2H8.5v1zm1-.5v1h1v-1h-1zm.146 1.354l.5.5l.708-.708l-.5-.5l-.708.708zM10 4v1h1V4h-1zm.146.646l-.5.5l.708.708l.5-.5l-.708-.708zM10 5H9v1h1V5zm-.776.053l-2-1l-.448.894l2 1l.448-.894zm-2.448-1l-1 .5l.448.894l1-.5l-.448-.894zM6 4.5H4.5v1H6v-1zm-1.985.379l-.5 2l.97.242l.5-2l-.97-.242zm-.369 2.475l1.5 1.5l.708-.708l-1.5-1.5l-.708.708zm1.63 1.593l1 .5l.448-.894l-1-.5l-.448.894zM6 9v1.5h1V9H6zm.146 1.854l.5.5l.708-.708l-.5-.5l-.708.708zM6.5 11v1h1v-1h-1zm.053 1.224l.5 1l.894-.448l-.5-1l-.894.448zM7.5 13.5h1v-1h-1v1zm1.416-.223l1-1.5l-.832-.554l-1 1.5l.832.554zm1.031-1.553l.5-1l-.894-.448l-.5 1l.894.448zM10.5 10.5v-1h-1v1h1zm-.1-.7l1.5-2l-.8-.6l-1.5 2l.8.6zm1.547-2.524l-.5-1l-.894.448l.5 1l.894-.448zM11 7h1.5V6H11v1zm2-.5v-1h-1v1h1zm-.5-.5h2V5h-2v1z"></path></svg>
+<!-- /wp:html --></div></div>
 <!-- /wp:cover --></div>
 <!-- /wp:column -->
 
@@ -3215,7 +3165,12 @@ figcaption.blocks-gallery-item__caption a {
 
 <!-- wp:paragraph {"placeholder":"Write title…","textColor":"palette-2"} -->
 <p class="has-palette-2-color has-text-color">Lorem ipsum dolor sit amet consectetur adipiscing elit litora, mus neque taciti porta class in cursus netus, semper urna faucibus per mollis.</p>
-<!-- /wp:paragraph --></div></div>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<!-- Icon from https://iconify.design/icon-sets/ -->
+<svg class="svg-icon" width="5em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" viewBox="0 0 15 15"><path fill="#030507" d="M9.5 14.5H9a.5.5 0 0 0 .8.4l-.3-.4zm2-1.5l.3-.4a.5.5 0 0 0-.6 0l.3.4zm2 1.5l-.3.4a.5.5 0 0 0 .8-.4h-.5zm-2-3.5A2.5 2.5 0 0 1 9 8.5H8a3.5 3.5 0 0 0 3.5 3.5v-1zM14 8.5a2.5 2.5 0 0 1-2.5 2.5v1A3.5 3.5 0 0 0 15 8.5h-1zM11.5 6A2.5 2.5 0 0 1 14 8.5h1A3.5 3.5 0 0 0 11.5 5v1zm0-1A3.5 3.5 0 0 0 8 8.5h1A2.5 2.5 0 0 1 11.5 6V5zM9 10.5v4h1v-4H9zm.8 4.4l2-1.5l-.6-.8l-2 1.5l.6.8zm1.4-1.5l2 1.5l.6-.8l-2-1.5l-.6.8zm2.8 1.1v-4h-1v4h1zM15 5V1.5h-1V5h1zm-1.5-5h-12v1h12V0zM0 1.5v12h1v-12H0zM1.5 15H8v-1H1.5v1zM0 13.5A1.5 1.5 0 0 0 1.5 15v-1a.5.5 0 0 1-.5-.5H0zM1.5 0A1.5 1.5 0 0 0 0 1.5h1a.5.5 0 0 1 .5-.5V0zM15 1.5A1.5 1.5 0 0 0 13.5 0v1a.5.5 0 0 1 .5.5h1zM3 5h5V4H3v1zm0 3h3V7H3v1z"></path></svg>
+<!-- /wp:html --></div></div>
 <!-- /wp:cover --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -3227,8 +3182,8 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-25 02:43:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-25 01:43:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-22 00:51:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-21 23:51:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-03-28 21:53:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-28 19:53:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-7]]></wp:post_name>
@@ -3647,7 +3602,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
-<p class="has-large-font-size">Lorem ipsum dolor sit amet consectetur adipiscing elit at, aliquet etiam a dictumst risus nostra nulla gravida, suscipit varius tristique ac dignissim eros iaculis.</p>
+<p class="has-large-font-size">Lorem ipsum dolor sit amet consectetur adipiscing elit at, aliquet etiam a dictumst risus nostra nulla gravida, suscipit varius tristique ac iaculis.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -3668,7 +3623,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"placeholder":"Content…"} -->
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit at, aliquet etiam a dictumst risus nostra nulla gravida, suscipit varius tristique ac dignissim eros iaculis.</p>
+<p>Lorem ipsum dolor sit amet adipiscing elit at, aliquet etiam a dictumst risus nostra nulla gravida, suscipit varius tristique ac dignissim eros iaculis.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -3692,7 +3647,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"placeholder":"Content…"} -->
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit at, aliquet etiam a dictumst risus nostra nulla gravida, suscipit varius tristique ac dignissim eros iaculis.</p>
+<p>Lorem ipsum dolor sit amet adipiscing elit at, aliquet etiam a dictumst risus nostra nulla gravida, suscipit varius tristique ac dignissim eros iaculis.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -3749,8 +3704,8 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-25 02:43:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-25 01:43:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-22 00:10:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-21 23:10:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-03-28 21:44:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-28 19:44:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-10]]></wp:post_name>
@@ -3832,38 +3787,40 @@ figcaption.blocks-gallery-item__caption a {
 
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:separator {"className":"is-style-dots"} -->
-<hr class="wp-block-separator is-style-dots"/>
-<!-- /wp:separator -->
+<div class="wp-block-column"><!-- wp:html -->
+<!-- Icon from https://iconify.design/icon-sets/ -->
+<svg class="svg-icon has-regular-margin-bottom" width="7em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" viewBox="0 0 24 24"><path d="M3 13a9 9 0 0 0 9 9a9 9 0 0 0-9-9m2.44 2.44c1.91.71 3.41 2.21 4.12 4.12a6.986 6.986 0 0 1-4.12-4.12M12 22a9 9 0 0 0 9-9a9 9 0 0 0-9 9m2.42-2.43a6.876 6.876 0 0 1 4.15-4.15a7.03 7.03 0 0 1-4.15 4.15M12 14a6 6 0 0 0 6-6V3a5.9 5.9 0 0 0-2.16.39c-.55.23-1.04.57-1.45 1L12 2L9.61 4.39c-.41-.43-.9-.77-1.45-1A5.9 5.9 0 0 0 6 3v5a6 6 0 0 0 6 6M8 5.61l1.57 1.65L12 4.83l2.43 2.43L16 5.61V8a4 4 0 0 1-4 4a4 4 0 0 1-4-4V5.61z" fill="var(--color_accent)"></path></svg>
+<!-- /wp:html -->
 
-<!-- wp:heading {"textAlign":"center","className":"is-style-no-margin-vertical"} -->
-<h2 class="has-text-align-center is-style-no-margin-vertical">Lorem Ipsum Dolor</h2>
+<!-- wp:heading {"className":"is-style-no-margin-vertical"} -->
+<h2 class="is-style-no-margin-vertical">Lorem Ipsum</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":40} -->
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Lorem ipsum dolor sit amet consectetur adipiscing elit integer, proin libero conubia himenaeos facilisi arcu malesuada urna, netus mollis vehicula feugiat non ullamcorper pharetra.</p>
+<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet consectetur adipiscing elit integer, proin libero conubia himenaeos facilisi arcu malesuada urna, netus mollis vehicula feugiat non ullamcorper pharetra.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:separator {"className":"is-style-dots"} -->
-<hr class="wp-block-separator is-style-dots"/>
-<!-- /wp:separator -->
+<div class="wp-block-column"><!-- wp:html -->
+<!-- Icon from https://iconify.design/icon-sets/ -->
+<svg class="svg-icon has-regular-margin-bottom" width="7em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" viewBox="0 0 24 24"><path d="M8.66 13.07c-1.74 0-3.16-1.41-3.16-3.14c0-.71.26-1.39.69-1.93c-.42-.54-.69-1.22-.69-1.93c0-1.73 1.43-3.14 3.16-3.14l.43.03A3.15 3.15 0 0 1 12 1c1.31 0 2.44.81 2.91 1.96l.43-.03c1.73 0 3.16 1.41 3.16 3.14c0 .71-.26 1.39-.69 1.93c.42.54.69 1.22.69 1.93c0 1.73-1.43 3.14-3.16 3.14l-.43-.03A3.15 3.15 0 0 1 12 15a3.15 3.15 0 0 1-2.91-1.96l-.43.03M12 13c.62 0 1.12-.5 1.14-1.1l-.11-1.09c-.32.12-.67.19-1.03.19s-.7-.07-1-.19l-.14 1.09c.02.6.52 1.1 1.14 1.1m3.34-1.93c.63 0 1.16-.51 1.16-1.15c0-.42-.27-.84-.67-1.03l-.88-.42c-.12.74-.51 1.38-1.06 1.83l.81.57c.18.13.4.2.64.2m-.65-5.94l-.82.56c.56.45.95 1.09 1.07 1.81l.88-.4c.41-.2.68-.6.68-1.03c0-.63-.53-1.14-1.16-1.14c-.23 0-.45.07-.65.2M12 3c-.62 0-1.12.5-1.14 1.1L11 5.19c.3-.12.64-.19 1-.19s.71.07 1.03.19l.11-1.09C13.12 3.5 12.62 3 12 3M8.66 4.93c-.63 0-1.16.51-1.16 1.14c0 .43.27.83.67 1.03l.88.4c.12-.72.51-1.36 1.06-1.81l-.81-.56c-.18-.13-.4-.2-.64-.2M8.17 8.9c-.4.2-.67.6-.67 1.02c0 .63.53 1.14 1.16 1.14c.23 0 .45-.06.65-.2l.81-.55c-.56-.45-.95-1.09-1.07-1.81l-.88.4M12 22a9 9 0 0 1-9-9a9 9 0 0 1 9 9a9 9 0 0 1 9-9a9 9 0 0 1-9 9m2.44-2.44a7.04 7.04 0 0 0 4.12-4.12c-1.9.7-3.41 2.22-4.12 4.12m-9-4.12a7.04 7.04 0 0 0 4.12 4.12c-.7-1.9-2.22-3.41-4.12-4.12z" fill="var(--color_accent)"></path></svg>
+<!-- /wp:html -->
 
-<!-- wp:heading {"textAlign":"center","className":"is-style-no-margin-vertical"} -->
-<h2 class="has-text-align-center is-style-no-margin-vertical">Lorem Ipsum Dolor</h2>
+<!-- wp:heading {"className":"is-style-no-margin-vertical"} -->
+<h2 class="is-style-no-margin-vertical">Ipsum Dolor</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":40} -->
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Lorem ipsum dolor sit amet consectetur adipiscing elit integer, proin libero conubia himenaeos facilisi arcu malesuada urna, netus mollis vehicula feugiat non ullamcorper pharetra.</p>
+<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet consectetur adipiscing elit integer, proin libero conubia himenaeos facilisi arcu malesuada urna, netus mollis vehicula feugiat non ullamcorper pharetra.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -3913,8 +3870,8 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-25 02:43:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-25 01:43:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-22 00:24:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-21 23:24:14]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-03-28 21:51:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-28 19:51:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-11]]></wp:post_name>
@@ -4098,6 +4055,80 @@ figcaption.blocks-gallery-item__caption a {
 		</wp:postmeta>
 							</item>
 	<item>
+		<title><![CDATA[Gallery]]></title>
+		<link>https://themedemos.webmandesign.eu/michelle/gallery-1/</link>
+		<pubDate>Thu, 25 Feb 2021 13:59:06 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?page_id=49</guid>
+		<description/>
+		<content:encoded><![CDATA[<!-- wp:image {"align":"full","id":999999,"sizeSlug":"large","linkDestination":"none","className":"is-style-padding-right"} -->
+<figure class="wp-block-image alignfull size-large is-style-padding-right"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-taryn-elliott-6184431.jpg" alt="Image alt text" class="wp-image-999999"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":50} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:gallery {"ids":[999991,999992,999993],"linkTo":"none","align":"wide"} -->
+<figure class="wp-block-gallery alignwide columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-taryn-elliott-6184413.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-taryn-elliott-6184413.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682333.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682333.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682330.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682330.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:spacer {"height":30} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:media-text {"mediaId":999999,"mediaLink":"#0","mediaType":"image","imageFill":false,"backgroundColor":"palette-1","textColor":"palette-2","className":"is-style-narrow-content"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-style-narrow-content has-palette-2-color has-palette-1-background-color has-text-color has-background"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-taryn-elliott-6184414.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"palette-2","className":"is-style-default"} -->
+<h2 class="is-style-default has-palette-2-color has-text-color">Enjoying what you see?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Lorem ipsum dolor sit amet consectetur adipiscing elit euismod tristique aliquet nisl torquent, bibendum posuere.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"className":"is-style-large"} -->
+<div class="wp-block-buttons is-style-large"><!-- wp:button {"backgroundColor":"palette-2","textColor":"palette-3"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-palette-3-color has-palette-2-background-color has-text-color has-background" href="#0">Get in touch →</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:spacer {"height":50} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"align":"full","id":999999,"sizeSlug":"large","linkDestination":"none","className":"is-style-padding-left"} -->
+<figure class="wp-block-image alignfull size-large is-style-padding-left"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-taryn-elliott-6184421.jpg" alt="Image alt text" class="wp-image-999999"/></figure>
+<!-- /wp:image -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[<a href="/michelle/page-excerpt/" title="How to set up page excerpt?">Page excerpt</a> text here.  Lorem ipsum dolor sit amet consectetur adipiscing elit tempus quisque fringilla id lectus, vel arcu integer ridiculus convallis penatibus neque curabitur rhoncus.]]></excerpt:encoded>
+		<wp:post_id>49</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-25 14:59:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-25 13:59:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-28 21:39:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-28 19:39:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[gallery-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+	<item>
 		<title><![CDATA[Services]]></title>
 		<link>https://themedemos.webmandesign.eu/michelle/services-1/</link>
 		<pubDate>Mon, 01 Mar 2021 15:09:32 +0000</pubDate>
@@ -4248,80 +4279,6 @@ figcaption.blocks-gallery-item__caption a {
 		</wp:postmeta>
 							</item>
 	<item>
-		<title><![CDATA[Gallery]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/gallery-1/</link>
-		<pubDate>Thu, 25 Feb 2021 13:59:06 +0000</pubDate>
-		<dc:creator><![CDATA[demouser]]></dc:creator>
-		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?page_id=49</guid>
-		<description/>
-		<content:encoded><![CDATA[<!-- wp:image {"align":"full","id":999999,"sizeSlug":"large","linkDestination":"none","className":"is-style-padding-right"} -->
-<figure class="wp-block-image alignfull size-large is-style-padding-right"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-taryn-elliott-6184431.jpg" alt="Image alt text" class="wp-image-999999"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:spacer {"height":50} -->
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:gallery {"ids":[999991,999992,999993],"linkTo":"none","align":"wide"} -->
-<figure class="wp-block-gallery alignwide columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-taryn-elliott-6184413.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-taryn-elliott-6184413.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682333.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682333.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682330.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682330.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
-<!-- /wp:gallery -->
-
-<!-- wp:spacer {"height":30} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:media-text {"mediaId":999999,"mediaLink":"#0","mediaType":"image","imageFill":false,"backgroundColor":"palette-1","textColor":"palette-2","className":"is-style-narrow-content"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile is-style-narrow-content has-palette-2-color has-palette-1-background-color has-text-color has-background"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-taryn-elliott-6184414.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"palette-2","className":"is-style-default"} -->
-<h2 class="is-style-default has-palette-2-color has-text-color">Enjoying what you see?</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"large"} -->
-<p class="has-large-font-size">Lorem ipsum dolor sit amet consectetur adipiscing elit euismod tristique aliquet nisl torquent, bibendum posuere.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:buttons {"className":"is-style-large"} -->
-<div class="wp-block-buttons is-style-large"><!-- wp:button {"backgroundColor":"palette-2","textColor":"palette-3"} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-palette-3-color has-palette-2-background-color has-text-color has-background" href="#0">Get in touch →</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div></div>
-<!-- /wp:media-text -->
-
-<!-- wp:spacer {"height":50} -->
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:image {"align":"full","id":999999,"sizeSlug":"large","linkDestination":"none","className":"is-style-padding-left"} -->
-<figure class="wp-block-image alignfull size-large is-style-padding-left"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-taryn-elliott-6184421.jpg" alt="Image alt text" class="wp-image-999999"/></figure>
-<!-- /wp:image -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[<a href="/michelle/page-excerpt/" title="How to set up page excerpt?">Page excerpt</a> text here.  Lorem ipsum dolor sit amet consectetur adipiscing elit tempus quisque fringilla id lectus, vel arcu integer ridiculus convallis penatibus neque curabitur rhoncus vitae venenatis.]]></excerpt:encoded>
-		<wp:post_id>49</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-25 14:59:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-25 13:59:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-21 23:19:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-21 22:19:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[gallery-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
-		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-	<item>
 		<title><![CDATA[FAQ]]></title>
 		<link>https://themedemos.webmandesign.eu/michelle/faq-1/</link>
 		<pubDate>Thu, 25 Feb 2021 13:59:26 +0000</pubDate>
@@ -4358,7 +4315,7 @@ figcaption.blocks-gallery-item__caption a {
 <div class="wp-block-group alignfull is-style-no-margin-vertical"><div class="wp-block-group__inner-container"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"62%"} -->
 <div class="wp-block-column" style="flex-basis:62%"><!-- wp:heading -->
-<h2>1. Lorem ipsum dolor sit amet consectetur adipiscing elit ridiculus lacinia?</h2>
+<h2>1. Lorem ipsum dolor sit amet adipiscing elit ridiculus lacinia?</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -4452,7 +4409,7 @@ figcaption.blocks-gallery-item__caption a {
 <div class="wp-block-group alignfull is-style-no-margin-vertical"><div class="wp-block-group__inner-container"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"62%"} -->
 <div class="wp-block-column" style="flex-basis:62%"><!-- wp:heading -->
-<h2>4. Lorem ipsum dolor sit amet consectetur adipiscing elit ridiculus lacinia?</h2>
+<h2>4. Lorem ipsum dolor sit amet adipiscing elit lacinia?</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -4519,8 +4476,8 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-25 14:59:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-25 13:59:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-22 09:48:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-22 08:48:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-03-28 21:40:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-28 19:40:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[faq-1]]></wp:post_name>
@@ -4611,8 +4568,8 @@ figcaption.blocks-gallery-item__caption a {
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?page_id=81</guid>
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"color":{"background":"#cc2a1b"},"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"textColor":"palette-3","className":"is-style-no-margin-vertical"} -->
-<div class="wp-block-group alignfull is-style-no-margin-vertical has-palette-3-color has-text-color has-background" style="background-color:#cc2a1b;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><div class="wp-block-group__inner-container"><!-- wp:spacer {"className":"has-20vmax-min-height"} -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer has-20vmax-min-height"></div>
+<div class="wp-block-group alignfull is-style-no-margin-vertical has-palette-3-color has-text-color has-background" style="background-color:#cc2a1b;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><div class="wp-block-group__inner-container"><!-- wp:spacer {"className":"has-15vmax-min-height"} -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer has-15vmax-min-height"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:cover {"url":"https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art\u002d\u002dpexels-cottonbro-4272618.jpg","id":999999,"customOverlayColor":"#cc2a1b","minHeight":70,"minHeightUnit":"vh","contentPosition":"bottom center","align":"wide","className":"is-style-scale-image","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
@@ -4713,8 +4670,8 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:post_id>81</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-27 13:47:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-27 12:47:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-22 00:45:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-21 23:45:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-03-25 02:27:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-25 01:27:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-12]]></wp:post_name>
@@ -5235,6 +5192,79 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_value><![CDATA[templates/no-intro-header-overlaid-dark.php]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+	<item>
+		<title><![CDATA[_screenshot]]></title>
+		<link>https://themedemos.webmandesign.eu/michelle/_screenshot/</link>
+		<pubDate>Sun, 28 Mar 2021 14:21:30 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=912</guid>
+		<description/>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"color":{"background":"#cc2a1b"},"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"textColor":"palette-3","className":"is-style-no-margin-vertical"} -->
+<div class="wp-block-group alignfull is-style-no-margin-vertical has-palette-3-color has-text-color has-background" style="background-color:#cc2a1b;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><div class="wp-block-group__inner-container"><!-- wp:spacer {"className":"has-15vmax-min-height"} -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer has-15vmax-min-height"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:cover {"url":"https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_cc0\u002d\u002dSAAM-1985.66.165724_1\u002d\u002dgray.jpg","id":999999,"dimRatio":0,"customOverlayColor":"#cc2a1b","minHeight":70,"minHeightUnit":"vh","contentPosition":"bottom center","align":"wide","className":"is-style-scale-image","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-cover alignwide has-custom-content-position is-position-bottom-center is-style-scale-image" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;background-color:#cc2a1b;min-height:70vh"><img class="wp-block-cover__image-background wp-image-999999" alt="" src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_cc0--SAAM-1985.66.165724_1--gray.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":150} -->
+<div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"align":"wide","textColor":"palette-3","className":"is-style-text-shadow-dark"} -->
+<h1 class="alignwide has-text-align-center is-style-text-shadow-dark has-palette-3-color has-text-color"><strong>Hello! I'm Michelle,</strong><br /><strong>your block editor love.</strong></h1>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":50} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons {"contentJustification":"center","className":"is-style-large"} -->
+<div class="wp-block-buttons is-content-justification-center is-style-large"><!-- wp:button {"backgroundColor":"palette-1","textColor":"palette-2"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-palette-2-color has-palette-1-background-color has-text-color has-background" href="#0">Get in touch →</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer {"height":150} -->
+<div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div></div>
+<!-- /wp:cover --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:gallery {"ids":[999991,999992,999993],"linkTo":"none","align":"wide","className":"is-style-no-gaps"} -->
+<figure class="wp-block-gallery alignwide columns-3 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_cc0--SAAM-1985.66.165696_1--gray.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_cc0--SAAM-1985.66.165696_1--gray.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_cc0--SAAM-1985.66.165717_1--gray.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_cc0--SAAM-1985.66.165717_1--gray.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_cc0--SAAM-1985.66.165723_1--gray.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_cc0--SAAM-1985.66.165723_1--gray.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:spacer {"height":150} -->
+<div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>912</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-28 16:21:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-28 14:21:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-28 16:21:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-28 14:21:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[_screenshot]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[templates/no-intro-header-overlaid-light.php]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+
 
 
 </channel>

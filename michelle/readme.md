@@ -8,7 +8,7 @@ You are browsing the repository for the demo content files for [**Michelle** Wor
 The easiest way to install theme demo content is using **One Click Demo Import** plugin:
 
 1. Install and activate the [**One Click Demo Import** plugin](https://wordpress.org/plugins/one-click-demo-import/) in your WordPress website.
-2. [Download ZIP package](https://github.com/webmandesign/demo-content/raw/master/michelle/michelle-theme-demo.zip) of theme demo files to your computer and unpack the files.
+2. [Download ZIP package](https://github.com/webmandesign/demo-content/raw/master/michelle/demo-content-michelle.zip) of theme demo files to your computer and unpack the files.
 3. In your WordPress admin area navigate to **Appearance &rarr; Import Demo Data** and read the information.
 4. Complete the "Manual demo files upload" procedure:
   &nbsp;
