@@ -14,14 +14,14 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
-<!-- generator="WordPress/5.7" created="2021-03-29 13:22" -->
+<!-- generator="WordPress/5.7" created="2021-03-29 19:29" -->
 <rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
 
 <channel>
 	<title>Michelle</title>
 	<link>https://themedemos.webmandesign.eu/michelle</link>
 	<description>Inclusive Theme</description>
-	<pubDate>Mon, 29 Mar 2021 13:22:55 +0000</pubDate>
+	<pubDate>Mon, 29 Mar 2021 19:29:14 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themedemos.webmandesign.eu/</wp:base_site_url>
@@ -40,7 +40,6 @@
 </wp:term>
 
 	<generator>https://wordpress.org/?v=5.7</generator>
-
 
 <!--
 
@@ -1990,8 +1989,8 @@ figcaption.blocks-gallery-item__caption a {
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?page_id=17</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business\u002d\u002dernesto-leon-4H_I-HRjkyA-unsplash.jpg","id":999999,"dimRatio":80,"overlayColor":"palette-2","focalPoint":{"x":"0.50","y":"0.50"},"minHeight":100,"minHeightUnit":"vh","contentPosition":"bottom center","align":"full","className":"is-style-no-margin-vertical","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
-<div class="wp-block-cover alignfull has-background-dim-80 has-palette-2-background-color has-background-dim has-custom-content-position is-position-bottom-center is-style-no-margin-vertical" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;min-height:100vh"><img class="wp-block-cover__image-background wp-image-999999" alt="" src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business--ernesto-leon-4H_I-HRjkyA-unsplash.jpg" style="object-position:50% 50%" data-object-fit="cover" data-object-position="50% 50%"/><div class="wp-block-cover__inner-container"><!-- wp:spacer {"className":"has-15vmax-min-height"} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://pic.webmandesign.eu/SAMPLE/business\u002d\u002dernesto-leon-4H_I-HRjkyA-unsplash.jpg","id":999999,"dimRatio":80,"overlayColor":"palette-2","focalPoint":{"x":"0.50","y":"0.50"},"minHeight":100,"minHeightUnit":"vh","contentPosition":"bottom center","align":"full","className":"is-style-no-margin-vertical","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-cover alignfull has-background-dim-80 has-palette-2-background-color has-background-dim has-custom-content-position is-position-bottom-center is-style-no-margin-vertical" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;min-height:100vh"><img class="wp-block-cover__image-background wp-image-999999" alt="" src="https://pic.webmandesign.eu/SAMPLE/business--ernesto-leon-4H_I-HRjkyA-unsplash.jpg" style="object-position:50% 50%" data-object-fit="cover" data-object-position="50% 50%"/><div class="wp-block-cover__inner-container"><!-- wp:spacer {"className":"has-15vmax-min-height"} -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer has-15vmax-min-height"></div>
 <!-- /wp:spacer -->
 
@@ -2085,8 +2084,8 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:cover {"url":"https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business\u002d\u002drobson-hatsukami-morgan-NKr0qBAkU4s-unsplash.jpg","id":999999,"hasParallax":true,"dimRatio":0,"overlayColor":"palette-2","contentPosition":"center center","align":"full","className":"is-style-no-margin-vertical","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
-<div class="wp-block-cover alignfull has-palette-2-background-color has-parallax is-style-no-margin-vertical" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;background-image:url(https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business--robson-hatsukami-morgan-NKr0qBAkU4s-unsplash.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:columns {"align":"wide","className":"is-style-no-gaps"} -->
+<!-- wp:cover {"url":"https://pic.webmandesign.eu/SAMPLE/business\u002d\u002drobson-hatsukami-morgan-NKr0qBAkU4s-unsplash.jpg","id":999999,"hasParallax":true,"dimRatio":0,"overlayColor":"palette-2","contentPosition":"center center","align":"full","className":"is-style-no-margin-vertical","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-cover alignfull has-palette-2-background-color has-parallax is-style-no-margin-vertical" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;background-image:url(https://pic.webmandesign.eu/SAMPLE/business--robson-hatsukami-morgan-NKr0qBAkU4s-unsplash.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:columns {"align":"wide","className":"is-style-no-gaps"} -->
 <div class="wp-block-columns alignwide is-style-no-gaps"><!-- wp:column -->
 <div class="wp-block-column"></div>
 <!-- /wp:column -->
@@ -2133,8 +2132,8 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer --></div></div>
 <!-- /wp:group -->
 
-<!-- wp:cover {"url":"https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business\u002d\u002djahongir-ismoilov-RcjvFd1k18o-unsplash.jpg","id":999999,"hasParallax":true,"dimRatio":0,"overlayColor":"palette-2","contentPosition":"center center","align":"full","className":"is-style-no-margin-vertical","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
-<div class="wp-block-cover alignfull has-palette-2-background-color has-parallax is-style-no-margin-vertical" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;background-image:url(https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business--jahongir-ismoilov-RcjvFd1k18o-unsplash.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:columns {"align":"wide","className":"is-style-no-gaps"} -->
+<!-- wp:cover {"url":"https://pic.webmandesign.eu/SAMPLE/business\u002d\u002djahongir-ismoilov-RcjvFd1k18o-unsplash.jpg","id":999999,"hasParallax":true,"dimRatio":0,"overlayColor":"palette-2","contentPosition":"center center","align":"full","className":"is-style-no-margin-vertical","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-cover alignfull has-palette-2-background-color has-parallax is-style-no-margin-vertical" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;background-image:url(https://pic.webmandesign.eu/SAMPLE/business--jahongir-ismoilov-RcjvFd1k18o-unsplash.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:columns {"align":"wide","className":"is-style-no-gaps"} -->
 <div class="wp-block-columns alignwide is-style-no-gaps"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:cover {"overlayColor":"palette-2","minHeight":100,"minHeightUnit":"vh"} -->
 <div class="wp-block-cover has-palette-2-background-color has-background-dim" style="min-height:100vh"><div class="wp-block-cover__inner-container"><!-- wp:heading {"textColor":"palette-3"} -->
@@ -2158,7 +2157,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:cover -->
 
 <!-- wp:gallery {"ids":[999992,999993,999991],"linkTo":"none","align":"full","className":"is-style-no-gaps"} -->
-<figure class="wp-block-gallery alignfull columns-3 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business--riley-crawford-99HLgU4IHLY-unsplash.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business--riley-crawford-99HLgU4IHLY-unsplash.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business--roman-fox-f1cC3tDFkf8-unsplash.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business--roman-fox-f1cC3tDFkf8-unsplash.jpg" data-link="#0" class="wp-image-999993"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business--olga-dudareva-u7RzJrb-zeY-unsplash.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business--olga-dudareva-u7RzJrb-zeY-unsplash.jpg" data-link="#0" class="wp-image-999991"/></figure></li></ul></figure>
+<figure class="wp-block-gallery alignfull columns-3 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/business--riley-crawford-99HLgU4IHLY-unsplash.jpg" alt="Image alt text" data-id="999992" data-full-url="https://pic.webmandesign.eu/SAMPLE/business--riley-crawford-99HLgU4IHLY-unsplash.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/business--roman-fox-f1cC3tDFkf8-unsplash.jpg" alt="Image alt text" data-id="999993" data-full-url="https://pic.webmandesign.eu/SAMPLE/business--roman-fox-f1cC3tDFkf8-unsplash.jpg" data-link="#0" class="wp-image-999993"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/business--olga-dudareva-u7RzJrb-zeY-unsplash.jpg" alt="Image alt text" data-id="999991" data-full-url="https://pic.webmandesign.eu/SAMPLE/business--olga-dudareva-u7RzJrb-zeY-unsplash.jpg" data-link="#0" class="wp-image-999991"/></figure></li></ul></figure>
 <!-- /wp:gallery -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>17</wp:post_id>
@@ -2195,13 +2194,13 @@ figcaption.blocks-gallery-item__caption a {
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?page_id=19</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_living\u002d\u002dpexels-maria-orlova-4906241.jpg","id":999999,"dimRatio":80,"overlayColor":"palette-2","minHeight":100,"minHeightUnit":"vh","contentPosition":"center center","align":"full","className":"is-style-no-margin-vertical","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
-<div class="wp-block-cover alignfull has-background-dim-80 has-palette-2-background-color has-background-dim is-style-no-margin-vertical" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;min-height:100vh"><img class="wp-block-cover__image-background wp-image-999999" alt="" src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_living--pexels-maria-orlova-4906241.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:spacer {"className":"has-20vmax-min-height"} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://pic.webmandesign.eu/SAMPLE/living\u002d\u002dpexels-maria-orlova-4906241.jpg","id":999999,"dimRatio":80,"overlayColor":"palette-2","minHeight":100,"minHeightUnit":"vh","contentPosition":"center center","align":"full","className":"is-style-no-margin-vertical","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-cover alignfull has-background-dim-80 has-palette-2-background-color has-background-dim is-style-no-margin-vertical" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;min-height:100vh"><img class="wp-block-cover__image-background wp-image-999999" alt="" src="https://pic.webmandesign.eu/SAMPLE/living--pexels-maria-orlova-4906241.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:spacer {"className":"has-20vmax-min-height"} -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer has-20vmax-min-height"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":999999,"mediaLink":"#0","mediaType":"image","verticalAlignment":"top"} -->
-<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_living--pexels-brian-hackworth-5872466.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":1} -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/living--pexels-brian-hackworth-5872466.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":1} -->
 <h1>Eco Living</h1>
 <!-- /wp:heading -->
 
@@ -2281,7 +2280,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:group -->
 
 <!-- wp:gallery {"ids":[999991,999992,999993],"linkTo":"none","align":"full","className":"is-style-no-gaps"} -->
-<figure class="wp-block-gallery alignfull columns-3 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_living--pexels-maria-orlova-4906241.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_living--pexels-maria-orlova-4906241.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_living--pexels-maria-orlova-4906249.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_living--pexels-maria-orlova-4906249.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_living--pexels-maria-orlova-4906243.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_living--pexels-maria-orlova-4906243.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
+<figure class="wp-block-gallery alignfull columns-3 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/living--pexels-maria-orlova-4906241.jpg" alt="Image alt text" data-id="999991" data-full-url="https://pic.webmandesign.eu/SAMPLE/living--pexels-maria-orlova-4906241.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/living--pexels-maria-orlova-4906249.jpg" alt="Image alt text" data-id="999992" data-full-url="https://pic.webmandesign.eu/SAMPLE/living--pexels-maria-orlova-4906249.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/living--pexels-maria-orlova-4906243.jpg" alt="Image alt text" data-id="999993" data-full-url="https://pic.webmandesign.eu/SAMPLE/living--pexels-maria-orlova-4906243.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:spacer {"height":150} -->
@@ -2315,7 +2314,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:media-text {"mediaId":999999,"mediaLink":"#0","mediaType":"image","className":"is-style-media-on-top"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile is-style-media-on-top"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_living--pexels-maria-orlova-4906250.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:columns -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-style-media-on-top"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/living--pexels-maria-orlova-4906250.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":""} -->
 <div class="wp-block-column"><!-- wp:heading {"fontSize":"extra-large"} -->
 <h2 class="has-extra-large-font-size">Custom Interior</h2>
@@ -2335,7 +2334,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:media-text {"align":"full","mediaId":999999,"mediaLink":"#0","mediaType":"image","imageFill":true,"backgroundColor":"palette-1","textColor":"palette-2","className":"has-full-screen-min-height is-style-narrow-content"} -->
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-image-fill has-full-screen-min-height is-style-narrow-content has-palette-2-color has-palette-1-background-color has-text-color has-background"><figure class="wp-block-media-text__media" style="background-image:url(https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_living--pexels-maria-orlova-4906252.jpg);background-position:50% 50%"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_living--pexels-maria-orlova-4906252.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"palette-2"} -->
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-image-fill has-full-screen-min-height is-style-narrow-content has-palette-2-color has-palette-1-background-color has-text-color has-background"><figure class="wp-block-media-text__media" style="background-image:url(https://pic.webmandesign.eu/SAMPLE/living--pexels-maria-orlova-4906252.jpg);background-position:50% 50%"><img src="https://pic.webmandesign.eu/SAMPLE/living--pexels-maria-orlova-4906252.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"palette-2"} -->
 <h2 class="has-palette-2-color has-text-color">Get In Touch</h2>
 <!-- /wp:heading -->
 
@@ -2390,7 +2389,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:media-text {"mediaId":999999,"mediaLink":"#0","mediaType":"image","verticalAlignment":"top","textColor":"palette-3"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top has-palette-3-color has-text-color"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_food--foodiesfeed.com_grilled-cheddar-and-bacon-burger-detail.jpg" alt="Alt text here." class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":1} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top has-palette-3-color has-text-color"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/food--foodiesfeed.com_grilled-cheddar-and-bacon-burger-detail.jpg" alt="Alt text here." class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":1} -->
 <h1>Take Away Burgers</h1>
 <!-- /wp:heading -->
 
@@ -2493,7 +2492,7 @@ figcaption.blocks-gallery-item__caption a {
 
 <!-- wp:group {"align":"full","style":{"color":{"gradient":"linear-gradient(315deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%)"}},"textColor":"palette-3","className":"is-style-no-padding"} -->
 <div class="wp-block-group alignfull is-style-no-padding has-palette-3-color has-text-color has-background" style="background:linear-gradient(315deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%)"><div class="wp-block-group__inner-container"><!-- wp:media-text {"mediaPosition":"right","mediaId":999999,"mediaLink":"#0","mediaType":"image"} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_food--foodiesfeed.com_quick-pasta-to-go.jpg" alt="Alt text here." class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"palette-3","className":"is-style-no-margin-vertical","fontSize":"normal"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/food--foodiesfeed.com_quick-pasta-to-go.jpg" alt="Alt text here." class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"palette-3","className":"is-style-no-margin-vertical","fontSize":"normal"} -->
 <h2 class="is-style-no-margin-vertical has-palette-3-color has-text-color has-normal-font-size">Limited offer!</h2>
 <!-- /wp:heading -->
 
@@ -2694,7 +2693,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:group -->
 
 <!-- wp:gallery {"ids":[999991,999992,999993],"linkTo":"none","align":"full","className":"is-style-no-gaps"} -->
-<figure class="wp-block-gallery alignfull columns-3 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_food--foodiesfeed.com_creme-roll-with-chocolate-and-blueberries-on-top.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_food--foodiesfeed.com_creme-roll-with-chocolate-and-blueberries-on-top.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_food--foodiesfeed.com_pulled-pork-burger.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_food--foodiesfeed.com_pulled-pork-burger.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_food--foodiesfeed.com_tacos-with-pulled-pork-fresh-vegetables-and-cream.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_food--foodiesfeed.com_tacos-with-pulled-pork-fresh-vegetables-and-cream.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
+<figure class="wp-block-gallery alignfull columns-3 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/food--foodiesfeed.com_creme-roll-with-chocolate-and-blueberries-on-top.jpg" alt="Image alt text" data-id="999991" data-full-url="https://pic.webmandesign.eu/SAMPLE/food--foodiesfeed.com_creme-roll-with-chocolate-and-blueberries-on-top.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/food--foodiesfeed.com_pulled-pork-burger.jpg" alt="Image alt text" data-id="999992" data-full-url="https://pic.webmandesign.eu/SAMPLE/food--foodiesfeed.com_pulled-pork-burger.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/food--foodiesfeed.com_tacos-with-pulled-pork-fresh-vegetables-and-cream.jpg" alt="Image alt text" data-id="999993" data-full-url="https://pic.webmandesign.eu/SAMPLE/food--foodiesfeed.com_tacos-with-pulled-pork-fresh-vegetables-and-cream.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
 <!-- /wp:gallery -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>22</wp:post_id>
@@ -2731,8 +2730,8 @@ figcaption.blocks-gallery-item__caption a {
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?page_id=24</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals\u002d\u002ddapper-dog-gentleman-with-bowtie-on-black-background.jpg","id":999999,"dimRatio":0,"overlayColor":"palette-2","focalPoint":{"x":"1.00","y":"0.00"},"minHeight":100,"minHeightUnit":"vh","contentPosition":"center center","align":"full"} -->
-<div class="wp-block-cover alignfull has-palette-2-background-color" style="min-height:100vh"><img class="wp-block-cover__image-background wp-image-999999" alt="" src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--dapper-dog-gentleman-with-bowtie-on-black-background.jpg" style="object-position:100% 0%" data-object-fit="cover" data-object-position="100% 0%"/><div class="wp-block-cover__inner-container"><!-- wp:spacer {"className":"has-20vmax-min-height"} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://pic.webmandesign.eu/SAMPLE/animals\u002d\u002ddapper-dog-gentleman-with-bowtie-on-black-background.jpg","id":999999,"dimRatio":0,"overlayColor":"palette-2","focalPoint":{"x":"1.00","y":"0.00"},"minHeight":100,"minHeightUnit":"vh","contentPosition":"center center","align":"full"} -->
+<div class="wp-block-cover alignfull has-palette-2-background-color" style="min-height:100vh"><img class="wp-block-cover__image-background wp-image-999999" alt="" src="https://pic.webmandesign.eu/SAMPLE/animals--dapper-dog-gentleman-with-bowtie-on-black-background.jpg" style="object-position:100% 0%" data-object-fit="cover" data-object-position="100% 0%"/><div class="wp-block-cover__inner-container"><!-- wp:spacer {"className":"has-20vmax-min-height"} -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer has-20vmax-min-height"></div>
 <!-- /wp:spacer -->
 
@@ -2754,7 +2753,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:cover -->
 
 <!-- wp:gallery {"ids":[999991,999992,999993,999994,999995,999996],"linkTo":"none","align":"wide","className":"is-style-no-margin-vertical"} -->
-<figure class="wp-block-gallery alignwide columns-3 is-cropped is-style-no-margin-vertical"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--fluffy-puppy-portrait.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--fluffy-puppy-portrait.jpg" data-link="#0" class="wp-image-999991"/><figcaption class="blocks-gallery-item__caption">Miss World</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--real-dog-stuffed-dog.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--real-dog-stuffed-dog.jpg" data-link="#0" class="wp-image-999992"/><figcaption class="blocks-gallery-item__caption">The Little One</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--sleeping-posing-puppy.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--sleeping-posing-puppy.jpg" data-link="#0" class="wp-image-999993"/><figcaption class="blocks-gallery-item__caption">Moment Please</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--grey-poodle-dog-tilting-head.jpg" alt="Image alt text" data-id="999994" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--grey-poodle-dog-tilting-head.jpg" data-link="#0" class="wp-image-999994"/><figcaption class="blocks-gallery-item__caption">#MessWithMe ...</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--dapper-dog-gentleman-with-bowtie-posing-on-black-background.jpg" alt="Image alt text" data-id="999995" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--dapper-dog-gentleman-with-bowtie-posing-on-black-background.jpg" data-link="#0" class="wp-image-999995"/><figcaption class="blocks-gallery-item__caption">Mr. Aristocrat III</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--young-dog-looking-up-excitedly-awaiting-a-treat.jpg" alt="Image alt text" data-id="999996" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--young-dog-looking-up-excitedly-awaiting-a-treat.jpg" data-link="#0" class="wp-image-999996"/><figcaption class="blocks-gallery-item__caption">Mr. Handsome</figcaption></figure></li></ul></figure>
+<figure class="wp-block-gallery alignwide columns-3 is-cropped is-style-no-margin-vertical"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/animals--fluffy-puppy-portrait.jpg" alt="Image alt text" data-id="999991" data-full-url="https://pic.webmandesign.eu/SAMPLE/animals--fluffy-puppy-portrait.jpg" data-link="#0" class="wp-image-999991"/><figcaption class="blocks-gallery-item__caption">Miss World</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/animals--real-dog-stuffed-dog.jpg" alt="Image alt text" data-id="999992" data-full-url="https://pic.webmandesign.eu/SAMPLE/animals--real-dog-stuffed-dog.jpg" data-link="#0" class="wp-image-999992"/><figcaption class="blocks-gallery-item__caption">The Little One</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/animals--sleeping-posing-puppy.jpg" alt="Image alt text" data-id="999993" data-full-url="https://pic.webmandesign.eu/SAMPLE/animals--sleeping-posing-puppy.jpg" data-link="#0" class="wp-image-999993"/><figcaption class="blocks-gallery-item__caption">Moment Please</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/animals--grey-poodle-dog-tilting-head.jpg" alt="Image alt text" data-id="999994" data-full-url="https://pic.webmandesign.eu/SAMPLE/animals--grey-poodle-dog-tilting-head.jpg" data-link="#0" class="wp-image-999994"/><figcaption class="blocks-gallery-item__caption">#MessWithMe ...</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/animals--dapper-dog-gentleman-with-bowtie-posing-on-black-background.jpg" alt="Image alt text" data-id="999995" data-full-url="https://pic.webmandesign.eu/SAMPLE/animals--dapper-dog-gentleman-with-bowtie-posing-on-black-background.jpg" data-link="#0" class="wp-image-999995"/><figcaption class="blocks-gallery-item__caption">Mr. Aristocrat III</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/animals--young-dog-looking-up-excitedly-awaiting-a-treat.jpg" alt="Image alt text" data-id="999996" data-full-url="https://pic.webmandesign.eu/SAMPLE/animals--young-dog-looking-up-excitedly-awaiting-a-treat.jpg" data-link="#0" class="wp-image-999996"/><figcaption class="blocks-gallery-item__caption">Mr. Handsome</figcaption></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:columns {"verticalAlignment":"center","align":"wide","backgroundColor":"palette-1","textColor":"palette-2"} -->
@@ -2798,7 +2797,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:media-text {"mediaPosition":"right","mediaId":999999,"mediaLink":"#0","mediaType":"image","verticalAlignment":"top","imageFill":false,"backgroundColor":"palette-2","textColor":"palette-3"} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top has-palette-3-color has-palette-2-background-color has-text-color has-background"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--pexels-samson-katt-5256726.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"palette-3"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top has-palette-3-color has-palette-2-background-color has-text-color has-background"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/animals--pexels-samson-katt-5256726.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"palette-3"} -->
 <h2 class="has-palette-3-color has-text-color">About Me</h2>
 <!-- /wp:heading -->
 
@@ -2830,7 +2829,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:gallery {"ids":[999992,999991,999993,999994,999995],"linkTo":"none","align":"full","className":"is-style-no-gaps"} -->
-<figure class="wp-block-gallery alignfull columns-3 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--a-smiling-big-teddy-bear-like-dog.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--a-smiling-big-teddy-bear-like-dog.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--pexels-dids-3635547.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--pexels-dids-3635547.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--happy-dog-wears-flowers.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--happy-dog-wears-flowers.jpg" data-link="#0" class="wp-image-999993"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--happy-husky.jpg" alt="Image alt text" data-id="999994" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--happy-husky.jpg" data-link="#0" class="wp-image-999994"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--a-curly-brown-haired-dog-in-a-red-bow-tie.jpg" alt="Image alt text" data-id="999995" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--a-curly-brown-haired-dog-in-a-red-bow-tie.jpg" data-link="#0" class="wp-image-999995"/></figure></li></ul></figure>
+<figure class="wp-block-gallery alignfull columns-3 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/animals--a-smiling-big-teddy-bear-like-dog.jpg" alt="Image alt text" data-id="999992" data-full-url="https://pic.webmandesign.eu/SAMPLE/animals--a-smiling-big-teddy-bear-like-dog.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/animals--pexels-dids-3635547.jpg" alt="Image alt text" data-id="999991" data-full-url="https://pic.webmandesign.eu/SAMPLE/animals--pexels-dids-3635547.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/animals--happy-dog-wears-flowers.jpg" alt="Image alt text" data-id="999993" data-full-url="https://pic.webmandesign.eu/SAMPLE/animals--happy-dog-wears-flowers.jpg" data-link="#0" class="wp-image-999993"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/animals--happy-husky.jpg" alt="Image alt text" data-id="999994" data-full-url="https://pic.webmandesign.eu/SAMPLE/animals--happy-husky.jpg" data-link="#0" class="wp-image-999994"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/animals--a-curly-brown-haired-dog-in-a-red-bow-tie.jpg" alt="Image alt text" data-id="999995" data-full-url="https://pic.webmandesign.eu/SAMPLE/animals--a-curly-brown-haired-dog-in-a-red-bow-tie.jpg" data-link="#0" class="wp-image-999995"/></figure></li></ul></figure>
 <!-- /wp:gallery -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>24</wp:post_id>
@@ -2885,7 +2884,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:columns -->
 
 <!-- wp:image {"align":"wide","id":999999,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image alignwide size-large"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661391.jpg" alt="Image alt text" class="wp-image-999999"/></figure>
+<figure class="wp-block-image alignwide size-large"><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661391.jpg" alt="Image alt text" class="wp-image-999999"/></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:group -->
 
@@ -2911,7 +2910,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/signature-webman-design-black-320.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img src="https://pic.webmandesign.eu/SAMPLE/signature-webman-design-black-320.png" alt=""/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -2944,7 +2943,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:gallery {"ids":[999991,999992,999993,999994,999995,999996],"linkTo":"none","align":"wide"} -->
-<figure class="wp-block-gallery alignwide columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661222.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661222.jpg" data-link="#0" class="wp-image-999991"/><figcaption class="blocks-gallery-item__caption">Africa set</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661228.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661228.jpg" data-link="#0" class="wp-image-999992"/><figcaption class="blocks-gallery-item__caption">Whale</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661231.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661231.jpg" data-link="#0" class="wp-image-999993"/><figcaption class="blocks-gallery-item__caption">Dinosaur</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661238.jpg" alt="Image alt text" data-id="999994" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661238.jpg" data-link="#0" class="wp-image-999994"/><figcaption class="blocks-gallery-item__caption">Octopus</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661239.jpg" alt="Image alt text" data-id="999995" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661239.jpg" data-link="#0" class="wp-image-999995"/><figcaption class="blocks-gallery-item__caption">Ocean set</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661244.jpg" alt="Image alt text" data-id="999996" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661244.jpg" data-link="#0" class="wp-image-999996"/><figcaption class="blocks-gallery-item__caption">Fish</figcaption></figure></li></ul></figure>
+<figure class="wp-block-gallery alignwide columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661222.jpg" alt="Image alt text" data-id="999991" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661222.jpg" data-link="#0" class="wp-image-999991"/><figcaption class="blocks-gallery-item__caption">Africa set</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661228.jpg" alt="Image alt text" data-id="999992" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661228.jpg" data-link="#0" class="wp-image-999992"/><figcaption class="blocks-gallery-item__caption">Whale</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661231.jpg" alt="Image alt text" data-id="999993" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661231.jpg" data-link="#0" class="wp-image-999993"/><figcaption class="blocks-gallery-item__caption">Dinosaur</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661238.jpg" alt="Image alt text" data-id="999994" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661238.jpg" data-link="#0" class="wp-image-999994"/><figcaption class="blocks-gallery-item__caption">Octopus</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661239.jpg" alt="Image alt text" data-id="999995" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661239.jpg" data-link="#0" class="wp-image-999995"/><figcaption class="blocks-gallery-item__caption">Ocean set</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661244.jpg" alt="Image alt text" data-id="999996" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661244.jpg" data-link="#0" class="wp-image-999996"/><figcaption class="blocks-gallery-item__caption">Fish</figcaption></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:spacer {"height":130} -->
@@ -2998,7 +2997,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:group -->
 
 <!-- wp:gallery {"ids":[999993,999992,999991,999994],"columns":4,"linkTo":"none","align":"full","className":"is-style-no-gaps"} -->
-<figure class="wp-block-gallery alignfull columns-4 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661243.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661243.jpg" data-link="#0" class="wp-image-999993"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661267.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661267.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661264.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661264.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3662748.jpg" alt="Image alt text" data-id="999994" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3662748.jpg" data-link="#0" class="wp-image-999994"/></figure></li></ul></figure>
+<figure class="wp-block-gallery alignfull columns-4 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661243.jpg" alt="Image alt text" data-id="999993" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661243.jpg" data-link="#0" class="wp-image-999993"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661267.jpg" alt="Image alt text" data-id="999992" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661267.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661264.jpg" alt="Image alt text" data-id="999991" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661264.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3662748.jpg" alt="Image alt text" data-id="999994" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3662748.jpg" data-link="#0" class="wp-image-999994"/></figure></li></ul></figure>
 <!-- /wp:gallery -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
@@ -3041,7 +3040,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:media-text {"mediaPosition":"right","mediaId":999999,"mediaLink":"#0","mediaType":"image"} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_health--pexels-cottonbro-4098150.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":1,"className":"is-style-no-margin-vertical"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/health--pexels-cottonbro-4098150.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":1,"className":"is-style-no-margin-vertical"} -->
 <h1 class="is-style-no-margin-vertical">Jane Doe</h1>
 <!-- /wp:heading -->
 
@@ -3068,7 +3067,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:columns -->
 
 <!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/signature-webman-design-black-320.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img src="https://pic.webmandesign.eu/SAMPLE/signature-webman-design-black-320.png" alt=""/></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:media-text -->
 
@@ -3090,7 +3089,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:media-text {"mediaId":999999,"mediaLink":"#0","mediaType":"image","imageFill":false,"backgroundColor":"palette-1","textColor":"palette-2"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile has-palette-2-color has-palette-1-background-color has-text-color has-background"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_health--pexels-cottonbro-4098274.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile has-palette-2-color has-palette-1-background-color has-text-color has-background"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/health--pexels-cottonbro-4098274.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
 <h2>Lorem ipsum</h2>
 <!-- /wp:heading -->
 
@@ -3175,7 +3174,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:columns -->
 
 <!-- wp:image {"align":"full","sizeSlug":"large"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_health--pexels-cottonbro-4098152.jpg" alt="Alt text here."/></figure>
+<figure class="wp-block-image alignfull size-large"><img src="https://pic.webmandesign.eu/SAMPLE/health--pexels-cottonbro-4098152.jpg" alt="Alt text here."/></figure>
 <!-- /wp:image -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>28</wp:post_id>
@@ -3212,8 +3211,8 @@ figcaption.blocks-gallery-item__caption a {
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?page_id=30</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business\u002d\u002dpexels-colin-lloyd-3751006.jpg","hasParallax":true,"dimRatio":90,"overlayColor":"palette-2","minHeight":100,"minHeightUnit":"vh","contentPosition":"bottom center","align":"full","className":"is-style-no-margin-vertical","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
-<div class="wp-block-cover alignfull has-background-dim-90 has-palette-2-background-color has-background-dim has-parallax has-custom-content-position is-position-bottom-center is-style-no-margin-vertical" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;background-image:url(https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business--pexels-colin-lloyd-3751006.jpg);min-height:100vh"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"className":"has-15vmax-min-height"} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://pic.webmandesign.eu/SAMPLE/business\u002d\u002dpexels-colin-lloyd-3751006.jpg","hasParallax":true,"dimRatio":90,"overlayColor":"palette-2","minHeight":100,"minHeightUnit":"vh","contentPosition":"bottom center","align":"full","className":"is-style-no-margin-vertical","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-cover alignfull has-background-dim-90 has-palette-2-background-color has-background-dim has-parallax has-custom-content-position is-position-bottom-center is-style-no-margin-vertical" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;background-image:url(https://pic.webmandesign.eu/SAMPLE/business--pexels-colin-lloyd-3751006.jpg);min-height:100vh"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"className":"has-15vmax-min-height"} -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer has-15vmax-min-height"></div>
 <!-- /wp:spacer -->
 
@@ -3241,7 +3240,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:cover -->
 
 <!-- wp:media-text {"mediaPosition":"right","mediaId":999999,"mediaLink":"#0","mediaType":"image","verticalAlignment":"bottom","imageFill":false,"className":"is-style-no-margin-vertical"} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-bottom is-style-no-margin-vertical"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business--pexels-sora-shimazaki-5668882.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-bottom is-style-no-margin-vertical"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/business--pexels-sora-shimazaki-5668882.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
 <h2>About Me</h2>
 <!-- /wp:heading -->
 
@@ -3264,13 +3263,13 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:columns -->
 
 <!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/signature-webman-design-black-320.png" alt="Alt text here."/></figure>
+<figure class="wp-block-image size-large"><img src="https://pic.webmandesign.eu/SAMPLE/signature-webman-design-black-320.png" alt="Alt text here."/></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:media-text -->
 
 <!-- wp:media-text {"mediaPosition":"right","mediaId":999999,"mediaLink":"#0","mediaType":"image","verticalAlignment":"top","imageFill":false} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business--pexels-thirdman-5060805.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:image {"sizeSlug":"large","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-style-rounded"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business--pexels-colin-lloyd-3751006.jpg" alt=""/></figure>
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/business--pexels-thirdman-5060805.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:image {"sizeSlug":"large","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="https://pic.webmandesign.eu/SAMPLE/business--pexels-colin-lloyd-3751006.jpg" alt=""/></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:media-text -->
 
@@ -3290,8 +3289,8 @@ figcaption.blocks-gallery-item__caption a {
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:cover {"url":"https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business\u002d\u002dpexels-colin-lloyd-3751006.jpg","id":999999,"hasParallax":true,"dimRatio":90,"overlayColor":"palette-1","align":"full","className":"is-style-no-margin-vertical","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
-<div class="wp-block-cover alignfull has-background-dim-90 has-palette-1-background-color has-background-dim has-parallax is-style-no-margin-vertical" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;background-image:url(https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business--pexels-colin-lloyd-3751006.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":150} -->
+<!-- wp:cover {"url":"https://pic.webmandesign.eu/SAMPLE/business\u002d\u002dpexels-colin-lloyd-3751006.jpg","id":999999,"hasParallax":true,"dimRatio":90,"overlayColor":"palette-1","align":"full","className":"is-style-no-margin-vertical","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-cover alignfull has-background-dim-90 has-palette-1-background-color has-background-dim has-parallax is-style-no-margin-vertical" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;background-image:url(https://pic.webmandesign.eu/SAMPLE/business--pexels-colin-lloyd-3751006.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":150} -->
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -3400,7 +3399,7 @@ figcaption.blocks-gallery-item__caption a {
 
 <!-- wp:group {"align":"full","backgroundColor":"palette-2","textColor":"palette-3","className":"is-style-no-padding"} -->
 <div class="wp-block-group alignfull is-style-no-padding has-palette-3-color has-palette-2-background-color has-text-color has-background"><div class="wp-block-group__inner-container"><!-- wp:media-text {"mediaId":999999,"mediaLink":"#0","mediaType":"image","verticalAlignment":"top","imageFill":false,"className":"has-full-screen-min-height is-style-narrow-content"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top has-full-screen-min-height is-style-narrow-content"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_business--pexels-thirdman-5060810.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"palette-3"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top has-full-screen-min-height is-style-narrow-content"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/business--pexels-thirdman-5060810.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"palette-3"} -->
 <h2 class="has-palette-3-color has-text-color">Let Me Have a Look at Your Case</h2>
 <!-- /wp:heading -->
 
@@ -3468,7 +3467,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:gallery {"ids":[999991,999992,999993],"linkTo":"none","align":"wide"} -->
-<figure class="wp-block-gallery alignwide columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_crafts--pexels-anna-shvets-5894297.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_crafts--pexels-anna-shvets-5894297.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_crafts--pexels-anna-shvets-5894227.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_crafts--pexels-anna-shvets-5894227.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_crafts--pexels-anna-shvets-5894225.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_crafts--pexels-anna-shvets-5894225.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
+<figure class="wp-block-gallery alignwide columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/crafts--pexels-anna-shvets-5894297.jpg" alt="Image alt text" data-id="999991" data-full-url="https://pic.webmandesign.eu/SAMPLE/crafts--pexels-anna-shvets-5894297.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/crafts--pexels-anna-shvets-5894227.jpg" alt="Image alt text" data-id="999992" data-full-url="https://pic.webmandesign.eu/SAMPLE/crafts--pexels-anna-shvets-5894227.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/crafts--pexels-anna-shvets-5894225.jpg" alt="Image alt text" data-id="999993" data-full-url="https://pic.webmandesign.eu/SAMPLE/crafts--pexels-anna-shvets-5894225.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
 <!-- /wp:gallery --></div></div>
 <!-- /wp:group -->
 
@@ -3507,7 +3506,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:image {"align":"full","sizeSlug":"large","className":"is-style-no-margin-vertical"} -->
-<figure class="wp-block-image alignfull size-large is-style-no-margin-vertical"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_crafts--pexels-anna-shvets-5894239.jpg" alt=""/></figure>
+<figure class="wp-block-image alignfull size-large is-style-no-margin-vertical"><img src="https://pic.webmandesign.eu/SAMPLE/crafts--pexels-anna-shvets-5894239.jpg" alt=""/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"align":"full","backgroundColor":"palette-1","textColor":"palette-2","className":"is-style-no-padding"} -->
@@ -3583,7 +3582,7 @@ figcaption.blocks-gallery-item__caption a {
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?page_id=34</guid>
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":999999,"mediaLink":"#0","mediaType":"image","mediaWidth":62,"verticalAlignment":"bottom","imageFill":true,"focalPoint":{"x":"0.10","y":"0.00"},"textColor":"palette-2","gradient":"very-light-gray-to-cyan-bluish-gray","className":"has-full-screen-min-height is-style-overlap-gradient"} -->
-<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-bottom is-image-fill has-full-screen-min-height is-style-overlap-gradient has-palette-2-color has-very-light-gray-to-cyan-bluish-gray-gradient-background has-text-color has-background" style="grid-template-columns:auto 62%"><figure class="wp-block-media-text__media" style="background-image:url(https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-konstantin-mishchenko-6160887.jpg);background-position:10% 0%"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-konstantin-mishchenko-6160887.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":1,"backgroundColor":"palette-1","textColor":"palette-2"} -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-bottom is-image-fill has-full-screen-min-height is-style-overlap-gradient has-palette-2-color has-very-light-gray-to-cyan-bluish-gray-gradient-background has-text-color has-background" style="grid-template-columns:auto 62%"><figure class="wp-block-media-text__media" style="background-image:url(https://pic.webmandesign.eu/SAMPLE/art--pexels-konstantin-mishchenko-6160887.jpg);background-position:10% 0%"><img src="https://pic.webmandesign.eu/SAMPLE/art--pexels-konstantin-mishchenko-6160887.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":1,"backgroundColor":"palette-1","textColor":"palette-2"} -->
 <h1 class="has-palette-2-color has-palette-1-background-color has-text-color has-background">Ballet Dancer</h1>
 <!-- /wp:heading -->
 
@@ -3609,7 +3608,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/signature-webman-design-black-320.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img src="https://pic.webmandesign.eu/SAMPLE/signature-webman-design-black-320.png" alt=""/></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":150} -->
@@ -3617,7 +3616,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:media-text {"align":"full","mediaId":999999,"mediaLink":"#0","mediaType":"image","imageFill":false,"focalPoint":{"x":"0.10","y":"0.00"},"textColor":"palette-2","gradient":"very-light-gray-to-cyan-bluish-gray","className":"is-style-narrow-content"} -->
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-style-narrow-content has-palette-2-color has-very-light-gray-to-cyan-bluish-gray-gradient-background has-text-color has-background"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-konstantin-mishchenko-6160879.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-style-narrow-content has-palette-2-color has-very-light-gray-to-cyan-bluish-gray-gradient-background has-text-color has-background"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/art--pexels-konstantin-mishchenko-6160879.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
 <h2>Education</h2>
 <!-- /wp:heading -->
 
@@ -3670,8 +3669,8 @@ figcaption.blocks-gallery-item__caption a {
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:cover {"url":"https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art\u002d\u002dpexels-konstantin-mishchenko-6160873.jpg","hasParallax":true,"dimRatio":0,"minHeight":62,"minHeightUnit":"vh","gradient":"very-light-gray-to-cyan-bluish-gray","contentPosition":"center center","align":"full","className":"is-style-no-margin-vertical"} -->
-<div class="wp-block-cover alignfull has-parallax has-background-gradient is-style-no-margin-vertical" style="background-image:url(https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-konstantin-mishchenko-6160873.jpg);min-height:62vh"><div class="wp-block-cover__inner-container"><!-- wp:spacer -->
+<!-- wp:cover {"url":"https://pic.webmandesign.eu/SAMPLE/art\u002d\u002dpexels-konstantin-mishchenko-6160873.jpg","hasParallax":true,"dimRatio":0,"minHeight":62,"minHeightUnit":"vh","gradient":"very-light-gray-to-cyan-bluish-gray","contentPosition":"center center","align":"full","className":"is-style-no-margin-vertical"} -->
+<div class="wp-block-cover alignfull has-parallax has-background-gradient is-style-no-margin-vertical" style="background-image:url(https://pic.webmandesign.eu/SAMPLE/art--pexels-konstantin-mishchenko-6160873.jpg);min-height:62vh"><div class="wp-block-cover__inner-container"><!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div></div>
 <!-- /wp:cover -->
@@ -3742,7 +3741,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":999991,"width":480,"height":788,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_crafts--pexels-anna-shvets-5894086.jpg" alt="Image alt text" class="wp-image-999991" width="480" height="788"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://pic.webmandesign.eu/SAMPLE/crafts--pexels-anna-shvets-5894086.jpg" alt="Image alt text" class="wp-image-999991" width="480" height="788"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer -->
@@ -3760,7 +3759,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:media-text {"align":"","mediaId":999992,"mediaLink":"#0","mediaType":"image"} -->
-<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_crafts--pexels-anna-shvets-5894096.jpg" alt="Image alt text" class="wp-image-999992 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"fontSize":"large"} -->
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/crafts--pexels-anna-shvets-5894096.jpg" alt="Image alt text" class="wp-image-999992 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"fontSize":"large"} -->
 <p class="has-large-font-size">Lorem ipsum dolor sit amet consectetur adipiscing elit facilisi, suscipit commodo congue nisl eget.</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text --></div>
@@ -3864,11 +3863,11 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:image {"align":"full","sizeSlug":"large","className":"is-style-no-margin-vertical"} -->
-<figure class="wp-block-image alignfull size-large is-style-no-margin-vertical"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_crafts--pexels-anna-shvets-5894056.jpg" alt=""/></figure>
+<figure class="wp-block-image alignfull size-large is-style-no-margin-vertical"><img src="https://pic.webmandesign.eu/SAMPLE/crafts--pexels-anna-shvets-5894056.jpg" alt=""/></figure>
 <!-- /wp:image -->
 
 <!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":999999,"mediaLink":"#0","mediaType":"image","imageFill":true,"className":"is-style-no-margin-vertical"} -->
-<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-image-fill is-style-no-margin-vertical"><figure class="wp-block-media-text__media" style="background-image:url(https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_crafts--pexels-anna-shvets-5894095.jpg);background-position:50% 50%"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_crafts--pexels-anna-shvets-5894095.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-image-fill is-style-no-margin-vertical"><figure class="wp-block-media-text__media" style="background-image:url(https://pic.webmandesign.eu/SAMPLE/crafts--pexels-anna-shvets-5894095.jpg);background-position:50% 50%"><img src="https://pic.webmandesign.eu/SAMPLE/crafts--pexels-anna-shvets-5894095.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
 <h2>Lorem ipsum dolor</h2>
 <!-- /wp:heading -->
 
@@ -3886,7 +3885,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:media-text -->
 
 <!-- wp:media-text {"align":"full","mediaId":999999,"mediaLink":"#0","mediaType":"image","imageFill":true,"backgroundColor":"accent","textColor":"palette-3","className":"is-style-narrow-content has-full-screen-min-height"} -->
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-image-fill is-style-narrow-content has-full-screen-min-height has-palette-3-color has-accent-background-color has-text-color has-background"><figure class="wp-block-media-text__media" style="background-image:url(https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_crafts--pexels-anna-shvets-5894088.jpg);background-position:50% 50%"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_crafts--pexels-anna-shvets-5894088.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"palette-3"} -->
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-image-fill is-style-narrow-content has-full-screen-min-height has-palette-3-color has-accent-background-color has-text-color has-background"><figure class="wp-block-media-text__media" style="background-image:url(https://pic.webmandesign.eu/SAMPLE/crafts--pexels-anna-shvets-5894088.jpg);background-position:50% 50%"><img src="https://pic.webmandesign.eu/SAMPLE/crafts--pexels-anna-shvets-5894088.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"palette-3"} -->
 <h2 class="has-palette-3-color has-text-color">Contact me</h2>
 <!-- /wp:heading -->
 
@@ -3943,7 +3942,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":999991,"width":480,"height":788,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--pexels-helena-lopes-3895277.jpg" alt="Image alt text" class="wp-image-999991" width="480" height="788"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://pic.webmandesign.eu/SAMPLE/animals--pexels-helena-lopes-3895277.jpg" alt="Image alt text" class="wp-image-999991" width="480" height="788"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer -->
@@ -3961,7 +3960,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:media-text {"align":"","mediaId":999992,"mediaLink":"#0","mediaType":"image"} -->
-<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--pexels-josh-hild-3009442.jpg" alt="Image alt text" class="wp-image-999992 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"fontSize":"large"} -->
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/animals--pexels-josh-hild-3009442.jpg" alt="Image alt text" class="wp-image-999992 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"fontSize":"large"} -->
 <p class="has-large-font-size">Lorem ipsum dolor sit amet consectetur adipiscing elit facilisi, suscipit commodo congue fames.</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text --></div>
@@ -4008,7 +4007,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:media-text {"mediaPosition":"right","mediaId":999999,"mediaLink":"#0","mediaType":"image","imageFill":true,"backgroundColor":"palette-2","textColor":"palette-3"} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-image-fill has-palette-3-color has-palette-2-background-color has-text-color has-background"><figure class="wp-block-media-text__media" style="background-image:url(https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--pexels-aloïs-moubax-3523317.jpg);background-position:50% 50%"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--pexels-aloïs-moubax-3523317.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"palette-3"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-image-fill has-palette-3-color has-palette-2-background-color has-text-color has-background"><figure class="wp-block-media-text__media" style="background-image:url(https://pic.webmandesign.eu/SAMPLE/animals--pexels-aloïs-moubax-3523317.jpg);background-position:50% 50%"><img src="https://pic.webmandesign.eu/SAMPLE/animals--pexels-aloïs-moubax-3523317.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"palette-3"} -->
 <h2 class="has-palette-3-color has-text-color">Today and to the future</h2>
 <!-- /wp:heading -->
 
@@ -4058,7 +4057,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:gallery {"ids":[999991,999992,999993],"linkTo":"none","align":"full","className":"is-style-no-gaps"} -->
-<figure class="wp-block-gallery alignfull columns-3 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--pexels-charles-1851188.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--pexels-charles-1851188.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--pexels-marco-de-groot-1557178.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--pexels-marco-de-groot-1557178.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--pexels-joan-montaner-1694838.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_animals--pexels-joan-montaner-1694838.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
+<figure class="wp-block-gallery alignfull columns-3 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/animals--pexels-charles-1851188.jpg" alt="Image alt text" data-id="999991" data-full-url="https://pic.webmandesign.eu/SAMPLE/animals--pexels-charles-1851188.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/animals--pexels-marco-de-groot-1557178.jpg" alt="Image alt text" data-id="999992" data-full-url="https://pic.webmandesign.eu/SAMPLE/animals--pexels-marco-de-groot-1557178.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/animals--pexels-joan-montaner-1694838.jpg" alt="Image alt text" data-id="999993" data-full-url="https://pic.webmandesign.eu/SAMPLE/animals--pexels-joan-montaner-1694838.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
 <!-- /wp:gallery -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>41</wp:post_id>
@@ -4116,7 +4115,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:image {"align":"full","id":999999,"sizeSlug":"large","linkDestination":"none","className":"is-style-padding-right"} -->
-<figure class="wp-block-image alignfull size-large is-style-padding-right"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_people--pexels-cottonbro-5970616.jpg" alt="Image alt text" class="wp-image-999999"/></figure>
+<figure class="wp-block-image alignfull size-large is-style-padding-right"><img src="https://pic.webmandesign.eu/SAMPLE/people--pexels-cottonbro-5970616.jpg" alt="Image alt text" class="wp-image-999999"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer -->
@@ -4144,7 +4143,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:media-text {"mediaPosition":"right","mediaId":999999,"mediaType":"image","verticalAlignment":"top","className":"is-style-no-margin-vertical"} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top is-style-no-margin-vertical"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_people--pexels-cottonbro-5990154.jpg" alt="Image alt text here" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top is-style-no-margin-vertical"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/people--pexels-cottonbro-5990154.jpg" alt="Image alt text here" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
 <h2>Accessible Themes</h2>
 <!-- /wp:heading -->
 
@@ -4160,7 +4159,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:media-text -->
 
 <!-- wp:media-text {"mediaId":999999,"mediaType":"image","verticalAlignment":"bottom"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-bottom"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_people--pexels-cottonbro-5990049.jpg" alt="Image alt text here" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-bottom"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/people--pexels-cottonbro-5990049.jpg" alt="Image alt text here" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
 <h2>First-class Support</h2>
 <!-- /wp:heading -->
 
@@ -4208,7 +4207,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:gallery {"ids":[999991,999992,999993],"linkTo":"none","align":"full","className":"is-style-no-gaps"} -->
-<figure class="wp-block-gallery alignfull columns-3 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_people--pexels-cottonbro-5990261.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_people--pexels-cottonbro-5990261.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_people--pexels-cottonbro-5971247.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_people--pexels-cottonbro-5971247.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_people--pexels-cottonbro-5990263.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_people--pexels-cottonbro-5990263.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
+<figure class="wp-block-gallery alignfull columns-3 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/people--pexels-cottonbro-5990261.jpg" alt="Image alt text" data-id="999991" data-full-url="https://pic.webmandesign.eu/SAMPLE/people--pexels-cottonbro-5990261.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/people--pexels-cottonbro-5971247.jpg" alt="Image alt text" data-id="999992" data-full-url="https://pic.webmandesign.eu/SAMPLE/people--pexels-cottonbro-5971247.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/people--pexels-cottonbro-5990263.jpg" alt="Image alt text" data-id="999993" data-full-url="https://pic.webmandesign.eu/SAMPLE/people--pexels-cottonbro-5990263.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
 <!-- /wp:gallery -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>45</wp:post_id>
@@ -4246,7 +4245,7 @@ figcaption.blocks-gallery-item__caption a {
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?page_id=49</guid>
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:image {"align":"full","id":999999,"sizeSlug":"large","linkDestination":"none","className":"is-style-padding-right"} -->
-<figure class="wp-block-image alignfull size-large is-style-padding-right"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-taryn-elliott-6184431.jpg" alt="Image alt text" class="wp-image-999999"/></figure>
+<figure class="wp-block-image alignfull size-large is-style-padding-right"><img src="https://pic.webmandesign.eu/SAMPLE/art--pexels-taryn-elliott-6184431.jpg" alt="Image alt text" class="wp-image-999999"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":50} -->
@@ -4254,7 +4253,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:gallery {"ids":[999991,999992,999993],"linkTo":"none","align":"wide"} -->
-<figure class="wp-block-gallery alignwide columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-taryn-elliott-6184413.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-taryn-elliott-6184413.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682333.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682333.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682330.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682330.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
+<figure class="wp-block-gallery alignwide columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/art--pexels-taryn-elliott-6184413.jpg" alt="Image alt text" data-id="999991" data-full-url="https://pic.webmandesign.eu/SAMPLE/art--pexels-taryn-elliott-6184413.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/art--pexels-anna-shvets-5682333.jpg" alt="Image alt text" data-id="999992" data-full-url="https://pic.webmandesign.eu/SAMPLE/art--pexels-anna-shvets-5682333.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/art--pexels-anna-shvets-5682330.jpg" alt="Image alt text" data-id="999993" data-full-url="https://pic.webmandesign.eu/SAMPLE/art--pexels-anna-shvets-5682330.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:spacer {"height":30} -->
@@ -4262,7 +4261,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:media-text {"mediaId":999999,"mediaLink":"#0","mediaType":"image","imageFill":false,"backgroundColor":"palette-1","textColor":"palette-2","className":"is-style-narrow-content"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile is-style-narrow-content has-palette-2-color has-palette-1-background-color has-text-color has-background"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-taryn-elliott-6184414.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"palette-2","className":"is-style-default"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-style-narrow-content has-palette-2-color has-palette-1-background-color has-text-color has-background"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/art--pexels-taryn-elliott-6184414.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"palette-2","className":"is-style-default"} -->
 <h2 class="is-style-default has-palette-2-color has-text-color">Enjoying what you see?</h2>
 <!-- /wp:heading -->
 
@@ -4282,7 +4281,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:image {"align":"full","id":999999,"sizeSlug":"large","linkDestination":"none","className":"is-style-padding-left"} -->
-<figure class="wp-block-image alignfull size-large is-style-padding-left"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-taryn-elliott-6184421.jpg" alt="Image alt text" class="wp-image-999999"/></figure>
+<figure class="wp-block-image alignfull size-large is-style-padding-left"><img src="https://pic.webmandesign.eu/SAMPLE/art--pexels-taryn-elliott-6184421.jpg" alt="Image alt text" class="wp-image-999999"/></figure>
 <!-- /wp:image -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[<a href="/michelle/page-excerpt/" title="How to set up page excerpt?">Page excerpt</a> text here.  Lorem ipsum dolor sit amet consectetur adipiscing elit tempus quisque fringilla id lectus, vel arcu integer ridiculus convallis penatibus neque curabitur rhoncus.]]></excerpt:encoded>
 		<wp:post_id>49</wp:post_id>
@@ -4337,7 +4336,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:columns -->
 
 <!-- wp:image {"align":"wide","id":999999,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image alignwide size-large"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_people--pexels-august-de-richelieu-4427816.jpg" alt="Image alt text" class="wp-image-999999"/></figure>
+<figure class="wp-block-image alignwide size-large"><img src="https://pic.webmandesign.eu/SAMPLE/people--pexels-august-de-richelieu-4427816.jpg" alt="Image alt text" class="wp-image-999999"/></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:group -->
 
@@ -4542,7 +4541,7 @@ figcaption.blocks-gallery-item__caption a {
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?page_id=57</guid>
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:media-text {"mediaPosition":"right","mediaId":999999,"mediaLink":"#0","mediaType":"image","mediaWidth":47} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile" style="grid-template-columns:auto 47%"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_living--pexels-maria-orlova-4906241.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"className":"is-style-uppercase","fontSize":"normal"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile" style="grid-template-columns:auto 47%"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/living--pexels-maria-orlova-4906241.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"className":"is-style-uppercase","fontSize":"normal"} -->
 <h2 class="is-style-uppercase has-normal-font-size"><strong>Address</strong></h2>
 <!-- /wp:heading -->
 
@@ -4606,8 +4605,8 @@ figcaption.blocks-gallery-item__caption a {
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer has-15vmax-min-height"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:cover {"url":"https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art\u002d\u002dpexels-cottonbro-4272618.jpg","id":999999,"customOverlayColor":"#cc2a1b","minHeight":70,"minHeightUnit":"vh","contentPosition":"bottom center","align":"wide","className":"is-style-scale-image","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
-<div class="wp-block-cover alignwide has-background-dim has-custom-content-position is-position-bottom-center is-style-scale-image" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;background-color:#cc2a1b;min-height:70vh"><img class="wp-block-cover__image-background wp-image-999999" alt="" src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-cottonbro-4272618.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":150} -->
+<!-- wp:cover {"url":"https://pic.webmandesign.eu/SAMPLE/art\u002d\u002dpexels-cottonbro-4272618.jpg","id":999999,"customOverlayColor":"#cc2a1b","minHeight":70,"minHeightUnit":"vh","contentPosition":"bottom center","align":"wide","className":"is-style-scale-image","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-cover alignwide has-background-dim has-custom-content-position is-position-bottom-center is-style-scale-image" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;background-color:#cc2a1b;min-height:70vh"><img class="wp-block-cover__image-background wp-image-999999" alt="" src="https://pic.webmandesign.eu/SAMPLE/art--pexels-cottonbro-4272618.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":150} -->
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -4632,7 +4631,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:group -->
 
 <!-- wp:gallery {"ids":[999991,999992,999993],"linkTo":"none","align":"wide","className":"is-style-no-gaps"} -->
-<figure class="wp-block-gallery alignwide columns-3 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682156.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682156.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682056.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682056.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682054.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682054.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
+<figure class="wp-block-gallery alignwide columns-3 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/art--pexels-anna-shvets-5682156.jpg" alt="Image alt text" data-id="999991" data-full-url="https://pic.webmandesign.eu/SAMPLE/art--pexels-anna-shvets-5682156.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/art--pexels-anna-shvets-5682056.jpg" alt="Image alt text" data-id="999992" data-full-url="https://pic.webmandesign.eu/SAMPLE/art--pexels-anna-shvets-5682056.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/art--pexels-anna-shvets-5682054.jpg" alt="Image alt text" data-id="999993" data-full-url="https://pic.webmandesign.eu/SAMPLE/art--pexels-anna-shvets-5682054.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:spacer {"height":150} -->
@@ -4698,7 +4697,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:image {"align":"full","sizeSlug":"large"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_art--pexels-anna-shvets-5682152.jpg" alt=""/></figure>
+<figure class="wp-block-image alignfull size-large"><img src="https://pic.webmandesign.eu/SAMPLE/art--pexels-anna-shvets-5682152.jpg" alt=""/></figure>
 <!-- /wp:image -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>81</wp:post_id>
@@ -4765,7 +4764,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:media-text {"align":"","mediaId":999999,"mediaLink":"#0","mediaType":"image","imageFill":false,"className":"is-style-media-on-top"} -->
-<div class="wp-block-media-text is-stacked-on-mobile is-style-media-on-top"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_people--pexels-august-de-richelieu-4427610_cr.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3,"textColor":"palette-3","className":"is-style-no-margin-vertical"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-style-media-on-top"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/people--pexels-august-de-richelieu-4427610_cr.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3,"textColor":"palette-3","className":"is-style-no-margin-vertical"} -->
 <h3 class="is-style-no-margin-vertical has-palette-3-color has-text-color"><strong>Jane Doe</strong></h3>
 <!-- /wp:heading -->
 
@@ -4781,7 +4780,7 @@ figcaption.blocks-gallery-item__caption a {
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:media-text {"align":"","mediaId":999999,"mediaLink":"#0","mediaType":"image","imageFill":false,"className":"is-style-media-on-top"} -->
-<div class="wp-block-media-text is-stacked-on-mobile is-style-media-on-top"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_people--pexels-august-de-richelieu-4427622_cr.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3,"textColor":"palette-3","className":"is-style-no-margin-vertical"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-style-media-on-top"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/people--pexels-august-de-richelieu-4427622_cr.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3,"textColor":"palette-3","className":"is-style-no-margin-vertical"} -->
 <h3 class="is-style-no-margin-vertical has-palette-3-color has-text-color"><strong>Jane Roe</strong></h3>
 <!-- /wp:heading -->
 
@@ -4801,8 +4800,8 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer --></div></div>
 <!-- /wp:group -->
 
-<!-- wp:cover {"url":"https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_architecture\u002d\u002dpexels-pixabay-358558.jpg","id":999991,"hasParallax":true,"dimRatio":90,"overlayColor":"palette-2","align":"full","className":"is-style-no-margin-vertical","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
-<div class="wp-block-cover alignfull has-background-dim-90 has-palette-2-background-color has-background-dim has-parallax is-style-no-margin-vertical" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;background-image:url(https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_architecture--pexels-pixabay-358558.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":150} -->
+<!-- wp:cover {"url":"https://pic.webmandesign.eu/SAMPLE/architecture\u002d\u002dpexels-pixabay-358558.jpg","id":999991,"hasParallax":true,"dimRatio":90,"overlayColor":"palette-2","align":"full","className":"is-style-no-margin-vertical","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
+<div class="wp-block-cover alignfull has-background-dim-90 has-palette-2-background-color has-background-dim has-parallax is-style-no-margin-vertical" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;background-image:url(https://pic.webmandesign.eu/SAMPLE/architecture--pexels-pixabay-358558.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":150} -->
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -4829,7 +4828,7 @@ figcaption.blocks-gallery-item__caption a {
 
 <!-- wp:column {"width":"20%"} -->
 <div class="wp-block-column" style="flex-basis:20%"><!-- wp:media-text {"align":"","mediaId":999992,"mediaType":"image","backgroundColor":"palette-2","textColor":"palette-3","className":"is-style-media-on-top"} -->
-<div class="wp-block-media-text is-stacked-on-mobile is-style-media-on-top has-palette-3-color has-palette-2-background-color has-text-color has-background"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_people--pexels-august-de-richelieu-4427614_cr.jpg" alt="Image alt text" class="wp-image-999992 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3,"className":"is-style-no-margin-vertical"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-style-media-on-top has-palette-3-color has-palette-2-background-color has-text-color has-background"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/people--pexels-august-de-richelieu-4427614_cr.jpg" alt="Image alt text" class="wp-image-999992 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3,"className":"is-style-no-margin-vertical"} -->
 <h3 class="is-style-no-margin-vertical">Richard Roe</h3>
 <!-- /wp:heading -->
 
@@ -4913,8 +4912,8 @@ figcaption.blocks-gallery-item__caption a {
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/michelle/?page_id=88</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys\u002d\u002dpexels-cottonbro-3661391.jpg","hasParallax":true,"dimRatio":90,"overlayColor":"palette-1","minHeight":75,"minHeightUnit":"vh","contentPosition":"bottom center","align":"full","className":"is-style-no-padding"} -->
-<div class="wp-block-cover alignfull has-background-dim-90 has-palette-1-background-color has-background-dim has-parallax has-custom-content-position is-position-bottom-center is-style-no-padding" style="background-image:url(https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661391.jpg);min-height:75vh"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":150} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://pic.webmandesign.eu/SAMPLE/toys\u002d\u002dpexels-cottonbro-3661391.jpg","hasParallax":true,"dimRatio":90,"overlayColor":"palette-1","minHeight":75,"minHeightUnit":"vh","contentPosition":"bottom center","align":"full","className":"is-style-no-padding"} -->
+<div class="wp-block-cover alignfull has-background-dim-90 has-palette-1-background-color has-background-dim has-parallax has-custom-content-position is-position-bottom-center is-style-no-padding" style="background-image:url(https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661391.jpg);min-height:75vh"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":150} -->
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -4943,7 +4942,7 @@ figcaption.blocks-gallery-item__caption a {
 
 <!-- wp:group {"align":"wide"} -->
 <div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:gallery {"ids":[999991,999992,999993],"linkTo":"none","align":"wide","className":"is-style-no-gaps has-no-margin-bottom"} -->
-<figure class="wp-block-gallery alignwide columns-3 is-cropped is-style-no-gaps has-no-margin-bottom"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661267.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661267.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661243.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661243.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3662748.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3662748.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
+<figure class="wp-block-gallery alignwide columns-3 is-cropped is-style-no-gaps has-no-margin-bottom"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661267.jpg" alt="Image alt text" data-id="999991" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661267.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661243.jpg" alt="Image alt text" data-id="999992" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661243.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3662748.jpg" alt="Image alt text" data-id="999993" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3662748.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:columns {"align":"wide","backgroundColor":"palette-2","textColor":"palette-3"} -->
@@ -4977,7 +4976,7 @@ figcaption.blocks-gallery-item__caption a {
 
 <!-- wp:group {"align":"wide"} -->
 <div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:gallery {"ids":[999991,999992,999993],"linkTo":"none","align":"wide","className":"is-style-no-gaps has-no-margin-bottom"} -->
-<figure class="wp-block-gallery alignwide columns-3 is-cropped is-style-no-gaps has-no-margin-bottom"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661195.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661195.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661200.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661200.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661197.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661197.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
+<figure class="wp-block-gallery alignwide columns-3 is-cropped is-style-no-gaps has-no-margin-bottom"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661195.jpg" alt="Image alt text" data-id="999991" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661195.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661200.jpg" alt="Image alt text" data-id="999992" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661200.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661197.jpg" alt="Image alt text" data-id="999993" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661197.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:columns {"align":"wide","backgroundColor":"palette-2","textColor":"palette-3"} -->
@@ -5011,7 +5010,7 @@ figcaption.blocks-gallery-item__caption a {
 
 <!-- wp:group {"align":"wide"} -->
 <div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:gallery {"ids":[999991,999992,999993],"linkTo":"none","align":"wide","className":"is-style-no-gaps has-no-margin-bottom"} -->
-<figure class="wp-block-gallery alignwide columns-3 is-cropped is-style-no-gaps has-no-margin-bottom"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661264.jpg" alt="Image alt text" data-id="999991" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661264.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3662978.jpg" alt="Image alt text" data-id="999992" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3662978.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661243.jpg" alt="Image alt text" data-id="999993" data-full-url="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_toys--pexels-cottonbro-3661243.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
+<figure class="wp-block-gallery alignwide columns-3 is-cropped is-style-no-gaps has-no-margin-bottom"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661264.jpg" alt="Image alt text" data-id="999991" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661264.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3662978.jpg" alt="Image alt text" data-id="999992" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3662978.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661243.jpg" alt="Image alt text" data-id="999993" data-full-url="https://pic.webmandesign.eu/SAMPLE/toys--pexels-cottonbro-3661243.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:columns {"align":"wide","backgroundColor":"palette-2","textColor":"palette-3"} -->
@@ -5128,7 +5127,7 @@ figcaption.blocks-gallery-item__caption a {
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=689</guid>
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":999999,"mediaLink":"#0","mediaType":"image","mediaWidth":56,"verticalAlignment":"bottom","imageFill":true,"focalPoint":{"x":"0.01","y":"0.42"},"style":{"color":{"background":"#f0f1e9"}},"textColor":"palette-2","className":"has-full-screen-min-height has-no-margin-bottom is-style-overlap-gradient"} -->
-<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-bottom is-image-fill has-full-screen-min-height has-no-margin-bottom is-style-overlap-gradient has-palette-2-color has-text-color has-background" style="background-color:#f0f1e9;grid-template-columns:auto 56%"><figure class="wp-block-media-text__media" style="background-image:url(https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_plants--pexels-daria-shevtsova-887767.jpg);background-position:1% 42%"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_plants--pexels-daria-shevtsova-887767.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":1,"backgroundColor":"palette-1","textColor":"palette-2"} -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-bottom is-image-fill has-full-screen-min-height has-no-margin-bottom is-style-overlap-gradient has-palette-2-color has-text-color has-background" style="background-color:#f0f1e9;grid-template-columns:auto 56%"><figure class="wp-block-media-text__media" style="background-image:url(https://pic.webmandesign.eu/SAMPLE/plants--pexels-daria-shevtsova-887767.jpg);background-position:1% 42%"><img src="https://pic.webmandesign.eu/SAMPLE/plants--pexels-daria-shevtsova-887767.jpg" alt="Image alt text" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":1,"backgroundColor":"palette-1","textColor":"palette-2"} -->
 <h1 class="has-palette-2-color has-palette-1-background-color has-text-color has-background">Interior Designer</h1>
 <!-- /wp:heading -->
 
@@ -5138,7 +5137,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:media-text -->
 
 <!-- wp:media-text {"mediaId":999999,"mediaLink":"#0","mediaType":"image","imageFill":false,"focalPoint":{"x":"0.96","y":"0.69"},"className":"is-style-no-margin-vertical"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile is-style-no-margin-vertical"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_plants--pexels-daria-shevtsova-916339.jpg" alt="" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-style-no-margin-vertical"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/plants--pexels-daria-shevtsova-916339.jpg" alt="" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
 <h2>Transform Your Home</h2>
 <!-- /wp:heading -->
 
@@ -5162,7 +5161,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:media-text -->
 
 <!-- wp:media-text {"mediaPosition":"right","mediaId":999999,"mediaLink":"#0","mediaType":"image","imageFill":false,"focalPoint":{"x":"0.96","y":"0.69"},"className":"is-style-no-margin-vertical"} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-style-no-margin-vertical"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/webmandesign/demo-content/img/SAMPLE/_plants--pexels-daria-shevtsova-916337.jpg" alt="" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"className":"is-style-uppercase","fontSize":"small"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-style-no-margin-vertical"><figure class="wp-block-media-text__media"><img src="https://pic.webmandesign.eu/SAMPLE/plants--pexels-daria-shevtsova-916337.jpg" alt="" class="wp-image-999999 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"className":"is-style-uppercase","fontSize":"small"} -->
 <h2 class="is-style-uppercase has-small-font-size"><strong>Testimonial</strong></h2>
 <!-- /wp:heading -->
 
