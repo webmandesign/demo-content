@@ -1,0 +1,16 @@
+- var debug = true;
+
+include includes/_files.pug
+
+doctype html
+
+html( lang="en" )
+	include includes/head.pug
+
+	body
+
+		ul
+			each image in images
+				li
+					a( href="WMDEMO/" + image )
+						img( src="WMDEMO/" + image )
