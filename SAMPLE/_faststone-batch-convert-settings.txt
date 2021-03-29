@@ -1,0 +1,13 @@
+JPG quality = 15
+
+Advanced options:
+	Color depth:
+		= 64bit
+	Adjustments:
+		Sharpen = -50
+	Text:
+		Center aligned "DEMO" text
+		Position = Center
+		Font = Segoe UI Light, 150px
+		Color = black
+		Opacity = 75
