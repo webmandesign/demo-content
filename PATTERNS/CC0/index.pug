@@ -1,0 +1,14 @@
+include ../../includes/_files-cc0.pug
+
+doctype html
+
+html( lang="en" )
+	include ../../includes/head.pug
+
+	body
+
+		ul
+			each image in images
+				li
+					a( href=image )
+						img( src=image )
