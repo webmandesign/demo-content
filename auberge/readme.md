@@ -25,6 +25,7 @@ To allow all the demo content to be imported in whole, please install these plug
 - [Beaver Builder](https://wordpress.org/plugins/beaver-builder-lite-version/) - page builder plugin used to build the demo content
 - [Jetpack](https://wordpress.org/plugins/jetpack/) - demo content includes [tiled galleries](https://jetpack.me/support/tiled-galleries/) which are feature of this plugin, also there is a contact form displayed on the "Contact" page - please enable these modules in your website Jetpack settings dashboard
 - [Restaurant Reservations](https://wordpress.org/plugins/restaurant-reservations/) - the reservation form displayed on "Reservations" page is provided with this plugin
+- [**Classic Widgets**](https://wordpress.org/plugins/classic-widgets/) - Restores the previous WordPress widgets settings screens. Sidebars and widgets are not going to be used in fully block themes in the future, so if your website still uses sidebars, it is better to use this plugin to enable classic user interface.
 
 ## Quality of imported media files
 

@@ -11,6 +11,7 @@ You are browsing a repository for main demo content XML files of [**Polyclinic**
     * [Beaver Builder](https://wordpress.org/plugins/beaver-builder-lite-version/) - page builder plugin used to build the demo content (make sure the page builder is enabled for Posts, Pages and Staff - check this under **Settings &raquo; Page Builder &raquo; Post Types**)
     * [*WP Subtitle*](https://wordpress.org/plugins/wp-subtitle/) - to display page/post subtitles used in the demo content
     * [Jetpack](https://wordpress.org/plugins/jetpack/) - demo content includes [tiled galleries](https://jetpack.me/support/tiled-galleries/) which are feature of this plugin
+    * [**Classic Widgets**](https://wordpress.org/plugins/classic-widgets/) - Restores the previous WordPress widgets settings screens. Sidebars and widgets are not going to be used in fully block themes in the future, so if your website still uses sidebars, it is better to use this plugin to enable classic user interface.
 
 Also, please understand that **demo images (and other media files) will be imported in low quality** and you should replace them with your own (properly copyrighted) images.
 

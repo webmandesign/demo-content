@@ -41,6 +41,7 @@ To allow all the demo content to be imported in whole, please install these plug
 - [**CoBlocks**](https://wordpress.org/plugins/coblocks/) - page builder Gutenberg blocks,
 - [**WP Term Colors**](https://wordpress.org/plugins/wp-term-colors/) - assign colors for categories,
 - [**WooSidebars**](https://wordpress.org/plugins/woosidebars/) - hides sidebar on certain pages.
+- [**Classic Widgets**](https://wordpress.org/plugins/classic-widgets/) - Restores the previous WordPress widgets settings screens. Sidebars and widgets are not going to be used in fully block themes in the future, so if your website still uses sidebars, it is better to use this plugin to enable classic user interface.
 
 
 ## Optional plugins

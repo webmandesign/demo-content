@@ -21,6 +21,8 @@ To allow all the demo content to be imported in whole, please install these plug
   Adding a shopping cart button in the primary navigation.  
   Use this plugin only if you are using WooCommerce plugin. Note that you will need to set up this plugin to your needs - check the [plugin documentation](https://wordpress.org/plugins/woocommerce-menu-bar-cart/).  
   Also, feel free to use whatever [cart plugin](https://wordpress.org/plugins/search/cart/) that suits you as an alternative.
+- [**Classic Widgets**](https://wordpress.org/plugins/classic-widgets/)  
+  Restores the previous WordPress widgets settings screens. Sidebars and widgets are not going to be used in fully block themes in the future, so if your website still uses sidebars, it is better to use this plugin to enable classic user interface.
 
 
 ## Quality of imported media files

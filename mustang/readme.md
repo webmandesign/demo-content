@@ -27,6 +27,7 @@ To allow all the demo content to be imported in whole, please install these plug
 - [bbPress](https://wordpress.org/plugins/bbpress/) - provides forum functionality (only required with **paid theme version**)
 - [WooSidebars](https://wordpress.org/plugins/woosidebars/) - allows to create custom sidebars
 - [Breadcrumb NavXT](https://wordpress.org/plugins/breadcrumb-navxt/) - provides breadcrumbs navigation
+- [**Classic Widgets**](https://wordpress.org/plugins/classic-widgets/) - Restores the previous WordPress widgets settings screens. Sidebars and widgets are not going to be used in fully block themes in the future, so if your website still uses sidebars, it is better to use this plugin to enable classic user interface.
 
 ## Quality of imported media files
 

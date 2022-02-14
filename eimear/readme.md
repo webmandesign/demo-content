@@ -40,6 +40,7 @@ To allow all the demo content to be imported in whole, please install these plug
 - [**WooCommerce**](https://wordpress.org/plugins/woocommerce/) - provides e-commerce functionality.
 - [**WooCommerce Menu Cart**](https://wordpress.org/plugins/woocommerce-menu-bar-cart/) - adds a shopping cart button in the navigation bar.
 - [**Content Aware Sidebars**](https://wordpress.org/plugins/content-aware-sidebars/) - manages custom sidebars. **IMPORTANT**: Please note that the theme demo website contains no widgets in default theme's Sidebar and uses this plugin to create a new "Shop" sidebar and displaying it only on certain pages. Unfortunately, it is not possible to import the custom created sidebars with the demo content, so you will need to recreate them manually for you website if needed (see the [screenshot of the "Shop" sidebar setup from demo website](https://easycaptures.com/fs/uploaded/1407/5527283228.png)).
+- [**Classic Widgets**](https://wordpress.org/plugins/classic-widgets/) - Restores the previous WordPress widgets settings screens. Sidebars and widgets are not going to be used in fully block themes in the future, so if your website still uses sidebars, it is better to use this plugin to enable classic user interface.
 
 
 ## Optional plugins

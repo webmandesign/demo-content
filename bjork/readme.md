@@ -40,6 +40,7 @@ To allow all the demo content to be imported in whole, please install these plug
 - [**CoBlocks**](https://wordpress.org/plugins/coblocks/) - collection of page building blocks for WordPress block editor,
 - [**Jetpack**](https://wordpress.org/plugins/webman-amplifier/) - provides additional Portfolio and Testimonials custom post types (please do not forget to [enable these post types in plugin settings](https://jetpack.com/support/custom-content-types/)), and other cool features, ([how to install Jetpack?](https://jetpack.com/support/installing-jetpack/)),
 - [**WooCommerce**](https://wordpress.org/plugins/woocommerce/) - provides e-commerce functionality.
+- [**Classic Widgets**](https://wordpress.org/plugins/classic-widgets/) - Restores the previous WordPress widgets settings screens. Sidebars and widgets are not going to be used in fully block themes in the future, so if your website still uses sidebars, it is better to use this plugin to enable classic user interface.
 
 
 ## Optional plugins
