@@ -1,0 +1,8 @@
+JPG quality = 65
+
+Advanced options:
+	Resize:
+		In Pixels
+		New Width = 128
+		New Height = 9999
+		Preserve Aspect Ratio

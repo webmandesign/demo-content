@@ -1,7 +1,53 @@
-$scrollbar_width : 20px;
-$container_width : 90vw;
-$columns : 10;
-$gutter : 1em;
+$color_bg      : #222;
+$color_txt     : #fff;
+$color_bg_alt  : #1c1c1c;
+$color_txt_alt : #8c8c8c;
+
+:root {
+	--gutter: 1em;
+
+	--columns: 4;
+	@media (min-width: 480px) {
+		--columns: 6;
+	}
+	@media (min-width: 720px) {
+		--columns: 8;
+	}
+	@media (min-width: 960px) {
+		--columns: 10;
+	}
+	@media (min-width: 1200px) {
+		--columns: 12;
+	}
+	@media (min-width: 1440px) {
+		--columns: 14;
+	}
+	@media (min-width: 1680px) {
+		--columns: 16;
+	}
+	@media (min-width: 1920px) {
+		--columns: 18;
+	}
+	@media (min-width: 2160px) {
+		--columns: 20;
+	}
+	@media (min-width: 2400px) {
+		--columns: 22;
+	}
+	@media (min-width: 2640px) {
+		--columns: 24;
+	}
+	@media (min-width: 2880px) {
+		--columns: 26;
+	}
+	@media (min-width: 3120px) {
+		--columns: 28;
+	}
+	@media (min-width: 3360px) {
+		--columns: 30;
+	}
+
+}
 
 * {
 	margin: 0;
@@ -16,27 +62,64 @@ $gutter : 1em;
 }
 
 body {
-	background: #ccc;
+	font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif;
+	line-height: 1.5;
+	background: $color_bg;
+	color: $color_txt;
 }
 
 ul {
-	display: flex;
-	flex-wrap: wrap;
-	width: $container_width;
+	counter-reset: pics;
+	display: grid;
+	grid-template-columns: repeat( var(--columns), 1fr );
+	gap: var(--gutter);
+	width: 92vw;
 	padding: 0;
 	margin: 10vh auto;
 	list-style: none;
 
+	li {
+		counter-increment: pics;
+		position: relative;
+
+		&::after {
+			content: counter(pics);
+			position: absolute;
+			left: 0;
+			top:  0;
+			width: 2.5em;
+			font-size: .5em;
+			line-height: 2.5;
+			text-align: center;
+			background: $color_bg_alt;
+			color: $color_txt_alt;
+			border: 4px solid $color_bg;
+			border-radius: 10em;
+			transform: translate(-50%, -50%);
+			pointer-events: none;
+		}
+
+		&:hover,
+		&:focus-within {
+
+			&::after {
+				background: #06c;
+				color: #fff;
+			}
+
+		}
+
+	}
+
 	img {
 		object-fit: contain;
-		width: calc( #{ $container_width / $columns } - #{ $gutter } - #{ $scrollbar_width / $columns } );
-		height: calc( #{ $container_width / $columns } - #{ $gutter } - #{ $scrollbar_width / $columns } );
-		margin: $gutter / 2;
+		width:  100%;
+		height: 100%;
 		background-image:
-			linear-gradient(  45deg, rgba( #000, .1 ) 25%, rgba( #000,  0 ) 25% ),
-			linear-gradient( -45deg, rgba( #000, .1 ) 25%, rgba( #000,  0 ) 25% ),
-			linear-gradient(  45deg, rgba( #000,  0 ) 75%, rgba( #000, .1 ) 75% ),
-			linear-gradient( -45deg, rgba( #000,  0 ) 75%, rgba( #000, .1 ) 75% );
+			linear-gradient(  45deg, rgba( $color_txt, .1 ) 25%, rgba( $color_txt,  0 ) 25% ),
+			linear-gradient( -45deg, rgba( $color_txt, .1 ) 25%, rgba( $color_txt,  0 ) 25% ),
+			linear-gradient(  45deg, rgba( $color_txt,  0 ) 75%, rgba( $color_txt, .1 ) 75% ),
+			linear-gradient( -45deg, rgba( $color_txt,  0 ) 75%, rgba( $color_txt, .1 ) 75% );
 		background-size: 10px 10px;
 		background-position:
 			0 0,
@@ -54,6 +137,21 @@ ul {
 			background-color: #222;
 		}
 
+	}
+
+}
+
+nav {
+	margin: 2em;
+	text-align: center;
+
+	a {
+		padding: .25em 1em;
+		font-weight: 700;
+		text-decoration: none;
+		color: inherit;
+		border: 2px solid;
+		border-radius: 3px;
 	}
 
 }

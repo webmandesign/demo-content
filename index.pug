@@ -7,10 +7,11 @@ html( lang="en" )
 
 	body
 
-		a( href="PATTERNS/CC0/" ) CC0 &rarr;
+		nav
+			a( href="PATTERNS/CC0/" ) CC0 &rarr;
 
 		ul
 			each image in images
 				li
 					a( href="WMDEMO/" + image )
-						img( src="WMDEMO/" + image )
+						img( src="WMDEMO-thumb/" + image )

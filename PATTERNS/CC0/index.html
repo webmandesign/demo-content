@@ -4,20 +4,64 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>WebMan Design theme demo site images</title>
-    <style>*{margin:0;padding:0}*,:after,:before{-webkit-box-sizing:inherit;box-sizing:inherit}body{background:#ccc}ul{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;width:90vw;padding:0;margin:10vh auto;list-style:none}ul img{-o-object-fit:contain;object-fit:contain;width:calc( 9vw - 1em - 2px);height:calc( 9vw - 1em - 2px);margin:0.5em;background-image:-o-linear-gradient(45deg, rgba(0, 0, 0, 0.1) 25%, rgba(0, 0, 0, 0) 25%), -o-linear-gradient(135deg, rgba(0, 0, 0, 0.1) 25%, rgba(0, 0, 0, 0) 25%), -o-linear-gradient(45deg, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.1) 75%), -o-linear-gradient(135deg, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.1) 75%);background-image:linear-gradient(45deg, rgba(0, 0, 0, 0.1) 25%, rgba(0, 0, 0, 0) 25%), linear-gradient(-45deg, rgba(0, 0, 0, 0.1) 25%, rgba(0, 0, 0, 0) 25%), linear-gradient(45deg, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.1) 75%), linear-gradient(-45deg, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.1) 75%);background-size:10px 10px;background-position:0 0, 0 5px, 5px -5px, -5px 0px;vertical-align:top;-webkit-transition:background .5s;-o-transition:background .5s;transition:background .5s}ul a:focus img,ul a:hover img{background-color:#222}</style>
+    <style>:root{--gutter:1em;--columns:4}@media (min-width:480px){:root{--columns:6}}@media (min-width:720px){:root{--columns:8}}@media (min-width:960px){:root{--columns:10}}@media (min-width:1200px){:root{--columns:12}}@media (min-width:1440px){:root{--columns:14}}@media (min-width:1680px){:root{--columns:16}}@media (min-width:1920px){:root{--columns:18}}@media (min-width:2160px){:root{--columns:20}}@media (min-width:2400px){:root{--columns:22}}@media (min-width:2640px){:root{--columns:24}}@media (min-width:2880px){:root{--columns:26}}@media (min-width:3120px){:root{--columns:28}}@media (min-width:3360px){:root{--columns:30}}*{margin:0;padding:0}*,:after,:before{-webkit-box-sizing:inherit;box-sizing:inherit}body{font-family:system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif;line-height:1.5;background:#222;color:#fff}ul{counter-reset:pics;display:-ms-grid;display:grid;-ms-grid-columns:(1fr)[var(--columns)];grid-template-columns:repeat(var(--columns), 1fr);gap:var(--gutter);width:92vw;padding:0;margin:10vh auto;list-style:none}ul li{counter-increment:pics;position:relative}ul li:after{content:counter(pics);position:absolute;left:0;top:0;width:2.5em;font-size:.5em;line-height:2.5;text-align:center;background:#1c1c1c;color:#8c8c8c;border:4px solid #222;border-radius:10em;-webkit-transform:translate(-50%, -50%);-ms-transform:translate(-50%, -50%);transform:translate(-50%, -50%);pointer-events:none}ul li:focus-within:after,ul li:hover:after{background:#06c;color:#fff}ul img{-o-object-fit:contain;object-fit:contain;width:100%;height:100%;background-image:-o-linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%), -o-linear-gradient(135deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%), -o-linear-gradient(45deg, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0.1) 75%), -o-linear-gradient(135deg, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0.1) 75%);background-image:linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%), linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%), linear-gradient(45deg, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0.1) 75%), linear-gradient(-45deg, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0.1) 75%);background-size:10px 10px;background-position:0 0, 0 5px, 5px -5px, -5px 0px;vertical-align:top;-webkit-transition:background .5s;-o-transition:background .5s;transition:background .5s}ul a:focus img,ul a:hover img{background-color:#222}nav{margin:2em;text-align:center}nav a{padding:.25em 1em;font-weight:700;text-decoration:none;color:inherit;border:2px solid;border-radius:3px}</style>
   </head>
   <body>
     <ul>
+      <li><a href="custom/logo-angelica.png"><img src="custom/logo-angelica.png"></a></li>
+      <li><a href="custom/logo-angelica--gray.png"><img src="custom/logo-angelica--gray.png"></a></li>
+      <li><a href="custom/logo-bjork.png"><img src="custom/logo-bjork.png"></a></li>
+      <li><a href="custom/logo-bjork--gray.png"><img src="custom/logo-bjork--gray.png"></a></li>
+      <li><a href="custom/logo-cindy.png"><img src="custom/logo-cindy.png"></a></li>
+      <li><a href="custom/logo-cindy--gray.png"><img src="custom/logo-cindy--gray.png"></a></li>
+      <li><a href="custom/logo-deborah.png"><img src="custom/logo-deborah.png"></a></li>
+      <li><a href="custom/logo-deborah--gray.png"><img src="custom/logo-deborah--gray.png"></a></li>
+      <li><a href="custom/logo-eimear.png"><img src="custom/logo-eimear.png"></a></li>
+      <li><a href="custom/logo-eimear--gray.png"><img src="custom/logo-eimear--gray.png"></a></li>
       <li><a href="custom/s--b.png"><img src="custom/s--b.png"></a></li>
-      <li><a href="custom/s--w.png"><img src="custom/s--w.png"></a></li>
       <li><a href="custom/signature-jane-doe-black.png"><img src="custom/signature-jane-doe-black.png"></a></li>
       <li><a href="custom/signature-jane-doe-white.png"><img src="custom/signature-jane-doe-white.png"></a></li>
+      <li><a href="custom/s--w.png"><img src="custom/s--w.png"></a></li>
       <li><a href="PDR/annualreportofbu23smit_0183.jpg"><img src="PDR/annualreportofbu23smit_0183.jpg"></a></li>
       <li><a href="PDR/annualreportofbu23smit_0235.jpg"><img src="PDR/annualreportofbu23smit_0235.jpg"></a></li>
       <li><a href="PDR/annualreportofbu23smit_0354.jpg"><img src="PDR/annualreportofbu23smit_0354.jpg"></a></li>
       <li><a href="PDR/annualreportofbu23smit_0402.jpg"><img src="PDR/annualreportofbu23smit_0402.jpg"></a></li>
       <li><a href="PDR/annualreportofbu23smit_0404.jpg"><img src="PDR/annualreportofbu23smit_0404.jpg"></a></li>
       <li><a href="PDR/annualreportofbu23smit_0460.jpg"><img src="PDR/annualreportofbu23smit_0460.jpg"></a></li>
+      <li><a href="RAWPIXEL/418603.jpg"><img src="RAWPIXEL/418603.jpg"></a></li>
+      <li><a href="RAWPIXEL/428230--1.jpg"><img src="RAWPIXEL/428230--1.jpg"></a></li>
+      <li><a href="RAWPIXEL/428230--2.jpg"><img src="RAWPIXEL/428230--2.jpg"></a></li>
+      <li><a href="RAWPIXEL/428230--3.jpg"><img src="RAWPIXEL/428230--3.jpg"></a></li>
+      <li><a href="RAWPIXEL/428230--4.jpg"><img src="RAWPIXEL/428230--4.jpg"></a></li>
+      <li><a href="RAWPIXEL/431557.jpg"><img src="RAWPIXEL/431557.jpg"></a></li>
+      <li><a href="RAWPIXEL/431560.jpg"><img src="RAWPIXEL/431560.jpg"></a></li>
+      <li><a href="RAWPIXEL/431570.jpg"><img src="RAWPIXEL/431570.jpg"></a></li>
+      <li><a href="RAWPIXEL/436480.jpg"><img src="RAWPIXEL/436480.jpg"></a></li>
+      <li><a href="RAWPIXEL/436522.jpg"><img src="RAWPIXEL/436522.jpg"></a></li>
+      <li><a href="RAWPIXEL/436680.jpg"><img src="RAWPIXEL/436680.jpg"></a></li>
+      <li><a href="RAWPIXEL/439973.jpg"><img src="RAWPIXEL/439973.jpg"></a></li>
+      <li><a href="RAWPIXEL/440092.jpg"><img src="RAWPIXEL/440092.jpg"></a></li>
+      <li><a href="RAWPIXEL/440155.jpg"><img src="RAWPIXEL/440155.jpg"></a></li>
+      <li><a href="RAWPIXEL/440173.jpg"><img src="RAWPIXEL/440173.jpg"></a></li>
+      <li><a href="RAWPIXEL/440267.jpg"><img src="RAWPIXEL/440267.jpg"></a></li>
+      <li><a href="RAWPIXEL/440577.jpg"><img src="RAWPIXEL/440577.jpg"></a></li>
+      <li><a href="RAWPIXEL/556364.jpg"><img src="RAWPIXEL/556364.jpg"></a></li>
+      <li><a href="RAWPIXEL/556468.jpg"><img src="RAWPIXEL/556468.jpg"></a></li>
+      <li><a href="RAWPIXEL/556532.jpg"><img src="RAWPIXEL/556532.jpg"></a></li>
+      <li><a href="RAWPIXEL/556578.jpg"><img src="RAWPIXEL/556578.jpg"></a></li>
+      <li><a href="RAWPIXEL/556608.jpg"><img src="RAWPIXEL/556608.jpg"></a></li>
+      <li><a href="RAWPIXEL/556665.jpg"><img src="RAWPIXEL/556665.jpg"></a></li>
+      <li><a href="RAWPIXEL/556676.jpg"><img src="RAWPIXEL/556676.jpg"></a></li>
+      <li><a href="RAWPIXEL/556745.jpg"><img src="RAWPIXEL/556745.jpg"></a></li>
+      <li><a href="RAWPIXEL/562405.jpg"><img src="RAWPIXEL/562405.jpg"></a></li>
+      <li><a href="RAWPIXEL/572412.jpg"><img src="RAWPIXEL/572412.jpg"></a></li>
+      <li><a href="RAWPIXEL/572620.jpg"><img src="RAWPIXEL/572620.jpg"></a></li>
+      <li><a href="RAWPIXEL/572760.jpg"><img src="RAWPIXEL/572760.jpg"></a></li>
+      <li><a href="RAWPIXEL/572898.jpg"><img src="RAWPIXEL/572898.jpg"></a></li>
+      <li><a href="RAWPIXEL/572962.jpg"><img src="RAWPIXEL/572962.jpg"></a></li>
+      <li><a href="RAWPIXEL/572999.jpg"><img src="RAWPIXEL/572999.jpg"></a></li>
+      <li><a href="RAWPIXEL/573354.jpg"><img src="RAWPIXEL/573354.jpg"></a></li>
+      <li><a href="RAWPIXEL/843193.jpg"><img src="RAWPIXEL/843193.jpg"></a></li>
       <li><a href="RAWPIXEL/1054562.jpg"><img src="RAWPIXEL/1054562.jpg"></a></li>
       <li><a href="RAWPIXEL/1054570.jpg"><img src="RAWPIXEL/1054570.jpg"></a></li>
       <li><a href="RAWPIXEL/1054577.jpg"><img src="RAWPIXEL/1054577.jpg"></a></li>
@@ -81,40 +125,6 @@
       <li><a href="RAWPIXEL/3305387.jpg"><img src="RAWPIXEL/3305387.jpg"></a></li>
       <li><a href="RAWPIXEL/3339303.jpg"><img src="RAWPIXEL/3339303.jpg"></a></li>
       <li><a href="RAWPIXEL/3339305.jpg"><img src="RAWPIXEL/3339305.jpg"></a></li>
-      <li><a href="RAWPIXEL/418603.jpg"><img src="RAWPIXEL/418603.jpg"></a></li>
-      <li><a href="RAWPIXEL/428230--1.jpg"><img src="RAWPIXEL/428230--1.jpg"></a></li>
-      <li><a href="RAWPIXEL/428230--2.jpg"><img src="RAWPIXEL/428230--2.jpg"></a></li>
-      <li><a href="RAWPIXEL/428230--3.jpg"><img src="RAWPIXEL/428230--3.jpg"></a></li>
-      <li><a href="RAWPIXEL/428230--4.jpg"><img src="RAWPIXEL/428230--4.jpg"></a></li>
-      <li><a href="RAWPIXEL/431557.jpg"><img src="RAWPIXEL/431557.jpg"></a></li>
-      <li><a href="RAWPIXEL/431560.jpg"><img src="RAWPIXEL/431560.jpg"></a></li>
-      <li><a href="RAWPIXEL/431570.jpg"><img src="RAWPIXEL/431570.jpg"></a></li>
-      <li><a href="RAWPIXEL/436480.jpg"><img src="RAWPIXEL/436480.jpg"></a></li>
-      <li><a href="RAWPIXEL/436522.jpg"><img src="RAWPIXEL/436522.jpg"></a></li>
-      <li><a href="RAWPIXEL/436680.jpg"><img src="RAWPIXEL/436680.jpg"></a></li>
-      <li><a href="RAWPIXEL/439973.jpg"><img src="RAWPIXEL/439973.jpg"></a></li>
-      <li><a href="RAWPIXEL/440092.jpg"><img src="RAWPIXEL/440092.jpg"></a></li>
-      <li><a href="RAWPIXEL/440155.jpg"><img src="RAWPIXEL/440155.jpg"></a></li>
-      <li><a href="RAWPIXEL/440173.jpg"><img src="RAWPIXEL/440173.jpg"></a></li>
-      <li><a href="RAWPIXEL/440267.jpg"><img src="RAWPIXEL/440267.jpg"></a></li>
-      <li><a href="RAWPIXEL/440577.jpg"><img src="RAWPIXEL/440577.jpg"></a></li>
-      <li><a href="RAWPIXEL/556364.jpg"><img src="RAWPIXEL/556364.jpg"></a></li>
-      <li><a href="RAWPIXEL/556468.jpg"><img src="RAWPIXEL/556468.jpg"></a></li>
-      <li><a href="RAWPIXEL/556532.jpg"><img src="RAWPIXEL/556532.jpg"></a></li>
-      <li><a href="RAWPIXEL/556578.jpg"><img src="RAWPIXEL/556578.jpg"></a></li>
-      <li><a href="RAWPIXEL/556608.jpg"><img src="RAWPIXEL/556608.jpg"></a></li>
-      <li><a href="RAWPIXEL/556665.jpg"><img src="RAWPIXEL/556665.jpg"></a></li>
-      <li><a href="RAWPIXEL/556676.jpg"><img src="RAWPIXEL/556676.jpg"></a></li>
-      <li><a href="RAWPIXEL/556745.jpg"><img src="RAWPIXEL/556745.jpg"></a></li>
-      <li><a href="RAWPIXEL/562405.jpg"><img src="RAWPIXEL/562405.jpg"></a></li>
-      <li><a href="RAWPIXEL/572412.jpg"><img src="RAWPIXEL/572412.jpg"></a></li>
-      <li><a href="RAWPIXEL/572620.jpg"><img src="RAWPIXEL/572620.jpg"></a></li>
-      <li><a href="RAWPIXEL/572760.jpg"><img src="RAWPIXEL/572760.jpg"></a></li>
-      <li><a href="RAWPIXEL/572898.jpg"><img src="RAWPIXEL/572898.jpg"></a></li>
-      <li><a href="RAWPIXEL/572962.jpg"><img src="RAWPIXEL/572962.jpg"></a></li>
-      <li><a href="RAWPIXEL/572999.jpg"><img src="RAWPIXEL/572999.jpg"></a></li>
-      <li><a href="RAWPIXEL/573354.jpg"><img src="RAWPIXEL/573354.jpg"></a></li>
-      <li><a href="RAWPIXEL/843193.jpg"><img src="RAWPIXEL/843193.jpg"></a></li>
     </ul>
   </body>
 </html>
