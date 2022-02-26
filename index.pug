@@ -10,8 +10,10 @@ html( lang="en" )
 		nav
 			a( href="PATTERNS/CC0/" ) CC0 &rarr;
 
-		ul
+		.gallery
 			each image in images
-				li
+				figure
 					a( href="WMDEMO/" + image )
 						img( src="WMDEMO-thumb/" + image )
+					if 0 < image.search('--')
+						figcaption #{ image.split('--')[0] }
