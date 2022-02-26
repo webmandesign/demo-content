@@ -79,21 +79,29 @@ body {
 	list-style: none;
 }
 
+figure::after,
+figcaption {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	font-size: .5em;
+	text-align: center;
+	text-transform: uppercase;
+	white-space: nowrap;
+	background: $color_bg_alt;
+	color: $color_txt_alt;
+	overflow: hidden;
+}
+
 figure {
 	counter-increment: pics;
 	position: relative;
 
 	&::after {
 		content: counter(pics);
-		position: absolute;
-		left: 0;
-		top:  0;
 		width: 2.5em;
-		font-size: .5em;
 		line-height: 2.5;
-		text-align: center;
-		background: $color_bg_alt;
-		color: $color_txt_alt;
 		border: 2px solid $color_bg;
 		border-radius: 10em;
 		transform: translate(-50%, -50%);
@@ -112,20 +120,6 @@ figure {
 	}
 
 }
-
-	figcaption {
-		position: absolute;
-		left: 0;
-		top: 0;
-		width: 100%;
-		font-size: .6em;
-		text-align: center;
-		text-transform: uppercase;
-		white-space: nowrap;
-		background: $color_bg_alt;
-		color: $color_txt_alt;
-		overflow: hidden;
-	}
 
 img {
 	object-fit: contain;
