@@ -27,11 +27,9 @@ Also, please understand that **demo images (and other media files) will be impor
 
 ## One-click installation
 
-**Icelander** theme supports one-click demo content installation via your WordPress dashboard.
+This is a commercial theme and so it contains an automatic, true one-click theme demo installation functionality. Just install and activate the [**One Click Demo Import** plugin](https://wordpress.org/plugins/one-click-demo-import/) in your WordPress website and navigate to **Appearance &rarr; Import Demo Data** to run the demo content import procedure.
 
-Once you have installed and activated demo content required plugins as listed above, refer to [theme documentation](https://www.webmandesign.eu/manual/icelander/#demo-content) for information on how to run the one-click demo installation process.
-
-*You do not need to download and install the files from this repository in that case!*
+Also, do not forget to enable the demo content [required plugins](#before-you-begin) beforehand!
 
 
 ## Installation process

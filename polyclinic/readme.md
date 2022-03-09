@@ -5,7 +5,9 @@ You are browsing the repository for the demo content files for [**Polyclinic** W
 
 ## One-click installation
 
-**Polyclinic** theme supports one-click demo content installation via your WordPress dashboard. Please refer to [theme documentation](https://www.webmandesign.eu/manual/polyclinic/#demo-content) for more information.
+This is a commercial theme and so it contains an automatic, true one-click theme demo installation functionality. Just install and activate the [**One Click Demo Import** plugin](https://wordpress.org/plugins/one-click-demo-import/) in your WordPress website and navigate to **Appearance &rarr; Import Demo Data** to run the demo content import procedure.
+
+Also, do not forget to enable the demo content [required plugins](https://github.com/webmandesign/demo-content/tree/master/polyclinic/content/#before-you-begin) beforehand!
 
 
 ## Folder structure
