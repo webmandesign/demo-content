@@ -5,9 +5,9 @@
    viewBox="0 0 400 200"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="logos.svg"
-   inkscape:export-filename="logo-bjork.png"
+   inkscape:export-filename="logo-francesca.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -21,16 +21,16 @@
      id="defs2" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#202020"
+     pagecolor="#ffffff"
      bordercolor="#7d7d7d"
      borderopacity="0.49019608"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="298.5"
-     inkscape:cy="-14.5"
+     inkscape:cx="135"
+     inkscape:cy="-13.5"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g72992"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -43,7 +43,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:document-rotation="0"
-     width="400px">
+     width="400px"
+     inkscape:deskcolor="#ffffff">
     <inkscape:grid
        type="xygrid"
        id="grid4499"
@@ -213,6 +214,83 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="g196"
+     inkscape:label="francesca"
+     style="display:inline">
+    <g
+       transform="matrix(1.7021243,0,0,1.7021243,-1011.4242,-631.91257)"
+       id="g72992"
+       style="display:inline;fill:#1a1a1a">
+      <g
+         id="g72980"
+         transform="matrix(-0.21619123,0,0,0.21781343,702.47715,272.2652)"
+         style="display:inline;stroke:#151515;stroke-width:4.60829;stroke-opacity:1"
+         inkscape:export-filename="logo-francesca-dark.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192">
+        <path
+           id="path72974"
+           style="fill:none;fill-opacity:0;stroke:#151515;stroke-width:9.21654;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+           d="M 211.66669,636.95844 H 387.47146 V 811.38493 H 211.66669 Z" />
+        <path
+           style="fill:none;fill-opacity:0;stroke:#151515;stroke-width:9.21654;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="path72976"
+           transform="scale(1,-1)"
+           sodipodi:type="arc"
+           sodipodi:cx="299.56906"
+           sodipodi:cy="-811.38495"
+           sodipodi:rx="87.88855"
+           sodipodi:ry="87.226974"
+           sodipodi:start="0"
+           sodipodi:end="3.1415927"
+           sodipodi:arc-type="slice"
+           d="m 387.45761,-811.38495 a 87.88855,87.226974 0 0 1 -43.94427,75.54078 87.88855,87.226974 0 0 1 -87.88856,0 87.88855,87.226974 0 0 1 -43.94427,-75.54078 h 87.88855 z" />
+        <path
+           style="fill:none;fill-opacity:0;stroke:#151515;stroke-width:9.21654;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="path72978"
+           transform="matrix(0,1,1,0,0,0)"
+           sodipodi:type="arc"
+           sodipodi:cx="724.17169"
+           sodipodi:cy="211.66669"
+           sodipodi:rx="87.213013"
+           sodipodi:ry="87.902382"
+           sodipodi:start="1.5707963"
+           sodipodi:end="3.1415927"
+           sodipodi:arc-type="arc"
+           sodipodi:open="true"
+           d="m 724.17169,299.56907 a 87.213013,87.902382 0 0 1 -61.66891,-25.74601 87.213013,87.902382 0 0 1 -25.5441,-62.15637" />
+      </g>
+      <g
+         style="fill:#151515;fill-opacity:1;stroke-width:0.961327"
+         transform="matrix(1.0402292,0,0,1.0402292,-26.046633,-156.74597)"
+         id="g72990">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.0577px;line-height:33.822px;font-family:Bitter;-inkscape-font-specification:Bitter;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3b14a7;fill-opacity:1;stroke:none;stroke-width:0.583341px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="670.07672"
+           y="563.8761"
+           id="text72984"><tspan
+             sodipodi:role="line"
+             id="tspan72982"
+             x="670.07672"
+             y="563.8761"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bitter;-inkscape-font-specification:'Bitter Bold';fill:#3b14a7;fill-opacity:1;stroke-width:0.583341px">Francesca</tspan></text>
+        <text
+           id="text72988"
+           y="583.15765"
+           x="670.87878"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5838px;line-height:15.7299px;font-family:Heebo;-inkscape-font-specification:Heebo;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#353535;fill-opacity:1;stroke:none;stroke-width:0.704471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:Heebo;fill:#353535;fill-opacity:1;stroke-width:0.704471px"
+             y="583.15765"
+             x="670.87878"
+             sodipodi:role="line"
+             id="tspan72986">ACCESSIBILITY READY</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="cindy"
      style="display:none"
@@ -331,7 +409,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="bjork"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <g
        id="g7900">
