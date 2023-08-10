@@ -14,14 +14,14 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
-<!-- generator="WordPress/6.0.2" created="2022-10-13 16:47" -->
+<!-- generator="WordPress/6.3" created="2023-08-10 12:53" -->
 <rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
 
 <channel>
 	<title>Deborah</title>
 	<link>https://themedemos.webmandesign.eu/deborah</link>
 	<description>Inclusive Church</description>
-	<pubDate>Thu, 13 Oct 2022 16:47:17 +0000</pubDate>
+	<pubDate>Thu, 10 Aug 2023 12:53:04 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themedemos.webmandesign.eu/</wp:base_site_url>
@@ -201,6 +201,13 @@
 		<wp:term_name><![CDATA[Marriage, Family and Children]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>18</wp:term_id>
+		<wp:term_taxonomy><![CDATA[ctc_sermon_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[no-sidebar]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[No sidebar]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>5</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_person_group]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[no-sidebar]]></wp:term_slug>
@@ -210,13 +217,6 @@
 		<wp:term>
 		<wp:term_id>41</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_event_category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[no-sidebar]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[No sidebar]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>18</wp:term_id>
-		<wp:term_taxonomy><![CDATA[ctc_sermon_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[no-sidebar]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[No sidebar]]></wp:term_name>
@@ -276,7 +276,7 @@
 	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[theme-links]]></wp:term_slug><wp:term_name><![CDATA[Theme Links]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.3</generator>
 
 		
 					
@@ -6895,43 +6895,49 @@ Post type: page
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/deborah/?page_id=39</guid>
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:group {"align":"full","backgroundColor":"palette-3","textColor":"palette-1","className":"has-no-padding"} -->
-<div class="wp-block-group alignfull has-no-padding has-palette-1-color has-palette-3-background-color has-text-color has-background"><!-- wp:coblocks/features {"marginBottom":0,"marginBottomTablet":0,"marginBottomMobile":0,"headingLevel":2,"columns":3,"align":"wide","noBottomMargin":true,"coblocks":{"id":"913134844847"},"gutter":"custom","gutterCustom":"0"} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-913134844847 mb-0"><div class="wp-block-coblocks-features__inner has-columns has-3-columns has-responsive-columns has-center-content has-custom-gutter" style="--coblocks-custom-gutter:0em"><!-- wp:coblocks/feature {"paddingSize":"huge","headingLevel":2,"coblocks":{"id":"913134844887"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-913134844887"><div class="wp-block-coblocks-feature__inner has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"accessible","hasContentAlign":false} /-->
+<div class="wp-block-group alignfull has-no-padding has-palette-1-color has-palette-3-background-color has-text-color has-background"><!-- wp:columns {"align":"wide","className":"has-no-margin-vertical"} -->
+<div class="wp-block-columns alignwide has-no-margin-vertical"><!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"palette-3"} -->
+<div class="wp-block-column has-palette-3-background-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23652&quot; d=&quot;m14 16l1.32 1.76C14.32 19.68 12.31 21 10 21c-3.31 0-6-2.69-6-6c0-2.43 1.46-4.5 3.55-5.45l.21 2.17C6.71 12.44 6 13.63 6 15c0 2.21 1.79 4 4 4c1.86 0 3.41-1.28 3.86-3H14m5.55.11l-1.25.62L15.5 13h-4.59l-.2-2H14V9h-3.5l-.3-3c1.01-.12 1.8-.96 1.8-2a2 2 0 1 0-4 0v.1L9.1 15h5.4l3.2 4.27l2.75-1.37l-.9-1.79Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"placeholder":"Add feature title…","fontSize":"extra-large"} -->
-<h2 class="has-extra-large-font-size">Accessibile</h2>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Accessible</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>Makes your church or religious website inclusive and accessible.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Makes your church or religious website inclusive and accessible.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"huge","customBackgroundColor":"#eed792","headingLevel":2,"coblocks":{"id":"913134844888"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-913134844888"><div class="wp-block-coblocks-feature__inner has-background has-padding has-huge-padding" style="background-color:#eed792"><!-- wp:coblocks/icon {"icon":"flower","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"color":{"background":"#eed792"},"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}}} -->
+<div class="wp-block-column has-background" style="background-color:#eed792;padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23652&quot; d=&quot;M3 13a9 9 0 0 0 9 9a9 9 0 0 0-9-9m2.44 2.44c1.91.71 3.41 2.21 4.12 4.12a6.986 6.986 0 0 1-4.12-4.12M12 22a9 9 0 0 0 9-9a9 9 0 0 0-9 9m2.42-2.43a6.876 6.876 0 0 1 4.15-4.15a7.03 7.03 0 0 1-4.15 4.15M12 14a6 6 0 0 0 6-6V3a5.9 5.9 0 0 0-2.16.39c-.55.23-1.04.57-1.45 1L12 2L9.61 4.39c-.41-.43-.9-.77-1.45-1A5.9 5.9 0 0 0 6 3v5a6 6 0 0 0 6 6M8 5.61l1.57 1.65L12 4.83l2.43 2.43L16 5.61V8a4 4 0 0 1-4 4a4 4 0 0 1-4-4V5.61Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"placeholder":"Add feature title…","fontSize":"extra-large"} -->
-<h2 class="has-extra-large-font-size">Lightweight</h2>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Lightweight</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>No bloat, no lock-in effect, securely coded with SEO and speed optimization.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">No bloat, no lock-in effect, securely coded with SEO and speed optimization.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"huge","headingLevel":2,"coblocks":{"id":"913134848480"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-913134848480"><div class="wp-block-coblocks-feature__inner has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"blocks","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"palette-3"} -->
+<div class="wp-block-column has-palette-3-background-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23652&quot; d=&quot;M21 17H7V3h14m0-2H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2M3 5H1v16a2 2 0 0 0 2 2h16v-2H3m12.96-10.71l-2.75 3.54l-1.96-2.36L8.5 15h11l-3.54-4.71Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"placeholder":"Add feature title…","fontSize":"extra-large"} -->
-<h2 class="has-extra-large-font-size">Drag &amp; Drop</h2>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Drag &amp; Drop</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>Compatible with WordPress block editor or any page builder.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature --></div></div>
-<!-- /wp:coblocks/features --></div>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Compatible with WordPress block editor or any page builder.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
 <!-- /wp:group -->
 
 <!-- wp:spacer -->
@@ -6941,7 +6947,7 @@ Post type: page
 <!-- wp:columns {"verticalAlignment":"center","align":"wide"} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2 id="a-happy-cloud">A happy cloud</h2>
+<h2 class="wp-block-heading" id="a-happy-cloud">A happy cloud</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"dropCap":true,"textColor":"palette-2","fontSize":"large"} -->
@@ -6966,21 +6972,21 @@ Post type: page
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":"60px"} -->
-<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:image {"align":"wide","id":192,"sizeSlug":"large","className":"has-no-margin-bottom is-style-top-wave"} -->
-<figure class="wp-block-image alignwide size-large has-no-margin-bottom is-style-top-wave"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_white-and-black-houses-with-brown-grass-with-overlooking-1245066-1360x765.jpg" alt="Don't forget to set alt text." class="wp-image-192"/></figure>
+<!-- wp:image {"align":"wide","id":192,"width":1400,"height":500,"scale":"cover","sizeSlug":"large","className":"has-no-margin-bottom is-style-abs-curved-top"} -->
+<figure class="wp-block-image alignwide size-large is-resized has-no-margin-bottom is-style-abs-curved-top"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_white-and-black-houses-with-brown-grass-with-overlooking-1245066-1360x765.jpg" alt="Don't forget to set alt text." class="wp-image-192" style="object-fit:cover;width:1400px;height:500px" width="1400" height="500"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:group {"align":"wide","backgroundColor":"palette-3","textColor":"palette-1","noBottomMargin":true,"noTopMargin":true} -->
-<div class="wp-block-group alignwide has-palette-1-color has-palette-3-background-color has-text-color has-background mb-0 mt-0"><!-- wp:spacer {"height":"75px"} -->
+<!-- wp:group {"align":"wide","backgroundColor":"palette-3","textColor":"palette-1","className":"is-style-abs-curved-bottom mb-0 mt-0"} -->
+<div class="wp-block-group alignwide is-style-abs-curved-bottom mb-0 mt-0 has-palette-1-color has-palette-3-background-color has-text-color has-background"><!-- wp:spacer {"height":"75px"} -->
 <div style="height:75px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textColor":"palette-1"} -->
-<h2 class="has-palette-1-color has-text-color" id="change-your-perspective">Change your perspective</h2>
+<h2 class="wp-block-heading has-palette-1-color has-text-color" id="change-your-perspective">Change your perspective</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
@@ -7010,27 +7016,27 @@ Post type: page
 <!-- /wp:spacer --></div>
 <!-- /wp:group -->
 
-<!-- wp:coblocks/shape-divider {"backgroundHeight":"20px","color":"palette-5","backgroundColor":"palette-3","align":"wide","className":""} /-->
-
-<!-- wp:spacer {"height":"60px","noTopMargin":true} -->
+<!-- wp:spacer {"height":"60px","className":"mt-0"} -->
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer mt-0"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:quote {"className":"is-style-large","customTextColor":"#222222"} -->
-<blockquote class="wp-block-quote is-style-large" style="color:#222222"><p>Nice little fluffy clouds laying around in the sky being lazy. We have a fantastic little sky! Isn't that fantastic that you can make whole mountains in minutes?</p><cite><strong>Julia MacCarthy</strong> | Pastor</cite></blockquote>
+<!-- wp:quote {"textColor":"palette-1","className":"is-style-large"} -->
+<blockquote class="wp-block-quote is-style-large has-palette-1-color has-text-color"><!-- wp:paragraph -->
+<p>Nice little fluffy clouds laying around in the sky being lazy. We have a fantastic little sky! Isn't that fantastic that you can make whole mountains in minutes?</p>
+<!-- /wp:paragraph --><cite><strong>Julia MacCarthy</strong> | Pastor</cite></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:spacer {"height":"110px"} -->
-<div style="height:110px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:spacer {"height":"70px"} -->
+<div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:media-text {"mediaId":89,"mediaType":"image","backgroundColor":"palette-4","className":"alignwide has-no-margin-bottom has-background"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile has-no-margin-bottom has-background has-palette-4-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_etty-fidele-VNYCIbZju0o-unsplash.jpg" alt="Don't forget to set alt text." class="wp-image-89 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:spacer -->
+<!-- wp:media-text {"align":"wide","mediaId":89,"mediaType":"image","backgroundColor":"palette-4","className":"alignwide has-no-margin-bottom has-background"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile has-no-margin-bottom has-background has-palette-4-background-color"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_etty-fidele-VNYCIbZju0o-unsplash.jpg" alt="Don't forget to set alt text." class="wp-image-89 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading -->
-<h2 id="just-take-out-what-you-don-t-want">Just take out what you don’t want</h2>
+<h2 class="wp-block-heading" id="just-take-out-what-you-don-t-want">Just take out what you don’t want</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"palette-1","fontSize":"large"} -->
@@ -7064,15 +7070,13 @@ Post type: page
 <div style="height:130px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:coblocks/shape-divider {"backgroundHeight":"20px","color":"palette-3","align":"full","className":"is-style-hills"} /-->
-
-<!-- wp:group {"align":"full","backgroundColor":"palette-3","textColor":"palette-1","className":"has-no-padding-vertical","noTopMargin":true} -->
-<div class="wp-block-group alignfull has-no-padding-vertical has-palette-1-color has-palette-3-background-color has-text-color has-background mt-0"><!-- wp:spacer {"height":"130px"} -->
-<div style="height:130px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:group {"align":"full","backgroundColor":"palette-3","textColor":"palette-1","className":"has-no-padding-vertical is-style-abs-curved-top mt-0"} -->
+<div class="wp-block-group alignfull has-no-padding-vertical is-style-abs-curved-top mt-0 has-palette-1-color has-palette-3-background-color has-text-color has-background"><!-- wp:spacer {"height":"150px"} -->
+<div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center" id="just-relax-and-let-it-flow-that-easy">Just relax and let it flow.<br />That easy.</h2>
+<h2 class="wp-block-heading has-text-align-center" id="just-relax-and-let-it-flow-that-easy">Just relax and let it flow.<br />That easy.</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -7081,7 +7085,7 @@ Post type: page
 
 <!-- wp:buttons {"className":"has-large-font-size","layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons has-large-font-size"><!-- wp:button {"backgroundColor":"palette-1","textColor":"palette-3","className":"is-style-fill"} -->
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-palette-3-color has-palette-1-background-color has-text-color has-background" href="#purchaselink">Get in touch</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-palette-3-color has-palette-1-background-color has-text-color has-background wp-element-button" href="#purchaselink">Get in touch</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -7097,8 +7101,8 @@ Post type: page
 		<wp:post_id>39</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-26 12:41:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-26 10:41:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-13 13:53:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-13 11:53:58]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 14:51:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 12:51:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-1]]></wp:post_name>
@@ -7153,18 +7157,18 @@ Post type: page
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/deborah/?page_id=41</guid>
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_grayscale-photography-of-people-raising-hands-2014775.jpg","id":191,"hasParallax":true,"dimRatio":90,"overlayColor":"palette-1","align":"full","className":"has-phi-screen-min-height"} -->
-<div class="wp-block-cover alignfull has-parallax has-phi-screen-min-height" style="background-image:url(https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_grayscale-photography-of-people-raising-hands-2014775.jpg)"><span aria-hidden="true" class="wp-block-cover__background has-palette-1-background-color has-background-dim-90 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":"200px"} -->
+<div class="wp-block-cover alignfull has-parallax has-phi-screen-min-height"><span aria-hidden="true" class="wp-block-cover__background has-palette-1-background-color has-background-dim-90 has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-191 has-parallax" style="background-position:50% 50%;background-image:url(https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_grayscale-photography-of-people-raising-hands-2014775.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":"200px"} -->
 <div style="height:200px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":1,"customFontSize":20,"fontWeight":"normal","textTransform":"uppercase"} -->
-<h1 class="has-custom-weight has-custom-transform" style="font-weight:normal;text-transform:uppercase;font-size:20px">About <strong>Deborah</strong> Inclusive Church</h1>
+<div class="wp-block-column"><!-- wp:heading {"level":1,"style":{"typography":{"fontStyle":"normal","fontWeight":"400","textTransform":"uppercase"}},"className":"has-custom-weight has-custom-transform","fontSize":"large"} -->
+<h1 class="wp-block-heading has-custom-weight has-custom-transform has-large-font-size" style="font-style:normal;font-weight:400;text-transform:uppercase">About <strong>Deborah</strong> Inclusive Church</h1>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"huge","lineHeight":1.25,"fontWeight":"bold"} -->
-<p class="has-huge-font-size has-custom-weight has-custom-lineheight" style="line-height:1.25;font-weight:bold">We Are Happy To Guide You</p>
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"fontSize":"huge"} -->
+<p class="has-huge-font-size" style="font-style:normal;font-weight:700">We Are Happy To Guide You</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -7185,7 +7189,7 @@ Post type: page
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading -->
-<h2>Give him a friend,<br />we forget the trees<br />get lonely too</h2>
+<h2 class="wp-block-heading">Give him a friend,<br />we forget the trees<br />get lonely too</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -7196,20 +7200,44 @@ Post type: page
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":"70px"} -->
-<div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:columns {"verticalAlignment":"center","align":"wide"} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:coblocks/gallery-collage {"gutter":"medium","className":"is-style-tiled"} -->
-<div aria-label="Collage Gallery" class="wp-block-coblocks-gallery-collage alignwide is-style-tiled has-medium-gutter"><ul><li class="wp-block-coblocks-gallery-collage__item item-1"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Don't forget to set alt text." class="wp-image-195" data-id="195" data-imglink="" data-index="0" data-link="http://themedemos.webmandesign.eu/deborah/sample/_body-of-water-beside-green-trees-2793048/" src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_body-of-water-beside-green-trees-2793048.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-2"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Don't forget to set alt text." class="wp-image-196" data-id="196" data-imglink="" data-index="1" data-link="http://themedemos.webmandesign.eu/deborah/sample/_pedro-lima-ikqhfojjwsi-unsplash/" src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_pedro-lima-IkqhfoJjwSI-unsplash-1360x765.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-3"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Don't forget to set alt text." class="wp-image-201" data-id="201" data-imglink="" data-index="2" data-link="http://themedemos.webmandesign.eu/deborah/sample/_brown-and-white-cathedral-interior-3661397/" src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-4"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Don't forget to set alt text." class="wp-image-197" data-id="197" data-imglink="" data-index="3" data-link="http://themedemos.webmandesign.eu/deborah/sample/_pedro-lima-htwsbbclbos-unsplash/" src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_pedro-lima-HtwsbbClBOs-unsplash-1360x765.jpg"/></figure></li></ul></div>
-<!-- /wp:coblocks/gallery-collage --></div>
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:columns {"verticalAlignment":"bottom"} -->
+<div class="wp-block-columns are-vertically-aligned-bottom"><!-- wp:column {"verticalAlignment":"bottom","width":""} -->
+<div class="wp-block-column is-vertically-aligned-bottom"><!-- wp:image {"id":196,"aspectRatio":"4/3","scale":"cover","sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_pedro-lima-IkqhfoJjwSI-unsplash-640x360.jpg" alt="Don't forget to set alt text." class="wp-image-196" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"bottom","width":"33%"} -->
+<div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:33%"><!-- wp:image {"id":193,"aspectRatio":"1","scale":"cover","sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_photo-of-church-building-3389616-640x960.jpg" alt="Don't forget to set alt text." class="wp-image-193" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"33%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:33%"><!-- wp:image {"id":201,"aspectRatio":"1","scale":"cover","sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397-640x960.jpg" alt="Don't forget to set alt text." class="wp-image-201" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":203,"aspectRatio":"4/3","scale":"cover","sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_patrick-fore-b_SHPU5M3nk-unsplash-640x360.jpg" alt="Don't forget to set alt text." class="wp-image-203" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"level":3} -->
-<h3>Why not make a beautiful sky</h3>
+<h3 class="wp-block-heading">Why not make a beautiful sky</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -7217,7 +7245,7 @@ Post type: page
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3>I sincerely wish for you</h3>
+<h3 class="wp-block-heading">I sincerely wish for you</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -7226,23 +7254,23 @@ Post type: page
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":"70px"} -->
-<div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:spacer {"height":"80px"} -->
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_grayscale-photography-of-people-raising-hands-2014775.jpg","id":191,"hasParallax":true,"dimRatio":80,"overlayColor":"palette-3","isDark":false,"align":"full","className":"has-phi-screen-min-height","style":{"spacing":{"padding":{"top":"0px","bottom":"0px"}}}} -->
-<div class="wp-block-cover alignfull is-light has-parallax has-phi-screen-min-height" style="padding-top:0px;padding-bottom:0px;background-image:url(https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_grayscale-photography-of-people-raising-hands-2014775.jpg)"><span aria-hidden="true" class="wp-block-cover__background has-palette-3-background-color has-background-dim-80 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:cover {"url":"https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_grayscale-photography-of-people-raising-hands-2014775.jpg","id":191,"hasParallax":true,"dimRatio":90,"overlayColor":"palette-1","align":"wide","className":"has-phi-screen-min-height"} -->
-<div class="wp-block-cover alignwide has-parallax has-phi-screen-min-height" style="background-image:url(https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_grayscale-photography-of-people-raising-hands-2014775.jpg)"><span aria-hidden="true" class="wp-block-cover__background has-palette-1-background-color has-background-dim-90 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:spacer -->
+<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_grayscale-photography-of-people-raising-hands-2014775.jpg","id":191,"hasParallax":true,"dimRatio":80,"overlayColor":"palette-3","isDark":false,"align":"full","style":{"spacing":{"padding":{"top":"0px","bottom":"0px"}}},"className":"has-phi-screen-min-height"} -->
+<div class="wp-block-cover alignfull is-light has-parallax has-phi-screen-min-height" style="padding-top:0px;padding-bottom:0px"><span aria-hidden="true" class="wp-block-cover__background has-palette-3-background-color has-background-dim-80 has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-191 has-parallax" style="background-position:50% 50%;background-image:url(https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_grayscale-photography-of-people-raising-hands-2014775.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:cover {"url":"https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_grayscale-photography-of-people-raising-hands-2014775.jpg","id":191,"hasParallax":true,"dimRatio":90,"overlayColor":"palette-1","align":"wide","className":"has-phi-screen-min-height"} -->
+<div class="wp-block-cover alignwide has-parallax has-phi-screen-min-height"><span aria-hidden="true" class="wp-block-cover__background has-palette-1-background-color has-background-dim-90 has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-191 has-parallax" style="background-position:50% 50%;background-image:url(https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_grayscale-photography-of-people-raising-hands-2014775.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textColor":"palette-5","className":"has-no-margin-top"} -->
-<h2 class="has-no-margin-top has-palette-5-color has-text-color">It's a super day, so why not make a beautiful sky?</h2>
+<h2 class="wp-block-heading has-no-margin-top has-palette-5-color has-text-color">It's a super day, so why not make a beautiful sky?</h2>
 <!-- /wp:heading -->
 
 <!-- wp:buttons {"className":"has-large-font-size"} -->
 <div class="wp-block-buttons has-large-font-size"><!-- wp:button {"backgroundColor":"palette-3","textColor":"palette-1","className":"is-style-fill"} -->
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-palette-1-color has-palette-3-background-color has-text-color has-background" href="#purchaselink">Contact us</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-palette-1-color has-palette-3-background-color has-text-color has-background wp-element-button" href="#purchaselink">Contact us</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -7259,7 +7287,7 @@ Post type: page
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:heading -->
-<h2>I sincerely wish for you every possible joy life could bring</h2>
+<h2 class="wp-block-heading">I sincerely wish for you every possible joy life could bring</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -7276,43 +7304,51 @@ Post type: page
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:coblocks/features {"columns":3,"align":"wide","coblocks":{"id":"912213626264"}} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-912213626264"><div class="wp-block-coblocks-features__inner has-columns has-3-columns has-responsive-columns has-center-content has-medium-gutter"><!-- wp:coblocks/feature {"paddingSize":"huge","backgroundColor":"palette-3","textColor":"palette-1","coblocks":{"id":"912213626321"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-912213626321"><div class="wp-block-coblocks-feature__inner has-palette-3-background-color has-background has-text-color has-palette-1-color has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"paint","hasContentAlign":false} /-->
+<!-- wp:group {"align":"full","textColor":"palette-1","className":"has-no-padding"} -->
+<div class="wp-block-group alignfull has-no-padding has-palette-1-color has-text-color"><!-- wp:columns {"align":"wide","className":"has-no-margin-vertical"} -->
+<div class="wp-block-columns alignwide has-no-margin-vertical"><!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"palette-3"} -->
+<div class="wp-block-column has-palette-3-background-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23652&quot; d=&quot;m14 16l1.32 1.76C14.32 19.68 12.31 21 10 21c-3.31 0-6-2.69-6-6c0-2.43 1.46-4.5 3.55-5.45l.21 2.17C6.71 12.44 6 13.63 6 15c0 2.21 1.79 4 4 4c1.86 0 3.41-1.28 3.86-3H14m5.55.11l-1.25.62L15.5 13h-4.59l-.2-2H14V9h-3.5l-.3-3c1.01-.12 1.8-.96 1.8-2a2 2 0 1 0-4 0v.1L9.1 15h5.4l3.2 4.27l2.75-1.37l-.9-1.79Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4>Customizable</h4>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Accessible</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>Theme's appearance can be fully customized via WYSIWYG options.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Makes your church or religious website inclusive and accessible.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"huge","backgroundColor":"palette-3","textColor":"palette-1","coblocks":{"id":"912213626322"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-912213626322"><div class="wp-block-coblocks-feature__inner has-palette-3-background-color has-background has-text-color has-palette-1-color has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"accessible","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"palette-3"} -->
+<div class="wp-block-column has-palette-3-background-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23652&quot; d=&quot;M3 13a9 9 0 0 0 9 9a9 9 0 0 0-9-9m2.44 2.44c1.91.71 3.41 2.21 4.12 4.12a6.986 6.986 0 0 1-4.12-4.12M12 22a9 9 0 0 0 9-9a9 9 0 0 0-9 9m2.42-2.43a6.876 6.876 0 0 1 4.15-4.15a7.03 7.03 0 0 1-4.15 4.15M12 14a6 6 0 0 0 6-6V3a5.9 5.9 0 0 0-2.16.39c-.55.23-1.04.57-1.45 1L12 2L9.61 4.39c-.41-.43-.9-.77-1.45-1A5.9 5.9 0 0 0 6 3v5a6 6 0 0 0 6 6M8 5.61l1.57 1.65L12 4.83l2.43 2.43L16 5.61V8a4 4 0 0 1-4 4a4 4 0 0 1-4-4V5.61Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4>Accessible</h4>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Lightweight</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>Makes your church or religious website inclusive and accessible.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">No bloat, no lock-in effect, securely coded with SEO and speed optimization.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"huge","backgroundColor":"palette-3","textColor":"palette-1","coblocks":{"id":"912213725364"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-912213725364"><div class="wp-block-coblocks-feature__inner has-palette-3-background-color has-background has-text-color has-palette-1-color has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"blocks","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"palette-3"} -->
+<div class="wp-block-column has-palette-3-background-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23652&quot; d=&quot;M21 17H7V3h14m0-2H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2M3 5H1v16a2 2 0 0 0 2 2h16v-2H3m12.96-10.71l-2.75 3.54l-1.96-2.36L8.5 15h11l-3.54-4.71Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4>Drag &amp; Drop</h4>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Drag &amp; Drop</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>Compatible with WordPress block editor or any page builder.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature --></div></div>
-<!-- /wp:coblocks/features -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Compatible with WordPress block editor or any page builder.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
 
 <!-- wp:spacer {"height":"70px"} -->
 <div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -7325,8 +7361,8 @@ Post type: page
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-26 12:41:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-26 10:41:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-12 21:43:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-12 19:43:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 14:43:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 12:43:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-1]]></wp:post_name>
@@ -7352,6 +7388,10 @@ Post type: page
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 	<item>
 		<title><![CDATA[Gallery]]></title>
@@ -7360,17 +7400,17 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/deborah/?page_id=43</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:media-text {"align":"full","backgroundColor":"palette-4","mediaPosition":"right","mediaId":201,"mediaLink":"http://themedemos.webmandesign.eu/deborah/sample/_brown-and-white-cathedral-interior-3661397/","mediaType":"image","verticalAlignment":"center","imageFill":true,"className":"has-full-screen-min-height"} -->
-<div class="wp-block-media-text alignfull has-media-on-the-right has-background has-palette-4-background-color is-stacked-on-mobile is-vertically-aligned-center is-image-fill has-full-screen-min-height"><figure class="wp-block-media-text__media" style="background-image:url(https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397.jpg);background-position:50% 50%"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397.jpg" alt="Don't forget to set alt text." class="wp-image-201"/></figure><div class="wp-block-media-text__content"><!-- wp:spacer -->
+		<content:encoded><![CDATA[<!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":201,"mediaType":"image","verticalAlignment":"center","imageFill":true,"backgroundColor":"palette-4","className":"alignfull has-background has-full-screen-min-height"} -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center is-image-fill has-background has-full-screen-min-height has-palette-4-background-color"><div class="wp-block-media-text__content"><!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"level":1,"customFontSize":24,"fontWeight":"normal","textTransform":"uppercase"} -->
-<h1 class="has-custom-weight has-custom-transform" style="font-weight:normal;text-transform:uppercase;font-size:24px">How we see the world</h1>
+<!-- wp:heading {"level":1,"style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"400"}},"className":"has-custom-weight has-custom-transform","fontSize":"extra-large"} -->
+<h1 class="wp-block-heading has-custom-weight has-custom-transform has-extra-large-font-size" style="font-style:normal;font-weight:400;text-transform:uppercase">How we see the world</h1>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"textColor":"palette-1","fontSize":"huge","lineHeight":1.25,"fontWeight":"bold"} -->
-<p style="line-height:1.25;font-weight:bold" class="has-text-color has-huge-font-size has-palette-1-color has-custom-weight has-custom-lineheight">Exploring Through The Camera Lens</p>
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"textColor":"palette-1","fontSize":"huge"} -->
+<p class="has-palette-1-color has-text-color has-huge-font-size" style="font-style:normal;font-weight:700">Exploring Through The Camera Lens</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
@@ -7379,16 +7419,16 @@ Post type: page
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
+<!-- /wp:spacer --></div><figure class="wp-block-media-text__media" style="background-image:url(https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397.jpg);background-position:50% 50%"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397.jpg" alt="Don't forget to set alt text." class="wp-image-201 size-full"/></figure></div>
 <!-- /wp:media-text -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:media-text {"mediaId":193,"mediaLink":"http://themedemos.webmandesign.eu/deborah/sample/_photo-of-church-building-3389616/","mediaType":"image"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_photo-of-church-building-3389616.jpg" alt="Don't forget to set alt text." class="wp-image-193"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
-<h2>That you can create the world that you want</h2>
+<!-- wp:media-text {"align":"wide","mediaId":193,"mediaType":"image","className":"alignwide"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_photo-of-church-building-3389616.jpg" alt="Don't forget to set alt text." class="wp-image-193 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
+<h2 class="wp-block-heading">That you can create the world that you want</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"dropCap":true,"fontSize":"large"} -->
@@ -7408,49 +7448,73 @@ Post type: page
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:coblocks/gallery-collage {"align":"wide","gutter":"large","className":"is-style-tiled"} -->
-<div class="wp-block-coblocks-gallery-collage alignwide has-large-gutter is-style-tiled"><ul><li class="wp-block-coblocks-gallery-collage__item item-1"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397.jpg" alt="Don't forget to set alt text." data-index="0" data-id="201" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_brown-and-white-cathedral-interior-3661397/" class="wp-image-201"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-2"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_grayscale-photography-of-cathedral-interior-1599480-1360x765.jpg" alt="Don't forget to set alt text." data-index="1" data-id="121" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_grayscale-photography-of-cathedral-interior-1599480/" class="wp-image-121"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-3"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_zelle-duda-Zd6ZHK_Gh7s-unsplash.jpg" alt="Don't forget to set alt text." data-index="2" data-id="232" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_zelle-duda-zd6zhk_gh7s-unsplash/" class="wp-image-232"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-4"><figure class="wp-block-coblocks-gallery-collage__figure"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_pedro-lima-IkqhfoJjwSI-unsplash-1360x765.jpg" alt="Don't forget to set alt text." data-index="3" data-id="196" data-imglink="" data-link="http://themedemos.webmandesign.eu/deborah/sample/_pedro-lima-ikqhfojjwsi-unsplash/" class="wp-image-196"/></figure></li></ul></div>
-<!-- /wp:coblocks/gallery-collage -->
+<!-- wp:columns {"verticalAlignment":"bottom","align":"wide"} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-bottom"><!-- wp:column {"verticalAlignment":"bottom","width":""} -->
+<div class="wp-block-column is-vertically-aligned-bottom"><!-- wp:image {"id":196,"aspectRatio":"4/3","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_pedro-lima-IkqhfoJjwSI-unsplash-1360x765.jpg" alt="Don't forget to set alt text." class="wp-image-196" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"bottom","width":"33%"} -->
+<div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:33%"><!-- wp:image {"id":193,"aspectRatio":"1","scale":"cover","sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_photo-of-church-building-3389616-640x960.jpg" alt="Don't forget to set alt text." class="wp-image-193" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"verticalAlignment":"top","align":"wide"} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"33%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:33%"><!-- wp:image {"id":201,"aspectRatio":"1","scale":"cover","sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397-640x960.jpg" alt="Don't forget to set alt text." class="wp-image-201" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":203,"aspectRatio":"4/3","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_patrick-fore-b_SHPU5M3nk-unsplash-1360x765.jpg" alt="Don't forget to set alt text." class="wp-image-203" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:image {"align":"full","id":192,"sizeSlug":"full","className":"is-style-top-wave","noBottomMargin":true} -->
-<figure class="wp-block-image alignfull size-full is-style-top-wave mb-0"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_white-and-black-houses-with-brown-grass-with-overlooking-1245066.jpg" alt="Don't forget to set alt text." class="wp-image-192"/></figure>
+<!-- wp:image {"align":"full","id":192,"width":2600,"height":900,"scale":"cover","sizeSlug":"full","className":"has-no-margin-bottom is-style-abs-curved-top"} -->
+<figure class="wp-block-image alignfull size-full is-resized has-no-margin-bottom is-style-abs-curved-top"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_white-and-black-houses-with-brown-grass-with-overlooking-1245066.jpg" alt="Don't forget to set alt text." class="wp-image-192" style="object-fit:cover;width:2600px;height:900px" width="2600" height="900"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:group {"backgroundColor":"palette-3","textColor":"palette-1","align":"full","className":"has-no-padding","noTopMargin":true} -->
-<div class="wp-block-group alignfull has-palette-3-background-color has-palette-1-color has-text-color has-background has-no-padding mt-0"><div class="wp-block-group__inner-container"><!-- wp:spacer {"height":150} -->
+<!-- wp:group {"align":"full","backgroundColor":"palette-3","textColor":"palette-1","className":"has-no-padding mt-0"} -->
+<div class="wp-block-group alignfull has-no-padding mt-0 has-palette-1-color has-palette-3-background-color has-text-color has-background"><!-- wp:spacer {"height":"150px"} -->
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"align":"center"} -->
-<h2 class="has-text-align-center">Just relax and let it flow.<br />That easy.</h2>
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Just relax and let it flow.<br />That easy.</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","textColor":"palette-1"} -->
-<p class="has-text-color has-text-align-center has-palette-1-color">Just relax and let it flow. That easy. That's what makes life fun. That you can make these decisions. That you can create the world that you want. If you didn't have baby clouds, you wouldn't have big clouds.</p>
+<p class="has-text-align-center has-palette-1-color has-text-color">Just relax and let it flow. That easy. That's what makes life fun. That you can make these decisions. That you can create the world that you want. If you didn't have baby clouds, you wouldn't have big clouds.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:button {"backgroundColor":"palette-1","textColor":"palette-3","align":"center","className":"has-large-font-size"} -->
-<div class="wp-block-button aligncenter has-large-font-size"><a class="wp-block-button__link has-text-color has-palette-3-color has-background has-palette-1-background-color" href="#purchaselink">Get in touch</a></div>
+<!-- wp:button {"backgroundColor":"palette-1","textColor":"palette-3","className":"has-large-font-size aligncenter"} -->
+<div class="wp-block-button has-large-font-size aligncenter"><a class="wp-block-button__link has-palette-3-color has-palette-1-background-color has-text-color has-background wp-element-button" href="#purchaselink">Get in touch</a></div>
 <!-- /wp:button -->
 
-<!-- wp:spacer {"noTopMargin":true} -->
+<!-- wp:spacer {"className":"mt-0"} -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer mt-0"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:image {"align":"full","id":202,"sizeSlug":"full","className":"has-no-margin-bottom"} -->
-<figure class="wp-block-image alignfull size-full has-no-margin-bottom"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_architecture-4731286.png" alt="Don't forget to set alt text." class="wp-image-202"/></figure>
-<!-- /wp:image --></div></div>
+<!-- wp:image {"align":"full","id":202,"sizeSlug":"full","className":"has-no-margin"} -->
+<figure class="wp-block-image alignfull size-full has-no-margin"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_architecture-4731286.png" alt="Don't forget to set alt text." class="wp-image-202"/></figure>
+<!-- /wp:image --></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-26 12:41:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-26 10:41:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-07-10 11:17:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-07-10 09:17:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 14:20:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 12:20:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery]]></wp:post_name>
@@ -7475,6 +7539,10 @@ Post type: page
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 	<item>
@@ -7515,7 +7583,7 @@ Post type: page
 		<content:encoded><![CDATA[<!-- wp:columns {"verticalAlignment":"center","align":"wide","className":"has-no-margin-bottom"} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-center has-no-margin-bottom"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"level":1} -->
-<h1>Contact Us</h1>
+<h1 class="wp-block-heading">Contact Us</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"dropCap":true,"fontSize":"large"} -->
@@ -7525,7 +7593,7 @@ Post type: page
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"className":"has-item-style"} -->
-<div class="wp-block-group has-item-style"><div class="wp-block-group__inner-container"><!-- wp:html -->
+<div class="wp-block-group has-item-style"><!-- wp:html -->
 <form>
 <p style="width: 48%; float: left;"><label for="field1">Your name</label><input id="field1" style="width: 100%;" type="text"/></p>
 <p style="width: 48%; float: right;"><label for="field2">Your email</label><input id="field2" style="width: 100%;" type="email"/></p>
@@ -7533,12 +7601,12 @@ Post type: page
 <p><small><strong>This is only a dummy form placeholder.</strong> Use a plugin to create forms, such as Caldera Forms or Contact Form 7.</small></p>
 <p><input title="This is just a demo placeholder form" type="submit" value="Does not work"/></p>
 </form>
-<!-- /wp:html --></div></div>
+<!-- /wp:html --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":70} -->
+<!-- wp:spacer {"height":"70px"} -->
 <div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -7546,11 +7614,11 @@ Post type: page
 <figure class="wp-block-image alignfull size-full has-no-margin-bottom"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_architecture-4731286.png" alt="Don't forget to set alt text." class="wp-image-202"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:group {"backgroundColor":"palette-2","textColor":"palette-5","align":"full","className":"has-no-margin-bottom"} -->
-<div class="wp-block-group alignfull has-palette-2-background-color has-palette-5-color has-text-color has-background has-no-margin-bottom"><div class="wp-block-group__inner-container"><!-- wp:columns {"align":"wide"} -->
+<!-- wp:group {"align":"full","backgroundColor":"palette-2","textColor":"palette-5","className":"has-no-margin-bottom"} -->
+<div class="wp-block-group alignfull has-no-margin-bottom has-palette-5-color has-palette-2-background-color has-text-color has-background"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading {"textColor":"palette-5"} -->
-<h2 class="has-palette-5-color has-text-color">This present moment is perfect simply due to the fact you're experiencing it</h2>
+<h2 class="wp-block-heading has-palette-5-color has-text-color">This present moment is perfect simply due to the fact you're experiencing it</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -7563,75 +7631,69 @@ Post type: page
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":75} -->
+<!-- wp:spacer {"height":"75px"} -->
 <div style="height:75px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"className":"has-item-style"} -->
 <div class="wp-block-column has-item-style"><!-- wp:heading {"level":3,"textColor":"palette-5","className":"has-no-margin-top"} -->
-<h3 class="has-palette-5-color has-text-color has-no-margin-top">Head Office</h3>
+<h3 class="wp-block-heading has-no-margin-top has-palette-5-color has-text-color">Head Office</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>Push a little tree out of your brush like that. Remember how free clouds are. They just lay around in the sky.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:jetpack/contact-info -->
-<div class="wp-block-jetpack-contact-info"><!-- wp:jetpack/phone {"phone":"(800) 123-4567"} -->
-<div class="wp-block-jetpack-phone"><a href="tel:8001234567">(800) 123-4567</a></div>
-<!-- /wp:jetpack/phone -->
+<!-- wp:paragraph -->
+<p><a href="tel:8001234567">(800) 123-4567</a></p>
+<!-- /wp:paragraph -->
 
-<!-- wp:jetpack/address {"address":"1 Main Avenue","city":"Sermontown","postal":"90080","country":"Ireland"} -->
-<div class="wp-block-jetpack-address"><div class="jetpack-address__address jetpack-address__address1">1 Main Avenue</div><div><span class="jetpack-address__city">Sermontown</span>, <span class="jetpack-address__region"></span> <span class="jetpack-address__postal">90080</span></div><div class="jetpack-address__country">Ireland</div></div>
-<!-- /wp:jetpack/address --></div>
-<!-- /wp:jetpack/contact-info --></div>
+<!-- wp:paragraph -->
+<p>1 Main Avenue<br />Sermontown, 90080<br />Ireland</p>
+<!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"has-item-style"} -->
 <div class="wp-block-column has-item-style"><!-- wp:heading {"level":3,"textColor":"palette-5","className":"has-no-margin-top"} -->
-<h3 class="has-palette-5-color has-text-color has-no-margin-top">Events Office</h3>
+<h3 class="wp-block-heading has-no-margin-top has-palette-5-color has-text-color">Events Office</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>You can just push a little tree out of your brush like that. Remember how free clouds are.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:jetpack/contact-info -->
-<div class="wp-block-jetpack-contact-info"><!-- wp:jetpack/phone {"phone":"(800) 123-4567"} -->
-<div class="wp-block-jetpack-phone"><a href="tel:8001234567">(800) 123-4567</a></div>
-<!-- /wp:jetpack/phone -->
+<!-- wp:paragraph -->
+<p><a href="tel:8001234567">(800) 123-4567</a></p>
+<!-- /wp:paragraph -->
 
-<!-- wp:jetpack/address {"address":"1 Main Avenue","city":"Sermontown","postal":"90080","country":"Ireland"} -->
-<div class="wp-block-jetpack-address"><div class="jetpack-address__address jetpack-address__address1">1 Main Avenue</div><div><span class="jetpack-address__city">Sermontown</span>, <span class="jetpack-address__region"></span> <span class="jetpack-address__postal">90080</span></div><div class="jetpack-address__country">Ireland</div></div>
-<!-- /wp:jetpack/address --></div>
-<!-- /wp:jetpack/contact-info --></div>
+<!-- wp:paragraph -->
+<p>1 Main Avenue<br />Sermontown,&nbsp;90080<br />Ireland</p>
+<!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"has-item-style"} -->
 <div class="wp-block-column has-item-style"><!-- wp:heading {"level":3,"textColor":"palette-5","className":"has-no-margin-top"} -->
-<h3 class="has-palette-5-color has-text-color has-no-margin-top">Services Office</h3>
+<h3 class="wp-block-heading has-no-margin-top has-palette-5-color has-text-color">Services Office</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>Little tree out of your brush like that. Remember how free clouds are. They just lay around in the sky all day.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:jetpack/contact-info -->
-<div class="wp-block-jetpack-contact-info"><!-- wp:jetpack/phone {"phone":"(800) 123-4567"} -->
-<div class="wp-block-jetpack-phone"><a href="tel:8001234567">(800) 123-4567</a></div>
-<!-- /wp:jetpack/phone -->
+<!-- wp:paragraph -->
+<p><a href="tel:8001234567">(800) 123-4567</a></p>
+<!-- /wp:paragraph -->
 
-<!-- wp:jetpack/address {"address":"1 Main Avenue","city":"Sermontown","postal":"90080","country":"Ireland"} -->
-<div class="wp-block-jetpack-address"><div class="jetpack-address__address jetpack-address__address1">1 Main Avenue</div><div><span class="jetpack-address__city">Sermontown</span>, <span class="jetpack-address__region"></span> <span class="jetpack-address__postal">90080</span></div><div class="jetpack-address__country">Ireland</div></div>
-<!-- /wp:jetpack/address --></div>
-<!-- /wp:jetpack/contact-info --></div>
+<!-- wp:paragraph -->
+<p>1 Main Avenue<br />Sermontown,&nbsp;90080<br />Ireland</p>
+<!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":50} -->
+<!-- wp:spacer {"height":"50px"} -->
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
+<!-- /wp:spacer --></div>
 <!-- /wp:group -->
 
 <!-- wp:image {"align":"full","id":143,"sizeSlug":"full"} -->
@@ -7641,8 +7703,8 @@ Post type: page
 		<wp:post_id>47</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-26 12:41:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-26 10:41:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-07-10 11:15:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-07-10 09:15:14]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 14:22:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 12:22:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-1]]></wp:post_name>
@@ -7922,33 +7984,41 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/deborah/?page_id=51</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:quote {"align":"center","className":"is-style-large","customTextColor":"#222222"} -->
-<blockquote class="wp-block-quote has-text-align-center is-style-large" style="color:#222222"><p>And I a the her. Easier may box I quarter with thin in with better a head in during audience. At and the or of past we're little secure in on willingly of little control frugality to you because himself familiar were of immune pushed him more will.</p></blockquote>
+		<content:encoded><![CDATA[<!-- wp:quote {"align":"center","textColor":"palette-1","className":"is-style-large"} -->
+<blockquote class="wp-block-quote has-text-align-center is-style-large has-palette-1-color has-text-color"><!-- wp:paragraph -->
+<p>And I a the her. Easier may box I quarter with thin in with better a head in during audience. At and the or of past we're little secure in on willingly of little control frugality to you because himself familiar were of immune pushed him more will.</p>
+<!-- /wp:paragraph --><cite><strong>Joshua Pastor</strong></cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:gallery {"ids":[198,194],"sizeSlug":"medium","align":"wide","className":"has-no-margin-bottom"} -->
-<figure class="wp-block-gallery alignwide columns-2 is-cropped has-no-margin-bottom"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_james-coleman-QHRZv6PIW4s-unsplash-640x360.jpg" alt="Don't forget to set alt text." data-id="198" data-full-url="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_james-coleman-QHRZv6PIW4s-unsplash.jpg" data-link="http://themedemos.webmandesign.eu/deborah/sample/_james-coleman-qhrzv6piw4s-unsplash/" class="wp-image-198"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_rod-long-TzgZrZQFVPc-unsplash-640x360.jpg" alt="Don't forget to set alt text." data-id="194" data-full-url="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_rod-long-TzgZrZQFVPc-unsplash.jpg" data-link="http://themedemos.webmandesign.eu/deborah/sample/_rod-long-tzgzrzqfvpc-unsplash/" class="wp-image-194"/></figure></li></ul></figure>
+<!-- wp:gallery {"linkTo":"none","sizeSlug":"medium","align":"wide","className":"has-no-margin-bottom has-no-gap"} -->
+<figure class="wp-block-gallery alignwide has-nested-images columns-default is-cropped has-no-margin-bottom has-no-gap"><!-- wp:image {"id":198,"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_james-coleman-QHRZv6PIW4s-unsplash-640x360.jpg" alt="Don't forget to set alt text." class="wp-image-198"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":194,"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_rod-long-TzgZrZQFVPc-unsplash-640x360.jpg" alt="Don't forget to set alt text." class="wp-image-194"/></figure>
+<!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
-<!-- wp:group {"backgroundColor":"palette-3","textColor":"palette-1","align":"wide","noTopMargin":true} -->
-<div class="wp-block-group alignwide has-palette-3-background-color has-palette-1-color has-text-color has-background mt-0"><div class="wp-block-group__inner-container"><!-- wp:spacer {"height":75} -->
+<!-- wp:group {"align":"wide","backgroundColor":"palette-3","textColor":"palette-1","className":"mt-0"} -->
+<div class="wp-block-group alignwide mt-0 has-palette-1-color has-palette-3-background-color has-text-color has-background"><!-- wp:spacer {"height":"75px"} -->
 <div style="height:75px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textColor":"palette-1"} -->
-<h2 class="has-palette-1-color has-text-color">Change your perspective</h2>
+<h2 class="wp-block-heading has-palette-1-color has-text-color">Change your perspective</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
 <p class="has-large-font-size">Maybe he has a little friend that lives right over here. At home you have unlimited time. And maybe a little bush lives there.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:separator {"className":"is-style-wide"} -->
-<hr class="wp-block-separator is-style-wide"/>
+<!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-css-opacity is-style-wide"/>
 <!-- /wp:separator -->
 
 <!-- wp:columns -->
@@ -7965,22 +8035,22 @@ Post type: page
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":75} -->
+<!-- wp:spacer {"height":"75px"} -->
 <div style="height:75px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
+<!-- /wp:spacer --></div>
 <!-- /wp:group -->
 
-<!-- wp:media-text {"backgroundColor":"palette-4","mediaPosition":"right","mediaId":201,"mediaLink":"http://themedemos.webmandesign.eu/deborah/sample/_brown-and-white-cathedral-interior-3661397/","mediaType":"image"} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right has-background has-palette-4-background-color is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397.jpg" alt="Don't forget to set alt text." class="wp-image-201"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
-<h2>Tree trunks grow however makes them happy</h2>
+<!-- wp:media-text {"align":"wide","mediaPosition":"right","mediaId":201,"mediaType":"image","backgroundColor":"palette-4","className":"alignwide has-background"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile has-background has-palette-4-background-color"><div class="wp-block-media-text__content"><!-- wp:heading -->
+<h2 class="wp-block-heading">Tree trunks grow however makes them happy</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"palette-1","fontSize":"extra-large"} -->
-<p class="has-text-color has-extra-large-font-size has-palette-1-color">This is your world. Just let these leaves jump off the brush The man who does the best job is the one who is happy at his job.</p>
+<p class="has-palette-1-color has-text-color has-extra-large-font-size">This is your world. Just let these leaves jump off the brush The man who does the best job is the one who is happy at his job.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:separator {"className":"is-style-wide"} -->
-<hr class="wp-block-separator is-style-wide"/>
+<!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-css-opacity is-style-wide"/>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
@@ -7989,16 +8059,16 @@ Post type: page
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"palette-1","textColor":"palette-3","className":"has-large-font-size"} -->
-<div class="wp-block-button has-large-font-size"><a class="wp-block-button__link has-text-color has-palette-3-color has-background has-palette-1-background-color" href="#0" rel="">Apply here</a></div>
+<div class="wp-block-button has-large-font-size"><a class="wp-block-button__link has-palette-3-color has-palette-1-background-color has-text-color has-background wp-element-button" href="#0" rel="">Apply here</a></div>
 <!-- /wp:button --></div>
-<!-- /wp:buttons --></div></div>
+<!-- /wp:buttons --></div><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397.jpg" alt="Don't forget to set alt text." class="wp-image-201 size-full"/></figure></div>
 <!-- /wp:media-text -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[Those great big fluffy clouds. Isn't that fantastic? Let's have a nice tree right here. See there how easy that is. Didn't you know you had that much power? You can move mountains. You can do anything.]]></excerpt:encoded>
 		<wp:post_id>51</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-26 12:42:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-26 10:42:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-07-01 12:15:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-07-01 10:15:19]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 14:52:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 12:52:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mission]]></wp:post_name>
@@ -8038,10 +8108,16 @@ Post type: page
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:coblocks/icon {"icon":"accessible","iconSize":"advanced","hasContentAlign":false,"backgroundColor":"palette-3","iconColor":"palette-1","height":120,"width":120,"borderRadius":200,"padding":30,"className":"is-style-outlined"} /-->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:group {"backgroundColor":"palette-3","className":"is-style-abs-curved","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-abs-curved has-palette-3-background-color has-background"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23652&quot; d=&quot;m14 16l1.32 1.76C14.32 19.68 12.31 21 10 21c-3.31 0-6-2.69-6-6c0-2.43 1.46-4.5 3.55-5.45l.21 2.17C6.71 12.44 6 13.63 6 15c0 2.21 1.79 4 4 4c1.86 0 3.41-1.28 3.86-3H14m5.55.11l-1.25.62L15.5 13h-4.59l-.2-2H14V9h-3.5l-.3-3c1.01-.12 1.8-.96 1.8-2a2 2 0 1 0-4 0v.1L9.1 15h5.4l3.2 4.27l2.75-1.37l-.9-1.79Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
 
 <!-- wp:heading {"className":"h3"} -->
-<h2 class="h3" id="inclusive-barrierless">Inclusive &amp; Barrierless</h2>
+<h2 class="wp-block-heading h3" id="inclusive-barrierless">Inclusive &amp; Barrierless</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -8050,10 +8126,16 @@ Post type: page
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:coblocks/icon {"icon":"paint","iconSize":"advanced","hasContentAlign":false,"backgroundColor":"palette-3","iconColor":"palette-1","height":120,"width":120,"borderRadius":200,"padding":30,"className":"is-style-outlined"} /-->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:group {"backgroundColor":"palette-3","className":"is-style-abs-curved","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-abs-curved has-palette-3-background-color has-background"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23652&quot; d=&quot;M8 3C5.79 3 4 4.79 4 7v7c0 1.1.9 2 2 2h3v4c0 1.1.9 2 2 2h2c1.1 0 2-.9 2-2v-4h3c1.1 0 2-.9 2-2V3H8m0 2h4v2h2V5h1v4h2V5h1v5H6V7c0-1.1.9-2 2-2m-2 9v-2h12v2H6Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
 
 <!-- wp:heading {"className":"h3"} -->
-<h2 class="h3" id="fully-customizable">Fully Customizable</h2>
+<h2 class="wp-block-heading h3" id="fully-customizable">Fully Customizable</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -8068,10 +8150,16 @@ Post type: page
 
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:coblocks/icon {"icon":"security","iconSize":"advanced","hasContentAlign":false,"backgroundColor":"palette-3","iconColor":"palette-1","height":120,"width":120,"borderRadius":200,"padding":30,"className":"is-style-outlined"} /-->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:group {"backgroundColor":"palette-3","className":"is-style-abs-curved","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-abs-curved has-palette-3-background-color has-background"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23652&quot; d=&quot;M12 12h7c-.53 4.11-3.28 7.78-7 8.92V12H5V6.3l7-3.11M12 1L3 5v6c0 5.55 3.84 10.73 9 12c5.16-1.27 9-6.45 9-12V5l-9-4Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
 
 <!-- wp:heading {"className":"h3"} -->
-<h2 class="h3" id="securely-coded">Securely Coded</h2>
+<h2 class="wp-block-heading h3" id="securely-coded">Securely Coded</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -8080,10 +8168,16 @@ Post type: page
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:coblocks/icon {"icon":"flower","iconSize":"advanced","hasContentAlign":false,"backgroundColor":"palette-3","iconColor":"palette-1","height":120,"width":120,"borderRadius":200,"padding":30,"className":"is-style-outlined"} /-->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:group {"backgroundColor":"palette-3","className":"is-style-abs-curved","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-abs-curved has-palette-3-background-color has-background"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23652&quot; d=&quot;M3 13a9 9 0 0 0 9 9a9 9 0 0 0-9-9m2.44 2.44c1.91.71 3.41 2.21 4.12 4.12a6.986 6.986 0 0 1-4.12-4.12M12 22a9 9 0 0 0 9-9a9 9 0 0 0-9 9m2.42-2.43a6.876 6.876 0 0 1 4.15-4.15a7.03 7.03 0 0 1-4.15 4.15M12 14a6 6 0 0 0 6-6V3a5.9 5.9 0 0 0-2.16.39c-.55.23-1.04.57-1.45 1L12 2L9.61 4.39c-.41-.43-.9-.77-1.45-1A5.9 5.9 0 0 0 6 3v5a6 6 0 0 0 6 6M8 5.61l1.57 1.65L12 4.83l2.43 2.43L16 5.61V8a4 4 0 0 1-4 4a4 4 0 0 1-4-4V5.61Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
 
 <!-- wp:heading {"className":"h3"} -->
-<h2 class="h3" id="lightweight-fast">Lightweight &amp; Fast</h2>
+<h2 class="wp-block-heading h3" id="lightweight-fast">Lightweight &amp; Fast</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -8092,19 +8186,17 @@ Post type: page
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":"70px","noBottomMargin":true} -->
-<div style="height:70px" aria-hidden="true" class="wp-block-spacer mb-0"></div>
+<!-- wp:spacer {"className":"mb-0"} -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer mb-0"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:coblocks/shape-divider {"backgroundHeight":"20px","color":"palette-3","align":"full","className":"is-style-hills"} /-->
-
-<!-- wp:group {"align":"full","backgroundColor":"palette-3","textColor":"palette-1","className":"has-no-padding-vertical","noTopMargin":true} -->
-<div class="wp-block-group alignfull has-no-padding-vertical has-palette-1-color has-palette-3-background-color has-text-color has-background mt-0"><!-- wp:spacer {"height":"80px"} -->
-<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:group {"align":"full","backgroundColor":"palette-3","textColor":"palette-1","className":"has-no-padding-vertical mt-0 is-style-abs-curved-top"} -->
+<div class="wp-block-group alignfull has-no-padding-vertical mt-0 is-style-abs-curved-top has-palette-1-color has-palette-3-background-color has-text-color has-background"><!-- wp:spacer {"height":"120px"} -->
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center","textColor":"palette-1"} -->
-<h2 class="has-text-align-center has-palette-1-color has-text-color" id="contact-us-now">Contact us now</h2>
+<h2 class="wp-block-heading has-text-align-center has-palette-1-color has-text-color" id="contact-us-now">Contact us now</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"large"} -->
@@ -8113,7 +8205,7 @@ Post type: page
 
 <!-- wp:buttons {"className":"has-large-font-size","layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons has-large-font-size"><!-- wp:button {"backgroundColor":"palette-1","textColor":"palette-3","className":"is-style-fill"} -->
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-palette-3-color has-palette-1-background-color has-text-color has-background" href="#purchaselink">Get in touch</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-palette-3-color has-palette-1-background-color has-text-color has-background wp-element-button" href="#purchaselink">Get in touch</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -8129,8 +8221,8 @@ Post type: page
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-26 12:42:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-26 10:42:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-12 21:41:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-12 19:41:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 14:49:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 12:49:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services]]></wp:post_name>
@@ -8382,13 +8474,13 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/deborah/?page_id=123</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:media-text {"mediaId":89,"mediaType":"image","className":"alignwide has-no-margin-bottom"} -->
+		<content:encoded><![CDATA[<!-- wp:media-text {"align":"wide","mediaId":89,"mediaType":"image","className":"alignwide has-no-margin-bottom"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile has-no-margin-bottom"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_etty-fidele-VNYCIbZju0o-unsplash.jpg" alt="Don't forget to set alt text." class="wp-image-89 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading -->
-<h2>Change your perspective</h2>
+<h2 class="wp-block-heading">Change your perspective</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
@@ -8415,43 +8507,49 @@ Post type: page
 <!-- /wp:media-text -->
 
 <!-- wp:group {"align":"full","backgroundColor":"palette-3","textColor":"palette-1","className":"has-no-padding"} -->
-<div class="wp-block-group alignfull has-no-padding has-palette-1-color has-palette-3-background-color has-text-color has-background"><!-- wp:coblocks/features {"marginBottom":0,"marginBottomTablet":0,"marginBottomMobile":0,"headingLevel":2,"columns":3,"align":"wide","noBottomMargin":true,"coblocks":{"id":"913134844847"},"gutter":"custom","gutterCustom":"0"} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-913134844847 mb-0"><div class="wp-block-coblocks-features__inner has-columns has-3-columns has-responsive-columns has-center-content has-custom-gutter" style="--coblocks-custom-gutter:0em"><!-- wp:coblocks/feature {"paddingSize":"huge","headingLevel":2,"coblocks":{"id":"913134844887"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-913134844887"><div class="wp-block-coblocks-feature__inner has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"accessible","hasContentAlign":false} /-->
+<div class="wp-block-group alignfull has-no-padding has-palette-1-color has-palette-3-background-color has-text-color has-background"><!-- wp:columns {"align":"wide","className":"has-no-margin-vertical"} -->
+<div class="wp-block-columns alignwide has-no-margin-vertical"><!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"palette-3"} -->
+<div class="wp-block-column has-palette-3-background-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23652&quot; d=&quot;m14 16l1.32 1.76C14.32 19.68 12.31 21 10 21c-3.31 0-6-2.69-6-6c0-2.43 1.46-4.5 3.55-5.45l.21 2.17C6.71 12.44 6 13.63 6 15c0 2.21 1.79 4 4 4c1.86 0 3.41-1.28 3.86-3H14m5.55.11l-1.25.62L15.5 13h-4.59l-.2-2H14V9h-3.5l-.3-3c1.01-.12 1.8-.96 1.8-2a2 2 0 1 0-4 0v.1L9.1 15h5.4l3.2 4.27l2.75-1.37l-.9-1.79Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"placeholder":"Add feature title…","fontSize":"extra-large"} -->
-<h2 class="has-extra-large-font-size">Accessibile</h2>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Accessible</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>Makes your church or religious website inclusive and accessible.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Makes your church or religious website inclusive and accessible.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"huge","customBackgroundColor":"#eed792","headingLevel":2,"coblocks":{"id":"913134844888"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-913134844888"><div class="wp-block-coblocks-feature__inner has-background has-padding has-huge-padding" style="background-color:#eed792"><!-- wp:coblocks/icon {"icon":"flower","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"color":{"background":"#eed792"},"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}}} -->
+<div class="wp-block-column has-background" style="background-color:#eed792;padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23652&quot; d=&quot;M3 13a9 9 0 0 0 9 9a9 9 0 0 0-9-9m2.44 2.44c1.91.71 3.41 2.21 4.12 4.12a6.986 6.986 0 0 1-4.12-4.12M12 22a9 9 0 0 0 9-9a9 9 0 0 0-9 9m2.42-2.43a6.876 6.876 0 0 1 4.15-4.15a7.03 7.03 0 0 1-4.15 4.15M12 14a6 6 0 0 0 6-6V3a5.9 5.9 0 0 0-2.16.39c-.55.23-1.04.57-1.45 1L12 2L9.61 4.39c-.41-.43-.9-.77-1.45-1A5.9 5.9 0 0 0 6 3v5a6 6 0 0 0 6 6M8 5.61l1.57 1.65L12 4.83l2.43 2.43L16 5.61V8a4 4 0 0 1-4 4a4 4 0 0 1-4-4V5.61Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"placeholder":"Add feature title…","fontSize":"extra-large"} -->
-<h2 class="has-extra-large-font-size">Lightweight</h2>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Lightweight</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>No bloat, no lock-in effect, securely coded with SEO and speed optimization.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">No bloat, no lock-in effect, securely coded with SEO and speed optimization.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"huge","headingLevel":2,"coblocks":{"id":"913134848480"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-913134848480"><div class="wp-block-coblocks-feature__inner has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"blocks","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"palette-3"} -->
+<div class="wp-block-column has-palette-3-background-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23652&quot; d=&quot;M21 17H7V3h14m0-2H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2M3 5H1v16a2 2 0 0 0 2 2h16v-2H3m12.96-10.71l-2.75 3.54l-1.96-2.36L8.5 15h11l-3.54-4.71Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"placeholder":"Add feature title…","fontSize":"extra-large"} -->
-<h2 class="has-extra-large-font-size">Drag &amp; Drop</h2>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Drag &amp; Drop</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>Compatible with WordPress block editor or any page builder.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature --></div></div>
-<!-- /wp:coblocks/features --></div>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Compatible with WordPress block editor or any page builder.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
 <!-- /wp:group -->
 
 <!-- wp:spacer -->
@@ -8477,7 +8575,9 @@ Post type: page
 <!-- /wp:spacer -->
 
 <!-- wp:quote {"className":"is-style-large"} -->
-<blockquote class="wp-block-quote is-style-large"><p>Go out on a limb – that’s where the fruit is. And just raise cain. Clouds are free they come and go as they please. Let’s put some happy little bushes on the other side now.</p><cite>Person Name</cite></blockquote>
+<blockquote class="wp-block-quote is-style-large"><!-- wp:paragraph -->
+<p>Go out on a limb – that’s where the fruit is. And just raise cain. Clouds are free they come and go as they please. Let’s put some happy little bushes on the other side now.</p>
+<!-- /wp:paragraph --><cite>Person Name</cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:spacer {"height":"50px"} -->
@@ -8487,8 +8587,8 @@ Post type: page
 		<wp:post_id>123</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-27 19:28:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-27 17:28:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-13 18:43:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-13 16:43:50]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 14:32:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 12:32:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-2]]></wp:post_name>
@@ -8637,7 +8737,7 @@ Post type: page
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/deborah/?page_id=135</guid>
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_grayscale-photography-of-people-raising-hands-2014775.jpg","id":191,"hasParallax":true,"dimRatio":90,"overlayColor":"palette-2","align":"full","className":"has-phi-screen-min-height"} -->
-<div class="wp-block-cover alignfull has-parallax has-phi-screen-min-height" style="background-image:url(https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_grayscale-photography-of-people-raising-hands-2014775.jpg)"><span aria-hidden="true" class="wp-block-cover__background has-palette-2-background-color has-background-dim-90 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":"300px","className":"show-when-header-is-overlaid"} -->
+<div class="wp-block-cover alignfull has-parallax has-phi-screen-min-height"><span aria-hidden="true" class="wp-block-cover__background has-palette-2-background-color has-background-dim-90 has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-191 has-parallax" style="background-position:50% 50%;background-image:url(https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_grayscale-photography-of-people-raising-hands-2014775.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":"300px","className":"show-when-header-is-overlaid"} -->
 <div style="height:300px" aria-hidden="true" class="wp-block-spacer show-when-header-is-overlaid"></div>
 <!-- /wp:spacer -->
 
@@ -8648,11 +8748,11 @@ Post type: page
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":333,"width":120,"height":120,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/deborah-logo-yellow.png" alt="Don't forget to set alt text." class="wp-image-333" width="120" height="120"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/deborah-logo-yellow.png" alt="Don't forget to set alt text." class="wp-image-333" style="width:120px;height:120px" width="120" height="120"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":1} -->
-<h1 id="deborahinclusive-church">Deborah<br />Inclusive Church</h1>
+<h1 class="wp-block-heading" id="deborahinclusive-church">Deborah<br />Inclusive Church</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"extra-large"} -->
@@ -8676,12 +8776,12 @@ Post type: page
 
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"style":{"spacing":{"padding":{"right":"4%"}}}} -->
-<div class="wp-block-column" style="padding-right:4%"><!-- wp:heading {"customFontSize":16,"letterSpacing":1.2,"fontWeight":"normal","textTransform":"uppercase"} -->
-<h2 class="has-custom-weight has-custom-transform has-custom-letterspacing" id="about-us" style="letter-spacing:1.2px;font-weight:normal;text-transform:uppercase;font-size:16px">About Us</h2>
+<div class="wp-block-column" style="padding-right:4%"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"400","textTransform":"uppercase","letterSpacing":"0.1em"}},"className":"has-custom-weight has-custom-transform has-custom-letterspacing","fontSize":"normal"} -->
+<h2 class="wp-block-heading has-custom-weight has-custom-transform has-custom-letterspacing has-normal-font-size" id="about-us" style="font-style:normal;font-weight:400;letter-spacing:0.1em;text-transform:uppercase">About Us</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"className":"h2","lineHeight":1.25} -->
-<p class="h2 has-custom-lineheight" style="line-height:1.25">Give him a friend, we forget the trees get lonely</p>
+<!-- wp:paragraph {"className":"h2"} -->
+<p class="h2">Give him a friend, we forget the trees get lonely</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -8696,21 +8796,59 @@ Post type: page
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":"40px"} -->
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:columns {"align":"full","className":"has-large-padding"} -->
-<div class="wp-block-columns alignfull has-large-padding"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:coblocks/gallery-collage {"className":"is-style-tiled"} -->
-<div aria-label="Collage Gallery" class="wp-block-coblocks-gallery-collage alignwide is-style-tiled has-small-gutter"><ul><li class="wp-block-coblocks-gallery-collage__item item-1"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Don't forget to set alt text." class="wp-image-197" data-id="197" data-imglink="" data-index="0" data-link="http://themedemos.webmandesign.eu/deborah/sample/_pedro-lima-htwsbbclbos-unsplash/" src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_pedro-lima-HtwsbbClBOs-unsplash-1360x765.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-2"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Don't forget to set alt text." class="wp-image-195" data-id="195" data-imglink="" data-index="1" data-link="http://themedemos.webmandesign.eu/deborah/sample/_body-of-water-beside-green-trees-2793048/" src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_body-of-water-beside-green-trees-2793048.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-3"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Don't forget to set alt text." class="wp-image-193" data-id="193" data-imglink="" data-index="2" data-link="http://themedemos.webmandesign.eu/deborah/sample/_photo-of-church-building-3389616/" src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_photo-of-church-building-3389616.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-4"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Don't forget to set alt text." class="wp-image-196" data-id="196" data-imglink="" data-index="3" data-link="http://themedemos.webmandesign.eu/deborah/sample/_pedro-lima-ikqhfojjwsi-unsplash/" src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_pedro-lima-IkqhfoJjwSI-unsplash-1360x765.jpg"/></figure></li></ul></div>
-<!-- /wp:coblocks/gallery-collage --></div>
+<!-- wp:columns {"verticalAlignment":"bottom","align":"full"} -->
+<div class="wp-block-columns alignfull are-vertically-aligned-bottom"><!-- wp:column {"verticalAlignment":"bottom","width":""} -->
+<div class="wp-block-column is-vertically-aligned-bottom"><!-- wp:image {"id":197,"aspectRatio":"4/3","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_pedro-lima-HtwsbbClBOs-unsplash-1360x765.jpg" alt="Don't forget to set alt text." class="wp-image-197" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
 <!-- /wp:column -->
 
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:coblocks/gallery-collage {"className":"is-style-tiled"} -->
-<div aria-label="Collage Gallery" class="wp-block-coblocks-gallery-collage alignwide is-style-tiled has-small-gutter"><ul><li class="wp-block-coblocks-gallery-collage__item item-1"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Don't forget to set alt text." class="wp-image-198" data-id="198" data-imglink="" data-index="0" data-link="http://themedemos.webmandesign.eu/deborah/sample/_james-coleman-qhrzv6piw4s-unsplash/" src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_james-coleman-QHRZv6PIW4s-unsplash-1360x765.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-2"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Don't forget to set alt text." class="wp-image-194" data-id="194" data-imglink="" data-index="1" data-link="http://themedemos.webmandesign.eu/deborah/sample/_rod-long-tzgzrzqfvpc-unsplash/" src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_rod-long-TzgZrZQFVPc-unsplash-1360x765.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-3"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Don't forget to set alt text." class="wp-image-201" data-id="201" data-imglink="" data-index="2" data-link="http://themedemos.webmandesign.eu/deborah/sample/_brown-and-white-cathedral-interior-3661397/" src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-4"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Don't forget to set alt text." class="wp-image-203" data-id="203" data-imglink="" data-index="3" data-link="http://themedemos.webmandesign.eu/deborah/sample/_patrick-fore-b_shpu5m3nk-unsplash/" src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_patrick-fore-b_SHPU5M3nk-unsplash-1360x765.jpg"/></figure></li></ul></div>
-<!-- /wp:coblocks/gallery-collage --></div>
+<!-- wp:column {"verticalAlignment":"bottom","width":"17%"} -->
+<div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:17%"><!-- wp:image {"id":195,"aspectRatio":"1","scale":"cover","sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_body-of-water-beside-green-trees-2793048-640x960.jpg" alt="Don't forget to set alt text." class="wp-image-195" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"bottom","width":""} -->
+<div class="wp-block-column is-vertically-aligned-bottom"><!-- wp:image {"id":198,"aspectRatio":"4/3","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_james-coleman-QHRZv6PIW4s-unsplash-1360x765.jpg" alt="Don't forget to set alt text." class="wp-image-198" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"bottom","width":"17%"} -->
+<div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:17%"><!-- wp:image {"id":194,"aspectRatio":"1","scale":"cover","sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_rod-long-TzgZrZQFVPc-unsplash-640x360.jpg" alt="Don't forget to set alt text." class="wp-image-194" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"verticalAlignment":"top","align":"full"} -->
+<div class="wp-block-columns alignfull are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"17%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:17%"><!-- wp:image {"id":193,"aspectRatio":"1","scale":"cover","sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_photo-of-church-building-3389616-640x960.jpg" alt="Don't forget to set alt text." class="wp-image-193" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":196,"aspectRatio":"4/3","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_pedro-lima-IkqhfoJjwSI-unsplash-1360x765.jpg" alt="Don't forget to set alt text." class="wp-image-196" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"17%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:17%"><!-- wp:image {"id":201,"aspectRatio":"1","scale":"cover","sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397-640x960.jpg" alt="Don't forget to set alt text." class="wp-image-201" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":203,"aspectRatio":"4/3","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_patrick-fore-b_SHPU5M3nk-unsplash-1360x765.jpg" alt="Don't forget to set alt text." class="wp-image-203" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
@@ -8718,17 +8856,19 @@ Post type: page
 <div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:quote {"className":"is-style-large","customTextColor":"#222222"} -->
-<blockquote class="wp-block-quote is-style-large" style="color:#222222"><p>Nice little fluffy clouds laying around in the sky being lazy. We have a fantastic little sky! Isn't that fantastic that you can make whole mountains in minutes?</p><cite><strong>Julia MacCarthy</strong> | Pastor</cite></blockquote>
+<!-- wp:quote {"textColor":"palette-1","className":"is-style-large"} -->
+<blockquote class="wp-block-quote is-style-large has-palette-1-color has-text-color"><!-- wp:paragraph -->
+<p>Nice little fluffy clouds laying around in the sky being lazy. We have a fantastic little sky! Isn't that fantastic that you can make whole mountains in minutes?</p>
+<!-- /wp:paragraph --><cite><strong>Julia MacCarthy</strong> | Pastor</cite></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:spacer {"height":"110px","noBottomMargin":true} -->
-<div style="height:110px" aria-hidden="true" class="wp-block-spacer mb-0"></div>
+<!-- wp:spacer {"height":"80px","className":"mb-0"} -->
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer mb-0"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:media-text {"mediaId":201,"mediaType":"image","backgroundColor":"palette-4","className":"alignwide has-background"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile has-background has-palette-4-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397.jpg" alt="Don't forget to set alt text." class="wp-image-201 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
-<h2 id="tree-trunks-grow-however-makes-them-happy">Tree trunks grow however makes them happy</h2>
+<!-- wp:media-text {"align":"wide","mediaId":201,"mediaType":"image","backgroundColor":"palette-4","className":"alignwide has-background"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile has-background has-palette-4-background-color"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_brown-and-white-cathedral-interior-3661397.jpg" alt="Don't forget to set alt text." class="wp-image-201 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="tree-trunks-grow-however-makes-them-happy">Tree trunks grow however makes them happy</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"palette-1","fontSize":"extra-large"} -->
@@ -8745,7 +8885,7 @@ Post type: page
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"palette-1","textColor":"palette-3","className":"has-large-font-size"} -->
-<div class="wp-block-button has-large-font-size"><a class="wp-block-button__link has-palette-3-color has-palette-1-background-color has-text-color has-background" href="#0" rel="">Apply here</a></div>
+<div class="wp-block-button has-large-font-size"><a class="wp-block-button__link has-palette-3-color has-palette-1-background-color has-text-color has-background wp-element-button" href="#0" rel="">Apply here</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:media-text -->
@@ -8754,17 +8894,15 @@ Post type: page
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:coblocks/shape-divider {"backgroundHeight":"20px","color":"palette-3","align":"full","className":"is-style-hills"} /-->
-
-<!-- wp:group {"align":"full","backgroundColor":"palette-3","className":"has-no-padding-vertical","noTopMargin":true} -->
-<div class="wp-block-group alignfull has-no-padding-vertical has-palette-3-background-color has-background mt-0"><!-- wp:spacer {"height":"120px"} -->
-<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:group {"align":"full","backgroundColor":"palette-3","className":"has-no-padding-vertical mt-0 is-style-abs-curved-top"} -->
+<div class="wp-block-group alignfull has-no-padding-vertical mt-0 is-style-abs-curved-top has-palette-3-background-color has-background"><!-- wp:spacer {"height":"150px"} -->
+<div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading -->
-<h2 id="what-we-re-up-to">What we're up to</h2>
+<h2 class="wp-block-heading" id="what-we-re-up-to">What we're up to</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -8789,8 +8927,8 @@ Post type: page
 		<wp:post_id>135</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-27 19:42:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-27 17:42:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-13 18:41:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-13 16:41:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 14:00:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 12:00:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -8835,6 +8973,10 @@ Post type: page
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 	<item>
