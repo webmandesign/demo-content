@@ -14,14 +14,14 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
-<!-- generator="WordPress/6.0.3" created="2022-10-20 11:00" -->
+<!-- generator="WordPress/6.3" created="2023-08-10 08:35" -->
 <rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
 
 <channel>
 	<title>Cindy</title>
 	<link>https://themedemos.webmandesign.eu/cindy</link>
 	<description>Inclusive Town Theme</description>
-	<pubDate>Thu, 20 Oct 2022 11:00:49 +0000</pubDate>
+	<pubDate>Thu, 10 Aug 2023 08:35:12 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themedemos.webmandesign.eu/</wp:base_site_url>
@@ -184,7 +184,261 @@
 		<wp:tag_slug><![CDATA[weather]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Weather]]></wp:tag_name>
 	</wp:tag>
-				<wp:term><wp:term_id>34</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[header-links]]></wp:term_slug><wp:term_name><![CDATA[Header links]]></wp:term_name>
+			<wp:term>
+		<wp:term_id>18</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[bicycles]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Bicycles]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>16</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[bus]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Bus]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>35</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[cindy]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[cindy]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>33</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[coblocks-cropped]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[coblocks-cropped]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>27</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[festival]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Festival]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>2</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[for-business]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[For Business]]></wp:term_name>
+		<wp:term_description><![CDATA[Go out on a limb - that's where the fruit is. And just raise cain. Clouds are free they come and go as they please. Let's put some happy little bushes on the other side now.]]></wp:term_description>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#1e73be]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>3</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[for-residents]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[For Residents]]></wp:term_name>
+		<wp:term_description><![CDATA[Maybe he has a little friend that lives right over here. At home you have unlimited time. Son of a gun. And maybe a little bush lives there. A happy cloud.]]></wp:term_description>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#dd9933]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>4</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[for-visitors]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[For Visitors]]></wp:term_name>
+		<wp:term_description><![CDATA[You better get your coat out, this is going to be a cold painting. So often we avoid running water, and running water is a lot of fun. Clouds are delicate.]]></wp:term_description>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#32a35b]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>25</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[galleries]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Galleries]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>34</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[header-links]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Header links]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>14</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[health]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Health]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>20</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[holidays]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Holidays]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>32</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[housing]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Housing]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>10</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[information]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Information]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>28</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[living]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Living]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>24</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[museums]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Museums]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>1</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[news]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[News]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>7</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[no-sidebar]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[No sidebar]]></wp:term_name>
+		<wp:term_description><![CDATA[Posts in this tag does not display a sidebar. This can be achieved by a sidebar management plugin. Create an empty sidebar and make it display on specific pages. We are "displaying" empty sidebar on all posts with this "No sidebar" tag assigned.]]></wp:term_description>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>22</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[notice]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Notice]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>13</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[pandemic]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Pandemic]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>5</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[primary-menu]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>29</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[real-estate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Real estate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>31</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[recycling]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Recycling]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>23</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[residents]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Residents]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>9</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[short-menu]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Short menu]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[social-links]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Social Links]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>11</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[theme-links]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Theme links]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>26</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[tourism]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Tourism]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>19</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[town-hall]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Town hall]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>17</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[tram]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Tram]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>15</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[transportation]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Transportation]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>12</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[virus]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Virus]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>30</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[waste-management]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Waste management]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>21</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[weather]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Weather]]></wp:term_name>
+	</wp:term>
+			<wp:term><wp:term_id>34</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[header-links]]></wp:term_slug><wp:term_name><![CDATA[Header links]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>10</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[information]]></wp:term_slug><wp:term_name><![CDATA[Information]]></wp:term_name>
 </wp:term>
@@ -197,7 +451,7 @@
 	<wp:term><wp:term_id>11</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[theme-links]]></wp:term_slug><wp:term_name><![CDATA[Theme links]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.3</generator>
 
 		
 					
@@ -3206,11 +3460,11 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/cindy/?page_id=24</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash.jpg","id":290,"hasParallax":true,"dimRatio":90,"overlayColor":"palette-2","align":"full","className":"has-palette-5-border-color","style":{"spacing":{"padding":{"top":"100px","bottom":"74px"}}}} -->
-<div class="wp-block-cover alignfull has-parallax has-palette-5-border-color" style="padding-top:100px;padding-bottom:74px;background-image:url(https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash.jpg)"><span aria-hidden="true" class="wp-block-cover__background has-palette-2-background-color has-background-dim-90 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:columns {"align":"wide"} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash.jpg","id":290,"hasParallax":true,"dimRatio":90,"overlayColor":"palette-2","align":"full","style":{"spacing":{"padding":{"top":"100px","bottom":"74px"}}},"className":"has-palette-5-border-color"} -->
+<div class="wp-block-cover alignfull has-parallax has-palette-5-border-color" style="padding-top:100px;padding-bottom:74px"><span aria-hidden="true" class="wp-block-cover__background has-palette-2-background-color has-background-dim-90 has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-290 has-parallax" style="background-position:50% 50%;background-image:url(https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:heading {"level":1,"className":"has-huge-font-size"} -->
-<h1 class="has-huge-font-size" id="a-vibrant-welcoming-green-city">A vibrant,<br />welcoming,<br />green city</h1>
+<h1 class="wp-block-heading has-huge-font-size" id="a-vibrant-welcoming-green-city">A vibrant,<br />welcoming,<br />green city</h1>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -3226,9 +3480,9 @@ Post type: page
 <!-- /wp:spacer -->
 
 <!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"className":"has-item-style"} -->
-<div class="wp-block-column has-item-style"><!-- wp:heading -->
-<h2 id="for-business">For Business</h2>
+<div class="wp-block-columns alignwide"><!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="for-business">For Business</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -3237,14 +3491,14 @@ Post type: page
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"palette-5","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-palette-5-color has-text-color" href="/cindy/category/for-business/">More info</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-palette-5-color has-text-color wp-element-button" href="/cindy/category/for-business/">More info</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"className":"has-item-style"} -->
-<div class="wp-block-column has-item-style"><!-- wp:heading -->
-<h2 id="for-visitors">For Visitors</h2>
+<!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="for-visitors">For Visitors</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -3253,14 +3507,14 @@ Post type: page
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"palette-5","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-palette-5-color has-text-color" href="/cindy/category/for-visitors/">More info</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-palette-5-color has-text-color wp-element-button" href="/cindy/category/for-visitors/">More info</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"className":"has-item-style"} -->
-<div class="wp-block-column has-item-style"><!-- wp:heading -->
-<h2 id="for-residents">For Residents</h2>
+<!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="for-residents">For Residents</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -3269,7 +3523,7 @@ Post type: page
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"palette-5","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-palette-5-color has-text-color" href="/cindy/category/for-residents/">More info</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-palette-5-color has-text-color wp-element-button" href="/cindy/category/for-residents/">More info</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
@@ -3283,7 +3537,7 @@ Post type: page
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading {"textColor":"palette-1"} -->
-<h2 class="has-palette-1-color has-text-color" id="the-least-little-bit-can-do-so-much">The least little bit can do so much</h2>
+<h2 class="wp-block-heading has-palette-1-color has-text-color" id="the-least-little-bit-can-do-so-much">The least little bit can do so much</h2>
 <!-- /wp:heading -->
 
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
@@ -3303,7 +3557,7 @@ Post type: page
 
 <!-- wp:column {"verticalAlignment":"bottom"} -->
 <div class="wp-block-column is-vertically-aligned-bottom"><!-- wp:heading {"level":3,"className":"h4"} -->
-<h3 class="h4" id="a-happy-cloud">A happy cloud</h3>
+<h3 class="wp-block-heading h4" id="a-happy-cloud">A happy cloud</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -3311,7 +3565,7 @@ Post type: page
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"className":"h4"} -->
-<h3 class="h4" id="you-take-out">You take out</h3>
+<h3 class="wp-block-heading h4" id="you-take-out">You take out</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -3328,15 +3582,15 @@ Post type: page
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash.jpg","id":290,"hasParallax":true,"dimRatio":90,"overlayColor":"palette-2","align":"full","className":"has-palette-4-border-color","style":{"spacing":{"padding":{"top":"100px","bottom":"74px"}}}} -->
-<div class="wp-block-cover alignfull has-parallax has-palette-4-border-color" style="padding-top:100px;padding-bottom:74px;background-image:url(https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash.jpg)"><span aria-hidden="true" class="wp-block-cover__background has-palette-2-background-color has-background-dim-90 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:columns {"align":"wide"} -->
+<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash.jpg","id":290,"hasParallax":true,"dimRatio":90,"overlayColor":"palette-2","align":"full","style":{"spacing":{"padding":{"top":"100px","bottom":"74px"}}},"className":"has-palette-4-border-color"} -->
+<div class="wp-block-cover alignfull has-parallax has-palette-4-border-color" style="padding-top:100px;padding-bottom:74px"><span aria-hidden="true" class="wp-block-cover__background has-palette-2-background-color has-background-dim-90 has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-290 has-parallax" style="background-position:50% 50%;background-image:url(https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_paladini-mauro-SbkXc5DdmfY-unsplash.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":6,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_cindy-logo.png" alt="Don't forget to set alternative text." class="wp-image-6"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"className":"has-no-margin-top"} -->
-<h2 class="has-no-margin-top" id="change-your-perspective">Change your perspective</h2>
+<h2 class="wp-block-heading has-no-margin-top" id="change-your-perspective">Change your perspective</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -3353,73 +3607,89 @@ Post type: page
 <div style="height:75px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:coblocks/features {"headingLevel":3,"columns":4,"align":"wide","coblocks":{"id":"58172032318"}} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-58172032318"><div class="wp-block-coblocks-features__inner has-columns has-4-columns has-responsive-columns has-center-content has-medium-gutter"><!-- wp:coblocks/feature {"headingLevel":3,"className":"has-item-style","coblocks":{"id":"58172032478"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-58172032478 has-item-style"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"emoticon","hasContentAlign":false} /-->
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M20 12a8 8 0 0 0-8-8a8 8 0 0 0-8 8a8 8 0 0 0 8 8a8 8 0 0 0 8-8m2 0a10 10 0 0 1-10 10A10 10 0 0 1 2 12A10 10 0 0 1 12 2a10 10 0 0 1 10 10M10 9.5c0 .8-.7 1.5-1.5 1.5S7 10.3 7 9.5S7.7 8 8.5 8s1.5.7 1.5 1.5m7 0c0 .8-.7 1.5-1.5 1.5S14 10.3 14 9.5S14.7 8 15.5 8s1.5.7 1.5 1.5m-5 7.73c-1.75 0-3.29-.73-4.19-1.81L9.23 14c.45.72 1.52 1.23 2.77 1.23s2.32-.51 2.77-1.23l1.42 1.42c-.9 1.08-2.44 1.81-4.19 1.81Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":3,"placeholder":"Add feature title…","textColor":"palette-5","className":"h4"} -->
-<h3 class="h4 has-palette-5-color has-text-color" id="easy-to-use">Easy To Use</h3>
-<!-- /wp:heading --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Easy To Use</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"headingLevel":3,"className":"has-item-style","coblocks":{"id":"58172032487"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-58172032487 has-item-style"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"flower","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M3 13a9 9 0 0 0 9 9a9 9 0 0 0-9-9m2.44 2.44c1.91.71 3.41 2.21 4.12 4.12a6.986 6.986 0 0 1-4.12-4.12M12 22a9 9 0 0 0 9-9a9 9 0 0 0-9 9m2.42-2.43a6.876 6.876 0 0 1 4.15-4.15a7.03 7.03 0 0 1-4.15 4.15M12 14a6 6 0 0 0 6-6V3a5.9 5.9 0 0 0-2.16.39c-.55.23-1.04.57-1.45 1L12 2L9.61 4.39c-.41-.43-.9-.77-1.45-1A5.9 5.9 0 0 0 6 3v5a6 6 0 0 0 6 6M8 5.61l1.57 1.65L12 4.83l2.43 2.43L16 5.61V8a4 4 0 0 1-4 4a4 4 0 0 1-4-4V5.61Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":3,"placeholder":"Add feature title…","textColor":"palette-5","className":"h4"} -->
-<h3 class="h4 has-palette-5-color has-text-color" id="lightweight">Lightweight</h3>
-<!-- /wp:heading --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Lightweight</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"headingLevel":3,"className":"has-item-style","coblocks":{"id":"58172045857"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-58172045857 has-item-style"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"gallery","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M21 17H7V3h14m0-2H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2M3 5H1v16a2 2 0 0 0 2 2h16v-2H3m12.96-10.71l-2.75 3.54l-1.96-2.36L8.5 15h11l-3.54-4.71Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":3,"placeholder":"Add feature title…","textColor":"palette-5","className":"h4"} -->
-<h3 class="h4 has-palette-5-color has-text-color" id="drag-drop">Drag &amp; Drop</h3>
-<!-- /wp:heading --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Drag &amp; Drop</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"className":"has-item-style","coblocks":{"id":"58172419882"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-58172419882 has-item-style"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"paint","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M8 3C5.79 3 4 4.79 4 7v7c0 1.1.9 2 2 2h3v4c0 1.1.9 2 2 2h2c1.1 0 2-.9 2-2v-4h3c1.1 0 2-.9 2-2V3H8m0 2h4v2h2V5h1v4h2V5h1v5H6V7c0-1.1.9-2 2-2m-2 9v-2h12v2H6Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","textColor":"palette-5","className":"h4"} -->
-<h4 class="h4 has-palette-5-color has-text-color" id="customizable">Customizable</h4>
-<!-- /wp:heading --></div></div>
-<!-- /wp:coblocks/feature --></div></div>
-<!-- /wp:coblocks/features -->
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Customizable</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
 
-<!-- wp:coblocks/features {"paddingSyncUnits":true,"headingLevel":3,"columns":4,"align":"wide","coblocks":{"id":"58172032318"}} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-58172032318"><div class="wp-block-coblocks-features__inner has-columns has-4-columns has-responsive-columns has-center-content has-medium-gutter"><!-- wp:coblocks/feature {"headingLevel":3,"className":"has-item-style","coblocks":{"id":"58172032478"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-58172032478 has-item-style"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"translate","hasContentAlign":false} /-->
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M11 1H3c-1.1 0-2 .9-2 2v12l3-3h5v-1c0-2.2 1.79-4 4-4V3c0-1.1-.9-2-2-2m0 3H9.5c-.34 1.19-.96 2.3-1.82 3.26l-.02.02l1.26 1.25l-.37 1.01L7 8l-2.5 2.5l-.69-.73l2.53-2.49A8.58 8.58 0 0 1 4.86 5h.99c.31.6.69 1.17 1.15 1.68A7.69 7.69 0 0 0 8.57 4H3V3h3.5V2h1v1H11v1m10 5h-8c-1.1 0-2 .9-2 2v7c0 1.1.9 2 2 2h7l3 3V11c0-1.1-.9-2-2-2m-1.37 10l-.85-2.25h-3.56L14.38 19h-1.5l3.37-9h1.5l3.38 9h-1.5M17 12l1.22 3.25h-2.43L17 12Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":3,"placeholder":"Add feature title…","textColor":"palette-5","className":"h4"} -->
-<h3 class="h4 has-palette-5-color has-text-color" id="multilingual">Multilingual</h3>
-<!-- /wp:heading --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Multilingual</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"headingLevel":3,"className":"has-item-style","coblocks":{"id":"58172032487"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-58172032487 has-item-style"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"send","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M12 16a3 3 0 0 1-3-3c0-1.12.61-2.1 1.5-2.61l9.71-5.62l-5.53 9.58c-.5.98-1.51 1.65-2.68 1.65m0-13c1.81 0 3.5.5 4.97 1.32l-2.1 1.21C14 5.19 13 5 12 5a8 8 0 0 0-8 8c0 2.21.89 4.21 2.34 5.65h.01c.39.39.39 1.02 0 1.41c-.39.39-1.03.39-1.42.01A9.969 9.969 0 0 1 2 13A10 10 0 0 1 12 3m10 10c0 2.76-1.12 5.26-2.93 7.07c-.39.38-1.02.38-1.41-.01a.996.996 0 0 1 0-1.41A7.95 7.95 0 0 0 20 13c0-1-.19-2-.54-2.9L20.67 8C21.5 9.5 22 11.18 22 13Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":3,"placeholder":"Add feature title…","textColor":"palette-5","className":"h4"} -->
-<h3 class="h4 has-palette-5-color has-text-color" id="speedy">Speedy</h3>
-<!-- /wp:heading --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Speedy</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"headingLevel":3,"className":"has-item-style","coblocks":{"id":"58172045857"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-58172045857 has-item-style"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"school","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3m6.82 6L12 12.72L5.18 9L12 5.28L18.82 9M17 16l-5 2.72L7 16v-3.73L12 15l5-2.73V16Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":3,"placeholder":"Add feature title…","textColor":"palette-5","className":"h4"} -->
-<h3 class="h4 has-palette-5-color has-text-color" id="documented">Documented</h3>
-<!-- /wp:heading --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Documented</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"className":"has-item-style","coblocks":{"id":"58172419882"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-58172419882 has-item-style"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"accessible","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;m14 16l1.32 1.76C14.32 19.68 12.31 21 10 21c-3.31 0-6-2.69-6-6c0-2.43 1.46-4.5 3.55-5.45l.21 2.17C6.71 12.44 6 13.63 6 15c0 2.21 1.79 4 4 4c1.86 0 3.41-1.28 3.86-3H14m5.55.11l-1.25.62L15.5 13h-4.59l-.2-2H14V9h-3.5l-.3-3c1.01-.12 1.8-.96 1.8-2a2 2 0 1 0-4 0v.1L9.1 15h5.4l3.2 4.27l2.75-1.37l-.9-1.79Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","textColor":"palette-5","className":"h4"} -->
-<h4 class="h4 has-palette-5-color has-text-color" id="accessible">Accessible</h4>
-<!-- /wp:heading --></div></div>
-<!-- /wp:coblocks/feature --></div></div>
-<!-- /wp:coblocks/features --></div></div>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Accessible</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
 <!-- /wp:cover -->
 
 <!-- wp:spacer -->
@@ -3429,7 +3699,7 @@ Post type: page
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading -->
-<h2 id="learn-about-what-s-going-on-from-news-articles">Learn about what's going on from news articles</h2>
+<h2 class="wp-block-heading" id="learn-about-what-s-going-on-from-news-articles">Learn about what's going on from news articles</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -3440,7 +3710,7 @@ Post type: page
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/cindy/news/">News articles</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://themedemos.webmandesign.eu/cindy/news/">News articles</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
@@ -3460,7 +3730,7 @@ Post type: page
 <div class="wp-block-cover alignfull is-light" style="padding-top:100px;padding-bottom:74px"><span aria-hidden="true" class="wp-block-cover__background has-palette-4-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"25%"} -->
 <div class="wp-block-column" style="flex-basis:25%"><!-- wp:heading {"textColor":"palette-1"} -->
-<h2 class="has-palette-1-color has-text-color" id="tags">Tags</h2>
+<h2 class="wp-block-heading has-palette-1-color has-text-color" id="tags">Tags</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"palette-1"} -->
@@ -3481,8 +3751,8 @@ Post type: page
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-05 14:12:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-05 12:12:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-20 12:38:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-20 10:38:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 10:35:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 08:35:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-1]]></wp:post_name>
@@ -3623,8 +3893,10 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/cindy/?page_id=33</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:quote {"align":"center","className":"is-style-large","customTextColor":"#111111"} -->
-<blockquote class="wp-block-quote has-text-align-center is-style-large" style="color:#111111"><p>And I a the her. Easier may box I quarter with thin in with better a head in during audience. At and the or of past we're little secure in on willingly of little control frugality to you because himself familiar were of immune pushed him more will.</p></blockquote>
+		<content:encoded><![CDATA[<!-- wp:quote {"align":"center","style":{"typography":{"lineHeight":"1.3","fontStyle":"normal","fontWeight":"500"}},"textColor":"palette-2","fontSize":"extra-large"} -->
+<blockquote class="wp-block-quote has-text-align-center has-palette-2-color has-text-color has-extra-large-font-size" style="font-style:normal;font-weight:500;line-height:1.3"><!-- wp:paragraph -->
+<p>And I a the her. Easier may box I quarter with thin in with better a head in during audience. At and the or of past we’re little secure in on willingly of little control frugality to you because himself familiar were of immune pushed him more will.</p>
+<!-- /wp:paragraph --><cite>Linda Mayor</cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:spacer -->
@@ -3641,9 +3913,9 @@ Post type: page
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"100px","bottom":"100px"}}},"backgroundColor":"palette-2","textColor":"palette-5","noTopMargin":true} -->
-<div class="wp-block-group alignwide has-palette-5-color has-palette-2-background-color has-text-color has-background mt-0" style="padding-top:100px;padding-bottom:100px"><!-- wp:heading {"textColor":"palette-5"} -->
-<h2 class="has-palette-5-color has-text-color">Change your perspective</h2>
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"100px","bottom":"100px"}}},"backgroundColor":"palette-2","textColor":"palette-5","className":"mt-0"} -->
+<div class="wp-block-group alignwide mt-0 has-palette-5-color has-palette-2-background-color has-text-color has-background" style="padding-top:100px;padding-bottom:100px"><!-- wp:heading {"textColor":"palette-5"} -->
+<h2 class="wp-block-heading has-palette-5-color has-text-color">Change your perspective</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
@@ -3669,9 +3941,9 @@ Post type: page
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:media-text {"mediaId":251,"mediaType":"image","backgroundColor":"palette-4","className":"alignwide has-background"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile has-background has-palette-4-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_business-people-talking-4427615.jpg" alt="" class="wp-image-251 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
-<h2>Tree trunks grow however makes them happy</h2>
+<!-- wp:media-text {"align":"wide","mediaId":251,"mediaType":"image","backgroundColor":"palette-4","className":"alignwide has-background"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile has-background has-palette-4-background-color"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_business-people-talking-4427615.jpg" alt="" class="wp-image-251 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
+<h2 class="wp-block-heading">Tree trunks grow however makes them happy</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"extra-large"} -->
@@ -3688,7 +3960,7 @@ Post type: page
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"accent","textColor":"palette-5","className":"has-large-font-size"} -->
-<div class="wp-block-button has-large-font-size"><a class="wp-block-button__link has-palette-5-color has-accent-background-color has-text-color has-background" href="#0" rel="">Apply here</a></div>
+<div class="wp-block-button has-large-font-size"><a class="wp-block-button__link has-palette-5-color has-accent-background-color has-text-color has-background wp-element-button" href="#0" rel="">Apply here</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:media-text -->]]></content:encoded>
@@ -3696,8 +3968,8 @@ Post type: page
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-05 14:33:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-05 12:33:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-20 12:40:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-20 10:40:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 10:31:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 08:31:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[education]]></wp:post_name>
@@ -3748,11 +4020,11 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/cindy/?page_id=35</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_adults-airport-architectural-design-architecture-301930.jpg","id":95,"hasParallax":true,"dimRatio":90,"overlayColor":"palette-1","align":"full","className":"has-wide-content-width is-style-default","style":{"spacing":{"padding":{"top":"150px","bottom":"100px"}}}} -->
-<div class="wp-block-cover alignfull has-parallax has-wide-content-width is-style-default" style="padding-top:150px;padding-bottom:100px;background-image:url(https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_adults-airport-architectural-design-architecture-301930.jpg)"><span aria-hidden="true" class="wp-block-cover__background has-palette-1-background-color has-background-dim-90 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:columns {"verticalAlignment":"center","align":"wide"} -->
-<div class="wp-block-columns alignwide are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_adults-airport-architectural-design-architecture-301930.jpg","id":95,"hasParallax":true,"dimRatio":90,"overlayColor":"palette-1","align":"full","style":{"spacing":{"padding":{"top":"150px","bottom":"100px"}}},"className":"has-wide-content-width is-style-default"} -->
+<div class="wp-block-cover alignfull has-parallax has-wide-content-width is-style-default" style="padding-top:150px;padding-bottom:100px"><span aria-hidden="true" class="wp-block-cover__background has-palette-1-background-color has-background-dim-90 has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-95 has-parallax" style="background-position:50% 50%;background-image:url(https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_adults-airport-architectural-design-architecture-301930.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"level":1,"textColor":"palette-5","className":"has-huge-font-size"} -->
-<h1 class="has-huge-font-size has-palette-5-color has-text-color">Smart City<br />Smart App</h1>
+<h1 class="wp-block-heading has-huge-font-size has-palette-5-color has-text-color">Smart City<br />Smart App</h1>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -3767,68 +4039,76 @@ Post type: page
 <div style="height:75px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:coblocks/features {"columns":4,"align":"wide","coblocks":{"id":"1418230447"},"gutter":"small"} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-1418230447"><div class="wp-block-coblocks-features__inner has-columns has-4-columns has-responsive-columns has-center-content has-small-gutter"><!-- wp:coblocks/feature {"paddingSize":"large","backgroundColor":"palette-5","textColor":"palette-1","coblocks":{"id":"1418230538"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-1418230538"><div class="wp-block-coblocks-feature__inner has-palette-5-background-color has-background has-text-color has-palette-1-color has-padding has-large-padding"><!-- wp:coblocks/icon {"icon":"coblocks","hasContentAlign":false,"iconColor":"accent"} /-->
+<!-- wp:columns {"className":"has-no-margin-bottom"} -->
+<div class="wp-block-columns has-no-margin-bottom"><!-- wp:column {"backgroundColor":"palette-5"} -->
+<div class="wp-block-column has-palette-5-background-color has-background"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23bb060f&quot; d=&quot;M11 1H3c-1.1 0-2 .9-2 2v12l3-3h5v-1c0-2.2 1.79-4 4-4V3c0-1.1-.9-2-2-2m0 3H9.5c-.34 1.19-.96 2.3-1.82 3.26l-.02.02l1.26 1.25l-.37 1.01L7 8l-2.5 2.5l-.69-.73l2.53-2.49A8.58 8.58 0 0 1 4.86 5h.99c.31.6.69 1.17 1.15 1.68A7.69 7.69 0 0 0 8.57 4H3V3h3.5V2h1v1H11v1m10 5h-8c-1.1 0-2 .9-2 2v7c0 1.1.9 2 2 2h7l3 3V11c0-1.1-.9-2-2-2m-1.37 10l-.85-2.25h-3.56L14.38 19h-1.5l3.37-9h1.5l3.38 9h-1.5M17 12l1.22 3.25h-2.43L17 12Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","textColor":"palette-1"} -->
-<h4 class="has-palette-1-color has-text-color">Feature Title</h4>
+<!-- wp:heading {"textAlign":"center","textColor":"palette-2","className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-no-margin-top has-palette-2-color has-text-color has-extra-large-font-size">Lorem Ipsum</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-2"} -->
-<p class="has-palette-2-color has-text-color">This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center","textColor":"palette-1"} -->
+<p class="has-text-align-center has-palette-1-color has-text-color">Lorem ipsum dolor sit amet primis gravida semper adipiscing.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"large","backgroundColor":"palette-5","textColor":"palette-1","coblocks":{"id":"1418230542"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-1418230542"><div class="wp-block-coblocks-feature__inner has-palette-5-background-color has-background has-text-color has-palette-1-color has-padding has-large-padding"><!-- wp:coblocks/icon {"icon":"scatter_plot","hasContentAlign":false,"iconColor":"accent"} /-->
+<!-- wp:column {"backgroundColor":"palette-5"} -->
+<div class="wp-block-column has-palette-5-background-color has-background"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23bb060f&quot; d=&quot;M12 16a3 3 0 0 1-3-3c0-1.12.61-2.1 1.5-2.61l9.71-5.62l-5.53 9.58c-.5.98-1.51 1.65-2.68 1.65m0-13c1.81 0 3.5.5 4.97 1.32l-2.1 1.21C14 5.19 13 5 12 5a8 8 0 0 0-8 8c0 2.21.89 4.21 2.34 5.65h.01c.39.39.39 1.02 0 1.41c-.39.39-1.03.39-1.42.01A9.969 9.969 0 0 1 2 13A10 10 0 0 1 12 3m10 10c0 2.76-1.12 5.26-2.93 7.07c-.39.38-1.02.38-1.41-.01a.996.996 0 0 1 0-1.41A7.95 7.95 0 0 0 20 13c0-1-.19-2-.54-2.9L20.67 8C21.5 9.5 22 11.18 22 13Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","textColor":"palette-1"} -->
-<h4 class="has-palette-1-color has-text-color">Feature Title</h4>
+<!-- wp:heading {"textAlign":"center","textColor":"palette-2","className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-no-margin-top has-palette-2-color has-text-color has-extra-large-font-size">Lorem Ipsum</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-2"} -->
-<p class="has-palette-2-color has-text-color">This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center","textColor":"palette-1"} -->
+<p class="has-text-align-center has-palette-1-color has-text-color">Lorem ipsum dolor sit amet primis gravida semper adipiscing.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"large","backgroundColor":"palette-5","textColor":"palette-1","coblocks":{"id":"1418231860"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-1418231860"><div class="wp-block-coblocks-feature__inner has-palette-5-background-color has-background has-text-color has-palette-1-color has-padding has-large-padding"><!-- wp:coblocks/icon {"icon":"waves","hasContentAlign":false,"iconColor":"accent"} /-->
+<!-- wp:column {"backgroundColor":"palette-5"} -->
+<div class="wp-block-column has-palette-5-background-color has-background"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23bb060f&quot; d=&quot;M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3m6.82 6L12 12.72L5.18 9L12 5.28L18.82 9M17 16l-5 2.72L7 16v-3.73L12 15l5-2.73V16Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","textColor":"palette-1"} -->
-<h4 class="has-palette-1-color has-text-color">Feature Title</h4>
+<!-- wp:heading {"textAlign":"center","textColor":"palette-2","className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-no-margin-top has-palette-2-color has-text-color has-extra-large-font-size">Lorem Ipsum</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-2"} -->
-<p class="has-palette-2-color has-text-color">This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center","textColor":"palette-1"} -->
+<p class="has-text-align-center has-palette-1-color has-text-color">Lorem ipsum dolor sit amet primis gravida semper adipiscing.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"large","backgroundColor":"palette-5","textColor":"palette-1","coblocks":{"id":"14182318529"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-14182318529"><div class="wp-block-coblocks-feature__inner has-palette-5-background-color has-background has-text-color has-palette-1-color has-padding has-large-padding"><!-- wp:coblocks/icon {"icon":"aperture","hasContentAlign":false,"iconColor":"accent"} /-->
+<!-- wp:column {"backgroundColor":"palette-5"} -->
+<div class="wp-block-column has-palette-5-background-color has-background"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23bb060f&quot; d=&quot;m14 16l1.32 1.76C14.32 19.68 12.31 21 10 21c-3.31 0-6-2.69-6-6c0-2.43 1.46-4.5 3.55-5.45l.21 2.17C6.71 12.44 6 13.63 6 15c0 2.21 1.79 4 4 4c1.86 0 3.41-1.28 3.86-3H14m5.55.11l-1.25.62L15.5 13h-4.59l-.2-2H14V9h-3.5l-.3-3c1.01-.12 1.8-.96 1.8-2a2 2 0 1 0-4 0v.1L9.1 15h5.4l3.2 4.27l2.75-1.37l-.9-1.79Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","textColor":"palette-1"} -->
-<h4 class="has-palette-1-color has-text-color">Feature Title</h4>
+<!-- wp:heading {"textAlign":"center","textColor":"palette-2","className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-no-margin-top has-palette-2-color has-text-color has-extra-large-font-size">Lorem Ipsum</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-2"} -->
-<p class="has-palette-2-color has-text-color">This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature --></div></div>
-<!-- /wp:coblocks/features --></div></div>
+<!-- wp:paragraph {"align":"center","textColor":"palette-1"} -->
+<p class="has-text-align-center has-palette-1-color has-text-color">Lorem ipsum dolor sit amet primis gravida semper adipiscing.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
 <!-- /wp:cover -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:media-text {"mediaId":95,"mediaType":"image","imageFill":true,"backgroundColor":"palette-4","className":"alignwide has-background"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill has-background has-palette-4-background-color has-background"><figure class="wp-block-media-text__media" style="background-image:url(https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_adults-airport-architectural-design-architecture-301930-1320x880.jpg);background-position:50% 50%"><img src="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_adults-airport-architectural-design-architecture-301930-1320x880.jpg" alt="Don't forget to set alternative text." class="wp-image-95 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:spacer -->
+<!-- wp:media-text {"align":"wide","mediaId":95,"mediaType":"image","imageFill":true,"backgroundColor":"palette-4","className":"alignwide has-background"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill has-background has-palette-4-background-color"><figure class="wp-block-media-text__media" style="background-image:url(https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_adults-airport-architectural-design-architecture-301930-1320x880.jpg);background-position:50% 50%"><img src="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_adults-airport-architectural-design-architecture-301930-1320x880.jpg" alt="Don't forget to set alternative text." class="wp-image-95 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading -->
-<h2>Get the app now</h2>
+<h2 class="wp-block-heading">Get the app now</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"extra-large"} -->
@@ -3845,7 +4125,7 @@ Post type: page
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"has-large-font-size is-style-fill"} -->
-<div class="wp-block-button has-large-font-size is-style-fill"><a class="wp-block-button__link" href="#0">Download</a></div>
+<div class="wp-block-button has-large-font-size is-style-fill"><a class="wp-block-button__link wp-element-button" href="#0">Download</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -3857,8 +4137,8 @@ Post type: page
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-05 14:34:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-05 12:34:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-20 12:42:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-20 10:42:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 10:24:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 08:24:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[smart-city]]></wp:post_name>
@@ -4186,9 +4466,9 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/cindy/?page_id=57</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:media-text {"mediaId":210,"mediaType":"image","mediaWidth":33,"className":"alignwide has-no-margin-bottom"} -->
+		<content:encoded><![CDATA[<!-- wp:media-text {"align":"wide","mediaId":210,"mediaType":"image","mediaWidth":33,"className":"alignwide has-no-margin-bottom"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile has-no-margin-bottom" style="grid-template-columns:33% auto"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_pexels-adult-blur-city-936043.png" alt="Don't forget to set alternative text." class="wp-image-210 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
-<h2>Change your perspective</h2>
+<h2 class="wp-block-heading">Change your perspective</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
@@ -4215,49 +4495,55 @@ Post type: page
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"has-large-font-size"} -->
-<div class="wp-block-button has-large-font-size"><a class="wp-block-button__link" href="#0">Apply now</a></div>
+<div class="wp-block-button has-large-font-size"><a class="wp-block-button__link wp-element-button" href="#0">Apply now</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:media-text -->
 
 <!-- wp:group {"align":"full","backgroundColor":"accent","textColor":"palette-5","className":"has-no-padding"} -->
-<div class="wp-block-group alignfull has-no-padding has-palette-5-color has-accent-background-color has-text-color has-background"><!-- wp:coblocks/features {"marginBottom":0,"marginBottomTablet":0,"marginBottomMobile":0,"columns":3,"align":"wide","noBottomMargin":true,"coblocks":{"id":"14192456468"},"gutter":"custom","gutterCustom":"0"} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-14192456468 mb-0"><div class="wp-block-coblocks-features__inner has-columns has-3-columns has-responsive-columns has-center-content has-custom-gutter" style="--coblocks-custom-gutter:0em"><!-- wp:coblocks/feature {"paddingSize":"huge","className":"has-no-margin-bottom","coblocks":{"id":"91813463343"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-91813463343 has-no-margin-bottom"><div class="wp-block-coblocks-feature__inner has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"accessible","hasContentAlign":false} /-->
+<div class="wp-block-group alignfull has-no-padding has-palette-5-color has-accent-background-color has-text-color has-background"><!-- wp:columns {"align":"wide","className":"has-no-margin-vertical"} -->
+<div class="wp-block-columns alignwide has-no-margin-vertical"><!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"accent"} -->
+<div class="wp-block-column has-accent-background-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;m14 16l1.32 1.76C14.32 19.68 12.31 21 10 21c-3.31 0-6-2.69-6-6c0-2.43 1.46-4.5 3.55-5.45l.21 2.17C6.71 12.44 6 13.63 6 15c0 2.21 1.79 4 4 4c1.86 0 3.41-1.28 3.86-3H14m5.55.11l-1.25.62L15.5 13h-4.59l-.2-2H14V9h-3.5l-.3-3c1.01-.12 1.8-.96 1.8-2a2 2 0 1 0-4 0v.1L9.1 15h5.4l3.2 4.27l2.75-1.37l-.9-1.79Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","textColor":"palette-5"} -->
-<h4 class="has-palette-5-color has-text-color">Accessibile</h4>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top">Accessible</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Lorem ipsum dolor sit amet dapibus quisque dolor ipsum curae maecenas.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"huge","customBackgroundColor":"#db262f","className":"has-no-margin-bottom","coblocks":{"id":"918135032484"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-918135032484 has-no-margin-bottom"><div class="wp-block-coblocks-feature__inner has-background has-padding has-huge-padding" style="background-color:#db262f"><!-- wp:coblocks/icon {"icon":"flower","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"color":{"background":"#db262f"},"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}}} -->
+<div class="wp-block-column has-background" style="background-color:#db262f;padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M3 13a9 9 0 0 0 9 9a9 9 0 0 0-9-9m2.44 2.44c1.91.71 3.41 2.21 4.12 4.12a6.986 6.986 0 0 1-4.12-4.12M12 22a9 9 0 0 0 9-9a9 9 0 0 0-9 9m2.42-2.43a6.876 6.876 0 0 1 4.15-4.15a7.03 7.03 0 0 1-4.15 4.15M12 14a6 6 0 0 0 6-6V3a5.9 5.9 0 0 0-2.16.39c-.55.23-1.04.57-1.45 1L12 2L9.61 4.39c-.41-.43-.9-.77-1.45-1A5.9 5.9 0 0 0 6 3v5a6 6 0 0 0 6 6M8 5.61l1.57 1.65L12 4.83l2.43 2.43L16 5.61V8a4 4 0 0 1-4 4a4 4 0 0 1-4-4V5.61Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","textColor":"palette-5"} -->
-<h4 class="has-palette-5-color has-text-color">Lightweight</h4>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top">Lightweight</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Lorem ipsum dolor sit amet dapibus quisque dolor ipsum curae maecenas.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"huge","className":"has-no-margin-bottom","coblocks":{"id":"91813524574"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-91813524574 has-no-margin-bottom"><div class="wp-block-coblocks-feature__inner has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"gallery","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"accent"} -->
+<div class="wp-block-column has-accent-background-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M21 17H7V3h14m0-2H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2M3 5H1v16a2 2 0 0 0 2 2h16v-2H3m12.96-10.71l-2.75 3.54l-1.96-2.36L8.5 15h11l-3.54-4.71Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","textColor":"palette-5"} -->
-<h4 class="has-palette-5-color has-text-color">Drag &amp; Drop</h4>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top">Drag &amp; Drop</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature --></div></div>
-<!-- /wp:coblocks/features --></div>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Lorem ipsum dolor sit amet dapibus quisque dolor ipsum curae maecenas.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
 <!-- /wp:group -->
 
 <!-- wp:spacer -->
@@ -4283,14 +4569,16 @@ Post type: page
 <!-- /wp:spacer -->
 
 <!-- wp:quote {"className":"is-style-large"} -->
-<blockquote class="wp-block-quote is-style-large"><p>Go out on a limb – that’s where the fruit is. And just raise cain. Clouds are free they come and go as they please. Let’s put some happy little bushes on the other side now.</p><cite>Bob Mayor</cite></blockquote>
+<blockquote class="wp-block-quote is-style-large"><!-- wp:paragraph -->
+<p>Go out on a limb – that’s where the fruit is. And just raise cain. Clouds are free they come and go as they please. Let’s put some happy little bushes on the other side now.</p>
+<!-- /wp:paragraph --><cite>Bob Mayor</cite></blockquote>
 <!-- /wp:quote -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[Even trees need a friend. We all need friends. It all happens automatically. We want to use a lot pressure while using no pressure at all.]]></excerpt:encoded>
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-05 14:40:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-05 12:40:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-20 12:55:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-20 10:55:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 09:52:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 07:52:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-opportunities]]></wp:post_name>
@@ -5016,29 +5304,29 @@ Post type: page
 		<content:encoded><![CDATA[<!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading -->
-<h2>Applications</h2>
+<h2 class="wp-block-heading">Applications</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>You can create beautiful things - but you have to see them in your mind first. Just let these leaves jump off the brush In your world you have total and absolute power. Don't forget to tell these special people in your life just how special they are to you. Just a little indication. See there, told you that would be easy.</p>
+<p>You can create beautiful things - but you have to see them in your mind first. Just let these leaves jump off the brush In your world you have total and absolute power. Don't forget to tell these special people in your life just how special they are to you. Just a little indication.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:file {"id":203,"href":"https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf"} -->
-<div class="wp-block-file"><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf">Annual tax summary</a><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf" class="wp-block-file__button" download>Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-a8aa4a2d-e8ef-489f-a49d-253b6c5e2f6b" href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf">Annual tax summary</a><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-a8aa4a2d-e8ef-489f-a49d-253b6c5e2f6b">Download</a></div>
 <!-- /wp:file -->
 
 <!-- wp:file {"id":203,"href":"https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf"} -->
-<div class="wp-block-file"><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf">Waste utility bill</a><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf" class="wp-block-file__button" download>Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-6ff15d73-99ac-40e4-8db2-f3d2eaab8fb4" href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf">Waste utility bill</a><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-6ff15d73-99ac-40e4-8db2-f3d2eaab8fb4">Download</a></div>
 <!-- /wp:file -->
 
 <!-- wp:file {"id":203,"href":"https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf"} -->
-<div class="wp-block-file"><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf">Annual tax summary</a><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf" class="wp-block-file__button" download>Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-f0ad6c08-79eb-4abb-9468-18ad7946b2d2" href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf">Annual tax summary</a><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-f0ad6c08-79eb-4abb-9468-18ad7946b2d2">Download</a></div>
 <!-- /wp:file --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading -->
-<h2>Permissions</h2>
+<h2 class="wp-block-heading">Permissions</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -5046,19 +5334,19 @@ Post type: page
 <!-- /wp:paragraph -->
 
 <!-- wp:file {"id":203,"href":"https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf"} -->
-<div class="wp-block-file"><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf">Annual tax summary</a><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf" class="wp-block-file__button" download>Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-a8442309-83c1-4c1a-a71d-c541dbe25b83" href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf">Annual tax summary</a><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-a8442309-83c1-4c1a-a71d-c541dbe25b83">Download</a></div>
 <!-- /wp:file -->
 
 <!-- wp:file {"id":203,"href":"https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf"} -->
-<div class="wp-block-file"><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf">Waste utility bill</a><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf" class="wp-block-file__button" download>Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-b9cb1560-3372-44a7-af2a-3f4d020cdda9" href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf">Waste utility bill</a><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-b9cb1560-3372-44a7-af2a-3f4d020cdda9">Download</a></div>
 <!-- /wp:file -->
 
 <!-- wp:file {"id":203,"href":"https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf"} -->
-<div class="wp-block-file"><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf">Annual tax summary</a><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf" class="wp-block-file__button" download>Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-dbaa4be7-bb80-4b91-9596-c67a16e5c1be" href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf">Annual tax summary</a><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-dbaa4be7-bb80-4b91-9596-c67a16e5c1be">Download</a></div>
 <!-- /wp:file -->
 
 <!-- wp:file {"id":203,"href":"https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf"} -->
-<div class="wp-block-file"><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf">Waste utility bill</a><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf" class="wp-block-file__button" download>Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-a307955c-ea42-4c21-95f0-8ecba23a198f" href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf">Waste utility bill</a><a href="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_sample-pdf.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-a307955c-ea42-4c21-95f0-8ecba23a198f">Download</a></div>
 <!-- /wp:file --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->]]></content:encoded>
@@ -5066,8 +5354,8 @@ Post type: page
 		<wp:post_id>166</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-05 19:59:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-05 17:59:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-06-05 22:56:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-06-05 20:56:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 10:26:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 08:26:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[documents]]></wp:post_name>
@@ -5081,6 +5369,10 @@ Post type: page
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 	<item>
 		<title><![CDATA[Home 2]]></title>
@@ -5089,15 +5381,15 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/cindy/?page_id=464</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_train-passing-773471.jpg","id":88,"dimRatio":80,"overlayColor":"palette-2","align":"full","style":{"spacing":{"padding":{"top":"100px","bottom":"225px"}}}} -->
-<div class="wp-block-cover alignfull" style="padding-top:100px;padding-bottom:225px"><span aria-hidden="true" class="wp-block-cover__background has-palette-2-background-color has-background-dim-80 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-88" alt="" src="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_train-passing-773471.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:columns {"align":"wide"} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_train-passing-773471.jpg","id":88,"dimRatio":80,"overlayColor":"palette-2","align":"full","style":{"spacing":{"padding":{"top":"100px","bottom":"200px"}}},"className":"has-no-margin-bottom"} -->
+<div class="wp-block-cover alignfull has-no-margin-bottom" style="padding-top:100px;padding-bottom:200px"><span aria-hidden="true" class="wp-block-cover__background has-palette-2-background-color has-background-dim-80 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-88" alt="" src="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_train-passing-773471.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":6,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_cindy-logo.png" alt="Don't forget to set alternative text." class="wp-image-6"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":1} -->
-<h1>Discover the most accessible town theme</h1>
+<h1 class="wp-block-heading">Discover the most accessible town theme</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
@@ -5111,63 +5403,77 @@ Post type: page
 <!-- /wp:columns --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:coblocks/features {"marginTop":-175,"marginSize":"advanced","headingLevel":2,"columns":3,"align":"wide","coblocks":{"id":"59154824210"}} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-59154824210"><div class="wp-block-coblocks-features__inner has-columns has-3-columns has-responsive-columns has-margin has-center-content has-medium-gutter"><!-- wp:coblocks/feature {"paddingSize":"large","backgroundColor":"accent","headingLevel":2,"textColor":"palette-5","coblocks":{"id":"59154824269"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-59154824269"><div class="wp-block-coblocks-feature__inner has-accent-background-color has-background has-text-color has-palette-5-color has-padding has-large-padding"><!-- wp:coblocks/icon {"icon":"flower","hasContentAlign":false} /-->
+<!-- wp:group {"align":"full","className":"is-style-abs-pull-up","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-abs-pull-up"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"accent","textColor":"palette-5"} -->
+<div class="wp-block-column has-palette-5-color has-accent-background-color has-text-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;m14 16l1.32 1.76C14.32 19.68 12.31 21 10 21c-3.31 0-6-2.69-6-6c0-2.43 1.46-4.5 3.55-5.45l.21 2.17C6.71 12.44 6 13.63 6 15c0 2.21 1.79 4 4 4c1.86 0 3.41-1.28 3.86-3H14m5.55.11l-1.25.62L15.5 13h-4.59l-.2-2H14V9h-3.5l-.3-3c1.01-.12 1.8-.96 1.8-2a2 2 0 1 0-4 0v.1L9.1 15h5.4l3.2 4.27l2.75-1.37l-.9-1.79Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"placeholder":"Add feature title…","textColor":"palette-5","className":"h3"} -->
-<h2 class="h3 has-palette-5-color has-text-color">Ligtweight</h2>
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"2em"}},"className":"has-no-margin-top"} -->
+<h2 class="wp-block-heading has-text-align-center has-no-margin-top" style="font-size:2em">Accessible</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>Lightweight codebase optimized for speed makes your website perform fast, reducing the load time of any page to minimum.</p>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Lightweight codebase optimized for speed makes your website perform fast, reducing the load time of any page to minimum.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:button {"textColor":"palette-5","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-palette-5-color has-text-color" href="#0">Read more</a></div>
-<!-- /wp:button --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#0">Read More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"large","backgroundColor":"accent","headingLevel":2,"textColor":"palette-5","coblocks":{"id":"59154824273"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-59154824273"><div class="wp-block-coblocks-feature__inner has-accent-background-color has-background has-text-color has-palette-5-color has-padding has-large-padding"><!-- wp:coblocks/icon {"icon":"accessible","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"accent","textColor":"palette-5"} -->
+<div class="wp-block-column has-palette-5-color has-accent-background-color has-text-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M3 13a9 9 0 0 0 9 9a9 9 0 0 0-9-9m2.44 2.44c1.91.71 3.41 2.21 4.12 4.12a6.986 6.986 0 0 1-4.12-4.12M12 22a9 9 0 0 0 9-9a9 9 0 0 0-9 9m2.42-2.43a6.876 6.876 0 0 1 4.15-4.15a7.03 7.03 0 0 1-4.15 4.15M12 14a6 6 0 0 0 6-6V3a5.9 5.9 0 0 0-2.16.39c-.55.23-1.04.57-1.45 1L12 2L9.61 4.39c-.41-.43-.9-.77-1.45-1A5.9 5.9 0 0 0 6 3v5a6 6 0 0 0 6 6M8 5.61l1.57 1.65L12 4.83l2.43 2.43L16 5.61V8a4 4 0 0 1-4 4a4 4 0 0 1-4-4V5.61Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"placeholder":"Add feature title…","textColor":"palette-5","className":"h3"} -->
-<h2 class="h3 has-palette-5-color has-text-color">Accessible</h2>
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"2em"}},"className":"has-no-margin-top"} -->
+<h2 class="wp-block-heading has-text-align-center has-no-margin-top" style="font-size:2em">Lightweight</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>Government, municipal websites should be inclusive and accessible for everyone.<br /><strong>Cindy </strong>theme will give you just that!</p>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Government, municipal websites should be inclusive and accessible for everyone.<br /><strong>Cindy </strong>theme will give you just that!</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:button {"textColor":"palette-5","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-palette-5-color has-text-color" href="#0">Read more</a></div>
-<!-- /wp:button --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#0">Read More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"large","backgroundColor":"accent","headingLevel":2,"textColor":"palette-5","coblocks":{"id":"59154852800"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-59154852800"><div class="wp-block-coblocks-feature__inner has-accent-background-color has-background has-text-color has-palette-5-color has-padding has-large-padding"><!-- wp:coblocks/icon {"icon":"verifieduser","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"accent","textColor":"palette-5"} -->
+<div class="wp-block-column has-palette-5-color has-accent-background-color has-text-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M21 17H7V3h14m0-2H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2M3 5H1v16a2 2 0 0 0 2 2h16v-2H3m12.96-10.71l-2.75 3.54l-1.96-2.36L8.5 15h11l-3.54-4.71Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"placeholder":"Add feature title…","textColor":"palette-5","className":"h3"} -->
-<h2 class="h3 has-palette-5-color has-text-color">Secure</h2>
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"2em"}},"className":"has-no-margin-top"} -->
+<h2 class="wp-block-heading has-text-align-center has-no-margin-top" style="font-size:2em">Drag &amp; Drop</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p><strong>Cindy</strong> theme is coded securely following WordPress coding standards and best practices. Uses modern PHP coding.</p>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Cindy</strong> theme is coded securely following WordPress coding standards and best practices. Uses modern PHP coding.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:button {"textColor":"palette-5","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-palette-5-color has-text-color" href="#0">Read more</a></div>
-<!-- /wp:button --></div></div>
-<!-- /wp:coblocks/feature --></div></div>
-<!-- /wp:coblocks/features -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#0">Read More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
 
 <!-- wp:spacer {"height":"75px"} -->
 <div style="height:75px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:media-text {"mediaPosition":"right","mediaId":250,"mediaType":"image","mediaWidth":38,"verticalAlignment":"center","className":"alignwide"} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:auto 38%"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_businesswomen-in-an-office-4427501.jpg" alt="" class="wp-image-250 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
-<h2><strong>Cindy</strong><br />accessibility ready<br />WordPress theme</h2>
+<!-- wp:media-text {"align":"wide","mediaPosition":"right","mediaId":250,"mediaType":"image","mediaWidth":38,"verticalAlignment":"center","className":"alignwide"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:auto 38%"><div class="wp-block-media-text__content"><!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Cindy</strong><br />accessibility ready<br />WordPress theme</h2>
 <!-- /wp:heading -->
 
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
@@ -5190,7 +5496,7 @@ Post type: page
 <p>This is your world. Just let these leaves jump off the brush The man who does the best job is the one who is happy at his job. Isn’t that fantastic? You have to allow the paint to break to make it beautiful. Tree trunks grow however makes them happy.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
-<!-- /wp:columns --></div></div>
+<!-- /wp:columns --></div><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_businesswomen-in-an-office-4427501.jpg" alt="" class="wp-image-250 size-full"/></figure></div>
 <!-- /wp:media-text -->
 
 <!-- wp:spacer -->
@@ -5201,7 +5507,7 @@ Post type: page
 <div class="wp-block-group alignfull has-palette-4-background-color has-background" style="padding-top:100px;padding-bottom:75px"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading -->
-<h2>What's On?</h2>
+<h2 class="wp-block-heading">What's On?</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
@@ -5233,7 +5539,7 @@ Post type: page
 
 <!-- wp:group {"backgroundColor":"accent","textColor":"palette-5"} -->
 <div class="wp-block-group has-palette-5-color has-accent-background-color has-text-color has-background"><!-- wp:heading {"textAlign":"center","textColor":"palette-5","className":"has-no-margin h3"} -->
-<h2 class="has-text-align-center has-no-margin h3 has-palette-5-color has-text-color"><strong>Michelle House</strong></h2>
+<h2 class="wp-block-heading has-text-align-center has-no-margin h3 has-palette-5-color has-text-color"><strong>Michelle House</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -5244,7 +5550,7 @@ Post type: page
 
 <!-- wp:column {"verticalAlignment":"center","width":"62%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:62%"><!-- wp:heading {"level":3} -->
-<h3>88th mayor of the City of Cindy,<br />re-elected on Jun 1 2019.</h3>
+<h3 class="wp-block-heading">88th mayor of the City of Cindy,<br />re-elected on Jun 1 2019.</h3>
 <!-- /wp:heading -->
 
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
@@ -5252,7 +5558,9 @@ Post type: page
 <!-- /wp:separator -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>This is your world. Just let these leaves jump off the brush The man who does the best job is the one who is happy at his job. Isn’t that fantastic? You have to allow the paint to break to make it beautiful. Tree trunks grow however makes them happy.</p></blockquote>
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>This is your world. Just let these leaves jump off the brush The man who does the best job is the one who is happy at his job. Isn’t that fantastic? You have to allow the paint to break to make it beautiful. Tree trunks grow however makes them happy.</p>
+<!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
@@ -5277,7 +5585,7 @@ Post type: page
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_train-passing-773471.jpg","id":88,"dimRatio":90,"overlayColor":"palette-2","align":"full","className":"has-palette-4-border-color","style":{"spacing":{"padding":{"top":"100px","bottom":"100px"}}},"noBottomMargin":true} -->
+<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_train-passing-773471.jpg","id":88,"dimRatio":90,"overlayColor":"palette-2","align":"full","style":{"spacing":{"padding":{"top":"100px","bottom":"100px"}}},"className":"has-palette-4-border-color","noBottomMargin":true} -->
 <div class="wp-block-cover alignfull has-palette-4-border-color mb-0" style="padding-top:100px;padding-bottom:100px"><span aria-hidden="true" class="wp-block-cover__background has-palette-2-background-color has-background-dim-90 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-88" alt="" src="https://themedemos.webmandesign.eu/cindy/wp-content/uploads/sites/25/SAMPLE/_train-passing-773471.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":6,"sizeSlug":"large"} -->
@@ -5285,7 +5593,7 @@ Post type: page
 <!-- /wp:image -->
 
 <!-- wp:heading {"className":"has-no-margin-top"} -->
-<h2 class="has-no-margin-top">Change your perspective</h2>
+<h2 class="wp-block-heading has-no-margin-top">Change your perspective</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -5302,80 +5610,96 @@ Post type: page
 <div style="height:75px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:coblocks/features {"headingLevel":3,"columns":4,"align":"wide","coblocks":{"id":"58172032318"}} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-58172032318"><div class="wp-block-coblocks-features__inner has-columns has-4-columns has-responsive-columns has-center-content has-medium-gutter"><!-- wp:coblocks/feature {"headingLevel":3,"className":"has-item-style","coblocks":{"id":"58172032478"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-58172032478 has-item-style"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"emoticon","hasContentAlign":false} /-->
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M20 12a8 8 0 0 0-8-8a8 8 0 0 0-8 8a8 8 0 0 0 8 8a8 8 0 0 0 8-8m2 0a10 10 0 0 1-10 10A10 10 0 0 1 2 12A10 10 0 0 1 12 2a10 10 0 0 1 10 10M10 9.5c0 .8-.7 1.5-1.5 1.5S7 10.3 7 9.5S7.7 8 8.5 8s1.5.7 1.5 1.5m7 0c0 .8-.7 1.5-1.5 1.5S14 10.3 14 9.5S14.7 8 15.5 8s1.5.7 1.5 1.5m-5 7.73c-1.75 0-3.29-.73-4.19-1.81L9.23 14c.45.72 1.52 1.23 2.77 1.23s2.32-.51 2.77-1.23l1.42 1.42c-.9 1.08-2.44 1.81-4.19 1.81Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":3,"placeholder":"Add feature title…","textColor":"palette-5","className":"h4"} -->
-<h3 class="h4 has-palette-5-color has-text-color">Easy To Use</h3>
-<!-- /wp:heading --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Easy To Use</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"headingLevel":3,"className":"has-item-style","coblocks":{"id":"58172032487"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-58172032487 has-item-style"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"flower","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M3 13a9 9 0 0 0 9 9a9 9 0 0 0-9-9m2.44 2.44c1.91.71 3.41 2.21 4.12 4.12a6.986 6.986 0 0 1-4.12-4.12M12 22a9 9 0 0 0 9-9a9 9 0 0 0-9 9m2.42-2.43a6.876 6.876 0 0 1 4.15-4.15a7.03 7.03 0 0 1-4.15 4.15M12 14a6 6 0 0 0 6-6V3a5.9 5.9 0 0 0-2.16.39c-.55.23-1.04.57-1.45 1L12 2L9.61 4.39c-.41-.43-.9-.77-1.45-1A5.9 5.9 0 0 0 6 3v5a6 6 0 0 0 6 6M8 5.61l1.57 1.65L12 4.83l2.43 2.43L16 5.61V8a4 4 0 0 1-4 4a4 4 0 0 1-4-4V5.61Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":3,"placeholder":"Add feature title…","textColor":"palette-5","className":"h4"} -->
-<h3 class="h4 has-palette-5-color has-text-color">Lightweight</h3>
-<!-- /wp:heading --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Lightweight</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"headingLevel":3,"className":"has-item-style","coblocks":{"id":"58172045857"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-58172045857 has-item-style"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"gallery","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M21 17H7V3h14m0-2H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2M3 5H1v16a2 2 0 0 0 2 2h16v-2H3m12.96-10.71l-2.75 3.54l-1.96-2.36L8.5 15h11l-3.54-4.71Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":3,"placeholder":"Add feature title…","textColor":"palette-5","className":"h4"} -->
-<h3 class="h4 has-palette-5-color has-text-color">Drag &amp; Drop</h3>
-<!-- /wp:heading --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Drag &amp; Drop</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"className":"has-item-style","coblocks":{"id":"58172419882"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-58172419882 has-item-style"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"paint","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M8 3C5.79 3 4 4.79 4 7v7c0 1.1.9 2 2 2h3v4c0 1.1.9 2 2 2h2c1.1 0 2-.9 2-2v-4h3c1.1 0 2-.9 2-2V3H8m0 2h4v2h2V5h1v4h2V5h1v5H6V7c0-1.1.9-2 2-2m-2 9v-2h12v2H6Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","textColor":"palette-5","className":"h4"} -->
-<h4 class="h4 has-palette-5-color has-text-color">Customizable</h4>
-<!-- /wp:heading --></div></div>
-<!-- /wp:coblocks/feature --></div></div>
-<!-- /wp:coblocks/features -->
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Customizable</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
 
-<!-- wp:coblocks/features {"paddingSyncUnits":true,"headingLevel":3,"columns":4,"align":"wide","coblocks":{"id":"58172032318"}} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-58172032318"><div class="wp-block-coblocks-features__inner has-columns has-4-columns has-responsive-columns has-center-content has-medium-gutter"><!-- wp:coblocks/feature {"headingLevel":3,"className":"has-item-style","coblocks":{"id":"58172032478"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-58172032478 has-item-style"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"translate","hasContentAlign":false} /-->
+<!-- wp:columns {"align":"wide","className":"has-no-margin-bottom"} -->
+<div class="wp-block-columns alignwide has-no-margin-bottom"><!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M11 1H3c-1.1 0-2 .9-2 2v12l3-3h5v-1c0-2.2 1.79-4 4-4V3c0-1.1-.9-2-2-2m0 3H9.5c-.34 1.19-.96 2.3-1.82 3.26l-.02.02l1.26 1.25l-.37 1.01L7 8l-2.5 2.5l-.69-.73l2.53-2.49A8.58 8.58 0 0 1 4.86 5h.99c.31.6.69 1.17 1.15 1.68A7.69 7.69 0 0 0 8.57 4H3V3h3.5V2h1v1H11v1m10 5h-8c-1.1 0-2 .9-2 2v7c0 1.1.9 2 2 2h7l3 3V11c0-1.1-.9-2-2-2m-1.37 10l-.85-2.25h-3.56L14.38 19h-1.5l3.37-9h1.5l3.38 9h-1.5M17 12l1.22 3.25h-2.43L17 12Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":3,"placeholder":"Add feature title…","textColor":"palette-5","className":"h4"} -->
-<h3 class="h4 has-palette-5-color has-text-color">Multilingual</h3>
-<!-- /wp:heading --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Multilingual</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"headingLevel":3,"className":"has-item-style","coblocks":{"id":"58172032487"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-58172032487 has-item-style"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"send","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M12 16a3 3 0 0 1-3-3c0-1.12.61-2.1 1.5-2.61l9.71-5.62l-5.53 9.58c-.5.98-1.51 1.65-2.68 1.65m0-13c1.81 0 3.5.5 4.97 1.32l-2.1 1.21C14 5.19 13 5 12 5a8 8 0 0 0-8 8c0 2.21.89 4.21 2.34 5.65h.01c.39.39.39 1.02 0 1.41c-.39.39-1.03.39-1.42.01A9.969 9.969 0 0 1 2 13A10 10 0 0 1 12 3m10 10c0 2.76-1.12 5.26-2.93 7.07c-.39.38-1.02.38-1.41-.01a.996.996 0 0 1 0-1.41A7.95 7.95 0 0 0 20 13c0-1-.19-2-.54-2.9L20.67 8C21.5 9.5 22 11.18 22 13Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":3,"placeholder":"Add feature title…","textColor":"palette-5","className":"h4"} -->
-<h3 class="h4 has-palette-5-color has-text-color">Speedy</h3>
-<!-- /wp:heading --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Speedy</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"headingLevel":3,"className":"has-item-style","coblocks":{"id":"58172045857"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-58172045857 has-item-style"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"school","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3m6.82 6L12 12.72L5.18 9L12 5.28L18.82 9M17 16l-5 2.72L7 16v-3.73L12 15l5-2.73V16Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":3,"placeholder":"Add feature title…","textColor":"palette-5","className":"h4"} -->
-<h3 class="h4 has-palette-5-color has-text-color">Documented</h3>
-<!-- /wp:heading --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Documented</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"className":"has-item-style","coblocks":{"id":"58172419882"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-58172419882 has-item-style"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"accessible","hasContentAlign":false} /-->
+<!-- wp:column {"style":{"color":{"background":"#ffffff1a"}}} -->
+<div class="wp-block-column has-background" style="background-color:#ffffff1a"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;64&quot; height=&quot;64&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;m14 16l1.32 1.76C14.32 19.68 12.31 21 10 21c-3.31 0-6-2.69-6-6c0-2.43 1.46-4.5 3.55-5.45l.21 2.17C6.71 12.44 6 13.63 6 15c0 2.21 1.79 4 4 4c1.86 0 3.41-1.28 3.86-3H14m5.55.11l-1.25.62L15.5 13h-4.59l-.2-2H14V9h-3.5l-.3-3c1.01-.12 1.8-.96 1.8-2a2 2 0 1 0-4 0v.1L9.1 15h5.4l3.2 4.27l2.75-1.37l-.9-1.79Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","textColor":"palette-5","className":"h4"} -->
-<h4 class="h4 has-palette-5-color has-text-color">Accessible</h4>
-<!-- /wp:heading --></div></div>
-<!-- /wp:coblocks/feature --></div></div>
-<!-- /wp:coblocks/features --></div></div>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Accessible</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
 <!-- /wp:cover -->
 
 <!-- wp:cover {"overlayColor":"palette-4","isDark":false,"align":"full","style":{"spacing":{"padding":{"top":"100px","bottom":"100px"}}},"noTopMargin":true} -->
 <div class="wp-block-cover alignfull is-light mt-0" style="padding-top:100px;padding-bottom:100px"><span aria-hidden="true" class="wp-block-cover__background has-palette-4-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"25%"} -->
 <div class="wp-block-column" style="flex-basis:25%"><!-- wp:heading {"textColor":"palette-1"} -->
-<h2 class="has-palette-1-color has-text-color">Tags</h2>
+<h2 class="wp-block-heading has-palette-1-color has-text-color">Tags</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"palette-1"} -->
@@ -5396,8 +5720,8 @@ Post type: page
 		<wp:post_id>464</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 15:32:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 13:32:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-20 12:33:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-20 10:33:56]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 10:19:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 08:19:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
