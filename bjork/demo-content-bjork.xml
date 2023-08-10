@@ -14,14 +14,14 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
-<!-- generator="WordPress/6.0.3" created="2022-10-23 15:26" -->
+<!-- generator="WordPress/6.3" created="2023-08-10 16:26" -->
 <rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
 
 <channel>
 	<title>Björk</title>
 	<link>https://themedemos.webmandesign.eu/bjork</link>
 	<description>Inclusive &amp; Accessible</description>
-	<pubDate>Sun, 23 Oct 2022 15:26:05 +0000</pubDate>
+	<pubDate>Thu, 10 Aug 2023 16:26:47 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themedemos.webmandesign.eu/</wp:base_site_url>
@@ -308,7 +308,7 @@
 	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-links]]></wp:term_slug><wp:term_name><![CDATA[Social Links]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.3</generator>
 
 		
 					
@@ -849,8 +849,8 @@ Post type: jetpack-portfolio
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="jetpack-portfolio-tag" nicename="design"><![CDATA[Design]]></category>
 		<category domain="jetpack-portfolio-type" nicename="digital"><![CDATA[Digital]]></category>
-		<category domain="jetpack-portfolio-tag" nicename="marketing"><![CDATA[Marketing]]></category>
 		<category domain="jetpack-portfolio-type" nicename="marketing"><![CDATA[Marketing]]></category>
+		<category domain="jetpack-portfolio-tag" nicename="marketing"><![CDATA[Marketing]]></category>
 		<category domain="jetpack-portfolio-tag" nicename="wordpress"><![CDATA[WordPress]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -980,8 +980,8 @@ Post type: jetpack-portfolio
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":1,"style":{"typography":{"textTransform":"uppercase"}},"customFontSize":20,"fontWeight":"normal","textTransform":"uppercase"} -->
-<h1 class="has-custom-weight has-custom-transform" style="text-transform:uppercase;font-weight:normal;font-size:20px">No intro template</h1>
+<div class="wp-block-column"><!-- wp:heading {"level":1,"style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"400"}},"className":"has-custom-weight has-custom-transform","fontSize":"large"} -->
+<h1 class="wp-block-heading has-custom-weight has-custom-transform has-large-font-size" style="font-style:normal;font-weight:400;text-transform:uppercase">No intro template</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"className":"h2"} -->
@@ -1000,7 +1000,7 @@ Post type: jetpack-portfolio
 <!-- /wp:image -->
 
 <!-- wp:heading -->
-<h2>Project info</h2>
+<h2 class="wp-block-heading">Project info</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1034,12 +1034,12 @@ Post type: jetpack-portfolio
 
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph {"textColor":"color-accent","className":"has-no-margin-bottom","customFontSize":64} -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"fontSize":64}},"textColor":"color-accent","className":"has-no-margin-bottom"} -->
 <p class="has-no-margin-bottom has-color-accent-color has-text-color" style="font-size:64px"><strong>24</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"className":"h4 has-no-margin-top"} -->
-<h2 class="h4 has-no-margin-top">Coffee cups</h2>
+<h2 class="wp-block-heading h4 has-no-margin-top">Coffee cups</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1048,12 +1048,12 @@ Post type: jetpack-portfolio
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph {"textColor":"color-accent","className":"has-no-margin-bottom","customFontSize":64} -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"fontSize":64}},"textColor":"color-accent","className":"has-no-margin-bottom"} -->
 <p class="has-no-margin-bottom has-color-accent-color has-text-color" style="font-size:64px"><strong>324</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"className":"h4 has-no-margin-top"} -->
-<h2 class="h4 has-no-margin-top">Hours of work</h2>
+<h2 class="wp-block-heading h4 has-no-margin-top">Hours of work</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1062,12 +1062,12 @@ Post type: jetpack-portfolio
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph {"textColor":"color-accent","className":"has-no-margin-bottom","customFontSize":64} -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"fontSize":64}},"textColor":"color-accent","className":"has-no-margin-bottom"} -->
 <p class="has-no-margin-bottom has-color-accent-color has-text-color" style="font-size:64px"><strong>3</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"className":"h4 has-no-margin-top"} -->
-<h2 class="h4 has-no-margin-top">Team size</h2>
+<h2 class="wp-block-heading h4 has-no-margin-top">Team size</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1087,8 +1087,8 @@ Post type: jetpack-portfolio
 		<wp:post_id>450</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-19 20:18:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-19 19:18:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-23 16:35:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-23 14:35:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 15:01:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 13:01:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[project-1]]></wp:post_name>
@@ -5178,9 +5178,9 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=17</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:media-text {"mediaId":906,"mediaType":"image","mediaWidth":32,"verticalAlignment":"bottom","className":"alignwide"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-bottom" style="grid-template-columns:32% auto"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_green-indoor-plant-in-a-room-38896-1200x1800.jpg" alt="" class="wp-image-906 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":1,"className":"has-no-margin-bottom","customFontSize":20,"fontWeight":"normal","textTransform":"uppercase"} -->
-<h1 class="has-no-margin-bottom has-custom-weight has-custom-transform" id="we-are-bjork" style="font-weight:normal;text-transform:uppercase;font-size:20px">We are Björk</h1>
+		<content:encoded><![CDATA[<!-- wp:media-text {"align":"wide","mediaId":906,"mediaType":"image","mediaWidth":32,"verticalAlignment":"bottom","className":"alignwide"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-bottom" style="grid-template-columns:32% auto"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_green-indoor-plant-in-a-room-38896-1200x1800.jpg" alt="" class="wp-image-906 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":1,"style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"400"}},"className":"has-no-margin-bottom has-custom-weight has-custom-transform","fontSize":"large"} -->
+<h1 class="wp-block-heading has-no-margin-bottom has-custom-weight has-custom-transform has-large-font-size" id="we-are-bjork" style="font-style:normal;font-weight:400;text-transform:uppercase">We are Björk</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"className":"h1"} -->
@@ -5192,29 +5192,29 @@ Post type: page
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:image {"align":"full","id":1205,"sizeSlug":"full","className":"is-style-top-wave","noBottomMargin":true} -->
+<!-- wp:image {"align":"full","id":1205,"sizeSlug":"full","className":"is-style-top-wave mb-0"} -->
 <figure class="wp-block-image alignfull size-full is-style-top-wave mb-0"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_macro-photograph-of-grass-1090977-narrow.jpg" alt="" class="wp-image-1205"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:coblocks/shape-divider {"color":"color-accent-text","backgroundColor":"palette-1","align":"full","className":"is-style-hills"} /-->
 
-<!-- wp:spacer {"height":"50px","noTopMargin":true} -->
+<!-- wp:spacer {"height":"50px","className":"mt-0"} -->
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer mt-0"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:media-text {"mediaPosition":"right","mediaId":1309,"mediaType":"image","verticalAlignment":"center","imageFill":true,"className":"alignwide"} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center is-image-fill"><figure class="wp-block-media-text__media" style="background-image:url(https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-gray.png);background-position:50% 50%"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-gray.png" alt="Do not forget to set image alt text!" class="wp-image-1309 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<!-- wp:media-text {"align":"wide","mediaPosition":"right","mediaId":1309,"mediaType":"image","verticalAlignment":"center","imageFill":true,"className":"alignwide"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center is-image-fill"><div class="wp-block-media-text__content"><!-- wp:paragraph -->
 <p>Home, at so of what regulatory and the felt impact their how to in of maybe eating he alphabet begin mouth. Refinement sleep get beginnings, is it problems occupied the any endeavours, it getting had like…. Them outfits her because doctor's and high trying.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/bjork/services-1/">Our services</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://themedemos.webmandesign.eu/bjork/services-1/">Our services</a></div>
 <!-- /wp:button --></div>
-<!-- /wp:buttons --></div></div>
+<!-- /wp:buttons --></div><figure class="wp-block-media-text__media" style="background-image:url(https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-gray.png);background-position:50% 50%"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-gray.png" alt="Do not forget to set image alt text!" class="wp-image-1309 size-full"/></figure></div>
 <!-- /wp:media-text -->
 
-<!-- wp:spacer {"noBottomMargin":true} -->
+<!-- wp:spacer {"className":"mb-0"} -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer mb-0"></div>
 <!-- /wp:spacer -->
 
@@ -5226,15 +5226,15 @@ Post type: page
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"align":"center"} -->
-<div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/bjork/portfolio/">View our work</a></div>
+<div class="wp-block-buttons"><!-- wp:button {"className":"aligncenter"} -->
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link wp-element-button" href="https://themedemos.webmandesign.eu/bjork/portfolio/">View our work</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->
 
 <!-- wp:cover {"url":"https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1198,"dimRatio":50,"align":"full","style":{"spacing":{"padding":{"top":"150px","bottom":"150px"}}}} -->
 <div class="wp-block-cover alignfull" style="padding-top:150px;padding-bottom:150px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-1198" alt="" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","textColor":"color-accent-text"} -->
-<h2 class="has-text-align-center has-color-accent-text-color has-text-color" id="featured-work">Featured work</h2>
+<h2 class="wp-block-heading has-text-align-center has-color-accent-text-color has-text-color" id="featured-work">Featured work</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":917,"sizeSlug":"large","className":"has-decoration"} -->
@@ -5246,8 +5246,8 @@ Post type: page
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"textColor":"color-accent-text","align":"center","className":"is-style-outline"} -->
-<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-color-accent-text-color has-text-color" href="https://themedemos.webmandesign.eu/bjork/portfolio/project-1/">View project</a></div>
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"color-accent-text","className":"is-style-outline aligncenter"} -->
+<div class="wp-block-button is-style-outline aligncenter"><a class="wp-block-button__link has-color-accent-text-color has-text-color wp-element-button" href="https://themedemos.webmandesign.eu/bjork/portfolio/project-1/">View project</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:cover -->
@@ -5257,7 +5257,7 @@ Post type: page
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center" id="who-we-ve-worked-with">Who we've worked with</h2>
+<h2 class="wp-block-heading has-text-align-center" id="who-we-ve-worked-with">Who we've worked with</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"50px"} -->
@@ -5267,31 +5267,31 @@ Post type: page
 <!-- wp:columns {"verticalAlignment":"center","align":"wide"} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":1073,"width":169,"height":117,"sizeSlug":"large"} -->
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_sample-logo-6.png" alt="" class="wp-image-1073" width="169" height="117"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_sample-logo-6.png" alt="" class="wp-image-1073" style="width:169px;height:117px" width="169" height="117"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":1071,"width":168,"height":141,"sizeSlug":"large"} -->
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_sample-logo-2.png" alt="" class="wp-image-1071" width="168" height="141"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_sample-logo-2.png" alt="" class="wp-image-1071" style="width:168px;height:141px" width="168" height="141"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":1072,"width":150,"height":150,"sizeSlug":"large"} -->
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_sample-logo-5.png" alt="" class="wp-image-1072" width="150" height="150"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_sample-logo-5.png" alt="" class="wp-image-1072" style="width:150px;height:150px" width="150" height="150"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":1073,"width":169,"height":117,"sizeSlug":"large"} -->
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_sample-logo-6.png" alt="" class="wp-image-1073" width="169" height="117"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_sample-logo-6.png" alt="" class="wp-image-1073" style="width:169px;height:117px" width="169" height="117"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":1071,"width":168,"height":141,"sizeSlug":"large"} -->
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_sample-logo-2.png" alt="" class="wp-image-1071" width="168" height="141"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_sample-logo-2.png" alt="" class="wp-image-1071" style="width:168px;height:141px" width="168" height="141"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -5304,7 +5304,7 @@ Post type: page
 
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"100px","bottom":"0px"}}},"backgroundColor":"palette-3"} -->
 <div class="wp-block-group alignfull has-palette-3-background-color has-background" style="padding-top:100px;padding-bottom:0px"><!-- wp:heading {"textAlign":"center","textColor":"palette-1"} -->
-<h2 class="has-text-align-center has-palette-1-color has-text-color" id="we-d-love-to-work-with-you">We’d love to work with you.</h2>
+<h2 class="wp-block-heading has-text-align-center has-palette-1-color has-text-color" id="we-d-love-to-work-with-you">We’d love to work with you.</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -5316,8 +5316,8 @@ Post type: page
 <!-- /wp:spacer -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"align":"center","className":"is-style-fill"} -->
-<div class="wp-block-button aligncenter is-style-fill"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/bjork/contact-1/">Contact us</a></div>
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-fill aligncenter"} -->
+<div class="wp-block-button is-style-fill aligncenter"><a class="wp-block-button__link wp-element-button" href="https://themedemos.webmandesign.eu/bjork/contact-1/">Contact us</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -5325,7 +5325,7 @@ Post type: page
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:image {"align":"full","id":1205,"sizeSlug":"full","className":"is-style-top-wave","noBottomMargin":true} -->
+<!-- wp:image {"align":"full","id":1205,"sizeSlug":"full","className":"is-style-top-wave mb-0"} -->
 <figure class="wp-block-image alignfull size-full is-style-top-wave mb-0"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_macro-photograph-of-grass-1090977-narrow.jpg" alt="" class="wp-image-1205"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->]]></content:encoded>
@@ -5333,8 +5333,8 @@ Post type: page
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-15 21:30:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-15 20:30:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-23 17:07:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-23 15:07:21]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 17:53:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 15:53:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -5365,12 +5365,12 @@ Post type: page
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=19</guid>
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":911,"mediaType":"image","imageFill":true,"focalPoint":{"x":0.4609375,"y":0.6352941176470588},"backgroundColor":"color-accent","className":"alignfull has-no-margin-bottom has-background"} -->
-<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-image-fill has-no-margin-bottom has-background has-color-accent-background-color has-background"><figure class="wp-block-media-text__media" style="background-image:url(https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_green-leaf-plant-beside-brown-electric-guitar-on-sofa-892617-1200x1600.jpg);background-position:46.09375% 63.52941176470588%"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_green-leaf-plant-beside-brown-electric-guitar-on-sofa-892617-1200x1600.jpg" alt="" class="wp-image-911 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:spacer -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-image-fill has-no-margin-bottom has-background has-color-accent-background-color"><div class="wp-block-media-text__content"><!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"level":1,"style":{"typography":{"textTransform":"uppercase"}},"textColor":"color-accent-text"} -->
-<h1 class="has-color-accent-text-color has-text-color" id="creativeworksby-bjork" style="text-transform:uppercase">Creative<br />Works<br />by Björk</h1>
+<h1 class="wp-block-heading has-color-accent-text-color has-text-color" id="creativeworksby-bjork" style="text-transform:uppercase">Creative<br />Works<br />by Björk</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"color-accent-text","fontSize":"large"} -->
@@ -5379,122 +5379,120 @@ Post type: page
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"color-accent-text","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-color-accent-text-color has-text-color" href="https://themedemos.webmandesign.eu/bjork/shop/">Shop now</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-color-accent-text-color has-text-color wp-element-button" href="https://themedemos.webmandesign.eu/bjork/shop/">Shop now</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
+<!-- /wp:spacer --></div><figure class="wp-block-media-text__media" style="background-image:url(https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_green-leaf-plant-beside-brown-electric-guitar-on-sofa-892617-1200x1600.jpg);background-position:46% 64%"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_green-leaf-plant-beside-brown-electric-guitar-on-sofa-892617-1200x1600.jpg" alt="" class="wp-image-911 size-full"/></figure></div>
 <!-- /wp:media-text -->
 
-<!-- wp:group {"align":"full","backgroundColor":"palette-3","className":"has-no-padding","noBottomMargin":true,"noTopMargin":true} -->
-<div class="wp-block-group alignfull has-no-padding has-palette-3-background-color has-background mb-0 mt-0"><!-- wp:coblocks/features {"marginBottom":0,"marginBottomTablet":0,"marginBottomMobile":0,"columns":3,"align":"wide","noBottomMargin":true,"coblocks":{"id":"14192456468"},"gutter":"custom","gutterCustom":"0"} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-14192456468 mb-0"><div class="wp-block-coblocks-features__inner has-columns has-3-columns has-responsive-columns has-center-content has-custom-gutter" style="--coblocks-custom-gutter:0em"><!-- wp:coblocks/feature {"paddingSize":"huge","className":"has-no-margin-vertical","coblocks":{"id":"14192456531"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-14192456531 has-no-margin-vertical"><div class="wp-block-coblocks-feature__inner has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"scatter_plot","hasContentAlign":false,"iconColor":"palette-1"} /-->
+<!-- wp:group {"align":"full","backgroundColor":"palette-3","className":"has-no-padding mb-0 mt-0"} -->
+<div class="wp-block-group alignfull has-no-padding mb-0 mt-0 has-palette-3-background-color has-background"><!-- wp:columns {"align":"wide","className":"has-no-margin-vertical"} -->
+<div class="wp-block-columns alignwide has-no-margin-vertical"><!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"palette-3","textColor":"palette-1"} -->
+<div class="wp-block-column has-palette-1-color has-palette-3-background-color has-text-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23122e98&quot; d=&quot;m14 16l1.32 1.76C14.32 19.68 12.31 21 10 21c-3.31 0-6-2.69-6-6c0-2.43 1.46-4.5 3.55-5.45l.21 2.17C6.71 12.44 6 13.63 6 15c0 2.21 1.79 4 4 4c1.86 0 3.41-1.28 3.86-3H14m5.55.11l-1.25.62L15.5 13h-4.59l-.2-2H14V9h-3.5l-.3-3c1.01-.12 1.8-.96 1.8-2a2 2 0 1 0-4 0v.1L9.1 15h5.4l3.2 4.27l2.75-1.37l-.9-1.79Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4 id="feature-title">Feature Title</h4>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Accessible</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-1"} -->
-<p class="has-palette-1-color has-text-color">This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Makes your business website inclusive and accessible for everyone.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"huge","customBackgroundColor":"#d5aa10","className":"has-no-margin-vertical","coblocks":{"id":"14192456535"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-14192456535 has-no-margin-vertical"><div class="wp-block-coblocks-feature__inner has-background has-padding has-huge-padding" style="background-color:#d5aa10"><!-- wp:coblocks/icon {"icon":"gesture","hasContentAlign":false,"iconColor":"palette-1"} /-->
+<!-- wp:column {"style":{"color":{"background":"#d5aa10"},"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"textColor":"palette-1"} -->
+<div class="wp-block-column has-palette-1-color has-text-color has-background" style="background-color:#d5aa10;padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23122e98&quot; d=&quot;M3 13a9 9 0 0 0 9 9a9 9 0 0 0-9-9m2.44 2.44c1.91.71 3.41 2.21 4.12 4.12a6.986 6.986 0 0 1-4.12-4.12M12 22a9 9 0 0 0 9-9a9 9 0 0 0-9 9m2.42-2.43a6.876 6.876 0 0 1 4.15-4.15a7.03 7.03 0 0 1-4.15 4.15M12 14a6 6 0 0 0 6-6V3a5.9 5.9 0 0 0-2.16.39c-.55.23-1.04.57-1.45 1L12 2L9.61 4.39c-.41-.43-.9-.77-1.45-1A5.9 5.9 0 0 0 6 3v5a6 6 0 0 0 6 6M8 5.61l1.57 1.65L12 4.83l2.43 2.43L16 5.61V8a4 4 0 0 1-4 4a4 4 0 0 1-4-4V5.61Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4 id="feature-title">Feature Title</h4>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Lightweight</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-1"} -->
-<p class="has-palette-1-color has-text-color">This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">No bloat, no lock-in effect, securely coded with SEO and speed optimization.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"huge","className":"has-no-margin-vertical","coblocks":{"id":"14192458487"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-14192458487 has-no-margin-vertical"><div class="wp-block-coblocks-feature__inner has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"aperture","hasContentAlign":false,"iconColor":"palette-1"} /-->
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"palette-3","textColor":"palette-1"} -->
+<div class="wp-block-column has-palette-1-color has-palette-3-background-color has-text-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23122e98&quot; d=&quot;M21 17H7V3h14m0-2H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2M3 5H1v16a2 2 0 0 0 2 2h16v-2H3m12.96-10.71l-2.75 3.54l-1.96-2.36L8.5 15h11l-3.54-4.71Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4 id="feature-title">Feature Title</h4>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Drag &amp; Drop</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-1"} -->
-<p class="has-palette-1-color has-text-color">This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature --></div></div>
-<!-- /wp:coblocks/features --></div>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Compatible with WordPress block editor or any page builder.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:spacer {"height":"150px","noTopMargin":true} -->
+<!-- wp:spacer {"height":"150px","className":"mt-0"} -->
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer mt-0"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:coblocks/media-card {"mediaId":912,"mediaType":"image","align":"","coblocks":{"id":"1592937151"}} -->
-<div class="wp-block-coblocks-media-card is-style-left is-stacked-on-mobile coblocks-media-card-1592937151"><div class="wp-block-coblocks-media-card__inner has-no-padding"><div class="wp-block-coblocks-media-card__wrapper"><figure class="wp-block-coblocks-media-card__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_black-lamp-on-white-table-945225-1200x1600.jpg" alt="" class="wp-image-912"/></figure><div class="wp-block-coblocks-media-card__content"><!-- wp:coblocks/row {"paddingSize":"large","hasMarginControl":false,"hasAlignmentControls":false,"hasStackedControl":false,"customBackgroundColor":"#FFFFFF","columns":1,"layout":"100","coblocks":{"id":"1592937274"}} -->
-<div class="wp-block-coblocks-row coblocks-row-1592937274" data-columns="1" data-layout="100"><div class="wp-block-coblocks-row__inner has-background has-padding has-large-padding has-no-margin is-stacked-on-mobile has-medium-gutter" style="background-color:#FFFFFF"><!-- wp:coblocks/column {"width":"100","coblocks":{"id":"1592937284"}} -->
-<div class="wp-block-coblocks-column coblocks-column-1592937284" style="width:100%"><div class="wp-block-coblocks-column__inner has-no-padding has-no-margin"><!-- wp:heading {"level":3,"placeholder":"Add heading…"} -->
-<h3 id="shop-category">Shop Category</h3>
+<div class="wp-block-column"><!-- wp:image {"id":912,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_black-lamp-on-white-table-945225-1200x1600.jpg" alt="Do not forget to set image alt text!" class="wp-image-912"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"2em","left":"2em"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:2em;padding-left:2em"><!-- wp:heading {"className":"has-no-margin-top"} -->
+<h2 class="wp-block-heading has-no-margin-top">Shop Category</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add content…"} -->
+<!-- wp:paragraph -->
 <p>Had be progress for biases, from coast girl few the doing men to a could instance, sleep towards read picture the since.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":"50px"} -->
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
 <!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"textColor":"palette-1","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-palette-1-color has-text-color" href="https://themedemos.webmandesign.eu/bjork/product-category/soft-cover/">Shop Now</a></div>
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="/bjork/product-category/soft-cover/">Shop now</a></div>
 <!-- /wp:button --></div>
-<!-- /wp:buttons --></div></div>
-<!-- /wp:coblocks/column --></div></div>
-<!-- /wp:coblocks/row --></div></div></div></div>
-<!-- /wp:coblocks/media-card --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:coblocks/media-card {"backgroundImg":"","backgroundPosition":"","backgroundSize":"cover","mediaId":911,"mediaType":"image","align":"","coblocks":{"id":"1592937151"}} -->
-<div class="wp-block-coblocks-media-card is-style-left is-stacked-on-mobile coblocks-media-card-1592937151"><div class="wp-block-coblocks-media-card__inner has-no-padding"><div class="wp-block-coblocks-media-card__wrapper"><figure class="wp-block-coblocks-media-card__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_green-leaf-plant-beside-brown-electric-guitar-on-sofa-892617-1200x1600.jpg" alt="" class="wp-image-911"/></figure><div class="wp-block-coblocks-media-card__content"><!-- wp:coblocks/row {"paddingSize":"large","hasMarginControl":false,"hasAlignmentControls":false,"hasStackedControl":false,"customBackgroundColor":"#FFFFFF","columns":1,"layout":"100","coblocks":{"id":"1592937274"}} -->
-<div class="wp-block-coblocks-row coblocks-row-1592937274" data-columns="1" data-layout="100"><div class="wp-block-coblocks-row__inner has-background has-padding has-large-padding has-no-margin is-stacked-on-mobile has-medium-gutter" style="background-color:#FFFFFF"><!-- wp:coblocks/column {"width":"100","coblocks":{"id":"1592937284"}} -->
-<div class="wp-block-coblocks-column coblocks-column-1592937284" style="width:100%"><div class="wp-block-coblocks-column__inner has-no-padding has-no-margin"><!-- wp:heading {"level":3,"placeholder":"Add heading…"} -->
-<h3 id="another-category">Another Category</h3>
+<div class="wp-block-column"><!-- wp:image {"id":911,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_green-leaf-plant-beside-brown-electric-guitar-on-sofa-892617-1200x1600.jpg" alt="Do not forget to set image alt text!" class="wp-image-911"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"2em","left":"2em"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:2em;padding-left:2em"><!-- wp:heading {"className":"has-no-margin-top"} -->
+<h2 class="wp-block-heading has-no-margin-top">Another Category</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add content…"} -->
+<!-- wp:paragraph -->
 <p>Had be progress for biases, from coast girl few the doing men to a could instance, sleep towards read picture the since.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":"50px"} -->
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
 <!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"textColor":"palette-1","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-palette-1-color has-text-color" href="https://themedemos.webmandesign.eu/bjork/product-category/hard-cover/">Shop Now</a></div>
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="/bjork/product-category/hard-cover/">Shop now</a></div>
 <!-- /wp:button --></div>
-<!-- /wp:buttons --></div></div>
-<!-- /wp:coblocks/column --></div></div>
-<!-- /wp:coblocks/row --></div></div></div></div>
-<!-- /wp:coblocks/media-card --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":"50px","noBottomMargin":true} -->
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer mb-0"></div>
+<!-- wp:spacer {"className":"mb-0"} -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer mb-0"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:coblocks/shape-divider {"color":"palette-4","align":"full","className":""} /-->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"50px","bottom":"50px"}}},"backgroundColor":"palette-4","noBottomMargin":true} -->
-<div class="wp-block-group alignfull has-palette-4-background-color has-background mb-0" style="padding-top:50px;padding-bottom:50px"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center" id="new-arrivals">New arrivals</h2>
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"50px","bottom":"50px"}}},"backgroundColor":"palette-4","className":"mb-0"} -->
+<div class="wp-block-group alignfull mb-0 has-palette-4-background-color has-background" style="padding-top:50px;padding-bottom:50px"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center" id="new-arrivals">New arrivals</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"50px"} -->
@@ -5511,7 +5509,7 @@ Post type: page
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center" id="top-rated-products">Top rated products</h2>
+<h2 class="wp-block-heading has-text-align-center" id="top-rated-products">Top rated products</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"50px"} -->
@@ -5531,8 +5529,8 @@ Post type: page
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-15 21:30:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-15 20:30:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-23 17:08:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-23 15:08:50]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 17:59:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 15:59:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-3]]></wp:post_name>
@@ -5582,10 +5580,10 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=21</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1198,"hasParallax":true,"dimRatio":70,"minHeight":100,"minHeightUnit":"vh","align":"full","noBottomMargin":true} -->
-<div class="wp-block-cover alignfull has-parallax mb-0" style="background-image:url(https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg);min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-70 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:media-text {"mediaPosition":"right","mediaId":1197,"mediaType":"image","className":"alignwide"} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-white.png" alt="" class="wp-image-1197 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":1,"textColor":"color-accent-text"} -->
-<h1 class="has-color-accent-text-color has-text-color" id="bjork">Björk</h1>
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1198,"hasParallax":true,"dimRatio":70,"minHeight":100,"minHeightUnit":"vh","align":"full","className":"mb-0"} -->
+<div class="wp-block-cover alignfull has-parallax mb-0" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-70 has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-1198 has-parallax" style="background-position:50% 50%;background-image:url(https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:media-text {"align":"wide","mediaPosition":"right","mediaId":1197,"mediaType":"image","className":"alignwide"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><div class="wp-block-media-text__content"><!-- wp:heading {"level":1,"textColor":"color-accent-text"} -->
+<h1 class="wp-block-heading has-color-accent-text-color has-text-color" id="bjork">Björk</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"extra-large"} -->
@@ -5594,59 +5592,65 @@ Post type: page
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link" href="#purchaselink">Purchase</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="#purchaselink">Purchase</a></div>
 <!-- /wp:button -->
 
 <!-- wp:button {"textColor":"color-accent-text","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-color-accent-text-color has-text-color" href="https://themedemos.webmandesign.eu/bjork/">Homepage</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-color-accent-text-color has-text-color wp-element-button" href="https://themedemos.webmandesign.eu/bjork/">Homepage</a></div>
 <!-- /wp:button --></div>
-<!-- /wp:buttons --></div></div>
+<!-- /wp:buttons --></div><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-white.png" alt="" class="wp-image-1197 size-full"/></figure></div>
 <!-- /wp:media-text --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:group {"align":"full","backgroundColor":"palette-3","className":"has-no-padding","noBottomMargin":true,"noTopMargin":true} -->
-<div class="wp-block-group alignfull has-no-padding has-palette-3-background-color has-background mb-0 mt-0"><!-- wp:coblocks/features {"marginBottom":0,"marginBottomTablet":0,"marginBottomMobile":0,"columns":3,"align":"wide","noBottomMargin":true,"coblocks":{"id":"10318223385"},"gutter":"custom","gutterCustom":"0"} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-10318223385 mb-0"><div class="wp-block-coblocks-features__inner has-columns has-3-columns has-responsive-columns has-center-content has-custom-gutter" style="--coblocks-custom-gutter:0em"><!-- wp:coblocks/feature {"paddingSize":"huge","className":"has-no-margin-vertical","coblocks":{"id":"103182233212"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-103182233212 has-no-margin-vertical"><div class="wp-block-coblocks-feature__inner has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"emoticon","hasContentAlign":false,"iconColor":"palette-1"} /-->
+<!-- wp:group {"align":"full","backgroundColor":"palette-3","className":"has-no-padding mb-0 mt-0"} -->
+<div class="wp-block-group alignfull has-no-padding mb-0 mt-0 has-palette-3-background-color has-background"><!-- wp:columns {"align":"wide","className":"has-no-margin-vertical"} -->
+<div class="wp-block-columns alignwide has-no-margin-vertical"><!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"palette-3","textColor":"palette-1"} -->
+<div class="wp-block-column has-palette-1-color has-palette-3-background-color has-text-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23122e98&quot; d=&quot;m14 16l1.32 1.76C14.32 19.68 12.31 21 10 21c-3.31 0-6-2.69-6-6c0-2.43 1.46-4.5 3.55-5.45l.21 2.17C6.71 12.44 6 13.63 6 15c0 2.21 1.79 4 4 4c1.86 0 3.41-1.28 3.86-3H14m5.55.11l-1.25.62L15.5 13h-4.59l-.2-2H14V9h-3.5l-.3-3c1.01-.12 1.8-.96 1.8-2a2 2 0 1 0-4 0v.1L9.1 15h5.4l3.2 4.27l2.75-1.37l-.9-1.79Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","className":"h4"} -->
-<h4 class="h4" id="inclusive">Inclusive</h4>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Accessible</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-1"} -->
-<p class="has-palette-1-color has-text-color">This theme is for everyone - literally! We don't restrain your website visitors, we don't make their lifes harder.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Makes your business website inclusive and accessible for everyone.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"huge","customBackgroundColor":"#d5aa10","className":"has-no-margin-vertical","coblocks":{"id":"103182233216"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-103182233216 has-no-margin-vertical"><div class="wp-block-coblocks-feature__inner has-background has-padding has-huge-padding" style="background-color:#d5aa10"><!-- wp:coblocks/icon {"icon":"paint","hasContentAlign":false,"iconColor":"palette-1"} /-->
+<!-- wp:column {"style":{"color":{"background":"#d5aa10"},"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"textColor":"palette-1"} -->
+<div class="wp-block-column has-palette-1-color has-text-color has-background" style="background-color:#d5aa10;padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23122e98&quot; d=&quot;M3 13a9 9 0 0 0 9 9a9 9 0 0 0-9-9m2.44 2.44c1.91.71 3.41 2.21 4.12 4.12a6.986 6.986 0 0 1-4.12-4.12M12 22a9 9 0 0 0 9-9a9 9 0 0 0-9 9m2.42-2.43a6.876 6.876 0 0 1 4.15-4.15a7.03 7.03 0 0 1-4.15 4.15M12 14a6 6 0 0 0 6-6V3a5.9 5.9 0 0 0-2.16.39c-.55.23-1.04.57-1.45 1L12 2L9.61 4.39c-.41-.43-.9-.77-1.45-1A5.9 5.9 0 0 0 6 3v5a6 6 0 0 0 6 6M8 5.61l1.57 1.65L12 4.83l2.43 2.43L16 5.61V8a4 4 0 0 1-4 4a4 4 0 0 1-4-4V5.61Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","className":"h4"} -->
-<h4 class="h4" id="easy-to-use">Easy to Use</h4>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Lightweight</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-1"} -->
-<p class="has-palette-1-color has-text-color">Fully integrated with native drag &amp; drop WordPress editor makes the theme instantaneously familiar.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">No bloat, no lock-in effect, securely coded with SEO and speed optimization.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"huge","className":"has-no-margin-vertical","coblocks":{"id":"103182242838"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-103182242838 has-no-margin-vertical"><div class="wp-block-coblocks-feature__inner has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"flower","hasContentAlign":false,"iconColor":"palette-1"} /-->
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"palette-3","textColor":"palette-1"} -->
+<div class="wp-block-column has-palette-1-color has-palette-3-background-color has-text-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23122e98&quot; d=&quot;M21 17H7V3h14m0-2H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2M3 5H1v16a2 2 0 0 0 2 2h16v-2H3m12.96-10.71l-2.75 3.54l-1.96-2.36L8.5 15h11l-3.54-4.71Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","className":"h4"} -->
-<h4 class="h4" id="no-bloat">No Bloat</h4>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Drag &amp; Drop</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-1"} -->
-<p class="has-palette-1-color has-text-color">Works out of the box. Open, fast, secure, minimal, optimized, flexible, not restricting.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature --></div></div>
-<!-- /wp:coblocks/features --></div>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Compatible with WordPress block editor or any page builder.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"150px","bottom":"100px"}}},"backgroundColor":"palette-4","noBottomMargin":true} -->
-<div class="wp-block-group alignfull has-palette-4-background-color has-background mb-0" style="padding-top:150px;padding-bottom:100px"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center" id="home-page-examples">Home page examples</h2>
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"150px","bottom":"100px"}}},"backgroundColor":"palette-4","className":"mb-0"} -->
+<div class="wp-block-group alignfull mb-0 has-palette-4-background-color has-background" style="padding-top:150px;padding-bottom:100px"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center" id="home-page-examples">Home page examples</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer -->
@@ -5659,8 +5663,8 @@ Post type: page
 <figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/bjork/"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_image-5.jpeg" alt="" class="wp-image-1575"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
-<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" id="agency" style="letter-spacing:3px;text-transform:uppercase;font-size:20px"><a href="https://themedemos.webmandesign.eu/bjork/">Agency</a></h3>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top" id="agency"><a href="https://themedemos.webmandesign.eu/bjork/">Agency</a></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -5669,8 +5673,8 @@ Post type: page
 <figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/bjork/home-2/"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_image-2.jpeg" alt="" class="wp-image-1572"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
-<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" id="portfolio" style="letter-spacing:3px;text-transform:uppercase;font-size:20px"><a href="https://themedemos.webmandesign.eu/bjork/home-2/">Portfolio</a></h3>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top" id="portfolio"><a href="https://themedemos.webmandesign.eu/bjork/home-2/">Portfolio</a></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -5679,8 +5683,8 @@ Post type: page
 <figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/bjork/home-3/"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_image-6.jpeg" alt="" class="wp-image-1577"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
-<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" id="shop" style="letter-spacing:3px;text-transform:uppercase;font-size:20px"><a href="https://themedemos.webmandesign.eu/bjork/home-3/">Shop</a></h3>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top" id="shop"><a href="https://themedemos.webmandesign.eu/bjork/home-3/">Shop</a></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
@@ -5688,12 +5692,12 @@ Post type: page
 
 <!-- wp:coblocks/shape-divider {"color":"color-accent-text","backgroundColor":"palette-4","align":"full","className":"is-style-hills"} /-->
 
-<!-- wp:spacer {"noTopMargin":true} -->
+<!-- wp:spacer {"className":"mt-0"} -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer mt-0"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center" id="internal-page-examples">Internal page examples</h2>
+<h2 class="wp-block-heading has-text-align-center" id="internal-page-examples">Internal page examples</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer -->
@@ -5706,8 +5710,8 @@ Post type: page
 <figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/bjork/about-5/"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_image-1.jpeg" alt="" class="wp-image-1570"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
-<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" id="about-person" style="letter-spacing:3px;text-transform:uppercase;font-size:20px"><a href="https://themedemos.webmandesign.eu/bjork/about-5/">About person</a></h3>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top" id="about-person"><a href="https://themedemos.webmandesign.eu/bjork/about-5/">About person</a></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -5716,8 +5720,8 @@ Post type: page
 <figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/bjork/services-4/"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_image.jpeg" alt="" class="wp-image-1569"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
-<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" id="services-minimal" style="letter-spacing:3px;text-transform:uppercase;font-size:20px"><a href="https://themedemos.webmandesign.eu/bjork/services-4/">Services minimal</a></h3>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top" id="services-minimal"><a href="https://themedemos.webmandesign.eu/bjork/services-4/">Services minimal</a></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -5726,8 +5730,8 @@ Post type: page
 <figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/bjork/faq-1/"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_image-1.jpeg" alt="" class="wp-image-1571"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
-<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" id="faq-simple" style="letter-spacing:3px;text-transform:uppercase;font-size:20px"><a href="https://themedemos.webmandesign.eu/bjork/faq-1/">FAQ simple</a></h3>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top" id="faq-simple"><a href="https://themedemos.webmandesign.eu/bjork/faq-1/">FAQ simple</a></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -5738,8 +5742,8 @@ Post type: page
 <figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/bjork/contact-1/"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_image-4.jpeg" alt="" class="wp-image-1574"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
-<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" id="contact" style="letter-spacing:3px;text-transform:uppercase;font-size:20px"><a href="https://themedemos.webmandesign.eu/bjork/contact-1/">Contact</a></h3>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top" id="contact"><a href="https://themedemos.webmandesign.eu/bjork/contact-1/">Contact</a></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -5748,8 +5752,8 @@ Post type: page
 <figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/bjork/pricing-1/"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_image-5.jpeg" alt="" class="wp-image-1576"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
-<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" id="pricing" style="letter-spacing:3px;text-transform:uppercase;font-size:20px"><a href="https://themedemos.webmandesign.eu/bjork/pricing-1/">Pricing</a></h3>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top" id="pricing"><a href="https://themedemos.webmandesign.eu/bjork/pricing-1/">Pricing</a></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -5758,8 +5762,8 @@ Post type: page
 <figure class="wp-block-image size-large"><a href="https://themedemos.webmandesign.eu/bjork/gallery-1/"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_image-3.jpeg" alt="" class="wp-image-1573"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","customFontSize":20,"letterSpacing":3,"textTransform":"uppercase"} -->
-<h3 class="has-text-align-center has-no-margin-top has-custom-transform has-custom-letterspacing" id="gallery" style="letter-spacing:3px;text-transform:uppercase;font-size:20px"><a href="https://themedemos.webmandesign.eu/bjork/gallery-1/">Gallery</a></h3>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top" id="gallery"><a href="https://themedemos.webmandesign.eu/bjork/gallery-1/">Gallery</a></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -5769,18 +5773,18 @@ Post type: page
 <!-- /wp:spacer -->
 
 <!-- wp:cover {"url":"https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1198,"hasParallax":true,"dimRatio":70,"minHeight":100,"minHeightUnit":"vh","align":"full"} -->
-<div class="wp-block-cover alignfull has-parallax" style="background-image:url(https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg);min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-70 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:media-text {"mediaId":1197,"mediaType":"image","className":"alignwide"} -->
+<div class="wp-block-cover alignfull has-parallax" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-70 has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-1198 has-parallax" style="background-position:50% 50%;background-image:url(https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:media-text {"align":"wide","mediaId":1197,"mediaType":"image","className":"alignwide"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-white.png" alt="" class="wp-image-1197 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"textColor":"color-accent-text","className":"link-color-inherit"} -->
 <p class="link-color-inherit has-color-accent-text-color has-text-color">This page uses <a href="https://webmandesign.github.io/docs/bjork/#page-templates">"Content only" page template</a>, which is perfect for landing pages. It does not display theme header and footer, just content area.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link" href="#purchaselink">Purchase</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="#purchaselink">Purchase</a></div>
 <!-- /wp:button -->
 
 <!-- wp:button {"textColor":"color-accent-text","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-color-accent-text-color has-text-color" href="https://themedemos.webmandesign.eu/bjork/">Back to home</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-color-accent-text-color has-text-color wp-element-button" href="https://themedemos.webmandesign.eu/bjork/">Back to home</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:media-text --></div></div>
@@ -5789,8 +5793,8 @@ Post type: page
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-15 21:31:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-15 20:31:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-23 17:10:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-23 15:10:15]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 17:52:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 15:52:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[landing-page]]></wp:post_name>
@@ -5821,7 +5825,7 @@ Post type: page
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=23</guid>
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2>Choose your pricing plan</h2>
+<h2 class="wp-block-heading">Choose your pricing plan</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -5836,23 +5840,63 @@ Post type: page
 <figure class="wp-block-image alignwide size-large is-style-top-wave has-decoration"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_macro-photograph-of-grass-1090977-narrow-1200x400.jpg" alt="" class="wp-image-1205"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:coblocks/pricing-table {"align":"wide"} -->
-<div class="wp-block-coblocks-pricing-table alignwide has-text-align-center"><div class="wp-block-coblocks-pricing-table__inner has-columns has-2-columns has-responsive-columns has-medium-gutter"><!-- wp:coblocks/pricing-table-item {"backgroundColor":"palette-3","textColor":"palette-1","placeholder":"Plan 1","className":"has-extra-large-padding has-no-margin-vertical"} -->
-<div class="wp-block-coblocks-pricing-table-item has-background has-palette-3-background-color has-text-color has-palette-1-color has-extra-large-padding has-no-margin-vertical"><span class="wp-block-coblocks-pricing-table-item__title"><strong>Plan 1</strong></span><div class="wp-block-coblocks-pricing-table-item__price-wrapper"><span class="wp-block-coblocks-pricing-table-item__currency">€</span><span class="wp-block-coblocks-pricing-table-item__amount">19</span></div><ul class="wp-block-coblocks-pricing-table-item__features"><li>Vertical platforms</li><li>Rather than extensive</li><li>Customer service</li><li><s>Phosfluorescently</s></li><li><s>  Expedite team building</s></li></ul><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"placeholder":"Buy Now","textColor":"palette-1","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-palette-1-color has-text-color" href="#0">Buy now</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:coblocks/pricing-table-item -->
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"style":{"spacing":{"padding":{"top":"4em","bottom":"4em"}}},"backgroundColor":"palette-3","textColor":"palette-1"} -->
+<div class="wp-block-column has-palette-1-color has-palette-3-background-color has-text-color has-background" style="padding-top:4em;padding-bottom:4em"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Plan 1</h3>
+<!-- /wp:heading -->
 
-<!-- wp:coblocks/pricing-table-item {"backgroundColor":"color-accent","textColor":"color-accent-text","placeholder":"Plan 2","className":"has-extra-large-padding has-no-margin-vertical"} -->
-<div class="wp-block-coblocks-pricing-table-item has-background has-color-accent-background-color has-text-color has-color-accent-text-color has-extra-large-padding has-no-margin-vertical"><span class="wp-block-coblocks-pricing-table-item__title"><strong>Plan 2</strong></span><div class="wp-block-coblocks-pricing-table-item__price-wrapper"><span class="wp-block-coblocks-pricing-table-item__currency">€</span><span class="wp-block-coblocks-pricing-table-item__amount">24</span></div><ul class="wp-block-coblocks-pricing-table-item__features"><li>Vertical platforms</li><li> Rather than extensive</li><li> Customer service</li><li> <strong>Phosfluorescently</strong></li><li><strong> Expedite team building</strong></li></ul><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"placeholder":"Buy Now","backgroundColor":"palette-3","textColor":"palette-1","className":"is-style-fill"} -->
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-palette-1-color has-palette-3-background-color has-text-color has-background" href="#0">Buy now</a></div>
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"align":"center","fontSize":"huge"} -->
+<p class="has-text-align-center has-huge-font-size">€19</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Vertical platforms<br />Rather than extensive<br />Customer service<br /><s>Phosfluorescently</s><br /><s>Expedite team building</s></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#0">Buy now</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
-<!-- /wp:coblocks/pricing-table-item --></div></div>
-<!-- /wp:coblocks/pricing-table -->
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"4em","bottom":"4em"}}},"backgroundColor":"color-accent","textColor":"color-accent-text"} -->
+<div class="wp-block-column has-color-accent-text-color has-color-accent-background-color has-text-color has-background" style="padding-top:4em;padding-bottom:4em"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Plan 2</h3>
+<!-- /wp:heading -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"align":"center","fontSize":"huge"} -->
+<p class="has-text-align-center has-huge-font-size">€24</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Vertical platforms<br />Rather than extensive<br />Customer service<br /><strong>Phosfluorescently</strong><br /><strong>Expedite team building</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"palette-3","textColor":"palette-1"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-palette-1-color has-palette-3-background-color has-text-color has-background wp-element-button" href="#0">Buy now</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
 
 <!-- wp:image {"align":"wide","id":1205,"sizeSlug":"large","className":"is-style-bottom-wave has-decoration"} -->
 <figure class="wp-block-image alignwide size-large is-style-bottom-wave has-decoration"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_macro-photograph-of-grass-1090977-narrow-1200x400.jpg" alt="" class="wp-image-1205"/></figure>
@@ -5863,7 +5907,7 @@ Post type: page
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"className":"has-no-margin-top"} -->
-<h2 class="has-no-margin-top">Satisfaction guaranteed!</h2>
+<h2 class="wp-block-heading has-no-margin-top">Satisfaction guaranteed!</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -5877,8 +5921,8 @@ Post type: page
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-15 21:31:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-15 20:31:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-23 17:18:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-23 15:18:25]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 18:04:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 16:04:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pricing-1]]></wp:post_name>
@@ -5903,6 +5947,10 @@ Post type: page
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 	<item>
@@ -6742,7 +6790,7 @@ Post type: page
 
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"100px","bottom":"0px"}}},"backgroundColor":"palette-4","className":"has-no-padding"} -->
 <div class="wp-block-group alignfull has-no-padding has-palette-4-background-color has-background" style="padding-top:100px;padding-bottom:0px"><!-- wp:heading {"level":1} -->
-<h1 id="order-tracking">Order Tracking</h1>
+<h1 class="wp-block-heading" id="order-tracking">Order Tracking</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
@@ -6767,8 +6815,8 @@ Post type: page
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-15 21:33:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-15 20:33:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-23 17:25:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-23 15:25:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 17:20:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 15:20:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[order-tracking]]></wp:post_name>
@@ -7138,15 +7186,17 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=792</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:quote {"align":"center","className":"is-style-large","customTextColor":"#111111"} -->
-<blockquote class="wp-block-quote has-text-align-center is-style-large" style="color:#111111"><p>And I a the her. Easier may box I quarter with thin in with better a head in during audience. At and the or of past we're little secure in on willingly of little control frugality to you because himself familiar were of immune pushed him more will.</p><cite>Customer's Name</cite></blockquote>
+		<content:encoded><![CDATA[<!-- wp:quote {"align":"center","textColor":"palette-1","className":"is-style-large"} -->
+<blockquote class="wp-block-quote has-text-align-center is-style-large has-palette-1-color has-text-color"><!-- wp:paragraph -->
+<p>And I a the her. Easier may box I quarter with thin in with better a head in during audience. At and the or of past we're little secure in on willingly of little control frugality to you because himself familiar were of immune pushed him more will.</p>
+<!-- /wp:paragraph --><cite>Customer's Name</cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:gallery {"linkTo":"none","align":"wide","className":"has-no-gap","noBottomMargin":true} -->
+<!-- wp:gallery {"linkTo":"none","align":"wide","className":"has-no-gap mb-0"} -->
 <figure class="wp-block-gallery alignwide has-nested-images columns-default is-cropped has-no-gap mb-0"><!-- wp:image {"id":917,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_pexels-716460-1200x1200.jpg" alt="" class="wp-image-917"/></figure>
 <!-- /wp:image -->
@@ -7156,34 +7206,42 @@ Post type: page
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"100px","bottom":"50px"}}},"backgroundColor":"color-accent","noBottomMargin":true,"noTopMargin":true} -->
-<div class="wp-block-group alignwide has-color-accent-background-color has-background mb-0 mt-0" style="padding-top:100px;padding-bottom:50px"><!-- wp:quote {"customTextColor":"#ffffff"} -->
-<blockquote class="wp-block-quote" style="color:#ffffff"><p>Concepts decisions, I of first the money its odd instruments, fifteen men's what posterity moment. But poster distance been who lie and subdued.</p><cite>Customer's Name</cite></blockquote>
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"100px","bottom":"50px"}}},"backgroundColor":"color-accent","className":"mb-0 mt-0"} -->
+<div class="wp-block-group alignwide mb-0 mt-0 has-color-accent-background-color has-background" style="padding-top:100px;padding-bottom:50px"><!-- wp:quote {"textColor":"color-accent-text"} -->
+<blockquote class="wp-block-quote has-color-accent-text-color has-text-color"><!-- wp:paragraph -->
+<p>Concepts decisions, I of first the money its odd instruments, fifteen men's what posterity moment. But poster distance been who lie and subdued.</p>
+<!-- /wp:paragraph --><cite>Customer's Name</cite></blockquote>
 <!-- /wp:quote --></div>
 <!-- /wp:group -->
 
 <!-- wp:coblocks/shape-divider {"color":"color-accent-text","backgroundColor":"color-accent","align":"wide","className":"is-style-wavy"} /-->
 
-<!-- wp:spacer {"noTopMargin":true} -->
+<!-- wp:spacer {"className":"mt-0"} -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer mt-0"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>And I the her. Easier may I quarter with thin in with better a head in during.</p><cite>Customer's Name</cite></blockquote>
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>And I the her. Easier may I quarter with thin in with better a head in during.</p>
+<!-- /wp:paragraph --><cite>Customer's Name</cite></blockquote>
 <!-- /wp:quote --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Concepts decisions, I of first the money its odd, fifteen men's what posterity.</p><cite>Customer's Name</cite></blockquote>
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>Concepts decisions, I of first the money its odd, fifteen men's what posterity.</p>
+<!-- /wp:paragraph --><cite>Customer's Name</cite></blockquote>
 <!-- /wp:quote --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>But poster distance been who lie and subdued on primarily be or not the emerge place.</p><cite>Customer's Name</cite></blockquote>
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>But poster distance been who lie and subdued on primarily be or not the emerge place.</p>
+<!-- /wp:paragraph --><cite>Customer's Name</cite></blockquote>
 <!-- /wp:quote --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -7193,12 +7251,14 @@ Post type: page
 <!-- /wp:spacer -->
 
 <!-- wp:media-text {"align":"full","mediaId":903,"mediaType":"image","backgroundColor":"palette-4","className":"alignfull has-background"} -->
-<div class="wp-block-media-text alignfull is-stacked-on-mobile has-background has-palette-4-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_photo-of-a-plant-1859622-1200x1800.jpg" alt="" class="wp-image-903 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:image {"id":1309,"sizeSlug":"thumbnail"} -->
+<div class="wp-block-media-text alignfull is-stacked-on-mobile has-background has-palette-4-background-color"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_photo-of-a-plant-1859622-1200x1800.jpg" alt="" class="wp-image-903 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:image {"id":1309,"sizeSlug":"thumbnail"} -->
 <figure class="wp-block-image size-thumbnail"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-gray-480x373.png" alt="Do not forget to set image alt text!" class="wp-image-1309"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:quote {"className":"is-style-large","customTextColor":"#111111"} -->
-<blockquote class="wp-block-quote is-style-large" style="color:#111111"><p>And I a the her. Easier may box I quarter with thin in with better a head in during audience. At and the or of past we're little secure in on willingly of little control frugality to you because himself familiar were of immune him more will.</p><cite>Customer's Name</cite></blockquote>
+<!-- wp:quote {"textColor":"palette-1","className":"is-style-large"} -->
+<blockquote class="wp-block-quote is-style-large has-palette-1-color has-text-color"><!-- wp:paragraph -->
+<p>And I a the her. Easier may box I quarter with thin in with better a head in during audience. At and the or of past we're little secure in on willingly of little control frugality to you because himself familiar were of immune him more will.</p>
+<!-- /wp:paragraph --><cite>Customer's Name</cite></blockquote>
 <!-- /wp:quote --></div></div>
 <!-- /wp:media-text -->
 
@@ -7207,10 +7267,12 @@ Post type: page
 <!-- /wp:spacer -->
 
 <!-- wp:quote {"align":"center"} -->
-<blockquote class="wp-block-quote has-text-align-center"><p> Concepts decisions, I of first the money its odd instruments, fifteen men's what posterity moment. But poster distance been who lie and subdued on primarily be or not the emerge place.</p><cite>Customer's Name</cite></blockquote>
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph -->
+<p> Concepts decisions, I of first the money its odd instruments, fifteen men's what posterity moment. But poster distance been who lie and subdued on primarily be or not the emerge place.</p>
+<!-- /wp:paragraph --><cite>Customer's Name</cite></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:spacer {"noBottomMargin":true} -->
+<!-- wp:spacer {"className":"mb-0"} -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer mb-0"></div>
 <!-- /wp:spacer -->
 
@@ -7218,7 +7280,7 @@ Post type: page
 
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"100px","bottom":"0px"}}},"backgroundColor":"palette-3"} -->
 <div class="wp-block-group alignfull has-palette-3-background-color has-background" style="padding-top:100px;padding-bottom:0px"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center" id="let-us-know-what-you-think">Let us know what you think</h2>
+<h2 class="wp-block-heading has-text-align-center" id="let-us-know-what-you-think">Let us know what you think</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","textColor":"palette-1"} -->
@@ -7226,12 +7288,12 @@ Post type: page
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"textColor":"palette-1","align":"center","className":"is-style-outline"} -->
-<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-palette-1-color has-text-color" href="https://themedemos.webmandesign.eu/bjork/contact-1/">Get in touch</a></div>
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"palette-1","className":"is-style-outline aligncenter"} -->
+<div class="wp-block-button is-style-outline aligncenter"><a class="wp-block-button__link has-palette-1-color has-text-color wp-element-button" href="https://themedemos.webmandesign.eu/bjork/contact-1/">Get in touch</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
-<!-- wp:spacer {"noTopMargin":true} -->
+<!-- wp:spacer {"className":"mt-0"} -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer mt-0"></div>
 <!-- /wp:spacer -->
 
@@ -7241,8 +7303,8 @@ Post type: page
 		<wp:post_id>792</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-26 11:12:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-26 10:12:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-23 17:17:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-23 15:17:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 17:44:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 15:44:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[testimonials-1]]></wp:post_name>
@@ -7277,7 +7339,7 @@ Post type: page
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=802</guid>
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":917,"mediaType":"image","verticalAlignment":"top","imageFill":true,"className":"alignfull"} -->
-<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top is-image-fill"><figure class="wp-block-media-text__media" style="background-image:url(https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_pexels-716460-1200x1200.jpg);background-position:50% 50%"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_pexels-716460-1200x1200.jpg" alt="" class="wp-image-917 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:image {"id":1309,"sizeSlug":"thumbnail"} -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top is-image-fill"><div class="wp-block-media-text__content"><!-- wp:image {"id":1309,"sizeSlug":"thumbnail"} -->
 <figure class="wp-block-image size-thumbnail"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-gray-480x373.png" alt="Do not forget to set image alt text!" class="wp-image-1309"/></figure>
 <!-- /wp:image -->
 
@@ -7286,25 +7348,25 @@ Post type: page
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":1} -->
-<h1 id="exploring-through-the-camera-lens">Exploring Through The Camera Lens</h1>
+<h1 class="wp-block-heading" id="exploring-through-the-camera-lens">Exploring Through The Camera Lens</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
 <p class="has-large-font-size">And circumstances completely this the you took text, laminated been simply. We've on of away, but the distance, those the her he merit her have distinct.</p>
-<!-- /wp:paragraph --></div></div>
+<!-- /wp:paragraph --></div><figure class="wp-block-media-text__media" style="background-image:url(https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_pexels-716460-1200x1200.jpg);background-position:50% 50%"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_pexels-716460-1200x1200.jpg" alt="" class="wp-image-917 size-full"/></figure></div>
 <!-- /wp:media-text -->
 
 <!-- wp:spacer {"height":"150px"} -->
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:media-text {"mediaId":908,"mediaType":"image","className":"alignwide"} -->
+<!-- wp:media-text {"align":"wide","mediaId":908,"mediaType":"image","className":"alignwide"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_green-leaf-plant-in-brown-pot-inside-room-916339-1200x1800.jpg" alt="" class="wp-image-908 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:image {"id":1309,"sizeSlug":"thumbnail"} -->
 <figure class="wp-block-image size-thumbnail"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-gray-480x373.png" alt="Do not forget to set image alt text!" class="wp-image-1309"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
-<h2 id="the-organization-titles-to-is-them">The organization.<br />Titles to is them.</h2>
+<h2 class="wp-block-heading" id="the-organization-titles-to-is-them">The organization.<br />Titles to is them.</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -7312,34 +7374,68 @@ Post type: page
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->
 
-<!-- wp:coblocks/gallery-collage {"align":"full","gutter":"large","className":"alignfull has-regular-padding"} -->
-<div aria-label="Collage Gallery" class="wp-block-coblocks-gallery-collage alignfull has-regular-padding has-large-gutter"><ul><li class="wp-block-coblocks-gallery-collage__item item-1"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="" class="wp-image-911" data-id="911" data-imglink="" data-index="0" data-link="http://themedemos.webmandesign.eu/bjork/sample/_green-leaf-plant-beside-brown-electric-guitar-on-sofa-892617/" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_green-leaf-plant-beside-brown-electric-guitar-on-sofa-892617-1200x1600.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-2"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="" class="wp-image-914" data-id="914" data-imglink="" data-index="1" data-link="http://themedemos.webmandesign.eu/bjork/sample/_photo-of-monstera-plant-on-glass-vase-1831127/" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_photo-of-monstera-plant-on-glass-vase-1831127-1200x1800.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-3"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="" class="wp-image-917" data-id="917" data-imglink="" data-index="2" data-link="http://themedemos.webmandesign.eu/bjork/sample/_pexels-716460/" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_pexels-716460-1200x1200.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-4"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="" class="wp-image-910" data-id="910" data-imglink="" data-index="3" data-link="http://themedemos.webmandesign.eu/bjork/sample/_brown-wooden-sideboard-700549/" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_brown-wooden-sideboard-700549-1200x1200.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-5"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="" class="wp-image-909" data-id="909" data-imglink="" data-index="4" data-link="http://themedemos.webmandesign.eu/bjork/sample/_gray-armchairs-beside-white-wooden-desk-945235/" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_gray-armchairs-beside-white-wooden-desk-945235-1200x1800.jpg"/></figure></li></ul></div>
-<!-- /wp:coblocks/gallery-collage -->
+<!-- wp:columns {"verticalAlignment":"bottom","align":"full"} -->
+<div class="wp-block-columns alignfull are-vertically-aligned-bottom"><!-- wp:column {"verticalAlignment":"bottom","width":"76%"} -->
+<div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:76%"><!-- wp:image {"id":911,"aspectRatio":"3/2","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_green-leaf-plant-beside-brown-electric-guitar-on-sofa-892617.jpg" alt="Do not forget to set image alt text!" class="wp-image-911" style="aspect-ratio:3/2;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"bottom","width":"24%"} -->
+<div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:24%"><!-- wp:image {"id":914,"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_photo-of-monstera-plant-on-glass-vase-1831127-1200x1800.jpg" alt="Do not forget to set image alt text!" class="wp-image-914" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"verticalAlignment":"top","align":"full"} -->
+<div class="wp-block-columns alignfull are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":917,"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_pexels-716460-1200x1200.jpg" alt="Do not forget to set image alt text!" class="wp-image-917" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":910,"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_brown-wooden-sideboard-700549-1200x1200.jpg" alt="Do not forget to set image alt text!" class="wp-image-910" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":909,"aspectRatio":"3/4","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_gray-armchairs-beside-white-wooden-desk-945235-1200x1800.jpg" alt="Do not forget to set image alt text!" class="wp-image-909" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:image {"align":"full","id":1205,"sizeSlug":"full","className":"is-style-top-wave","noBottomMargin":true} -->
+<!-- wp:image {"align":"full","id":1205,"sizeSlug":"full","className":"is-style-top-wave mb-0"} -->
 <figure class="wp-block-image alignfull size-full is-style-top-wave mb-0"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_macro-photograph-of-grass-1090977-narrow.jpg" alt="" class="wp-image-1205"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"150px","bottom":"0px"}}},"backgroundColor":"palette-3"} -->
 <div class="wp-block-group alignfull has-palette-3-background-color has-background" style="padding-top:150px;padding-bottom:0px"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center" id="the-organization-titles-to-is-them">The organization.<br />Titles to is them.</h2>
+<h2 class="wp-block-heading has-text-align-center" id="the-organization-titles-to-is-them">The organization.<br />Titles to is them.</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","textColor":"palette-1"} -->
 <p class="has-text-align-center has-palette-1-color has-text-color">But to same likewise, title with business the far an leaning would he but the hopes as the small travelling, succeeded to instead, examination still was the move bored.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"align":"center"} -->
-<div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/bjork/contact-1/">Get in touch</a></div>
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"aligncenter"} -->
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link wp-element-button" href="https://themedemos.webmandesign.eu/bjork/contact-1/">Get in touch</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
-<!-- wp:spacer {"noTopMargin":true} -->
+<!-- wp:spacer {"className":"mt-0"} -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer mt-0"></div>
 <!-- /wp:spacer -->
 
@@ -7349,8 +7445,8 @@ Post type: page
 		<wp:post_id>802</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-26 11:17:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-26 10:17:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-23 17:02:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-23 15:02:31]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 18:12:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 16:12:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-1]]></wp:post_name>
@@ -7380,15 +7476,15 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=804</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1198,"hasParallax":true,"dimRatio":50,"minHeight":100,"minHeightUnit":"vh","isDark":false,"align":"full"} -->
-<div class="wp-block-cover alignfull is-light has-parallax" style="background-image:url(https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg);min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:media-text {"mediaPosition":"right","mediaId":1197,"mediaType":"image","mediaWidth":43,"className":"alignwide"} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile" style="grid-template-columns:auto 43%"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-white.png" alt="" class="wp-image-1197 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"style":{"typography":{"textTransform":"uppercase"}},"textColor":"color-accent-text","className":"has-no-margin-bottom","fontSize":"extra-large"} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1198,"hasParallax":true,"dimRatio":50,"minHeight":100,"minHeightUnit":"vh","align":"full"} -->
+<div class="wp-block-cover alignfull has-parallax" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-1198 has-parallax" style="background-position:50% 50%;background-image:url(https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:media-text {"align":"wide","mediaPosition":"right","mediaId":1197,"mediaType":"image","mediaWidth":43,"className":"alignwide"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile" style="grid-template-columns:auto 43%"><div class="wp-block-media-text__content"><!-- wp:paragraph {"style":{"typography":{"textTransform":"uppercase"}},"textColor":"color-accent-text","className":"has-no-margin-bottom","fontSize":"extra-large"} -->
 <p class="has-no-margin-bottom has-color-accent-text-color has-text-color has-extra-large-font-size" style="text-transform:uppercase">We are Björk</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":1,"textColor":"color-accent-text"} -->
-<h1 class="has-color-accent-text-color has-text-color" id="we-are-happy-to-guide-you">We Are Happy To Guide You</h1>
-<!-- /wp:heading --></div></div>
+<h1 class="wp-block-heading has-color-accent-text-color has-text-color" id="we-are-happy-to-guide-you">We Are Happy To Guide You</h1>
+<!-- /wp:heading --></div><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-white.png" alt="" class="wp-image-1197 size-full"/></figure></div>
 <!-- /wp:media-text --></div></div>
 <!-- /wp:cover -->
 
@@ -7399,7 +7495,7 @@ Post type: page
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"40%"} -->
 <div class="wp-block-column" style="flex-basis:40%"><!-- wp:heading -->
-<h2 id="a-it-the-retired-one-tag-of-phase-negatives">A it the retired one tag of phase negatives</h2>
+<h2 class="wp-block-heading" id="a-it-the-retired-one-tag-of-phase-negatives">A it the retired one tag of phase negatives</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -7420,14 +7516,48 @@ Post type: page
 
 <!-- wp:columns {"align":"full","className":"has-regular-padding"} -->
 <div class="wp-block-columns alignfull has-regular-padding"><!-- wp:column {"width":"62%"} -->
-<div class="wp-block-column" style="flex-basis:62%"><!-- wp:coblocks/gallery-collage {"align":"","gutter":"medium"} -->
-<div aria-label="Collage Gallery" class="wp-block-coblocks-gallery-collage has-medium-gutter"><ul><li class="wp-block-coblocks-gallery-collage__item item-1"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="" class="wp-image-916" data-id="916" data-imglink="" data-index="0" data-link="http://themedemos.webmandesign.eu/bjork/sample/_restaurant-man-people-woman-3626622/" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_restaurant-man-people-woman-3626622-1200x1800.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-2"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="" class="wp-image-902" data-id="902" data-imglink="" data-index="1" data-link="http://themedemos.webmandesign.eu/bjork/sample/_photo-of-man-wearing-eyeglasses-910143/" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_photo-of-man-wearing-eyeglasses-910143-1200x1800.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-3"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="" class="wp-image-733" data-id="733" data-imglink="" data-index="2" data-link="http://themedemos.webmandesign.eu/bjork/sample/_adult-beautiful-brunette-confidence-1172784/" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_adult-beautiful-brunette-confidence-1172784.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-4"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="" class="wp-image-735" data-id="735" data-imglink="" data-index="3" data-link="http://themedemos.webmandesign.eu/bjork/sample/_back-view-of-woman-holding-her-denim-jacket-789812/" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_back-view-of-woman-holding-her-denim-jacket-789812.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-5"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="" class="wp-image-734" data-id="734" data-imglink="" data-index="4" data-link="http://themedemos.webmandesign.eu/bjork/sample/_man-wearing-dress-shirt-holding-dandelion-1250426/" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_man-wearing-dress-shirt-holding-dandelion-1250426.jpg"/></figure></li></ul></div>
-<!-- /wp:coblocks/gallery-collage --></div>
+<div class="wp-block-column" style="flex-basis:62%"><!-- wp:columns {"verticalAlignment":"bottom"} -->
+<div class="wp-block-columns are-vertically-aligned-bottom"><!-- wp:column {"verticalAlignment":"bottom","width":"76%"} -->
+<div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:76%"><!-- wp:image {"id":916,"aspectRatio":"3/2","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_restaurant-man-people-woman-3626622-1200x1800.jpg" alt="Do not forget to set image alt text!" class="wp-image-916" style="aspect-ratio:3/2;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"bottom","width":"24%"} -->
+<div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:24%"><!-- wp:image {"id":902,"aspectRatio":"1","scale":"cover","sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_photo-of-man-wearing-eyeglasses-910143-640x960.jpg" alt="Do not forget to set image alt text!" class="wp-image-902" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":733,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_adult-beautiful-brunette-confidence-1172784.jpg" alt="Do not forget to set image alt text!" class="wp-image-733" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":735,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_back-view-of-woman-holding-her-denim-jacket-789812.jpg" alt="Do not forget to set image alt text!" class="wp-image-735" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":734,"aspectRatio":"3/4","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_man-wearing-dress-shirt-holding-dandelion-1250426.jpg" alt="Do not forget to set image alt text!" class="wp-image-734" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"28%"} -->
 <div class="wp-block-column" style="flex-basis:28%"><!-- wp:heading -->
-<h2 id="cheek-assumed-spineless-sitting-the-covered">Cheek, assumed spineless, sitting the covered</h2>
+<h2 class="wp-block-heading" id="cheek-assumed-spineless-sitting-the-covered">Cheek, assumed spineless, sitting the covered</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -7435,7 +7565,7 @@ Post type: page
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3 id="more-and-for-be-client-have">More and for be client have</h3>
+<h3 class="wp-block-heading" id="more-and-for-be-client-have">More and for be client have</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -7453,18 +7583,18 @@ Post type: page
 <!-- /wp:spacer -->
 
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"0px","bottom":"0px"}}},"backgroundColor":"palette-4"} -->
-<div class="wp-block-group alignfull has-palette-4-background-color has-background" style="padding-top:0px;padding-bottom:0px"><!-- wp:cover {"url":"https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1198,"hasParallax":true,"dimRatio":50,"isDark":false,"align":"wide","style":{"spacing":{"padding":{"bottom":"100px"}}}} -->
-<div class="wp-block-cover alignwide is-light has-parallax" style="padding-bottom:100px;background-image:url(https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg)"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:image {"id":1197,"width":360,"height":280,"sizeSlug":"thumbnail"} -->
-<figure class="wp-block-image size-thumbnail is-resized"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-white-480x373.png" alt="" class="wp-image-1197" width="360" height="280"/></figure>
+<div class="wp-block-group alignfull has-palette-4-background-color has-background" style="padding-top:0px;padding-bottom:0px"><!-- wp:cover {"url":"https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1198,"hasParallax":true,"dimRatio":50,"align":"wide","style":{"spacing":{"padding":{"bottom":"100px"}}}} -->
+<div class="wp-block-cover alignwide has-parallax" style="padding-bottom:100px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-1198 has-parallax" style="background-position:50% 50%;background-image:url(https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:image {"id":1197,"width":360,"height":280,"sizeSlug":"thumbnail"} -->
+<figure class="wp-block-image size-thumbnail is-resized"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-white-480x373.png" alt="" class="wp-image-1197" style="width:360px;height:280px" width="360" height="280"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textColor":"color-accent-text","className":"has-no-margin-top"} -->
-<h2 class="has-no-margin-top has-color-accent-text-color has-text-color" id="cheek-assumed-spineless-sitting-the-covered">Cheek, assumed spineless, sitting the covered</h2>
+<h2 class="wp-block-heading has-no-margin-top has-color-accent-text-color has-text-color" id="cheek-assumed-spineless-sitting-the-covered">Cheek, assumed spineless, sitting the covered</h2>
 <!-- /wp:heading -->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"color-accent-text","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-color-accent-text-color has-text-color" href="https://themedemos.webmandesign.eu/bjork/contact-2/">Contact us</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-color-accent-text-color has-text-color wp-element-button" href="https://themedemos.webmandesign.eu/bjork/contact-2/">Contact us</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:cover --></div>
@@ -7477,7 +7607,7 @@ Post type: page
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"38%"} -->
 <div class="wp-block-column" style="flex-basis:38%"><!-- wp:heading -->
-<h2 id="more-and-for-be-client-have">More and for be client have</h2>
+<h2 class="wp-block-heading" id="more-and-for-be-client-have">More and for be client have</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -7485,60 +7615,70 @@ Post type: page
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1309,"width":360,"height":280,"sizeSlug":"thumbnail"} -->
-<figure class="wp-block-image size-thumbnail is-resized"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-gray-480x373.png" alt="Do not forget to set image alt text!" class="wp-image-1309" width="360" height="280"/></figure>
+<figure class="wp-block-image size-thumbnail is-resized"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-gray-480x373.png" alt="Do not forget to set image alt text!" class="wp-image-1309" style="width:360px;height:280px" width="360" height="280"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"62%"} -->
-<div class="wp-block-column" style="flex-basis:62%"><!-- wp:coblocks/features {"marginBottom":0,"marginBottomTablet":0,"marginBottomMobile":0,"coblocks":{"id":"0261263149"}} -->
-<div class="wp-block-coblocks-features coblocks-features-0261263149"><div class="wp-block-coblocks-features__inner has-columns has-2-columns has-responsive-columns has-center-content has-medium-gutter"><!-- wp:coblocks/feature {"paddingSize":"medium","backgroundColor":"palette-3","textColor":"palette-1","coblocks":{"id":"02612631186"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-02612631186"><div class="wp-block-coblocks-feature__inner has-palette-3-background-color has-background has-text-color has-palette-1-color has-padding has-medium-padding"><!-- wp:coblocks/icon {"icon":"aperture","hasContentAlign":false} /-->
+<div class="wp-block-column" style="flex-basis:62%"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"backgroundColor":"palette-3","textColor":"palette-1"} -->
+<div class="wp-block-column has-palette-1-color has-palette-3-background-color has-text-color has-background"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;black&quot; d=&quot;M11 1H3c-1.1 0-2 .9-2 2v12l3-3h5v-1c0-2.2 1.79-4 4-4V3c0-1.1-.9-2-2-2m0 3H9.5c-.34 1.19-.96 2.3-1.82 3.26l-.02.02l1.26 1.25l-.37 1.01L7 8l-2.5 2.5l-.69-.73l2.53-2.49A8.58 8.58 0 0 1 4.86 5h.99c.31.6.69 1.17 1.15 1.68A7.69 7.69 0 0 0 8.57 4H3V3h3.5V2h1v1H11v1m10 5h-8c-1.1 0-2 .9-2 2v7c0 1.1.9 2 2 2h7l3 3V11c0-1.1-.9-2-2-2m-1.37 10l-.85-2.25h-3.56L14.38 19h-1.5l3.37-9h1.5l3.38 9h-1.5M17 12l1.22 3.25h-2.43L17 12Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4 id="customizable">Customizable</h4>
+<!-- wp:heading {"textAlign":"center","className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Localized</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Lorem ipsum dolor sit amet primis gravida semper adipiscing.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"medium","backgroundColor":"color-accent","textColor":"color-accent-text","coblocks":{"id":"02612631193"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-02612631193"><div class="wp-block-coblocks-feature__inner has-color-accent-background-color has-background has-text-color has-color-accent-text-color has-padding has-medium-padding"><!-- wp:coblocks/icon {"icon":"gesture","hasContentAlign":false} /-->
+<!-- wp:column {"backgroundColor":"color-accent","textColor":"color-accent-text"} -->
+<div class="wp-block-column has-color-accent-text-color has-color-accent-background-color has-text-color has-background"><!-- wp:image {"align":"center","sizeSlug":"large","style":{"color":{}}} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;M12 16a3 3 0 0 1-3-3c0-1.12.61-2.1 1.5-2.61l9.71-5.62l-5.53 9.58c-.5.98-1.51 1.65-2.68 1.65m0-13c1.81 0 3.5.5 4.97 1.32l-2.1 1.21C14 5.19 13 5 12 5a8 8 0 0 0-8 8c0 2.21.89 4.21 2.34 5.65h.01c.39.39.39 1.02 0 1.41c-.39.39-1.03.39-1.42.01A9.969 9.969 0 0 1 2 13A10 10 0 0 1 12 3m10 10c0 2.76-1.12 5.26-2.93 7.07c-.39.38-1.02.38-1.41-.01a.996.996 0 0 1 0-1.41A7.95 7.95 0 0 0 20 13c0-1-.19-2-.54-2.9L20.67 8C21.5 9.5 22 11.18 22 13Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","textColor":"color-accent-text"} -->
-<h4 class="has-color-accent-text-color has-text-color" id="accessible">Accessible</h4>
+<!-- wp:heading {"textAlign":"center","className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Optimized</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Lorem ipsum dolor sit amet primis gravida semper adipiscing.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
 
-<!-- wp:coblocks/feature {"paddingSize":"medium","backgroundColor":"color-accent","textColor":"color-accent-text","coblocks":{"id":"02612631186"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-02612631186"><div class="wp-block-coblocks-feature__inner has-color-accent-background-color has-background has-text-color has-color-accent-text-color has-padding has-medium-padding"><!-- wp:coblocks/icon {"icon":"scatter_plot","hasContentAlign":false} /-->
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"backgroundColor":"color-accent","textColor":"color-accent-text"} -->
+<div class="wp-block-column has-color-accent-text-color has-color-accent-background-color has-text-color has-background"><!-- wp:image {"align":"center","sizeSlug":"large","style":{"color":{}}} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;white&quot; d=&quot;m14 16l1.32 1.76C14.32 19.68 12.31 21 10 21c-3.31 0-6-2.69-6-6c0-2.43 1.46-4.5 3.55-5.45l.21 2.17C6.71 12.44 6 13.63 6 15c0 2.21 1.79 4 4 4c1.86 0 3.41-1.28 3.86-3H14m5.55.11l-1.25.62L15.5 13h-4.59l-.2-2H14V9h-3.5l-.3-3c1.01-.12 1.8-.96 1.8-2a2 2 0 1 0-4 0v.1L9.1 15h5.4l3.2 4.27l2.75-1.37l-.9-1.79Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","textColor":"color-accent-text"} -->
-<h4 class="has-color-accent-text-color has-text-color" id="localized">Localized</h4>
+<!-- wp:heading {"textAlign":"center","className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Accessible</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Lorem ipsum dolor sit amet primis gravida semper adipiscing.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"medium","backgroundColor":"palette-3","textColor":"palette-1","coblocks":{"id":"02612631193"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-02612631193"><div class="wp-block-coblocks-feature__inner has-palette-3-background-color has-background has-text-color has-palette-1-color has-padding has-medium-padding"><!-- wp:coblocks/icon {"icon":"aperture","hasContentAlign":false} /-->
+<!-- wp:column {"backgroundColor":"palette-3","textColor":"palette-1"} -->
+<div class="wp-block-column has-palette-1-color has-palette-3-background-color has-text-color has-background"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;black&quot; d=&quot;M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3m6.82 6L12 12.72L5.18 9L12 5.28L18.82 9M17 16l-5 2.72L7 16v-3.73L12 15l5-2.73V16Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4 id="drag-drop">Drag &amp; Drop</h4>
+<!-- wp:heading {"textAlign":"center","className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Documented</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature --></div></div>
-<!-- /wp:coblocks/features --></div>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Lorem ipsum dolor sit amet primis gravida semper adipiscing.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
@@ -7546,9 +7686,43 @@ Post type: page
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:coblocks/gallery-collage {"gutter":"medium","className":"alignwide has-no-margin-bottom"} -->
-<div aria-label="Collage Gallery" class="wp-block-coblocks-gallery-collage alignwide has-no-margin-bottom has-medium-gutter"><ul><li class="wp-block-coblocks-gallery-collage__item item-1"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="" class="wp-image-911" data-id="911" data-imglink="" data-index="0" data-link="http://themedemos.webmandesign.eu/bjork/sample/_green-leaf-plant-beside-brown-electric-guitar-on-sofa-892617/" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_green-leaf-plant-beside-brown-electric-guitar-on-sofa-892617-1200x1600.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-2"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="" class="wp-image-914" data-id="914" data-imglink="" data-index="1" data-link="http://themedemos.webmandesign.eu/bjork/sample/_photo-of-monstera-plant-on-glass-vase-1831127/" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_photo-of-monstera-plant-on-glass-vase-1831127-1200x1800.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-3"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="" class="wp-image-910" data-id="910" data-imglink="" data-index="2" data-link="http://themedemos.webmandesign.eu/bjork/sample/_brown-wooden-sideboard-700549/" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_brown-wooden-sideboard-700549-1200x1200.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-4"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="" class="wp-image-913" data-id="913" data-imglink="" data-index="3" data-link="http://themedemos.webmandesign.eu/bjork/sample/_photo-of-sofa-in-living-room-1841143/" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_photo-of-sofa-in-living-room-1841143-1200x1600.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-5"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="" class="wp-image-909" data-id="909" data-imglink="" data-index="4" data-link="http://themedemos.webmandesign.eu/bjork/sample/_gray-armchairs-beside-white-wooden-desk-945235/" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_gray-armchairs-beside-white-wooden-desk-945235-1200x1800.jpg"/></figure></li></ul></div>
-<!-- /wp:coblocks/gallery-collage -->
+<!-- wp:columns {"verticalAlignment":"bottom","align":"wide"} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-bottom"><!-- wp:column {"verticalAlignment":"bottom","width":"76%"} -->
+<div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:76%"><!-- wp:image {"id":911,"aspectRatio":"3/2","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_green-leaf-plant-beside-brown-electric-guitar-on-sofa-892617.jpg" alt="Do not forget to set image alt text!" class="wp-image-911" style="aspect-ratio:3/2;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"bottom","width":"24%"} -->
+<div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:24%"><!-- wp:image {"id":914,"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_photo-of-monstera-plant-on-glass-vase-1831127-1200x1800.jpg" alt="Do not forget to set image alt text!" class="wp-image-914" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"verticalAlignment":"top","align":"wide"} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":917,"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_pexels-716460-1200x1200.jpg" alt="Do not forget to set image alt text!" class="wp-image-917" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":910,"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_brown-wooden-sideboard-700549-1200x1200.jpg" alt="Do not forget to set image alt text!" class="wp-image-910" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":909,"aspectRatio":"3/4","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_gray-armchairs-beside-white-wooden-desk-945235-1200x1800.jpg" alt="Do not forget to set image alt text!" class="wp-image-909" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
 
 <!-- wp:spacer {"height":"150px"} -->
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -7559,8 +7733,8 @@ Post type: page
 		<wp:post_id>804</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-26 11:20:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-26 10:20:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-23 17:04:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-23 15:04:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 18:21:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 16:21:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-1]]></wp:post_name>
@@ -7581,6 +7755,10 @@ Post type: page
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 	<item>
@@ -7800,10 +7978,10 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=821</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:media-text {"mediaPosition":"right","mediaId":910,"mediaType":"image","className":"alignwide"} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_brown-wooden-sideboard-700549-1200x1200.jpg" alt="" class="wp-image-910 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","fontSize":"extra-large"} -->
+		<content:encoded><![CDATA[<!-- wp:media-text {"align":"wide","mediaPosition":"right","mediaId":910,"mediaType":"image","className":"alignwide"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","fontSize":"extra-large"} -->
 <p class="has-extra-large-font-size">The just to alarm so star need horrible to the to lamps. But been on I fly more set office lobby, the into of will me needs you guard be, had aside. On the times which through of to judgment, expand the work caches.</p>
-<!-- /wp:paragraph --></div></div>
+<!-- /wp:paragraph --></div><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_brown-wooden-sideboard-700549-1200x1200.jpg" alt="" class="wp-image-910 size-full"/></figure></div>
 <!-- /wp:media-text -->
 
 <!-- wp:columns -->
@@ -7832,43 +8010,51 @@ Post type: page
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
-<!-- wp:coblocks/features {"columns":3,"align":"wide","coblocks":{"id":"02613240686"}} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-02613240686"><div class="wp-block-coblocks-features__inner has-columns has-3-columns has-responsive-columns has-center-content has-medium-gutter"><!-- wp:coblocks/feature {"className":"has-left-text-align","coblocks":{"id":"02613240793"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-02613240793 has-left-text-align"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"scatter_plot","hasContentAlign":false,"iconColor":"color-accent"} /-->
+<!-- wp:group {"align":"full","noBottomMargin":true,"noTopMargin":true} -->
+<div class="wp-block-group alignfull mb-0 mt-0"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23122e98&quot; d=&quot;m14 16l1.32 1.76C14.32 19.68 12.31 21 10 21c-3.31 0-6-2.69-6-6c0-2.43 1.46-4.5 3.55-5.45l.21 2.17C6.71 12.44 6 13.63 6 15c0 2.21 1.79 4 4 4c1.86 0 3.41-1.28 3.86-3H14m5.55.11l-1.25.62L15.5 13h-4.59l-.2-2H14V9h-3.5l-.3-3c1.01-.12 1.8-.96 1.8-2a2 2 0 1 0-4 0v.1L9.1 15h5.4l3.2 4.27l2.75-1.37l-.9-1.79Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4 id="inclusive">Inclusive</h4>
+<!-- wp:heading {"level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-no-margin-top has-extra-large-font-size">Accessible</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>But to same likewise, title with business the far an leaning would he but the hopes as the small.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph -->
+<p>Makes your business website inclusive and accessible for everyone.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"className":"has-left-text-align","coblocks":{"id":"02613240800"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-02613240800 has-left-text-align"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"gesture","hasContentAlign":false,"iconColor":"color-accent"} /-->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23122e98&quot; d=&quot;M3 13a9 9 0 0 0 9 9a9 9 0 0 0-9-9m2.44 2.44c1.91.71 3.41 2.21 4.12 4.12a6.986 6.986 0 0 1-4.12-4.12M12 22a9 9 0 0 0 9-9a9 9 0 0 0-9 9m2.42-2.43a6.876 6.876 0 0 1 4.15-4.15a7.03 7.03 0 0 1-4.15 4.15M12 14a6 6 0 0 0 6-6V3a5.9 5.9 0 0 0-2.16.39c-.55.23-1.04.57-1.45 1L12 2L9.61 4.39c-.41-.43-.9-.77-1.45-1A5.9 5.9 0 0 0 6 3v5a6 6 0 0 0 6 6M8 5.61l1.57 1.65L12 4.83l2.43 2.43L16 5.61V8a4 4 0 0 1-4 4a4 4 0 0 1-4-4V5.61Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4 id="fast">Fast</h4>
+<!-- wp:heading {"level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-no-margin-top has-extra-large-font-size">Lightweight</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>Of when and is rationale the him often very the it could for are, point thought. Their likely nor salesmen.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph -->
+<p>No bloat, no lock-in effect, securely coded with SEO and speed optimization.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"className":"has-left-text-align","coblocks":{"id":"0261324584"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-0261324584 has-left-text-align"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"aperture","hasContentAlign":false,"iconColor":"color-accent"} /-->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23122e98&quot; d=&quot;M21 17H7V3h14m0-2H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2M3 5H1v16a2 2 0 0 0 2 2h16v-2H3m12.96-10.71l-2.75 3.54l-1.96-2.36L8.5 15h11l-3.54-4.71Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4 id="secure">Secure</h4>
+<!-- wp:heading {"level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-no-margin-top has-extra-large-font-size">Drag &amp; Drop</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>But to same likewise, title with business the far an leaning would he but the hopes as the small.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature --></div></div>
-<!-- /wp:coblocks/features -->
+<!-- wp:paragraph -->
+<p>Compatible with WordPress block editor or any page builder.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -7884,43 +8070,51 @@ Post type: page
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
-<!-- wp:coblocks/features {"columns":3,"align":"wide","coblocks":{"id":"02613240686"}} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-02613240686"><div class="wp-block-coblocks-features__inner has-columns has-3-columns has-responsive-columns has-center-content has-medium-gutter"><!-- wp:coblocks/feature {"className":"has-left-text-align","coblocks":{"id":"02613240793"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-02613240793 has-left-text-align"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"scatter_plot","hasContentAlign":false,"iconColor":"color-accent"} /-->
+<!-- wp:group {"align":"full","noBottomMargin":true,"noTopMargin":true} -->
+<div class="wp-block-group alignfull mb-0 mt-0"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23122e98&quot; d=&quot;m14 16l1.32 1.76C14.32 19.68 12.31 21 10 21c-3.31 0-6-2.69-6-6c0-2.43 1.46-4.5 3.55-5.45l.21 2.17C6.71 12.44 6 13.63 6 15c0 2.21 1.79 4 4 4c1.86 0 3.41-1.28 3.86-3H14m5.55.11l-1.25.62L15.5 13h-4.59l-.2-2H14V9h-3.5l-.3-3c1.01-.12 1.8-.96 1.8-2a2 2 0 1 0-4 0v.1L9.1 15h5.4l3.2 4.27l2.75-1.37l-.9-1.79Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4 id="100-gpl">100% GPL</h4>
+<!-- wp:heading {"level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-no-margin-top has-extra-large-font-size">Accessible</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>Of when and is rationale the him often very the it could for are, point thought. Their likely nor salesmen.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph -->
+<p>Makes your business website inclusive and accessible for everyone.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"className":"has-left-text-align","coblocks":{"id":"02613240800"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-02613240800 has-left-text-align"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"gesture","hasContentAlign":false,"iconColor":"color-accent"} /-->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23122e98&quot; d=&quot;M3 13a9 9 0 0 0 9 9a9 9 0 0 0-9-9m2.44 2.44c1.91.71 3.41 2.21 4.12 4.12a6.986 6.986 0 0 1-4.12-4.12M12 22a9 9 0 0 0 9-9a9 9 0 0 0-9 9m2.42-2.43a6.876 6.876 0 0 1 4.15-4.15a7.03 7.03 0 0 1-4.15 4.15M12 14a6 6 0 0 0 6-6V3a5.9 5.9 0 0 0-2.16.39c-.55.23-1.04.57-1.45 1L12 2L9.61 4.39c-.41-.43-.9-.77-1.45-1A5.9 5.9 0 0 0 6 3v5a6 6 0 0 0 6 6M8 5.61l1.57 1.65L12 4.83l2.43 2.43L16 5.61V8a4 4 0 0 1-4 4a4 4 0 0 1-4-4V5.61Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4 id="easy">Easy</h4>
+<!-- wp:heading {"level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-no-margin-top has-extra-large-font-size">Lightweight</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>But to same likewise, title with business the far an leaning would he but the hopes as the small.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph -->
+<p>No bloat, no lock-in effect, securely coded with SEO and speed optimization.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"className":"has-left-text-align","coblocks":{"id":"0261324584"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-0261324584 has-left-text-align"><div class="wp-block-coblocks-feature__inner has-no-padding"><!-- wp:coblocks/icon {"icon":"aperture","hasContentAlign":false,"iconColor":"color-accent"} /-->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23122e98&quot; d=&quot;M21 17H7V3h14m0-2H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2M3 5H1v16a2 2 0 0 0 2 2h16v-2H3m12.96-10.71l-2.75 3.54l-1.96-2.36L8.5 15h11l-3.54-4.71Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4 id="pure">Pure</h4>
+<!-- wp:heading {"level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-no-margin-top has-extra-large-font-size">Drag &amp; Drop</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content"} -->
-<p>Of when and is rationale the him often very the it could for are, point thought. Their likely nor salesmen.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature --></div></div>
-<!-- /wp:coblocks/features -->
+<!-- wp:paragraph -->
+<p>Compatible with WordPress block editor or any page builder.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
 
 <!-- wp:spacer {"noBottomMargin":true} -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer mb-0"></div>
@@ -7930,16 +8124,16 @@ Post type: page
 
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"100px","bottom":"0px"}}},"backgroundColor":"palette-4","noTopMargin":true} -->
 <div class="wp-block-group alignfull has-palette-4-background-color has-background mt-0" style="padding-top:100px;padding-bottom:0px"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center" id="definitely-step-up-slept-occasion-in">Definitely step up slept occasion in</h2>
+<h2 class="wp-block-heading has-text-align-center" id="definitely-step-up-slept-occasion-in">Definitely step up slept occasion in</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center">Wow he able and harmonic the elite. Morals, where avoids morning remember attribute rain recommended.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"align":"center"} -->
-<div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/bjork/contact-1/">Get in touch</a></div>
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"aligncenter"} -->
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link wp-element-button" href="https://themedemos.webmandesign.eu/bjork/contact-1/">Get in touch</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -7955,8 +8149,8 @@ Post type: page
 		<wp:post_id>821</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-26 13:05:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-26 12:05:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-23 16:58:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-23 14:58:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 15:19:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 13:19:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services-3]]></wp:post_name>
@@ -7977,6 +8171,10 @@ Post type: page
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 	<item>
@@ -8306,12 +8504,14 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=1149</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:heading {"textAlign":"center","level":1,"className":"has-no-margin-bottom","customFontSize":20,"fontWeight":"normal","textTransform":"uppercase"} -->
-<h1 class="has-text-align-center has-no-margin-bottom has-custom-weight has-custom-transform" style="font-weight:normal;text-transform:uppercase;font-size:20px">Contact Us</h1>
+		<content:encoded><![CDATA[<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontStyle":"normal","fontWeight":"400","textTransform":"uppercase"}},"className":"has-no-margin-bottom has-custom-weight has-custom-transform","fontSize":"large"} -->
+<h1 class="wp-block-heading has-text-align-center has-no-margin-bottom has-custom-weight has-custom-transform has-large-font-size" style="font-style:normal;font-weight:400;text-transform:uppercase">Contact Us</h1>
 <!-- /wp:heading -->
 
-<!-- wp:quote {"align":"center","style":{"typography":{"fontSize":"32px","lineHeight":1.3}},"customTextColor":"#111111"} -->
-<blockquote class="wp-block-quote has-text-align-center" style="font-size:32px;line-height:1.3;color:#111111"><p>To, stairs leaves only checkin able dressed coordinates the field to of the thousands.</p></blockquote>
+<!-- wp:quote {"align":"center","style":{"typography":{"fontSize":"32px","lineHeight":1.3}},"textColor":"palette-1"} -->
+<blockquote class="wp-block-quote has-text-align-center has-palette-1-color has-text-color" style="font-size:32px;line-height:1.3"><!-- wp:paragraph -->
+<p>To, stairs leaves only checkin able dressed coordinates the field to of the thousands.</p>
+<!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -8341,7 +8541,7 @@ Post type: page
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"className":"h3"} -->
-<h2 class="h3">Get in touch with us</h2>
+<h2 class="wp-block-heading h3">Get in touch with us</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -8369,8 +8569,8 @@ Post type: page
 		<wp:post_id>1149</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-01 17:14:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-01 16:14:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-23 16:54:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-23 14:54:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 17:54:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 15:54:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-2]]></wp:post_name>
@@ -8408,76 +8608,84 @@ Post type: page
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=1341</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1198,"hasParallax":true,"dimRatio":50,"isDark":false,"align":"full","style":{"spacing":{"padding":{"top":"150px","bottom":"0px","right":"0px","left":"0px"}}},"noBottomMargin":true} -->
-<div class="wp-block-cover alignfull is-light has-parallax mb-0" style="padding-top:150px;padding-right:0px;padding-bottom:0px;padding-left:0px;background-image:url(https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg)"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"150px"}}}} -->
-<div class="wp-block-group alignfull" style="padding-bottom:150px"><!-- wp:media-text {"mediaPosition":"right","mediaId":1197,"mediaType":"image","className":"alignwide"} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-white.png" alt="" class="wp-image-1197 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":1,"textColor":"color-accent-text"} -->
-<h1 class="has-color-accent-text-color has-text-color" id="serviceswe-offer">Services<br />We Offer</h1>
-<!-- /wp:heading --></div></div>
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1198,"hasParallax":true,"dimRatio":50,"align":"full","style":{"spacing":{"padding":{"top":"150px","bottom":"0px","right":"0px","left":"0px"}}},"className":"mb-0"} -->
+<div class="wp-block-cover alignfull has-parallax mb-0" style="padding-top:150px;padding-right:0px;padding-bottom:0px;padding-left:0px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-1198 has-parallax" style="background-position:50% 50%;background-image:url(https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"150px"}}}} -->
+<div class="wp-block-group alignfull" style="padding-bottom:150px"><!-- wp:media-text {"align":"wide","mediaPosition":"right","mediaId":1197,"mediaType":"image","className":"alignwide"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><div class="wp-block-media-text__content"><!-- wp:heading {"level":1,"textColor":"color-accent-text"} -->
+<h1 class="wp-block-heading has-color-accent-text-color has-text-color" id="serviceswe-offer">Services<br />We Offer</h1>
+<!-- /wp:heading --></div><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-white.png" alt="" class="wp-image-1197 size-full"/></figure></div>
 <!-- /wp:media-text -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:coblocks/features {"columns":4,"align":"wide","coblocks":{"id":"1418230447"},"gutter":"small"} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-1418230447"><div class="wp-block-coblocks-features__inner has-columns has-4-columns has-responsive-columns has-center-content has-small-gutter"><!-- wp:coblocks/feature {"paddingSize":"large","backgroundColor":"color-accent-text","textColor":"palette-1","coblocks":{"id":"1418230538"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-1418230538"><div class="wp-block-coblocks-feature__inner has-color-accent-text-background-color has-background has-text-color has-palette-1-color has-padding has-large-padding"><!-- wp:coblocks/icon {"icon":"aperture","hasContentAlign":false,"iconColor":"color-accent"} /-->
+<!-- wp:columns {"align":"wide","className":"has-no-margin-bottom"} -->
+<div class="wp-block-columns alignwide has-no-margin-bottom"><!-- wp:column {"backgroundColor":"color-accent-text","textColor":"palette-1"} -->
+<div class="wp-block-column has-palette-1-color has-color-accent-text-background-color has-text-color has-background"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;black&quot; d=&quot;M11 1H3c-1.1 0-2 .9-2 2v12l3-3h5v-1c0-2.2 1.79-4 4-4V3c0-1.1-.9-2-2-2m0 3H9.5c-.34 1.19-.96 2.3-1.82 3.26l-.02.02l1.26 1.25l-.37 1.01L7 8l-2.5 2.5l-.69-.73l2.53-2.49A8.58 8.58 0 0 1 4.86 5h.99c.31.6.69 1.17 1.15 1.68A7.69 7.69 0 0 0 8.57 4H3V3h3.5V2h1v1H11v1m10 5h-8c-1.1 0-2 .9-2 2v7c0 1.1.9 2 2 2h7l3 3V11c0-1.1-.9-2-2-2m-1.37 10l-.85-2.25h-3.56L14.38 19h-1.5l3.37-9h1.5l3.38 9h-1.5M17 12l1.22 3.25h-2.43L17 12Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","textColor":"palette-1"} -->
-<h4 class="has-palette-1-color has-text-color" id="feature-title">Feature Title</h4>
+<!-- wp:heading {"textAlign":"center","textColor":"palette-2","className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-no-margin-top has-palette-2-color has-text-color has-extra-large-font-size">Lorem Ipsum</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-2"} -->
-<p class="has-palette-2-color has-text-color">This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center","textColor":"palette-1"} -->
+<p class="has-text-align-center has-palette-1-color has-text-color">Lorem ipsum dolor sit amet primis gravida semper adipiscing.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"large","backgroundColor":"color-accent-text","textColor":"palette-2","coblocks":{"id":"1418230542"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-1418230542"><div class="wp-block-coblocks-feature__inner has-color-accent-text-background-color has-background has-text-color has-palette-2-color has-padding has-large-padding"><!-- wp:coblocks/icon {"icon":"gesture","hasContentAlign":false,"iconColor":"color-accent"} /-->
+<!-- wp:column {"backgroundColor":"color-accent-text","textColor":"palette-1"} -->
+<div class="wp-block-column has-palette-1-color has-color-accent-text-background-color has-text-color has-background"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;black&quot; d=&quot;M12 16a3 3 0 0 1-3-3c0-1.12.61-2.1 1.5-2.61l9.71-5.62l-5.53 9.58c-.5.98-1.51 1.65-2.68 1.65m0-13c1.81 0 3.5.5 4.97 1.32l-2.1 1.21C14 5.19 13 5 12 5a8 8 0 0 0-8 8c0 2.21.89 4.21 2.34 5.65h.01c.39.39.39 1.02 0 1.41c-.39.39-1.03.39-1.42.01A9.969 9.969 0 0 1 2 13A10 10 0 0 1 12 3m10 10c0 2.76-1.12 5.26-2.93 7.07c-.39.38-1.02.38-1.41-.01a.996.996 0 0 1 0-1.41A7.95 7.95 0 0 0 20 13c0-1-.19-2-.54-2.9L20.67 8C21.5 9.5 22 11.18 22 13Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","textColor":"palette-1"} -->
-<h4 class="has-palette-1-color has-text-color" id="feature-title">Feature Title</h4>
+<!-- wp:heading {"textAlign":"center","textColor":"palette-2","className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-no-margin-top has-palette-2-color has-text-color has-extra-large-font-size">Lorem Ipsum</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-2"} -->
-<p class="has-palette-2-color has-text-color">This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center","textColor":"palette-1"} -->
+<p class="has-text-align-center has-palette-1-color has-text-color">Lorem ipsum dolor sit amet primis gravida semper adipiscing.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"large","backgroundColor":"color-accent-text","coblocks":{"id":"1418231860"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-1418231860"><div class="wp-block-coblocks-feature__inner has-color-accent-text-background-color has-background has-padding has-large-padding"><!-- wp:coblocks/icon {"icon":"scatter_plot","hasContentAlign":false,"iconColor":"color-accent"} /-->
+<!-- wp:column {"backgroundColor":"color-accent-text","textColor":"palette-1"} -->
+<div class="wp-block-column has-palette-1-color has-color-accent-text-background-color has-text-color has-background"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;black&quot; d=&quot;M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3m6.82 6L12 12.72L5.18 9L12 5.28L18.82 9M17 16l-5 2.72L7 16v-3.73L12 15l5-2.73V16Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","textColor":"palette-1"} -->
-<h4 class="has-palette-1-color has-text-color" id="feature-title">Feature Title</h4>
+<!-- wp:heading {"textAlign":"center","textColor":"palette-2","className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-no-margin-top has-palette-2-color has-text-color has-extra-large-font-size">Lorem Ipsum</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-2"} -->
-<p class="has-palette-2-color has-text-color">This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center","textColor":"palette-1"} -->
+<p class="has-text-align-center has-palette-1-color has-text-color">Lorem ipsum dolor sit amet primis gravida semper adipiscing.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"large","backgroundColor":"color-accent-text","coblocks":{"id":"14182318529"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-14182318529"><div class="wp-block-coblocks-feature__inner has-color-accent-text-background-color has-background has-padding has-large-padding"><!-- wp:coblocks/icon {"icon":"aperture","hasContentAlign":false,"iconColor":"color-accent"} /-->
+<!-- wp:column {"backgroundColor":"color-accent-text","textColor":"palette-1"} -->
+<div class="wp-block-column has-palette-1-color has-color-accent-text-background-color has-text-color has-background"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;black&quot; d=&quot;m14 16l1.32 1.76C14.32 19.68 12.31 21 10 21c-3.31 0-6-2.69-6-6c0-2.43 1.46-4.5 3.55-5.45l.21 2.17C6.71 12.44 6 13.63 6 15c0 2.21 1.79 4 4 4c1.86 0 3.41-1.28 3.86-3H14m5.55.11l-1.25.62L15.5 13h-4.59l-.2-2H14V9h-3.5l-.3-3c1.01-.12 1.8-.96 1.8-2a2 2 0 1 0-4 0v.1L9.1 15h5.4l3.2 4.27l2.75-1.37l-.9-1.79Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…","textColor":"palette-1"} -->
-<h4 class="has-palette-1-color has-text-color" id="feature-title">Feature Title</h4>
+<!-- wp:heading {"textAlign":"center","textColor":"palette-2","className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-no-margin-top has-palette-2-color has-text-color has-extra-large-font-size">Lorem Ipsum</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-2"} -->
-<p class="has-palette-2-color has-text-color">This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature --></div></div>
-<!-- /wp:coblocks/features --></div>
+<!-- wp:paragraph {"align":"center","textColor":"palette-1"} -->
+<p class="has-text-align-center has-palette-1-color has-text-color">Lorem ipsum dolor sit amet primis gravida semper adipiscing.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
 <!-- /wp:group -->
 
 <!-- wp:coblocks/shape-divider {"color":"color-accent","noBottomMargin":false,"noTopMargin":false,"align":"full","className":"is-style-hills"} /--></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:cover {"overlayColor":"color-accent","minHeight":653,"align":"full","className":"has-background-dim-NaN has-wide-content-width is-style-default","noBottomMargin":true,"noTopMargin":true} -->
-<div class="wp-block-cover alignfull has-background-dim-NaN has-wide-content-width is-style-default mb-0 mt-0" style="min-height:653px"><span aria-hidden="true" class="wp-block-cover__background has-color-accent-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:media-text {"mediaId":1197,"mediaType":"image","className":"alignwide"} -->
+<!-- wp:cover {"overlayColor":"color-accent","minHeight":653,"align":"full","className":"has-background-dim-NaN has-wide-content-width is-style-default mb-0 mt-0"} -->
+<div class="wp-block-cover alignfull has-background-dim-NaN has-wide-content-width is-style-default mb-0 mt-0" style="min-height:653px"><span aria-hidden="true" class="wp-block-cover__background has-color-accent-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:media-text {"align":"wide","mediaId":1197,"mediaType":"image","className":"alignwide"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-white.png" alt="" class="wp-image-1197 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"color-accent-text"} -->
-<h2 class="has-color-accent-text-color has-text-color" id="contact-us-now">Contact us now</h2>
+<h2 class="wp-block-heading has-color-accent-text-color has-text-color" id="contact-us-now">Contact us now</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"normal"} -->
@@ -8486,7 +8694,7 @@ Post type: page
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"color-accent-text","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-color-accent-text-color has-text-color" href="https://themedemos.webmandesign.eu/bjork/contact-1/">Get in touch</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-color-accent-text-color has-text-color wp-element-button" href="https://themedemos.webmandesign.eu/bjork/contact-1/">Get in touch</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:media-text --></div></div>
@@ -8497,8 +8705,8 @@ Post type: page
 		<wp:post_id>1341</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-04 18:25:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-04 17:25:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-23 17:16:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-23 15:16:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 17:50:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 15:50:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services-4]]></wp:post_name>
@@ -8534,7 +8742,7 @@ Post type: page
 <div class="wp-block-group alignfull has-no-margin-bottom has-palette-4-background-color has-background" style="padding-top:50px;padding-bottom:0px"><!-- wp:columns {"verticalAlignment":"bottom","align":"wide","className":"has-no-margin-bottom"} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-bottom has-no-margin-bottom"><!-- wp:column {"verticalAlignment":"bottom","width":"38%"} -->
 <div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:38%"><!-- wp:heading {"level":1} -->
-<h1 id="benjamin-walsh">Benjamin Walsh</h1>
+<h1 class="wp-block-heading" id="benjamin-walsh">Benjamin Walsh</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
@@ -8546,7 +8754,9 @@ Post type: page
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Go quitting insidious to been a duties the far something may day sleep be.</p></blockquote>
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>Go quitting insidious to been a duties the far something may day sleep be.</p>
+<!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:spacer {"height":"10vh"} -->
@@ -8567,49 +8777,55 @@ Post type: page
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"full","backgroundColor":"palette-3","className":"has-no-padding","noBottomMargin":true,"noTopMargin":true} -->
-<div class="wp-block-group alignfull has-no-padding has-palette-3-background-color has-background mb-0 mt-0"><!-- wp:coblocks/features {"marginBottom":0,"marginBottomTablet":0,"marginBottomMobile":0,"columns":3,"align":"wide","noBottomMargin":true,"coblocks":{"id":"14192456468"},"gutter":"custom","gutterCustom":"0"} -->
-<div class="wp-block-coblocks-features alignwide coblocks-features-14192456468 mb-0"><div class="wp-block-coblocks-features__inner has-columns has-3-columns has-responsive-columns has-center-content has-custom-gutter" style="--coblocks-custom-gutter:0em"><!-- wp:coblocks/feature {"paddingSize":"huge","className":"has-no-margin-vertical","coblocks":{"id":"14192456531"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-14192456531 has-no-margin-vertical"><div class="wp-block-coblocks-feature__inner has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"scatter_plot","hasContentAlign":false,"iconColor":"color-accent"} /-->
+<div class="wp-block-group alignfull has-no-padding has-palette-3-background-color has-background mb-0 mt-0"><!-- wp:columns {"align":"wide","className":"has-no-margin-vertical"} -->
+<div class="wp-block-columns alignwide has-no-margin-vertical"><!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"palette-3","textColor":"palette-1"} -->
+<div class="wp-block-column has-palette-1-color has-palette-3-background-color has-text-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23122e98&quot; d=&quot;m14 16l1.32 1.76C14.32 19.68 12.31 21 10 21c-3.31 0-6-2.69-6-6c0-2.43 1.46-4.5 3.55-5.45l.21 2.17C6.71 12.44 6 13.63 6 15c0 2.21 1.79 4 4 4c1.86 0 3.41-1.28 3.86-3H14m5.55.11l-1.25.62L15.5 13h-4.59l-.2-2H14V9h-3.5l-.3-3c1.01-.12 1.8-.96 1.8-2a2 2 0 1 0-4 0v.1L9.1 15h5.4l3.2 4.27l2.75-1.37l-.9-1.79Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4 id="feature-title">Feature Title</h4>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Accessible</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-1"} -->
-<p class="has-palette-1-color has-text-color">This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Makes your business website inclusive and accessible for everyone.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"huge","customBackgroundColor":"#d5aa10","className":"has-no-margin-vertical","coblocks":{"id":"14192456535"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-14192456535 has-no-margin-vertical"><div class="wp-block-coblocks-feature__inner has-background has-padding has-huge-padding" style="background-color:#d5aa10"><!-- wp:coblocks/icon {"icon":"gesture","hasContentAlign":false,"iconColor":"color-accent"} /-->
+<!-- wp:column {"style":{"color":{"background":"#d5aa10"},"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"textColor":"palette-1"} -->
+<div class="wp-block-column has-palette-1-color has-text-color has-background" style="background-color:#d5aa10;padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23122e98&quot; d=&quot;M3 13a9 9 0 0 0 9 9a9 9 0 0 0-9-9m2.44 2.44c1.91.71 3.41 2.21 4.12 4.12a6.986 6.986 0 0 1-4.12-4.12M12 22a9 9 0 0 0 9-9a9 9 0 0 0-9 9m2.42-2.43a6.876 6.876 0 0 1 4.15-4.15a7.03 7.03 0 0 1-4.15 4.15M12 14a6 6 0 0 0 6-6V3a5.9 5.9 0 0 0-2.16.39c-.55.23-1.04.57-1.45 1L12 2L9.61 4.39c-.41-.43-.9-.77-1.45-1A5.9 5.9 0 0 0 6 3v5a6 6 0 0 0 6 6M8 5.61l1.57 1.65L12 4.83l2.43 2.43L16 5.61V8a4 4 0 0 1-4 4a4 4 0 0 1-4-4V5.61Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4 id="feature-title">Feature Title</h4>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Lightweight</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-1"} -->
-<p class="has-palette-1-color has-text-color">This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">No bloat, no lock-in effect, securely coded with SEO and speed optimization.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
 
-<!-- wp:coblocks/feature {"paddingSize":"huge","className":"has-no-margin-vertical","coblocks":{"id":"14192458487"}} -->
-<div class="wp-block-coblocks-feature coblocks-feature-14192458487 has-no-margin-vertical"><div class="wp-block-coblocks-feature__inner has-padding has-huge-padding"><!-- wp:coblocks/icon {"icon":"aperture","hasContentAlign":false,"iconColor":"color-accent"} /-->
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"2em","bottom":"2em","left":"2em","right":"2em"}}},"backgroundColor":"palette-3","textColor":"palette-1"} -->
+<div class="wp-block-column has-palette-1-color has-palette-3-background-color has-text-color has-background" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em"><!-- wp:image {"align":"center","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="data:image/svg+xml,%3Csvg xmlns=&quot;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&quot; width=&quot;72&quot; height=&quot;72&quot; viewBox=&quot;0 0 24 24&quot;%3E%3Cpath fill=&quot;%23122e98&quot; d=&quot;M21 17H7V3h14m0-2H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2M3 5H1v16a2 2 0 0 0 2 2h16v-2H3m12.96-10.71l-2.75 3.54l-1.96-2.36L8.5 15h11l-3.54-4.71Z&quot;%2F%3E%3C%2Fsvg%3E" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:heading {"level":4,"placeholder":"Add feature title…"} -->
-<h4 id="feature-title">Feature Title</h4>
+<!-- wp:heading {"textAlign":"center","level":3,"className":"has-no-margin-top","fontSize":"extra-large"} -->
+<h3 class="wp-block-heading has-text-align-center has-no-margin-top has-extra-large-font-size">Drag &amp; Drop</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"placeholder":"Add feature content","textColor":"palette-1"} -->
-<p class="has-palette-1-color has-text-color">This is a feature block that you can use to highlight features.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:coblocks/feature --></div></div>
-<!-- /wp:coblocks/features --></div>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Compatible with WordPress block editor or any page builder.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
 <!-- /wp:group -->
 
 <!-- wp:cover {"url":"https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg","id":1198,"dimRatio":50,"align":"full"} -->
-<div class="wp-block-cover alignfull"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-1198" alt="" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:media-text {"mediaId":1197,"mediaType":"image","className":"alignwide"} -->
+<div class="wp-block-cover alignfull"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-1198" alt="" src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_StockSnap_HWASWXWKGH.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:media-text {"align":"wide","mediaId":1197,"mediaType":"image","className":"alignwide"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://themedemos.webmandesign.eu/bjork/wp-content/uploads/sites/23/SAMPLE/_dots-white.png" alt="" class="wp-image-1197 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"textColor":"color-accent-text"} -->
-<h2 class="has-color-accent-text-color has-text-color" id="contact-me-now">Contact me now</h2>
+<h2 class="wp-block-heading has-color-accent-text-color has-text-color" id="contact-me-now">Contact me now</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"normal"} -->
@@ -8618,7 +8834,7 @@ Post type: page
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-fill"} -->
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/bjork/contact-1/">Get in touch</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button" href="https://themedemos.webmandesign.eu/bjork/contact-1/">Get in touch</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:media-text --></div></div>
@@ -8627,8 +8843,8 @@ Post type: page
 		<wp:post_id>1357</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-04 18:43:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-04 17:43:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-23 16:47:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-23 14:47:41]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-10 15:16:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-10 13:16:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-5]]></wp:post_name>
@@ -9306,8 +9522,8 @@ https://www.youtube.com/watch?v=WoBLi5eE-wY
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="comments"><![CDATA[Comments]]></category>
-		<category domain="post_tag" nicename="comments"><![CDATA[Comments]]></category>
+										<category domain="post_tag" nicename="comments"><![CDATA[Comments]]></category>
+		<category domain="category" nicename="comments"><![CDATA[Comments]]></category>
 		<category domain="post_tag" nicename="custom-excerpt"><![CDATA[Custom excerpt]]></category>
 		<category domain="category" nicename="excerpts"><![CDATA[Excerpts]]></category>
 		<category domain="category" nicename="news"><![CDATA[News]]></category>
@@ -9473,8 +9689,8 @@ https://www.youtube.com/watch?v=WoBLi5eE-wY
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="comments"><![CDATA[Comments]]></category>
-		<category domain="post_tag" nicename="comments"><![CDATA[Comments]]></category>
+										<category domain="post_tag" nicename="comments"><![CDATA[Comments]]></category>
+		<category domain="category" nicename="comments"><![CDATA[Comments]]></category>
 		<category domain="post_tag" nicename="custom-excerpt"><![CDATA[Custom excerpt]]></category>
 		<category domain="category" nicename="excerpts"><![CDATA[Excerpts]]></category>
 		<category domain="category" nicename="news"><![CDATA[News]]></category>
