@@ -14,14 +14,14 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
-<!-- generator="WordPress/5.9" created="2022-02-17 17:12" -->
+<!-- generator="WordPress/6.3" created="2023-08-13 13:15" -->
 <rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
 
 <channel>
 	<title>Eimear</title>
 	<link>https://themedemos.webmandesign.eu/eimear</link>
 	<description>Modern &amp; Inclusive</description>
-	<pubDate>Thu, 17 Feb 2022 17:12:43 +0000</pubDate>
+	<pubDate>Sun, 13 Aug 2023 13:15:57 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themedemos.webmandesign.eu/</wp:base_site_url>
@@ -270,7 +270,7 @@
 	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu]]></wp:term_slug><wp:term_name><![CDATA[Social menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=6.3</generator>
 
 		
 					
@@ -504,7 +504,7 @@ Post type: nav_menu_item
 -->
 	<item>
 		<title><![CDATA[Facebook]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/facebook/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=8</link>
 		<pubDate>Sat, 18 Jul 2020 18:42:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=8</guid>
@@ -561,7 +561,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Twitter]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/twitter/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=9</link>
 		<pubDate>Sat, 18 Jul 2020 18:42:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=9</guid>
@@ -618,7 +618,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Theme documentation]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/theme-documentation/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=10</link>
 		<pubDate>Sat, 18 Jul 2020 18:42:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=10</guid>
@@ -675,7 +675,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[WebMan Design]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/webman-design/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=11</link>
 		<pubDate>Sat, 18 Jul 2020 18:42:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=11</guid>
@@ -732,7 +732,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[ThemeForest portfolio]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/themeforest-portfolio/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=12</link>
 		<pubDate>Sat, 18 Jul 2020 18:42:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=12</guid>
@@ -789,7 +789,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/home/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=28</link>
 		<pubDate>Sat, 18 Jul 2020 19:08:49 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=28</guid>
@@ -846,7 +846,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/29/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=29</link>
 		<pubDate>Sat, 18 Jul 2020 19:08:49 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=29</guid>
@@ -903,7 +903,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/30/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=30</link>
 		<pubDate>Sat, 18 Jul 2020 19:08:49 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=30</guid>
@@ -960,7 +960,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/31/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=31</link>
 		<pubDate>Sat, 18 Jul 2020 19:08:49 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=31</guid>
@@ -1017,7 +1017,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/32/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=32</link>
 		<pubDate>Sat, 18 Jul 2020 19:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=32</guid>
@@ -1074,7 +1074,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Shop]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/34/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=34</link>
 		<pubDate>Sat, 18 Jul 2020 19:08:49 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=34</guid>
@@ -1131,7 +1131,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Get the Theme!]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/get-the-theme/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=35</link>
 		<pubDate>Sat, 18 Jul 2020 19:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=35</guid>
@@ -1188,7 +1188,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Documentation]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/documentation/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=36</link>
 		<pubDate>Sat, 18 Jul 2020 19:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=36</guid>
@@ -1245,7 +1245,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Theme]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/theme/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=39</link>
 		<pubDate>Sat, 18 Jul 2020 19:08:49 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=39</guid>
@@ -1302,7 +1302,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Layouts]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/layouts/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=40</link>
 		<pubDate>Sat, 18 Jul 2020 19:08:49 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=40</guid>
@@ -1359,7 +1359,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Links]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/links/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=41</link>
 		<pubDate>Sat, 18 Jul 2020 19:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=41</guid>
@@ -1416,7 +1416,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Error 404 Page]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/error-404-page/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=42</link>
 		<pubDate>Sat, 18 Jul 2020 19:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=42</guid>
@@ -1473,7 +1473,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Search Results]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/search-results/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=43</link>
 		<pubDate>Sat, 18 Jul 2020 19:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=43</guid>
@@ -1530,7 +1530,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[RTL Layout]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/rtl-layout-test/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=44</link>
 		<pubDate>Sat, 18 Jul 2020 19:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=44</guid>
@@ -1587,7 +1587,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[<img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_icon-user-account.png" width="13" alt="User account icon"><span class="hide-on-mobile">&ensp;User</span>]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/45/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=45</link>
 		<pubDate>Sat, 18 Jul 2020 19:09:08 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=45</guid>
@@ -1644,7 +1644,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/51/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=51</link>
 		<pubDate>Sat, 18 Jul 2020 19:10:02 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=51</guid>
@@ -1701,7 +1701,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[My Orders]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/my-orders/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=81</link>
 		<pubDate>Sat, 18 Jul 2020 19:34:03 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=81</guid>
@@ -1758,7 +1758,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[My Downloads]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/my-downloads/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=82</link>
 		<pubDate>Sat, 18 Jul 2020 19:34:03 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=82</guid>
@@ -1815,7 +1815,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[My Addresses]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/my-addresses/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=83</link>
 		<pubDate>Sat, 18 Jul 2020 19:34:03 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=83</guid>
@@ -1872,7 +1872,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[My Details]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/my-details/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=84</link>
 		<pubDate>Sat, 18 Jul 2020 19:34:03 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=84</guid>
@@ -1929,7 +1929,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[× Log Out]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/x-log-out/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=85</link>
 		<pubDate>Sat, 18 Jul 2020 19:34:03 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=85</guid>
@@ -1986,7 +1986,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Get the Theme!]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/get-the-theme-2/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=88</link>
 		<pubDate>Sat, 18 Jul 2020 19:44:12 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=88</guid>
@@ -2043,7 +2043,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Documentation]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/documentation-2/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=89</link>
 		<pubDate>Sat, 18 Jul 2020 19:44:12 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=89</guid>
@@ -2100,7 +2100,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Get More Themes]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/get-more-themes/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=90</link>
 		<pubDate>Sat, 18 Jul 2020 19:44:13 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=90</guid>
@@ -2157,7 +2157,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[With Category List]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/all-products/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=184</link>
 		<pubDate>Sun, 19 Jul 2020 18:03:07 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=184</guid>
@@ -2214,7 +2214,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Dark Images]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/dark-product-images/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=185</link>
 		<pubDate>Sun, 19 Jul 2020 18:03:07 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=185</guid>
@@ -2271,7 +2271,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Bright Images]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/bright-product-images/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=186</link>
 		<pubDate>Sun, 19 Jul 2020 18:03:07 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=186</guid>
@@ -2328,7 +2328,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[With Sidebar]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/with-sidebar/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=187</link>
 		<pubDate>Sun, 19 Jul 2020 18:03:07 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=187</guid>
@@ -2385,7 +2385,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Colorful Images]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/colorful-product-images/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=188</link>
 		<pubDate>Sun, 19 Jul 2020 18:03:07 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=188</guid>
@@ -2442,7 +2442,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Lists]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/shop-lists/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=189</link>
 		<pubDate>Sun, 19 Jul 2020 18:05:22 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=189</guid>
@@ -2499,7 +2499,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Products]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/product-types/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=190</link>
 		<pubDate>Sun, 19 Jul 2020 18:05:22 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=190</guid>
@@ -2556,7 +2556,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Pages]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/shop-pages/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=191</link>
 		<pubDate>Sun, 19 Jul 2020 18:05:22 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=191</guid>
@@ -2613,7 +2613,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Layouts]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/shop-layouts/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=192</link>
 		<pubDate>Sun, 19 Jul 2020 18:05:23 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=192</guid>
@@ -2670,7 +2670,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/195/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=195</link>
 		<pubDate>Sun, 19 Jul 2020 18:09:07 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=195</guid>
@@ -2727,7 +2727,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[My Account]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/196/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=196</link>
 		<pubDate>Sun, 19 Jul 2020 18:09:07 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=196</guid>
@@ -2784,7 +2784,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[2 Columns]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/two-columns/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=198</link>
 		<pubDate>Sun, 19 Jul 2020 18:13:27 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=198</guid>
@@ -2841,7 +2841,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[2 Columns with Sidebar]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/two-columns-with-sidebar/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=199</link>
 		<pubDate>Sun, 19 Jul 2020 18:13:27 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=199</guid>
@@ -2898,7 +2898,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[3 Columns]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/three-columns/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=200</link>
 		<pubDate>Sun, 19 Jul 2020 18:13:27 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=200</guid>
@@ -2955,7 +2955,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[3 Columns with Sidebar]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/three-columns-with-sidebar/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=201</link>
 		<pubDate>Sun, 19 Jul 2020 18:13:27 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=201</guid>
@@ -3012,7 +3012,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[4 Columns]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/four-columns/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=202</link>
 		<pubDate>Sun, 19 Jul 2020 18:13:27 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=202</guid>
@@ -3069,7 +3069,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Ideas]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/inspiration/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=297</link>
 		<pubDate>Mon, 20 Jul 2020 13:47:07 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=297</guid>
@@ -3126,7 +3126,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/298/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=298</link>
 		<pubDate>Mon, 20 Jul 2020 13:47:06 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=298</guid>
@@ -3183,7 +3183,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/299/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=299</link>
 		<pubDate>Mon, 20 Jul 2020 13:47:06 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=299</guid>
@@ -3240,7 +3240,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/300/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=300</link>
 		<pubDate>Mon, 20 Jul 2020 13:47:06 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=300</guid>
@@ -3297,7 +3297,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/301/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=301</link>
 		<pubDate>Mon, 20 Jul 2020 13:47:07 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=301</guid>
@@ -3354,7 +3354,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Contact 2]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/302/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=302</link>
 		<pubDate>Mon, 20 Jul 2020 13:47:07 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=302</guid>
@@ -3411,7 +3411,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[FAQ]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/faq/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=303</link>
 		<pubDate>Mon, 20 Jul 2020 13:47:07 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=303</guid>
@@ -3468,7 +3468,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/304/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=304</link>
 		<pubDate>Mon, 20 Jul 2020 13:47:06 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=304</guid>
@@ -3525,7 +3525,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/305/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=305</link>
 		<pubDate>Mon, 20 Jul 2020 13:47:06 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=305</guid>
@@ -3582,7 +3582,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Pages]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/pages/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=306</link>
 		<pubDate>Mon, 20 Jul 2020 13:47:05 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=306</guid>
@@ -3639,7 +3639,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/314/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=314</link>
 		<pubDate>Mon, 20 Jul 2020 13:49:27 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=314</guid>
@@ -3696,7 +3696,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/315/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=315</link>
 		<pubDate>Mon, 20 Jul 2020 13:49:27 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=315</guid>
@@ -3753,7 +3753,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Home 1]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/home-1/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=316</link>
 		<pubDate>Mon, 20 Jul 2020 13:49:27 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=316</guid>
@@ -3810,7 +3810,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[With Sidebar]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/with-sidebar-2/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=388</link>
 		<pubDate>Mon, 20 Jul 2020 16:00:27 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=388</guid>
@@ -3867,7 +3867,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Comments Disabled]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/comments-disabled/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=389</link>
 		<pubDate>Mon, 20 Jul 2020 16:00:26 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=389</guid>
@@ -3924,7 +3924,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Wide Gallery: 1 Column]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/wide-gallery-1-column/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=437</link>
 		<pubDate>Tue, 21 Jul 2020 14:08:12 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=437</guid>
@@ -3981,7 +3981,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Wide Gallery: 2 Columns]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/wide-gallery-2-columns/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=438</link>
 		<pubDate>Tue, 21 Jul 2020 14:08:14 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=438</guid>
@@ -4038,7 +4038,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Wide Gallery: Thumbnails]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/wide-gallery-with-thumbnails/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=439</link>
 		<pubDate>Tue, 21 Jul 2020 14:08:10 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=439</guid>
@@ -4095,7 +4095,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Gallery: 1 Column]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/gallery-1-column/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=440</link>
 		<pubDate>Tue, 21 Jul 2020 14:08:04 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=440</guid>
@@ -4152,7 +4152,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Gallery: 2 Columns]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/gallery-2-columns/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=441</link>
 		<pubDate>Tue, 21 Jul 2020 14:08:07 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=441</guid>
@@ -4209,7 +4209,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Gallery: Thumbnails]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/gallery-with-thumbnails/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=442</link>
 		<pubDate>Tue, 21 Jul 2020 14:08:01 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=442</guid>
@@ -4266,7 +4266,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[No Sticky Info]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/no-sticky-info/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=443</link>
 		<pubDate>Tue, 21 Jul 2020 14:07:59 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=443</guid>
@@ -4323,7 +4323,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Grouped Product]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/grouped-product/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=448</link>
 		<pubDate>Tue, 21 Jul 2020 18:01:40 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=448</guid>
@@ -4380,7 +4380,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Simple Product]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/simple-product/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=449</link>
 		<pubDate>Tue, 21 Jul 2020 18:11:44 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=449</guid>
@@ -4437,7 +4437,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Sticky Info]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/sticky-info/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=451</link>
 		<pubDate>Tue, 21 Jul 2020 18:16:35 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=451</guid>
@@ -4494,7 +4494,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Product Gallery]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/layouts-1/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=453</link>
 		<pubDate>Tue, 21 Jul 2020 18:28:18 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=453</guid>
@@ -4551,7 +4551,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Cascading Products]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/cascading-products/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=455</link>
 		<pubDate>Tue, 21 Jul 2020 21:38:05 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=455</guid>
@@ -4608,7 +4608,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[No Cascading Products]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/no-cascading-products/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=456</link>
 		<pubDate>Tue, 21 Jul 2020 21:38:05 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=456</guid>
@@ -4665,7 +4665,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Thumbnails Shape]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/decoration-mask/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=457</link>
 		<pubDate>Tue, 21 Jul 2020 21:38:05 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=457</guid>
@@ -4722,7 +4722,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Cascading Posts]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/cascading-posts/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=459</link>
 		<pubDate>Wed, 22 Jul 2020 11:46:14 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=459</guid>
@@ -4779,7 +4779,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[No Cascading Posts]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/no-cascading-posts/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=460</link>
 		<pubDate>Wed, 22 Jul 2020 11:46:14 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=460</guid>
@@ -4836,7 +4836,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Thumbnails Shape]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/thumbnails-shape/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=461</link>
 		<pubDate>Wed, 22 Jul 2020 11:46:15 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=461</guid>
@@ -4893,7 +4893,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Comments Example]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/comments-example/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=462</link>
 		<pubDate>Wed, 22 Jul 2020 12:12:13 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=462</guid>
@@ -4950,7 +4950,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Contact]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/contact-2/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=473</link>
 		<pubDate>Wed, 22 Jul 2020 13:23:16 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=473</guid>
@@ -5007,7 +5007,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[About]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/about-2/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=474</link>
 		<pubDate>Wed, 22 Jul 2020 13:23:16 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=474</guid>
@@ -5064,7 +5064,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Variable Product]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/variable-product/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=570</link>
 		<pubDate>Wed, 22 Jul 2020 20:48:37 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=570</guid>
@@ -5121,7 +5121,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[External/Affiliate Product]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/external-affiliate-product/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=571</link>
 		<pubDate>Wed, 22 Jul 2020 21:05:32 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=571</guid>
@@ -5178,7 +5178,7 @@ Post type: nav_menu_item
 							</item>
 	<item>
 		<title><![CDATA[Single Idea]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/single-idea/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=nav_menu_item&amp;p=703</link>
 		<pubDate>Fri, 24 Jul 2020 21:31:02 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?p=703</guid>
@@ -5244,7 +5244,7 @@ Post type: page
 -->
 	<item>
 		<title><![CDATA[Shop our products]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/shop/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/demo-shop/</link>
 		<pubDate>Sat, 18 Jul 2020 18:48:36 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/eimear/shop/</guid>
@@ -5256,11 +5256,11 @@ Post type: page
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-18 20:48:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-18 18:48:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-08-06 23:19:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-08-06 21:19:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-13 13:49:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-13 11:49:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shop]]></wp:post_name>
+		<wp:post_name><![CDATA[demo-shop]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -5282,7 +5282,7 @@ Post type: page
 							</item>
 	<item>
 		<title><![CDATA[Shopping Cart]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/cart/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/demo-cart/</link>
 		<pubDate>Sat, 18 Jul 2020 18:48:36 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/eimear/cart/</guid>
@@ -5294,11 +5294,11 @@ Post type: page
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-18 20:48:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-18 18:48:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-07-22 22:39:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-07-22 20:39:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-11 18:08:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-11 16:08:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cart]]></wp:post_name>
+		<wp:post_name><![CDATA[demo-cart]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -5313,10 +5313,14 @@ Post type: page
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 	<item>
 		<title><![CDATA[Checkout]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/checkout/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/demo-checkout/</link>
 		<pubDate>Sat, 18 Jul 2020 18:48:36 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/eimear/checkout/</guid>
@@ -5328,11 +5332,11 @@ Post type: page
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-18 20:48:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-18 18:48:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-07-22 22:39:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-07-22 20:39:07]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-11 18:07:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-11 16:07:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[checkout]]></wp:post_name>
+		<wp:post_name><![CDATA[demo-checkout]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -5347,10 +5351,14 @@ Post type: page
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 	<item>
 		<title><![CDATA[My account]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/my-account/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/demo-my-account/</link>
 		<pubDate>Sat, 18 Jul 2020 18:48:36 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/eimear/my-account/</guid>
@@ -5362,11 +5370,11 @@ Post type: page
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-18 20:48:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-18 18:48:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-07-18 21:40:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-07-18 19:40:50]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-11 18:07:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-11 16:07:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[my-account]]></wp:post_name>
+		<wp:post_name><![CDATA[demo-my-account]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -5381,10 +5389,14 @@ Post type: page
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 	<item>
 		<title><![CDATA[Terms and Conditions]]></title>
-		<link>https://themedemos.webmandesign.eu/eimear/terms-and-conditions/</link>
+		<link>https://themedemos.webmandesign.eu/eimear/demo-terms-and-conditions/</link>
 		<pubDate>Sat, 18 Jul 2020 18:55:48 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?page_id=20</guid>
@@ -5432,11 +5444,11 @@ Post type: page
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-18 20:55:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-18 18:55:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-07-18 21:19:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-07-18 19:19:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-11 18:08:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-11 16:08:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[terms-and-conditions]]></wp:post_name>
+		<wp:post_name><![CDATA[demo-terms-and-conditions]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -5451,6 +5463,10 @@ Post type: page
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 	<item>
 		<title><![CDATA[Eimear Theme]]></title>
@@ -5460,7 +5476,7 @@ Post type: page
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?page_id=22</guid>
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_lauren-fleischmann-ul3oHG_LzcE-unsplash.jpg","id":211,"hasParallax":true,"dimRatio":0,"isDark":false,"align":"full","className":"has-no-margin-bottom","style":{"spacing":{"padding":{"bottom":"0px"}}}} -->
-<div class="wp-block-cover alignfull is-light has-parallax has-no-margin-bottom" style="padding-bottom:0px;background-image:url(https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_lauren-fleischmann-ul3oHG_LzcE-unsplash.jpg)"><span aria-hidden="true" class="has-background-dim-0 wp-block-cover__gradient-background has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":120} -->
+<div class="wp-block-cover alignfull is-light has-parallax has-no-margin-bottom" style="padding-bottom:0px;background-image:url(https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_lauren-fleischmann-ul3oHG_LzcE-unsplash.jpg)"><span aria-hidden="true" class="has-background-dim-0 wp-block-cover__gradient-background has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":"120px"} -->
 <div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -5491,10 +5507,10 @@ Post type: page
 <h2 class="screen-reader-text" id="featured-posts">Featured posts</h2>
 <!-- /wp:heading -->
 
-<!-- wp:woocommerce/product-new {"columns":4,"rows":1,"categories":[22],"contentVisibility":{"title":true,"price":true,"rating":true,"button":false},"align":"full","className":"has-no-gaps has-info-on-hover has-no-margin-bottom"} /-->
+<!-- wp:woocommerce/product-new {"columns":4,"rows":1,"categories":[22],"contentVisibility":{"title":true,"price":true,"rating":true,"button":false,"image":true},"align":"full","className":"has-no-gaps has-info-on-hover has-no-margin-bottom"} /-->
 
 <!-- wp:group {"align":"full","backgroundColor":"palette-1","textColor":"palette-5"} -->
-<div class="wp-block-group alignfull has-palette-5-color has-palette-1-background-color has-text-color has-background"><!-- wp:spacer {"height":30} -->
+<div class="wp-block-group alignfull has-palette-5-color has-palette-1-background-color has-text-color has-background"><!-- wp:spacer {"height":"30px"} -->
 <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -5549,7 +5565,7 @@ Post type: page
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:spacer {"height":120} -->
+<!-- wp:spacer {"height":"120px"} -->
 <div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -5571,11 +5587,11 @@ Post type: page
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"75%"} -->
-<div class="wp-block-column" style="flex-basis:75%"><!-- wp:woocommerce/handpicked-products {"columns":2,"editMode":false,"contentVisibility":{"title":true,"price":true,"rating":true,"button":false},"products":[143,142],"className":"has-no-gaps has-info-overlay"} /--></div>
+<div class="wp-block-column" style="flex-basis:75%"><!-- wp:woocommerce/handpicked-products {"columns":2,"editMode":false,"contentVisibility":{"title":true,"price":true,"rating":true,"button":false,"image":true},"products":[143,142],"className":"has-no-gaps has-info-overlay"} /--></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":90} -->
+<!-- wp:spacer {"height":"90px"} -->
 <div style="height:90px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -5597,16 +5613,16 @@ Post type: page
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"75%"} -->
-<div class="wp-block-column" style="flex-basis:75%"><!-- wp:woocommerce/handpicked-products {"columns":2,"editMode":false,"contentVisibility":{"title":true,"price":true,"rating":true,"button":false},"products":[141,140],"className":"has-no-gaps has-info-overlay"} /--></div>
+<div class="wp-block-column" style="flex-basis:75%"><!-- wp:woocommerce/handpicked-products {"columns":2,"editMode":false,"contentVisibility":{"title":true,"price":true,"rating":true,"button":false,"image":true},"products":[141,140],"className":"has-no-gaps has-info-overlay"} /--></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":90} -->
+<!-- wp:spacer {"height":"90px"} -->
 <div style="height:90px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:cover {"url":"https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_lauren-fleischmann-ul3oHG_LzcE-unsplash.jpg","id":211,"hasParallax":true,"dimRatio":70,"overlayColor":"palette-1","align":"full","className":"has-no-margin-bottom"} -->
-<div class="wp-block-cover alignfull has-parallax has-no-margin-bottom" style="background-image:url(https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_lauren-fleischmann-ul3oHG_LzcE-unsplash.jpg)"><span aria-hidden="true" class="has-palette-1-background-color has-background-dim-70 wp-block-cover__gradient-background has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":120} -->
+<div class="wp-block-cover alignfull has-parallax has-no-margin-bottom" style="background-image:url(https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_lauren-fleischmann-ul3oHG_LzcE-unsplash.jpg)"><span aria-hidden="true" class="has-palette-1-background-color has-background-dim-70 wp-block-cover__gradient-background has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":"120px"} -->
 <div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -5622,29 +5638,33 @@ Post type: page
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":100,"editMode":false,"overlayColor":"palette-1","categoryId":22} -->
-<!-- wp:button {"align":"center"} -->
-<div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/eimear/product-category/furniture/">Shop now</a></div>
-<!-- /wp:button -->
+<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":100,"editMode":false,"imageFit":"cover","categoryId":22,"overlayColor":"#0a0a00"} -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/eimear/product-category/furniture/">Shop now</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
 <!-- /wp:woocommerce/featured-category --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":100,"editMode":false,"overlayColor":"palette-1","categoryId":23} -->
-<!-- wp:button {"align":"center"} -->
-<div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/eimear/product-category/handbags/">Shop now</a></div>
-<!-- /wp:button -->
+<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":100,"editMode":false,"imageFit":"cover","categoryId":23,"overlayColor":"#0a0a00"} -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/eimear/product-category/handbags/">Shop now</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
 <!-- /wp:woocommerce/featured-category --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":70} -->
+<!-- wp:spacer {"height":"70px"} -->
 <div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div></div>
 <!-- /wp:cover -->
 
 <!-- wp:group {"align":"full"} -->
-<div class="wp-block-group alignfull"><!-- wp:spacer {"height":120} -->
+<div class="wp-block-group alignfull"><!-- wp:spacer {"height":"120px"} -->
 <div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -5684,7 +5704,7 @@ Post type: page
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
-<!-- wp:spacer {"height":80} -->
+<!-- wp:spacer {"height":"80px"} -->
 <div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div>
 <!-- /wp:group -->
@@ -5708,7 +5728,7 @@ Post type: page
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center","width":"45%","className":"has-no-margin-vertical"} -->
-<div class="wp-block-column is-vertically-aligned-center has-no-margin-vertical" style="flex-basis:45%"><!-- wp:spacer {"height":60} -->
+<div class="wp-block-column is-vertically-aligned-center has-no-margin-vertical" style="flex-basis:45%"><!-- wp:spacer {"height":"60px"} -->
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -5720,7 +5740,7 @@ Post type: page
 <p class="has-palette-4-color has-text-color has-large-font-size">Don't be bashful drop me a line. The very fact that you're aware of suffering is enough reason to be overjoyed that you're alive and can experience it.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":60} -->
+<!-- wp:spacer {"height":"60px"} -->
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -5730,7 +5750,7 @@ Post type: page
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
-<!-- wp:spacer {"height":60} -->
+<!-- wp:spacer {"height":"60px"} -->
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div>
 <!-- /wp:column --></div>
@@ -5740,8 +5760,8 @@ Post type: page
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-18 21:01:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-18 19:01:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-17 17:59:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-02-17 16:59:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-06-20 16:06:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-06-20 14:06:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-1]]></wp:post_name>
@@ -5800,7 +5820,7 @@ Post type: page
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?page_id=26</guid>
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:group {"align":"full","backgroundColor":"palette-5","className":"has-no-margin-bottom"} -->
-<div class="wp-block-group alignfull has-no-margin-bottom has-palette-5-background-color has-background" id="typography"><div class="wp-block-group__inner-container"><!-- wp:html -->
+<div class="wp-block-group alignfull has-no-margin-bottom has-palette-5-background-color has-background" id="typography"><!-- wp:html -->
 <style>
 .wp-block-column { padding: .5rem 1rem; }
 .wp-block-column:first-child { background: rgba(0,0,0,.05); }
@@ -5934,11 +5954,11 @@ h3 { text-transform: none; letter-spacing: 0; }
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
+<!-- /wp:spacer --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"full","className":"has-no-margin-bottom"} -->
-<div class="wp-block-group alignfull has-no-margin-bottom" id="layout"><div class="wp-block-group__inner-container"><!-- wp:spacer -->
+<div class="wp-block-group alignfull has-no-margin-bottom" id="layout"><!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -6156,11 +6176,11 @@ h3 { text-transform: none; letter-spacing: 0; }
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
+<!-- /wp:spacer --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"full","backgroundColor":"palette-4"} -->
-<div class="wp-block-group alignfull has-palette-4-background-color has-background" id="decorations"><div class="wp-block-group__inner-container"><!-- wp:spacer -->
+<div class="wp-block-group alignfull has-palette-4-background-color has-background" id="decorations"><!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -6202,16 +6222,16 @@ h3 { text-transform: none; letter-spacing: 0; }
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
+<!-- /wp:spacer --></div>
 <!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Apply a custom helper CSS class listed below <a href="https://vimeo.com/manage/videos/523023071">in block editor</a>, in page builder, or directly in HTML code.
+		<excerpt:encoded><![CDATA[Apply a custom helper CSS class listed below <a href="https://vimeo.com/523023071">in block editor</a>, in page builder, or directly in HTML code.
 <br />
 <a href="#typography">Text &amp; typography</a> | <a href="#layout">Layout</a> | <a href="#decorations">Decorations</a>]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-18 21:03:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-18 19:03:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-19 12:44:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-19 11:44:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-03-23 16:50:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-23 15:50:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[helper-css-classes]]></wp:post_name>
@@ -7289,34 +7309,64 @@ h3 { text-transform: none; letter-spacing: 0; }
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?page_id=246</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:gallery {"ids":[482,481,480,479,478,477,476,475],"columns":4,"align":"wide"} -->
-<figure class="wp-block-gallery alignwide columns-4 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-9.jpg" alt="Don't forget to set alt text." data-id="482" data-full-url="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-9.jpg" data-link="http://themedemos.webmandesign.eu/eimear/sample/_logo-9/" class="wp-image-482"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-8.jpg" alt="Don't forget to set alt text." data-id="481" data-full-url="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-8.jpg" data-link="http://themedemos.webmandesign.eu/eimear/sample/_logo-8/" class="wp-image-481"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-7.jpg" alt="Don't forget to set alt text." data-id="480" data-full-url="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-7.jpg" data-link="http://themedemos.webmandesign.eu/eimear/sample/_logo-7/" class="wp-image-480"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-6.jpg" alt="Don't forget to set alt text." data-id="479" data-full-url="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-6.jpg" data-link="http://themedemos.webmandesign.eu/eimear/sample/_logo-6/" class="wp-image-479"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-5.jpg" alt="Don't forget to set alt text." data-id="478" data-full-url="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-5.jpg" data-link="http://themedemos.webmandesign.eu/eimear/sample/_logo-5/" class="wp-image-478"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-4.jpg" alt="Don't forget to set alt text." data-id="477" data-full-url="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-4.jpg" data-link="http://themedemos.webmandesign.eu/eimear/sample/_logo-4/" class="wp-image-477"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-3.jpg" alt="Don't forget to set alt text." data-id="476" data-full-url="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-3.jpg" data-link="http://themedemos.webmandesign.eu/eimear/sample/_logo-3/" class="wp-image-476"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-2.jpg" alt="Don't forget to set alt text." data-id="475" data-full-url="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-2.jpg" data-link="http://themedemos.webmandesign.eu/eimear/sample/_logo-2/" class="wp-image-475"/></figure></li></ul></figure>
+		<content:encoded><![CDATA[<!-- wp:gallery {"columns":4,"linkTo":"none","align":"wide"} -->
+<figure class="wp-block-gallery alignwide has-nested-images columns-4 is-cropped"><!-- wp:image {"id":482,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-9.jpg" alt="Don't forget to set alt text." class="wp-image-482"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":481,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-8.jpg" alt="Don't forget to set alt text." class="wp-image-481"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":480,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-7.jpg" alt="Don't forget to set alt text." class="wp-image-480"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":479,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-6.jpg" alt="Don't forget to set alt text." class="wp-image-479"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":478,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-5.jpg" alt="Don't forget to set alt text." class="wp-image-478"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":477,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-4.jpg" alt="Don't forget to set alt text." class="wp-image-477"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":476,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-3.jpg" alt="Don't forget to set alt text." class="wp-image-476"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":475,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_logo-2.jpg" alt="Don't forget to set alt text." class="wp-image-475"/></figure>
+<!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
-<!-- wp:spacer {"height":110} -->
+<!-- wp:spacer {"height":"110px"} -->
 <div style="height:110px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:group {"backgroundColor":"palette-1","align":"full","className":"has-no-padding-vertical"} -->
-<div class="wp-block-group alignfull has-palette-1-background-color has-background has-no-padding-vertical"><div class="wp-block-group__inner-container"><!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"top","width":50,"className":"has-no-margin-vertical"} -->
+<!-- wp:group {"align":"full","backgroundColor":"palette-1","className":"has-no-padding-vertical"} -->
+<div class="wp-block-group alignfull has-no-padding-vertical has-palette-1-background-color has-background"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"top","width":"50%","className":"has-no-margin-vertical"} -->
 <div class="wp-block-column is-vertically-aligned-top has-no-margin-vertical" style="flex-basis:50%"><!-- wp:group {"backgroundColor":"palette-3","className":"has-no-padding has-decorative-overlay"} -->
-<div class="wp-block-group has-palette-3-background-color has-background has-no-padding has-decorative-overlay"><div class="wp-block-group__inner-container"><!-- wp:image {"align":"center","id":332,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_jean-philippe-delberghe-Ry9WBo3qmoc-unsplash.png" alt="Don't forget to set alt text." class="wp-image-332"/></figure></div>
+<div class="wp-block-group has-no-padding has-decorative-overlay has-palette-3-background-color has-background"><!-- wp:image {"align":"center","id":332,"sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_jean-philippe-delberghe-Ry9WBo3qmoc-unsplash.png" alt="Don't forget to set alt text." class="wp-image-332"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
+<!-- /wp:spacer --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"width":5,"className":"has-no-margin-vertical"} -->
+<!-- wp:column {"width":"5%","className":"has-no-margin-vertical"} -->
 <div class="wp-block-column has-no-margin-vertical" style="flex-basis:5%"></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center","width":45,"className":"has-no-margin-vertical"} -->
-<div class="wp-block-column is-vertically-aligned-center has-no-margin-vertical" style="flex-basis:45%"><!-- wp:spacer {"height":60} -->
+<!-- wp:column {"verticalAlignment":"center","width":"45%","className":"has-no-margin-vertical"} -->
+<div class="wp-block-column is-vertically-aligned-center has-no-margin-vertical" style="flex-basis:45%"><!-- wp:spacer {"height":"60px"} -->
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -7325,31 +7375,31 @@ h3 { text-transform: none; letter-spacing: 0; }
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"palette-5","fontSize":"large"} -->
-<p class="has-text-color has-large-font-size has-palette-5-color">Don't be bashful drop me a line. The very fact that you're aware of suffering is enough reason to be overjoyed that you're alive and can experience it.</p>
+<p class="has-palette-5-color has-text-color has-large-font-size">Don't be bashful drop me a line. The very fact that you're aware of suffering is enough reason to be overjoyed that you're alive and can experience it.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":50} -->
+<!-- wp:spacer {"height":"50px"} -->
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"palette-5","className":"has-large-font-size is-style-outline"} -->
-<div class="wp-block-button has-large-font-size is-style-outline"><a class="wp-block-button__link has-text-color has-palette-5-color" href="https://themedemos.webmandesign.eu/eimear/contact-1/">Contact Us</a></div>
+<div class="wp-block-button has-large-font-size is-style-outline"><a class="wp-block-button__link has-palette-5-color has-text-color wp-element-button" href="https://themedemos.webmandesign.eu/eimear/contact-1/">Contact Us</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
-<!-- wp:spacer {"height":60} -->
+<!-- wp:spacer {"height":"60px"} -->
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div>
 <!-- /wp:column --></div>
-<!-- /wp:columns --></div></div>
+<!-- /wp:columns --></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[You can do anything here. So don't worry about it. In your world you can create anything you desire. Just make little strokes like that. You don't want to kill all your dark areas they are very important. Let's do it again then, what the heck.]]></excerpt:encoded>
 		<wp:post_id>246</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-19 23:13:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-19 21:13:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-08-06 23:04:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-08-06 21:04:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-18 23:42:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-18 22:42:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[clients]]></wp:post_name>
@@ -7958,11 +8008,11 @@ h3 { text-transform: none; letter-spacing: 0; }
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?page_id=307</guid>
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_juliet-furst-tFteUnwflA0-unsplash.jpg","id":209,"hasParallax":true,"dimRatio":60,"overlayColor":"palette-2","align":"full","className":"has-80-percent-screen-min-height has-no-margin-bottom"} -->
-<div class="wp-block-cover alignfull has-background-dim-60 has-palette-2-background-color has-background-dim has-parallax has-80-percent-screen-min-height has-no-margin-bottom" style="background-image:url(https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_juliet-furst-tFteUnwflA0-unsplash.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":120} -->
+<div class="wp-block-cover alignfull has-parallax has-80-percent-screen-min-height has-no-margin-bottom" style="background-image:url(https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_juliet-furst-tFteUnwflA0-unsplash.jpg)"><span aria-hidden="true" class="wp-block-cover__background has-palette-2-background-color has-background-dim-60 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":"120px"} -->
 <div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"align":"center","level":1} -->
+<!-- wp:heading {"textAlign":"center","level":1} -->
 <h1 class="has-text-align-center">Made With Love</h1>
 <!-- /wp:heading -->
 
@@ -7970,72 +8020,78 @@ h3 { text-transform: none; letter-spacing: 0; }
 <p class="has-text-align-center has-extra-large-font-size">You can do anything here. So don't worry about it. In your world you can create anything you desire.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":40} -->
+<!-- wp:spacer {"height":"40px"} -->
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:buttons {"align":"center","className":"has-large-font-size"} -->
-<div class="wp-block-buttons aligncenter has-large-font-size"><!-- wp:button -->
+<!-- wp:buttons {"className":"has-large-font-size","layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons has-large-font-size"><!-- wp:button -->
 <div class="wp-block-button"><a class="wp-block-button__link" href="#purchaselink">Get The Theme</a></div>
 <!-- /wp:button -->
 
 <!-- wp:button {"textColor":"palette-5","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color has-palette-5-color" href="/eimear/product-category/ceramics-light/">Shop now</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-palette-5-color has-text-color" href="/eimear/product-category/ceramics-light/">Shop now</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
-<!-- wp:separator {"color":"palette-5","className":"has-no-margin-bottom"} -->
-<hr class="wp-block-separator has-text-color has-background has-palette-5-background-color has-palette-5-color has-no-margin-bottom"/>
+<!-- wp:separator {"opacity":"css","backgroundColor":"palette-5","className":"has-no-margin-bottom"} -->
+<hr class="wp-block-separator has-text-color has-palette-5-color has-css-opacity has-palette-5-background-color has-background has-no-margin-bottom"/>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"huge"} -->
 <p class="has-text-align-center has-huge-font-size">↓</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":120} -->
+<!-- wp:spacer {"height":"120px"} -->
 <div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div></div>
 <!-- /wp:cover -->
 
 <!-- wp:columns {"align":"full","className":"has-large-padding"} -->
 <div class="wp-block-columns alignfull has-large-padding"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":60,"editMode":false,"focalPoint":{"x":"0.56","y":"1.00"},"mediaId":173,"mediaSrc":"https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_brown-plant-on-white-ceramic-vase-4207892.jpg","overlayColor":"palette-2","categoryId":21,"className":"has-decorative-overlay"} -->
-<!-- wp:button {"textColor":"palette-5","align":"center","className":"is-style-outline"} -->
-<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-text-color has-palette-5-color" href="https://themedemos.webmandesign.eu/eimear/product-category/ceramics-light/">Shop now</a></div>
-<!-- /wp:button -->
+<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":60,"editMode":false,"focalPoint":{"x":"0.56","y":"1.00"},"imageFit":"cover","mediaId":173,"mediaSrc":"https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_brown-plant-on-white-ceramic-vase-4207892.jpg","categoryId":21,"overlayColor":"#0a0a00","className":"has-decorative-overlay"} -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/eimear/product-category/ceramics-light/">Shop now</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
 <!-- /wp:woocommerce/featured-category --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":60,"editMode":false,"focalPoint":{"x":"0.54","y":"1.00"},"mediaId":176,"mediaSrc":"https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_vase-with-dried-herbs-arranged-with-buddha-bust-and-books-4203095.jpg","overlayColor":"palette-2","categoryId":16,"className":"has-decorative-overlay"} -->
-<!-- wp:button {"textColor":"palette-5","align":"center","className":"is-style-outline"} -->
-<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-text-color has-palette-5-color" href="https://themedemos.webmandesign.eu/eimear/product-category/ceramics-shade/">Shop now</a></div>
-<!-- /wp:button -->
+<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":60,"editMode":false,"focalPoint":{"x":"0.54","y":"1.00"},"imageFit":"cover","mediaId":176,"mediaSrc":"https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_vase-with-dried-herbs-arranged-with-buddha-bust-and-books-4203095.jpg","categoryId":16,"overlayColor":"#0a0a00","className":"has-decorative-overlay"} -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/eimear/product-category/ceramics-shade/">Shop now</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
 <!-- /wp:woocommerce/featured-category --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":60,"editMode":false,"focalPoint":{"x":"0.59","y":"1.00"},"mediaId":175,"mediaSrc":"https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_stylish-and-modern-composition-with-vase-and-bookend-4207788.jpg","overlayColor":"palette-2","categoryId":22,"className":"has-decorative-overlay"} -->
-<!-- wp:button {"textColor":"palette-5","align":"center","className":"is-style-outline"} -->
-<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-text-color has-palette-5-color" href="https://themedemos.webmandesign.eu/eimear/product-category/furniture/">Shop now</a></div>
-<!-- /wp:button -->
+<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":60,"editMode":false,"focalPoint":{"x":"0.59","y":"1.00"},"imageFit":"cover","mediaId":175,"mediaSrc":"https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_stylish-and-modern-composition-with-vase-and-bookend-4207788.jpg","categoryId":22,"overlayColor":"#0a0a00","className":"has-decorative-overlay"} -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/eimear/product-category/furniture/">Shop now</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
 <!-- /wp:woocommerce/featured-category --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":70} -->
+<!-- wp:spacer {"height":"70px"} -->
 <div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"width":32.1} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"32.1%"} -->
 <div class="wp-block-column" style="flex-basis:32.1%"><!-- wp:group {"className":"is-sticky-within-container"} -->
-<div class="wp-block-group is-sticky-within-container"><div class="wp-block-group__inner-container"><!-- wp:heading -->
+<div class="wp-block-group is-sticky-within-container"><!-- wp:heading -->
 <h2>Selected<br />just for you</h2>
 <!-- /wp:heading -->
 
-<!-- wp:separator {"className":"alignleft"} -->
-<hr class="wp-block-separator alignleft"/>
+<!-- wp:separator {"opacity":"css","className":"alignleft"} -->
+<hr class="wp-block-separator has-css-opacity alignleft"/>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"className":"has-no-margin-bottom"} -->
@@ -8043,28 +8099,30 @@ h3 { text-transform: none; letter-spacing: 0; }
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"accent","fontSize":"huge"} -->
-<p class="has-text-color has-huge-font-size has-accent-color">↓ →</p>
-<!-- /wp:paragraph --></div></div>
+<p class="has-accent-color has-text-color has-huge-font-size">↓ →</p>
+<!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:woocommerce/featured-product {"dimRatio":60,"editMode":false,"height":732,"overlayColor":"palette-2","productId":133} -->
-<!-- wp:button {"textColor":"palette-4","align":"center","className":"is-style-outline"} -->
-<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-text-color has-palette-4-color" href="https://themedemos.webmandesign.eu/eimear/product/ceramic-light-2/">Shop now</a></div>
-<!-- /wp:button -->
+<div class="wp-block-column"><!-- wp:woocommerce/featured-product {"dimRatio":60,"editMode":false,"overlayColor":"#2a2a20","productId":133} -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/eimear/product/ceramic-light-2/">Shop now</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
 <!-- /wp:woocommerce/featured-product --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:woocommerce/handpicked-products {"align":"wide","editMode":false,"products":[135,134,132]} /-->
+<!-- wp:woocommerce/handpicked-products {"align":"wide","products":[135,134,132]} /-->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:group {"backgroundColor":"palette-5","align":"full","className":"has-no-margin-bottom"} -->
-<div class="wp-block-group alignfull has-palette-5-background-color has-background has-no-margin-bottom"><div class="wp-block-group__inner-container"><!-- wp:spacer {"height":90} -->
+<!-- wp:group {"align":"full","backgroundColor":"palette-5","className":"has-no-margin-bottom"} -->
+<div class="wp-block-group alignfull has-no-margin-bottom has-palette-5-background-color has-background"><!-- wp:spacer {"height":"90px"} -->
 <div style="height:90px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -8074,8 +8132,8 @@ h3 { text-transform: none; letter-spacing: 0; }
 <h2>From our blog</h2>
 <!-- /wp:heading -->
 
-<!-- wp:separator {"className":"alignleft"} -->
-<hr class="wp-block-separator alignleft"/>
+<!-- wp:separator {"opacity":"css","className":"alignleft"} -->
+<hr class="wp-block-separator has-css-opacity alignleft"/>
 <!-- /wp:separator --></div>
 <!-- /wp:column -->
 
@@ -8084,37 +8142,37 @@ h3 { text-transform: none; letter-spacing: 0; }
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":80} -->
+<!-- wp:spacer {"height":"80px"} -->
 <div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:latest-posts {"align":"wide","postsToShow":3,"displayPostContent":true,"excerptLength":40,"displayPostDate":true,"postLayout":"grid"} /-->
+<!-- wp:latest-posts {"postsToShow":3,"displayPostContent":true,"excerptLength":40,"displayPostDate":true,"postLayout":"grid","align":"wide"} /-->
 
-<!-- wp:spacer {"height":50} -->
+<!-- wp:spacer {"height":"50px"} -->
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
+<!-- /wp:spacer --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"backgroundColor":"palette-2","align":"full","className":"has-no-padding-vertical"} -->
-<div class="wp-block-group alignfull has-palette-2-background-color has-background has-no-padding-vertical"><div class="wp-block-group__inner-container"><!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"top","width":50,"className":"has-no-margin-vertical"} -->
+<!-- wp:group {"align":"full","backgroundColor":"palette-2","className":"has-no-padding-vertical"} -->
+<div class="wp-block-group alignfull has-no-padding-vertical has-palette-2-background-color has-background"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"top","width":"50%","className":"has-no-margin-vertical"} -->
 <div class="wp-block-column is-vertically-aligned-top has-no-margin-vertical" style="flex-basis:50%"><!-- wp:group {"backgroundColor":"palette-2","className":"has-no-padding has-decorative-overlay"} -->
-<div class="wp-block-group has-palette-2-background-color has-background has-no-padding has-decorative-overlay"><div class="wp-block-group__inner-container"><!-- wp:image {"align":"center","id":332,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_jean-philippe-delberghe-Ry9WBo3qmoc-unsplash.png" alt="Don't forget to set alt text." class="wp-image-332"/></figure></div>
+<div class="wp-block-group has-no-padding has-decorative-overlay has-palette-2-background-color has-background"><!-- wp:image {"align":"center","id":332,"sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_jean-philippe-delberghe-Ry9WBo3qmoc-unsplash.png" alt="Don't forget to set alt text." class="wp-image-332"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
+<!-- /wp:spacer --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"width":5,"className":"has-no-margin-vertical"} -->
+<!-- wp:column {"width":"5%","className":"has-no-margin-vertical"} -->
 <div class="wp-block-column has-no-margin-vertical" style="flex-basis:5%"></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center","width":45,"className":"has-no-margin-vertical"} -->
-<div class="wp-block-column is-vertically-aligned-center has-no-margin-vertical" style="flex-basis:45%"><!-- wp:spacer {"height":60} -->
+<!-- wp:column {"verticalAlignment":"center","width":"45%","className":"has-no-margin-vertical"} -->
+<div class="wp-block-column is-vertically-aligned-center has-no-margin-vertical" style="flex-basis:45%"><!-- wp:spacer {"height":"60px"} -->
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -8122,36 +8180,36 @@ h3 { text-transform: none; letter-spacing: 0; }
 <h2 class="has-palette-5-color has-text-color">Very easy<br />to work with</h2>
 <!-- /wp:heading -->
 
-<!-- wp:separator {"className":"alignleft"} -->
-<hr class="wp-block-separator alignleft"/>
+<!-- wp:separator {"opacity":"css","className":"alignleft"} -->
+<hr class="wp-block-separator has-css-opacity alignleft"/>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"textColor":"palette-5","fontSize":"large"} -->
-<p class="has-text-color has-large-font-size has-palette-5-color">Don't be bashful drop me a line. The very fact that you're aware of suffering is enough reason to be overjoyed that you're alive and can experience it.</p>
+<p class="has-palette-5-color has-text-color has-large-font-size">Don't be bashful drop me a line. The very fact that you're aware of suffering is enough reason to be overjoyed that you're alive and can experience it.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":50} -->
+<!-- wp:spacer {"height":"50px"} -->
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"palette-5","className":"has-large-font-size is-style-outline"} -->
-<div class="wp-block-button has-large-font-size is-style-outline"><a class="wp-block-button__link has-text-color has-palette-5-color" href="https://themedemos.webmandesign.eu/eimear/contact-1/">Contact Us</a></div>
+<div class="wp-block-button has-large-font-size is-style-outline"><a class="wp-block-button__link has-palette-5-color has-text-color" href="https://themedemos.webmandesign.eu/eimear/contact-1/">Contact Us</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
-<!-- wp:spacer {"height":60} -->
+<!-- wp:spacer {"height":"60px"} -->
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div>
 <!-- /wp:column --></div>
-<!-- /wp:columns --></div></div>
+<!-- /wp:columns --></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>307</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-20 15:47:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-20 13:47:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-08-06 22:54:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-08-06 20:54:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-10-05 16:19:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-05 14:19:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -8181,10 +8239,10 @@ h3 { text-transform: none; letter-spacing: 0; }
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?page_id=309</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:woocommerce/product-new {"columns":4,"rows":1,"categories":[22],"contentVisibility":{"title":true,"price":true,"rating":true,"button":false},"align":"full","className":"has-no-gaps has-info-on-hover has-no-margin-bottom"} /-->
+		<content:encoded><![CDATA[<!-- wp:woocommerce/product-new {"columns":4,"rows":1,"categories":[22],"contentVisibility":{"title":true,"price":true,"rating":true,"button":false,"image":true},"align":"full","className":"has-no-gaps has-info-on-hover has-no-margin-bottom"} /-->
 
 <!-- wp:group {"align":"full","backgroundColor":"palette-1","textColor":"palette-5"} -->
-<div class="wp-block-group alignfull has-palette-5-color has-palette-1-background-color has-text-color has-background"><!-- wp:spacer {"height":30} -->
+<div class="wp-block-group alignfull has-palette-5-color has-palette-1-background-color has-text-color has-background"><!-- wp:spacer {"height":"30px"} -->
 <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -8239,7 +8297,7 @@ h3 { text-transform: none; letter-spacing: 0; }
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:spacer {"height":120} -->
+<!-- wp:spacer {"height":"120px"} -->
 <div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -8251,18 +8309,18 @@ h3 { text-transform: none; letter-spacing: 0; }
 <p class="has-text-align-center has-large-font-size">You can do anything here. So don't worry about it. In your world you can create anything you desire. Just make little strokes like that.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":60} -->
+<!-- wp:spacer {"height":"60px"} -->
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:woocommerce/handpicked-products {"align":"wide","editMode":false,"contentVisibility":{"title":true,"price":true,"rating":true,"button":true},"products":[108,105,112,110,107,104],"className":"has-image-shape-4"} /-->
+<!-- wp:woocommerce/handpicked-products {"align":"wide","editMode":false,"contentVisibility":{"title":true,"price":true,"rating":true,"button":true,"image":true},"products":[108,105,112,110,107,104],"className":"has-image-shape-4"} /-->
 
-<!-- wp:spacer {"height":90} -->
+<!-- wp:spacer {"height":"90px"} -->
 <div style="height:90px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:cover {"url":"https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_inside-weather-dbH_vy7vICE-unsplash.jpg","id":267,"hasParallax":true,"dimRatio":70,"overlayColor":"palette-1","align":"full"} -->
-<div class="wp-block-cover alignfull has-parallax" style="background-image:url(https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_inside-weather-dbH_vy7vICE-unsplash.jpg)"><span aria-hidden="true" class="has-palette-1-background-color has-background-dim-70 wp-block-cover__gradient-background has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":120} -->
+<div class="wp-block-cover alignfull has-parallax" style="background-image:url(https://themedemos.webmandesign.eu/eimear/wp-content/uploads/sites/27/SAMPLE/_inside-weather-dbH_vy7vICE-unsplash.jpg)"><span aria-hidden="true" class="has-palette-1-background-color has-background-dim-70 wp-block-cover__gradient-background has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":"120px"} -->
 <div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -8278,28 +8336,32 @@ h3 { text-transform: none; letter-spacing: 0; }
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":100,"editMode":false,"overlayColor":"palette-1","categoryId":22,"className":"has-decorative-overlay"} -->
-<!-- wp:button {"align":"center"} -->
-<div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/eimear/product-category/furniture/">Shop now</a></div>
-<!-- /wp:button -->
+<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":100,"editMode":false,"categoryId":22,"overlayColor":"#0a0a00","className":"has-decorative-overlay"} -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/eimear/product-category/furniture/">Shop now</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
 <!-- /wp:woocommerce/featured-category --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":100,"editMode":false,"overlayColor":"palette-1","categoryId":23,"className":"has-decorative-overlay"} -->
-<!-- wp:button {"align":"center"} -->
-<div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/eimear/product-category/handbags/">Shop now</a></div>
-<!-- /wp:button -->
+<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":100,"editMode":false,"categoryId":23,"overlayColor":"#0a0a00","className":"has-decorative-overlay"} -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://themedemos.webmandesign.eu/eimear/product-category/handbags/">Shop now</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
 <!-- /wp:woocommerce/featured-category --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":70} -->
+<!-- wp:spacer {"height":"70px"} -->
 <div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:spacer {"height":120} -->
+<!-- wp:spacer {"height":"120px"} -->
 <div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -8311,7 +8373,7 @@ h3 { text-transform: none; letter-spacing: 0; }
 <p class="has-text-align-center has-large-font-size">You can do anything here. So don't worry about it. In your world you can create anything you desire. Just make little strokes like that.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":60} -->
+<!-- wp:spacer {"height":"60px"} -->
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -8342,7 +8404,7 @@ h3 { text-transform: none; letter-spacing: 0; }
 <!-- /wp:spacer -->
 
 <!-- wp:group {"align":"full","backgroundColor":"palette-5","className":"has-no-margin-bottom"} -->
-<div class="wp-block-group alignfull has-no-margin-bottom has-palette-5-background-color has-background"><!-- wp:spacer {"height":90} -->
+<div class="wp-block-group alignfull has-no-margin-bottom has-palette-5-background-color has-background"><!-- wp:spacer {"height":"90px"} -->
 <div style="height:90px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -8354,13 +8416,13 @@ h3 { text-transform: none; letter-spacing: 0; }
 <p class="has-text-align-center has-large-font-size">You can do anything here. So don't worry about it. In your world you can create anything you desire. Just make little strokes like that.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":60} -->
+<!-- wp:spacer {"height":"60px"} -->
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:latest-posts {"postsToShow":3,"excerptLength":20,"displayPostDate":true,"postLayout":"grid","displayFeaturedImage":true,"align":"wide","className":"has-image-shape-1"} /-->
 
-<!-- wp:spacer {"height":60} -->
+<!-- wp:spacer {"height":"60px"} -->
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div>
 <!-- /wp:group -->
@@ -8384,7 +8446,7 @@ h3 { text-transform: none; letter-spacing: 0; }
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center","width":"45%","className":"has-no-margin-vertical"} -->
-<div class="wp-block-column is-vertically-aligned-center has-no-margin-vertical" style="flex-basis:45%"><!-- wp:spacer {"height":60} -->
+<div class="wp-block-column is-vertically-aligned-center has-no-margin-vertical" style="flex-basis:45%"><!-- wp:spacer {"height":"60px"} -->
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -8400,7 +8462,7 @@ h3 { text-transform: none; letter-spacing: 0; }
 <p class="has-palette-1-color has-text-color has-large-font-size">Don't be bashful drop me a line. The very fact that you're aware of suffering is enough reason to be overjoyed that you're alive and can experience it.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":50} -->
+<!-- wp:spacer {"height":"50px"} -->
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -8410,7 +8472,7 @@ h3 { text-transform: none; letter-spacing: 0; }
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
-<!-- wp:spacer {"height":60} -->
+<!-- wp:spacer {"height":"60px"} -->
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div>
 <!-- /wp:column --></div>
@@ -8420,8 +8482,8 @@ h3 { text-transform: none; letter-spacing: 0; }
 		<wp:post_id>309</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-20 15:48:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-20 13:48:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-17 18:01:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-02-17 17:01:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-06-20 16:07:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-06-20 14:07:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-3]]></wp:post_name>
@@ -8578,8 +8640,8 @@ Post type: post
 										<category domain="category" nicename="journal"><![CDATA[Journal]]></category>
 		<category domain="category" nicename="news"><![CDATA[News]]></category>
 		<category domain="post_tag" nicename="with-excerpt"><![CDATA[With excerpt]]></category>
-		<category domain="post_tag" nicename="with-sidebar"><![CDATA[With sidebar]]></category>
 		<category domain="category" nicename="with-sidebar"><![CDATA[With sidebar]]></category>
+		<category domain="post_tag" nicename="with-sidebar"><![CDATA[With sidebar]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -8906,8 +8968,8 @@ There's really no end to this. When you do it your way you can go anywhere you c
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="with-sidebar"><![CDATA[With sidebar]]></category>
-		<category domain="category" nicename="with-sidebar"><![CDATA[With sidebar]]></category>
+										<category domain="category" nicename="with-sidebar"><![CDATA[With sidebar]]></category>
+		<category domain="post_tag" nicename="with-sidebar"><![CDATA[With sidebar]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -12715,8 +12777,8 @@ You can do anything here. So don't worry about it. In your world you can create 
 		<wp:post_id>142</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-19 14:00:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-19 12:00:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-07-22 23:06:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-07-22 21:06:21]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-09 03:33:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-09 01:33:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[furniture-5]]></wp:post_name>
@@ -12790,7 +12852,7 @@ You can do anything here. So don't worry about it. In your world you can create 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4.3.1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7.6.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -13273,6 +13335,55 @@ Post type: product_variation
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[79]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+
+
+
+<!--
+
+SECTION
+Post type: sidebar
+
+-->
+	<item>
+		<title><![CDATA[Shop]]></title>
+		<link>https://themedemos.webmandesign.eu/eimear/?post_type=sidebar&amp;p=177</link>
+		<pubDate>Sun, 19 Jul 2020 13:48:02 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">http://themedemos.webmandesign.eu/eimear/?post_type=sidebar&amp;p=177</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>177</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-19 15:48:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-19 13:48:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-07-20 18:04:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-07-20 16:04:40]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[shop]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sidebar]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_ca_handle]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_ca_host]]></wp:meta_key>
+		<wp:meta_value><![CDATA[sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_ca_merge_pos]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 
