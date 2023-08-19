@@ -14,14 +14,14 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
-<!-- generator="WordPress/6.3" created="2023-08-10 12:53" -->
+<!-- generator="WordPress/6.3" created="2023-08-19 11:48" -->
 <rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
 
 <channel>
 	<title>Deborah</title>
 	<link>https://themedemos.webmandesign.eu/deborah</link>
 	<description>Inclusive Church</description>
-	<pubDate>Thu, 10 Aug 2023 12:53:04 +0000</pubDate>
+	<pubDate>Sat, 19 Aug 2023 11:48:30 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themedemos.webmandesign.eu/</wp:base_site_url>
@@ -201,13 +201,6 @@
 		<wp:term_name><![CDATA[Marriage, Family and Children]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>18</wp:term_id>
-		<wp:term_taxonomy><![CDATA[ctc_sermon_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[no-sidebar]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[No sidebar]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>5</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_person_group]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[no-sidebar]]></wp:term_slug>
@@ -217,6 +210,13 @@
 		<wp:term>
 		<wp:term_id>41</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ctc_event_category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[no-sidebar]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[No sidebar]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>18</wp:term_id>
+		<wp:term_taxonomy><![CDATA[ctc_sermon_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[no-sidebar]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[No sidebar]]></wp:term_name>
@@ -6976,12 +6976,12 @@ Post type: page
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:image {"align":"wide","id":192,"width":1400,"height":500,"scale":"cover","sizeSlug":"large","className":"has-no-margin-bottom is-style-abs-curved-top"} -->
-<figure class="wp-block-image alignwide size-large is-resized has-no-margin-bottom is-style-abs-curved-top"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_white-and-black-houses-with-brown-grass-with-overlooking-1245066-1360x765.jpg" alt="Don't forget to set alt text." class="wp-image-192" style="object-fit:cover;width:1400px;height:500px" width="1400" height="500"/></figure>
+<!-- wp:image {"align":"wide","id":192,"width":1400,"height":500,"scale":"cover","sizeSlug":"large","className":"has-no-margin-bottom is-style-abs-waves-top"} -->
+<figure class="wp-block-image alignwide size-large is-resized has-no-margin-bottom is-style-abs-waves-top"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_white-and-black-houses-with-brown-grass-with-overlooking-1245066-1360x765.jpg" alt="Don't forget to set alt text." class="wp-image-192" style="object-fit:cover;width:1400px;height:500px" width="1400" height="500"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:group {"align":"wide","backgroundColor":"palette-3","textColor":"palette-1","className":"is-style-abs-curved-bottom mb-0 mt-0"} -->
-<div class="wp-block-group alignwide is-style-abs-curved-bottom mb-0 mt-0 has-palette-1-color has-palette-3-background-color has-text-color has-background"><!-- wp:spacer {"height":"75px"} -->
+<!-- wp:group {"align":"wide","backgroundColor":"palette-3","textColor":"palette-1","className":"mb-0 mt-0 is-style-abs-waves-bottom"} -->
+<div class="wp-block-group alignwide mb-0 mt-0 is-style-abs-waves-bottom has-palette-1-color has-palette-3-background-color has-text-color has-background"><!-- wp:spacer {"height":"75px"} -->
 <div style="height:75px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -7011,8 +7011,8 @@ Post type: page
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":"75px"} -->
-<div style="height:75px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div>
 <!-- /wp:group -->
 
@@ -7070,9 +7070,9 @@ Post type: page
 <div style="height:130px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:group {"align":"full","backgroundColor":"palette-3","textColor":"palette-1","className":"has-no-padding-vertical is-style-abs-curved-top mt-0"} -->
-<div class="wp-block-group alignfull has-no-padding-vertical is-style-abs-curved-top mt-0 has-palette-1-color has-palette-3-background-color has-text-color has-background"><!-- wp:spacer {"height":"150px"} -->
-<div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:group {"align":"full","backgroundColor":"palette-3","textColor":"palette-1","className":"has-no-padding-vertical mt-0 is-style-abs-waves-top"} -->
+<div class="wp-block-group alignfull has-no-padding-vertical mt-0 is-style-abs-waves-top has-palette-1-color has-palette-3-background-color has-text-color has-background"><!-- wp:spacer {"height":"10vw"} -->
+<div style="height:10vw" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center"} -->
@@ -7101,8 +7101,8 @@ Post type: page
 		<wp:post_id>39</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-26 12:41:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-26 10:41:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-10 14:51:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-10 12:51:02]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-19 13:47:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-19 11:47:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-1]]></wp:post_name>
@@ -7480,8 +7480,8 @@ Post type: page
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:image {"align":"full","id":192,"width":2600,"height":900,"scale":"cover","sizeSlug":"full","className":"has-no-margin-bottom is-style-abs-curved-top"} -->
-<figure class="wp-block-image alignfull size-full is-resized has-no-margin-bottom is-style-abs-curved-top"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_white-and-black-houses-with-brown-grass-with-overlooking-1245066.jpg" alt="Don't forget to set alt text." class="wp-image-192" style="object-fit:cover;width:2600px;height:900px" width="2600" height="900"/></figure>
+<!-- wp:image {"align":"full","id":192,"width":2600,"height":900,"scale":"cover","sizeSlug":"full","className":"has-no-margin-bottom is-style-abs-waves-top"} -->
+<figure class="wp-block-image alignfull size-full is-resized has-no-margin-bottom is-style-abs-waves-top"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_white-and-black-houses-with-brown-grass-with-overlooking-1245066.jpg" alt="Don't forget to set alt text." class="wp-image-192" style="object-fit:cover;width:2600px;height:900px" width="2600" height="900"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"align":"full","backgroundColor":"palette-3","textColor":"palette-1","className":"has-no-padding mt-0"} -->
@@ -7513,8 +7513,8 @@ Post type: page
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-26 12:41:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-26 10:41:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-10 14:20:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-10 12:20:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-19 13:17:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-19 11:17:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery]]></wp:post_name>
@@ -8190,9 +8190,9 @@ Post type: page
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer mb-0"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:group {"align":"full","backgroundColor":"palette-3","textColor":"palette-1","className":"has-no-padding-vertical mt-0 is-style-abs-curved-top"} -->
-<div class="wp-block-group alignfull has-no-padding-vertical mt-0 is-style-abs-curved-top has-palette-1-color has-palette-3-background-color has-text-color has-background"><!-- wp:spacer {"height":"120px"} -->
-<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:group {"align":"full","backgroundColor":"palette-3","textColor":"palette-1","className":"has-no-padding-vertical mt-0 is-style-abs-waves-top"} -->
+<div class="wp-block-group alignfull has-no-padding-vertical mt-0 is-style-abs-waves-top has-palette-1-color has-palette-3-background-color has-text-color has-background"><!-- wp:spacer {"height":"10vw"} -->
+<div style="height:10vw" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center","textColor":"palette-1"} -->
@@ -8221,8 +8221,8 @@ Post type: page
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-26 12:42:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-26 10:42:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-10 14:49:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-10 12:49:21]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-19 13:47:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-19 11:47:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services]]></wp:post_name>
@@ -8894,9 +8894,9 @@ Post type: page
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:group {"align":"full","backgroundColor":"palette-3","className":"has-no-padding-vertical mt-0 is-style-abs-curved-top"} -->
-<div class="wp-block-group alignfull has-no-padding-vertical mt-0 is-style-abs-curved-top has-palette-3-background-color has-background"><!-- wp:spacer {"height":"150px"} -->
-<div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:group {"align":"full","backgroundColor":"palette-3","className":"has-no-padding-vertical mt-0 is-style-abs-waves-top"} -->
+<div class="wp-block-group alignfull has-no-padding-vertical mt-0 is-style-abs-waves-top has-palette-3-background-color has-background"><!-- wp:spacer {"height":"10vw"} -->
+<div style="height:10vw" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:columns {"align":"wide"} -->
@@ -8927,8 +8927,8 @@ Post type: page
 		<wp:post_id>135</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-27 19:42:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-27 17:42:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-10 14:00:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-10 12:00:29]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-19 13:47:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-19 11:47:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -10292,7 +10292,7 @@ Post type: post
 <p class="has-drop-cap has-large-font-size">This is your world. Just let these leaves jump off the brush The man who does the best job is the one who is happy at his job. Isn't that fantastic? You have to allow the paint to break to make it beautiful. Tree trunks grow however makes them happy.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":50} -->
+<!-- wp:spacer {"height":"50px"} -->
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -10300,11 +10300,11 @@ Post type: post
 <figure class="wp-block-image alignwide size-large has-no-margin-bottom"><img src="https://themedemos.webmandesign.eu/deborah/wp-content/uploads/sites/26/SAMPLE/_rod-long-TzgZrZQFVPc-unsplash-1360x765.jpg" alt="Don't forget to set alt text." class="wp-image-194"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:pullquote {"mainColor":"palette-3","textColor":"palette-1","align":"wide","className":"is-style-solid-color"} -->
-<figure class="wp-block-pullquote alignwide has-background has-palette-3-background-color is-style-solid-color"><blockquote class="has-text-color has-palette-1-color"><p>Go out on a limb - that's where the fruit is. And just raise cain. Clouds are free they come and go as they please. Let's put some happy little bushes on the other side now.</p><cite>Person Name</cite></blockquote></figure>
+<!-- wp:pullquote {"textAlign":"left","align":"wide","style":{"border":{"width":"0px","style":"none"}},"backgroundColor":"palette-3","textColor":"palette-1"} -->
+<figure class="wp-block-pullquote alignwide has-text-align-left has-palette-1-color has-palette-3-background-color has-text-color has-background" style="border-style:none;border-width:0px"><blockquote><p>Go out on a limb - that's where the fruit is. And just raise cain. Clouds are free they come and go as they please. Let's put some happy little bushes on the other side now.</p><cite>Person Name</cite></blockquote></figure>
 <!-- /wp:pullquote -->
 
-<!-- wp:spacer {"height":50} -->
+<!-- wp:spacer {"height":"50px"} -->
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -10313,7 +10313,7 @@ Post type: post
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>Change your perspective</h2>
+<h2 class="wp-block-heading">Change your perspective</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -10327,8 +10327,8 @@ Post type: post
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-13 23:16:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-13 21:16:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-06-29 15:26:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-06-29 13:26:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-19 13:13:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-19 11:13:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[post-5]]></wp:post_name>
@@ -10368,6 +10368,10 @@ Post type: post
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 	<item>
