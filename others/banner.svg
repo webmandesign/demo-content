@@ -212,8 +212,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.25"
-     inkscape:cx="345.6"
-     inkscape:cy="322.4"
+     inkscape:cx="284.8"
+     inkscape:cy="142.4"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -298,32 +298,32 @@
       <g
          id="g6"
          transform="matrix(0.97872622,0,0,0.97872622,17.213977,13.058835)"
-         style="fill:#0431d0;fill-opacity:1">
+         style="fill:#000000;fill-opacity:1">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.3912px;line-height:110%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0431d0;fill-opacity:1;stroke-width:2.79891;stroke-linejoin:round;stroke-miterlimit:2"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.3912px;line-height:110%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:2.79891;stroke-linejoin:round;stroke-miterlimit:2"
            x="20.247805"
            y="25.262278"
            id="text1"><tspan
              sodipodi:role="line"
              id="tspan1"
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';text-align:start;text-anchor:start;fill:#0431d0;fill-opacity:1;stroke-width:2.79891"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:2.79891"
              x="20.247805"
              y="25.262278"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#0431d0;fill-opacity:1"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#000000;fill-opacity:1"
                id="tspan17">%</tspan><tspan
-               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';fill:#0431d0;fill-opacity:1"
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';fill:#000000;fill-opacity:1"
                id="tspan16">OFF</tspan></tspan></text>
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.68715px;line-height:110%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0431d0;fill-opacity:1;stroke:none;stroke-width:1.1071;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.68715px;line-height:110%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1071;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none"
          x="38.861931"
          y="47.217976"
          id="text13"><tspan
            sodipodi:role="line"
            id="tspan13"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.68715px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';text-align:start;text-anchor:start;fill:#0431d0;fill-opacity:1;stroke-width:1.1071"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.68715px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:1.1071"
            x="38.861931"
            y="47.217976">Time limited introductory price</tspan></text>
       <g
@@ -360,7 +360,7 @@
        style="display:inline">
       <g
          id="g19"
-         style="mix-blend-mode:normal;filter:url(#filter35)">
+         style="mix-blend-mode:normal">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.2308px;line-height:110%;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:url(#pattern11);fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:2"
@@ -405,8 +405,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="colors"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="fill:#0431d0;fill-opacity:1;stroke:none;stroke-width:0.448789;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
        id="rect18"
@@ -422,6 +421,15 @@
        width="26.458334"
        height="26.458334"
        x="26.458334"
+       y="-52.916668"
+       rx="0"
+       ry="0" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.448789;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+       id="rect35"
+       width="26.458334"
+       height="26.458334"
+       x="-26.458332"
        y="-52.916668"
        rx="0"
        ry="0" />
