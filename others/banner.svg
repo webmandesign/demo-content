@@ -297,17 +297,17 @@
        inkscape:label="text">
       <g
          id="g6"
-         transform="matrix(0.97872622,0,0,0.97872622,17.213977,13.588002)"
+         transform="matrix(0.97872622,0,0,0.97872622,17.213977,13.058835)"
          style="fill:#0431d0;fill-opacity:1">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.3912px;line-height:110%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0431d0;stroke-width:2.79891;stroke-linejoin:round;stroke-miterlimit:2;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.3912px;line-height:110%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0431d0;fill-opacity:1;stroke-width:2.79891;stroke-linejoin:round;stroke-miterlimit:2"
            x="20.247805"
            y="25.262278"
            id="text1"><tspan
              sodipodi:role="line"
              id="tspan1"
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';text-align:start;text-anchor:start;stroke-width:2.79891;fill:#0431d0;fill-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';text-align:start;text-anchor:start;fill:#0431d0;fill-opacity:1;stroke-width:2.79891"
              x="20.247805"
              y="25.262278"><tspan
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#0431d0;fill-opacity:1"
@@ -317,15 +317,15 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.26042px;line-height:110%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0431d0;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none"
-         x="38.874641"
-         y="47.318199"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.68715px;line-height:110%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0431d0;fill-opacity:1;stroke:none;stroke-width:1.1071;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none"
+         x="38.861931"
+         y="47.217976"
          id="text13"><tspan
            sodipodi:role="line"
            id="tspan13"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.26042px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';text-align:start;text-anchor:start;fill:#0431d0;stroke-width:1.05833;fill-opacity:1"
-           x="38.874641"
-           y="47.318199">Time limited introductory price</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.68715px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';text-align:start;text-anchor:start;fill:#0431d0;fill-opacity:1;stroke-width:1.1071"
+           x="38.861931"
+           y="47.217976">Time limited introductory price</tspan></text>
       <g
          id="g15"
          transform="matrix(0.97872622,0,0,0.97872622,-120.26886,14.43652)">
@@ -389,7 +389,7 @@
              dx="0">2</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1709px;line-height:110%;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:3.27137;stroke-linejoin:round;stroke-miterlimit:2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1709px;line-height:110%;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:3.27137;stroke-linejoin:round;stroke-miterlimit:2;opacity:0.25"
            x="4.9325967"
            y="27.348377"
            id="text2"><tspan
