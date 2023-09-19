@@ -24,6 +24,30 @@
      id="defs2">
     <pattern
        inkscape:collect="always"
+       xlink:href="#pattern179"
+       preserveAspectRatio="xMidYMid"
+       id="pattern109"
+       patternTransform="matrix(1.0999998,0,0,-1.0999998,419.99992,-592.00037)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern178"
+       preserveAspectRatio="xMidYMid"
+       id="pattern108"
+       patternTransform="matrix(-1.0999998,0,0,1.0999998,-592.00037,-419.99992)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern177"
+       preserveAspectRatio="xMidYMid"
+       id="pattern107"
+       patternTransform="matrix(1.0999998,0,0,-1.0999998,-419.99992,592.00037)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern176"
+       preserveAspectRatio="xMidYMid"
+       id="pattern106"
+       patternTransform="matrix(-1.0999998,0,0,1.0999998,592.00037,419.99992)" />
+    <pattern
+       inkscape:collect="always"
        xlink:href="#pattern174"
        preserveAspectRatio="xMidYMid"
        id="pattern96"
@@ -685,9 +709,9 @@
      borderopacity="0.49019608"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="164.04877"
-     inkscape:cy="114.5513"
+     inkscape:zoom="1"
+     inkscape:cx="122"
+     inkscape:cy="101"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -879,14 +903,14 @@
          y="518" />
       <rect
          transform="rotate(14.999999)"
-         ry="15.000062"
-         rx="15.000062"
-         y="1.2089677"
-         x="59.766453"
-         height="103.47221"
-         width="103.47221"
+         ry="13.750055"
+         rx="13.750055"
+         y="13.714588"
+         x="52.814854"
+         height="94.849525"
+         width="94.849525"
          id="rect1608"
-         style="display:inline;fill:#fbce2f;fill-opacity:1;stroke:none;stroke-width:3.15001;stroke-linecap:round;stroke-linejoin:round"
+         style="display:inline;fill:#fbce2f;fill-opacity:1;stroke:none;stroke-width:3.15002;stroke-linecap:round;stroke-linejoin:round"
          inkscape:export-filename="banner-introductory-price-20-black.png"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
@@ -1777,56 +1801,56 @@
            sodipodi:arc-type="slice"
            d="M 83.999981,43.999504 A 39.999992,39.999992 0 0 1 43.999989,83.999496 V 43.999504 Z" />
         <path
-           style="fill:url(#pattern176);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+           style="fill:url(#pattern106);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
            id="path73-7"
            sodipodi:type="arc"
            sodipodi:cx="-83.999496"
-           sodipodi:cy="-127.99997"
+           sodipodi:cy="-117.99997"
            sodipodi:rx="39.999992"
            sodipodi:ry="39.999992"
            sodipodi:start="0"
            sodipodi:end="1.5707963"
            sodipodi:arc-type="slice"
-           d="m -43.999504,-127.99997 a 39.999992,39.999992 0 0 1 -39.999992,39.999993 v -39.999993 z"
+           d="m -43.999504,-117.99997 a 39.999992,39.999992 0 0 1 -39.999992,39.999993 v -39.999993 z"
            transform="matrix(0,-1,-1,0,0,0)" />
         <path
-           style="fill:url(#pattern177);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+           style="fill:url(#pattern107);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
            id="path74-4"
            sodipodi:type="arc"
-           sodipodi:cx="131.99997"
+           sodipodi:cx="121.99997"
            sodipodi:cy="-83.999496"
            sodipodi:rx="39.999992"
            sodipodi:ry="39.999992"
            sodipodi:start="0"
            sodipodi:end="1.5707963"
            sodipodi:arc-type="slice"
-           d="m 171.99996,-83.999496 a 39.999992,39.999992 0 0 1 -39.99999,39.999992 v -39.999992 z"
+           d="m 161.99996,-83.999496 a 39.999992,39.999992 0 0 1 -39.99999,39.999992 v -39.999992 z"
            transform="scale(1,-1)" />
         <path
-           style="fill:url(#pattern178);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+           style="fill:url(#pattern108);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
            id="path75-2"
            sodipodi:type="arc"
            sodipodi:cx="87.999496"
-           sodipodi:cy="131.99997"
+           sodipodi:cy="121.99997"
            sodipodi:rx="39.999992"
            sodipodi:ry="39.999992"
            sodipodi:start="0"
            sodipodi:end="1.5707963"
            sodipodi:arc-type="slice"
-           d="M 127.99949,131.99997 A 39.999992,39.999992 0 0 1 87.999496,171.99996 V 131.99997 Z"
+           d="M 127.99949,121.99997 A 39.999992,39.999992 0 0 1 87.999496,161.99996 V 121.99997 Z"
            transform="matrix(0,1,1,0,0,0)" />
         <path
-           style="fill:url(#pattern179);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+           style="fill:url(#pattern109);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
            id="path76-3"
            sodipodi:type="arc"
-           sodipodi:cx="-127.99997"
+           sodipodi:cx="-117.99997"
            sodipodi:cy="87.999496"
            sodipodi:rx="39.999992"
            sodipodi:ry="39.999992"
            sodipodi:start="0"
            sodipodi:end="1.5707963"
            sodipodi:arc-type="slice"
-           d="M -87.999977,87.999496 A 39.999992,39.999992 0 0 1 -127.99997,127.99949 V 87.999496 Z"
+           d="M -77.999977,87.999496 A 39.999992,39.999992 0 0 1 -117.99997,127.99949 V 87.999496 Z"
            transform="scale(-1,1)" />
         <path
            style="fill:url(#pattern96);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
@@ -2078,7 +2102,7 @@
        style="display:inline">
       <g
          id="g6"
-         transform="matrix(2.4686777,0,0,2.4686777,133.58551,20.987302)"
+         transform="matrix(2.4686777,0,0,2.4686777,123.58551,20.987302)"
          style="fill:#000000;fill-opacity:1;stroke-width:1.14217">
         <text
            xml:space="preserve"
@@ -2097,18 +2121,18 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15.695px;line-height:110%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.84818;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none"
-         x="184.5592"
+         x="174.5592"
          y="104.86202"
          id="text13"><tspan
            sodipodi:role="line"
            id="tspan13"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.695px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:1.84818"
-           x="184.5592"
+           x="174.5592"
            y="104.86202"
            dx="0 0 0 0 0 0 0 0 2.4005756">LIMITED DISCOUNTED</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.695px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:1.84818"
-           x="184.5592"
+           x="174.5592"
            y="122.12653"
            id="tspan10">INTRODUCTORY PRICE</tspan></text>
       <g
