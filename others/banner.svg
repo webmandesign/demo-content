@@ -22,6 +22,22 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient27"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop27" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.79215686;"
+         offset="0.05833632"
+         id="stop29" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop28" />
+    </linearGradient>
     <pattern
        inkscape:collect="always"
        xlink:href="#Wave"
@@ -264,6 +280,16 @@
          result="composite2"
          id="feComposite35" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient27"
+       id="linearGradient28"
+       x1="135.46666"
+       y1="-39.6875"
+       x2="135.46666"
+       y2="-29.104168"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.50000002,0,-19.843749)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -272,11 +298,11 @@
      borderopacity="0.49019608"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="327.74399"
-     inkscape:cy="106.06602"
+     inkscape:zoom="1.25"
+     inkscape:cx="612.4"
+     inkscape:cy="-57.6"
      inkscape:document-units="px"
-     inkscape:current-layer="g19"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -499,6 +525,23 @@
            x="38.861931"
            y="110.71796">Time limited introductory price</tspan></text>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="shadow">
+    <rect
+       style="opacity:0.1;fill:url(#linearGradient28);fill-opacity:1;stroke:none;stroke-width:0.328014;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+       id="rect27"
+       width="162.98334"
+       height="5.2916665"
+       x="68.791664"
+       y="-39.6875"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="shadow.png"
+       inkscape:export-xdpi="107.85696"
+       inkscape:export-ydpi="107.85696" />
   </g>
   <g
      inkscape:groupmode="layer"
