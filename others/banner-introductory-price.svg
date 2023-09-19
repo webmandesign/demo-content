@@ -27,25 +27,25 @@
        xlink:href="#pattern169"
        preserveAspectRatio="xMidYMid"
        id="pattern179"
-       patternTransform="matrix(1.0999998,0,0,1.0999998,419.99992,592.00037)" />
+       patternTransform="matrix(1.0999998,0,0,-1.0999998,419.99992,-592.00037)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern169"
        preserveAspectRatio="xMidYMid"
        id="pattern178"
-       patternTransform="matrix(1.0999998,0,0,1.0999998,592.00037,-419.99992)" />
+       patternTransform="matrix(-1.0999998,0,0,1.0999998,-592.00037,-419.99992)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern169"
        preserveAspectRatio="xMidYMid"
        id="pattern177"
-       patternTransform="matrix(1.0999998,0,0,1.0999998,-419.99992,-592.00037)" />
+       patternTransform="matrix(1.0999998,0,0,-1.0999998,-419.99992,592.00037)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern169"
        preserveAspectRatio="xMidYMid"
        id="pattern176"
-       patternTransform="matrix(1.0999998,0,0,1.0999998,-592.00037,419.99992)" />
+       patternTransform="matrix(-1.0999998,0,0,1.0999998,592.00037,419.99992)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern169"
@@ -63,7 +63,9 @@
        xlink:href="#pattern169"
        preserveAspectRatio="xMidYMid"
        id="pattern173"
-       patternTransform="matrix(1.0999998,0,0,1.0999998,419.99992,592.00037)" />
+       patternTransform="matrix(0,1.0999998,-1.0999998,0,0,0)"
+       x="0"
+       y="0" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern169"
@@ -81,7 +83,9 @@
        xlink:href="#pattern169"
        preserveAspectRatio="xMidYMid"
        id="pattern170"
-       patternTransform="matrix(1.0999998,0,0,1.0999998,-419.99992,-592.00037)" />
+       patternTransform="matrix(0,1.0999998,-1.0999998,0,0,0)"
+       x="0"
+       y="0" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern158"
@@ -1601,53 +1605,54 @@
            style="fill:url(#pattern176);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
            id="path73-7"
            sodipodi:type="arc"
-           sodipodi:cx="87.999496"
+           sodipodi:cx="-83.999496"
            sodipodi:cy="-127.99997"
            sodipodi:rx="39.999992"
            sodipodi:ry="39.999992"
            sodipodi:start="0"
            sodipodi:end="1.5707963"
            sodipodi:arc-type="slice"
-           d="M 127.99949,-127.99997 A 39.999992,39.999992 0 0 1 87.999496,-87.999977 V -127.99997 Z"
-           transform="rotate(90)" />
+           d="m -43.999504,-127.99997 a 39.999992,39.999992 0 0 1 -39.999992,39.999993 v -39.999993 z"
+           transform="matrix(0,-1,-1,0,0,0)" />
         <path
            style="fill:url(#pattern177);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
            id="path74-4"
            sodipodi:type="arc"
            sodipodi:cx="131.99997"
-           sodipodi:cy="87.999496"
-           sodipodi:rx="39.999992"
-           sodipodi:ry="39.999992"
-           sodipodi:start="0"
-           sodipodi:end="1.5707963"
-           sodipodi:arc-type="slice"
-           d="M 171.99996,87.999496 A 39.999992,39.999992 0 0 1 131.99997,127.99949 V 87.999496 Z" />
-        <path
-           style="fill:url(#pattern178);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
-           id="path75-2"
-           sodipodi:type="arc"
-           sodipodi:cx="-83.999496"
-           sodipodi:cy="131.99997"
-           sodipodi:rx="39.999992"
-           sodipodi:ry="39.999992"
-           sodipodi:start="0"
-           sodipodi:end="1.5707963"
-           sodipodi:arc-type="slice"
-           d="m -43.999504,131.99997 a 39.999992,39.999992 0 0 1 -39.999992,39.99999 v -39.99999 z"
-           transform="rotate(-90)" />
-        <path
-           style="fill:url(#pattern179);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
-           id="path76-3"
-           sodipodi:type="arc"
-           sodipodi:cx="-127.99997"
            sodipodi:cy="-83.999496"
            sodipodi:rx="39.999992"
            sodipodi:ry="39.999992"
            sodipodi:start="0"
            sodipodi:end="1.5707963"
            sodipodi:arc-type="slice"
-           d="m -87.999977,-83.999496 a 39.999992,39.999992 0 0 1 -39.999993,39.999992 v -39.999992 z"
-           transform="scale(-1)" />
+           d="m 171.99996,-83.999496 a 39.999992,39.999992 0 0 1 -39.99999,39.999992 v -39.999992 z"
+           transform="scale(1,-1)" />
+        <path
+           style="fill:url(#pattern178);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+           id="path75-2"
+           sodipodi:type="arc"
+           sodipodi:cx="87.999496"
+           sodipodi:cy="131.99997"
+           sodipodi:rx="39.999992"
+           sodipodi:ry="39.999992"
+           sodipodi:start="0"
+           sodipodi:end="1.5707963"
+           sodipodi:arc-type="slice"
+           d="M 127.99949,131.99997 A 39.999992,39.999992 0 0 1 87.999496,171.99996 V 131.99997 Z"
+           transform="matrix(0,1,1,0,0,0)" />
+        <path
+           style="fill:url(#pattern179);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+           id="path76-3"
+           sodipodi:type="arc"
+           sodipodi:cx="-127.99997"
+           sodipodi:cy="87.999496"
+           sodipodi:rx="39.999992"
+           sodipodi:ry="39.999992"
+           sodipodi:start="0"
+           sodipodi:end="1.5707963"
+           sodipodi:arc-type="slice"
+           d="M -87.999977,87.999496 A 39.999992,39.999992 0 0 1 -127.99997,127.99949 V 87.999496 Z"
+           transform="scale(-1,1)" />
       </g>
     </g>
     <g
