@@ -24,6 +24,14 @@
      id="defs2">
     <pattern
        inkscape:collect="always"
+       xlink:href="#pattern87-8"
+       preserveAspectRatio="xMidYMid"
+       id="pattern3"
+       patternTransform="matrix(0.8485281,-0.8485281,0.8485281,0.8485281,0,0)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
        xlink:href="#pattern179"
        preserveAspectRatio="xMidYMid"
        id="pattern109"
@@ -316,22 +324,6 @@
            id="path87" />
       </g>
     </pattern>
-    <linearGradient
-       id="linearGradient27"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop27" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0.79215686;"
-         offset="0.05833632"
-         id="stop29" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop28" />
-    </linearGradient>
     <pattern
        inkscape:collect="always"
        xlink:href="#Wave"
@@ -408,16 +400,6 @@
          style="font-variation-settings:'wght' 700;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.657704;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none"
          d="M 14.555657,0.20633887 V 42.167718 H 38.956535 V 0.20633887 Z M 25.796677,10.530812 c 1.094251,0 1.998102,0.18545 2.711744,0.556544 0.723157,0.361578 1.260724,0.913633 1.612787,1.655821 0.361579,0.732672 0.542413,1.655626 0.542413,2.768907 v 0.271046 c 0,0.761218 -0.166668,1.636736 -0.499701,2.62632 -0.333033,0.989583 -0.83733,2.121705 -1.512911,3.396745 l -3.296869,6.208686 h 5.280899 v 3.482811 h -9.5913 v -3.240027 l 4.181943,-7.27906 c 0.628005,-1.084735 1.089482,-2.060061 1.384454,-2.925947 0.304487,-0.865885 0.456667,-1.627108 0.456667,-2.283658 v -0.271367 c 0,-0.504307 -0.09981,-0.875206 -0.299628,-1.113087 -0.190304,-0.247396 -0.49005,-0.371243 -0.899204,-0.371243 -0.466246,0 -0.808812,0.15218 -1.027663,0.456668 -0.209335,0.304487 -0.314079,0.780451 -0.314079,1.427487 v 0.742165 h -3.596818 v -0.742165 c 0,-1.208434 0.176219,-2.207799 0.528283,-2.997563 0.361578,-0.789763 0.899145,-1.379703 1.612787,-1.769827 0.723157,-0.399639 1.631945,-0.599256 2.726196,-0.599256 z" />
     </clipPath>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient27"
-       id="linearGradient28"
-       x1="135.46666"
-       y1="-39.6875"
-       x2="135.46666"
-       y2="-29.104168"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.7795275,0,0,1.8897638,480.00002,175.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern98-7"
@@ -709,11 +691,11 @@
      borderopacity="0.49019608"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="122"
-     inkscape:cy="101"
+     inkscape:zoom="1.25"
+     inkscape:cx="1008"
+     inkscape:cy="189.6"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -2236,17 +2218,17 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="shadow">
+     inkscape:label="hr">
     <rect
-       style="opacity:0.1;fill:url(#linearGradient28);fill-opacity:1;stroke:none;stroke-width:1.23974;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+       style="opacity:0.25;fill:url(#pattern3);fill-opacity:1;stroke:none;stroke-width:0.876631;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
        id="rect27"
        width="616"
-       height="19.999998"
+       height="10"
        x="740"
        y="100"
        rx="0"
        ry="0"
-       inkscape:export-filename="shadow.png"
+       inkscape:export-filename="hr.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
   </g>
