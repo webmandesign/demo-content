@@ -154,3 +154,15 @@ nav {
 	}
 
 }
+
+.link-small {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	padding: 2px 8px;
+	font-size: 10px;
+	text-decoration: none;
+	background: #000;
+	color: inherit;
+	opacity: .5;
+}
