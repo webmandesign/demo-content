@@ -7,7 +7,7 @@
    viewBox="0 0 436 140"
    version="1.1"
    id="svg8"
-   inkscape:version="1.3-beta (cedbd6c6ff, 2023-05-28)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="banner-introductory-price.svg"
    inkscape:export-filename="banner-introductory-price-20-black.png"
    inkscape:export-xdpi="107.85696"
@@ -17,9 +17,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <defs
      id="defs2">
     <pattern
@@ -683,6 +681,590 @@
          k2="1"
          result="composite2" />
     </filter>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern106-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern79-9"
+       patternTransform="matrix(-1.0999998,0,0,1.0999998,592.00037,869.99992)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern176-0"
+       preserveAspectRatio="xMidYMid"
+       id="pattern106-6"
+       patternTransform="matrix(-1.0999998,0,0,1.0999998,592.00037,419.99992)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern169-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern176-0"
+       patternTransform="matrix(-1.0999998,0,0,1.0999998,592.00037,419.99992)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern158-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern169-5"
+       patternTransform="scale(0.55)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern147-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern158-9"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,210,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern126-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern147-9"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,200,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern34-1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern126-6"
+       patternTransform="matrix(0.5,0,0,0.5,190,342.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern98-7-4"
+       preserveAspectRatio="xMidYMid"
+       id="pattern34-1"
+       patternTransform="matrix(0.5,0,0,0.5,210,296.00024)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern87-8-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern98-7-4"
+       patternTransform="scale(0.5)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="24"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       id="pattern87-8-9"
+       style="fill:#000000"
+       x="0"
+       y="0"
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       inkscape:label="Wave">
+      <g
+         id="g87-9-0"
+         style="display:inline">
+        <path
+           d="M 12,-2 C 9.1666695,-2 7.1679672,-0.56445187 5.4179687,0.68554687 3.6679703,1.9355456 2.1666645,3 0,3 V 5 C 2.8333305,5 4.8320328,3.5644519 6.5820312,2.3144531 8.3320297,1.0644544 9.8333355,0 12,0 14.166665,0 15.667971,1.0644544 17.417969,2.3144531 19.167967,3.5644519 21.166669,5 24,5 V 3 C 21.833335,3 20.332029,1.9355456 18.582031,0.68554687 16.832033,-0.56445189 14.833331,-2 12,-2 Z"
+           id="path85-4-0" />
+        <path
+           d="M 12,3 C 9.1666695,3 7.1679672,4.4355481 5.4179687,5.6855469 3.6679703,6.9355456 2.1666645,8 0,8 v 2 C 2.8333305,10 4.8320328,8.5644519 6.5820312,7.3144531 8.3320297,6.0644544 9.8333355,5 12,5 14.166665,5 15.667971,6.0644544 17.417969,7.3144531 19.167967,8.5644519 21.166669,10 24,10 V 8 C 21.833335,8 20.332029,6.9355456 18.582031,5.6855469 16.832033,4.4355481 14.833331,3 12,3 Z"
+           id="path86-5-6" />
+        <path
+           d="M 12,8 C 9.1666695,8 7.1679672,9.4355481 5.4179687,10.685547 3.6679703,11.935546 2.1666645,13 0,13 v 2 C 2.8333305,15 4.8320328,13.564452 6.5820312,12.314453 8.3320297,11.064454 9.8333355,10 12,10 c 2.166665,0 3.667971,1.064454 5.417969,2.314453 C 19.167967,13.564452 21.166669,15 24,15 V 13 C 21.833335,13 20.332029,11.935546 18.582031,10.685547 16.832033,9.4355481 14.833331,8 12,8 Z"
+           id="path87-9-0" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern107-3"
+       preserveAspectRatio="xMidYMid"
+       id="pattern80-1"
+       patternTransform="matrix(1.0999998,0,0,-1.0999998,-869.99992,592.00037)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern177-0"
+       preserveAspectRatio="xMidYMid"
+       id="pattern107-3"
+       patternTransform="matrix(1.0999998,0,0,-1.0999998,-419.99992,592.00037)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern169-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern177-0"
+       patternTransform="matrix(1.0999998,0,0,-1.0999998,-419.99992,592.00037)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern158-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern1-5"
+       patternTransform="scale(0.55)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern147-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,210,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern126-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern3-7"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,200,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern34-1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern4-1"
+       patternTransform="matrix(0.5,0,0,0.5,190,342.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern98-7-4"
+       preserveAspectRatio="xMidYMid"
+       id="pattern5"
+       patternTransform="matrix(0.5,0,0,0.5,210,296.00024)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern87-8-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6"
+       patternTransform="scale(0.5)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern108-0"
+       preserveAspectRatio="xMidYMid"
+       id="pattern81-3"
+       patternTransform="matrix(-1.0999998,0,0,1.0999998,-592.00037,-869.99992)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern178-3"
+       preserveAspectRatio="xMidYMid"
+       id="pattern108-0"
+       patternTransform="matrix(-1.0999998,0,0,1.0999998,-592.00037,-419.99992)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern169-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern178-3"
+       patternTransform="matrix(-1.0999998,0,0,1.0999998,-592.00037,-419.99992)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern158-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern9"
+       patternTransform="scale(0.55)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern147-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern10-1"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,210,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern126-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern11"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,200,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern34-1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern12"
+       patternTransform="matrix(0.5,0,0,0.5,190,342.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern98-7-4"
+       preserveAspectRatio="xMidYMid"
+       id="pattern13-5"
+       patternTransform="matrix(0.5,0,0,0.5,210,296.00024)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern87-8-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern14"
+       patternTransform="scale(0.5)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern109-7"
+       preserveAspectRatio="xMidYMid"
+       id="pattern82-2"
+       patternTransform="matrix(1.0999998,0,0,-1.0999998,869.99992,-592.00037)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern179-1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern109-7"
+       patternTransform="matrix(1.0999998,0,0,-1.0999998,419.99992,-592.00037)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern169-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern179-1"
+       patternTransform="matrix(1.0999998,0,0,-1.0999998,419.99992,-592.00037)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern158-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern17"
+       patternTransform="scale(0.55)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern147-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern18"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,210,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern126-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern19-6"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,200,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern34-1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern20"
+       patternTransform="matrix(0.5,0,0,0.5,190,342.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern98-7-4"
+       preserveAspectRatio="xMidYMid"
+       id="pattern21"
+       patternTransform="matrix(0.5,0,0,0.5,210,296.00024)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern87-8-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern22-6"
+       patternTransform="scale(0.5)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern172-4"
+       preserveAspectRatio="xMidYMid"
+       id="pattern89-0"
+       patternTransform="matrix(1.0999998,0,0,1.0999998,-859.99992,-592.00037)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern169-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern172-4"
+       patternTransform="matrix(1.0999998,0,0,1.0999998,-419.99992,-592.00037)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern158-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern25-5"
+       patternTransform="scale(0.55)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern147-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern26-2"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,210,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern126-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern27-2"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,200,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern34-1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern28-7"
+       patternTransform="matrix(0.5,0,0,0.5,190,342.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern98-7-4"
+       preserveAspectRatio="xMidYMid"
+       id="pattern29"
+       patternTransform="matrix(0.5,0,0,0.5,210,296.00024)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern87-8-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern30"
+       patternTransform="scale(0.5)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern173-4"
+       preserveAspectRatio="xMidYMid"
+       id="pattern90-9"
+       patternTransform="matrix(0,-1.0999998,-1.0999998,0,440.00001,-3.4461726e-6)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern169-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern173-4"
+       patternTransform="matrix(0,1.0999998,-1.0999998,0,0,0)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern158-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern33-8"
+       patternTransform="scale(0.55)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern147-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern34-9"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,210,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern126-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern35"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,200,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern34-1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern36"
+       patternTransform="matrix(0.5,0,0,0.5,190,342.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern98-7-4"
+       preserveAspectRatio="xMidYMid"
+       id="pattern37"
+       patternTransform="matrix(0.5,0,0,0.5,210,296.00024)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern87-8-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern38"
+       patternTransform="scale(0.5)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern174-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern91-0"
+       patternTransform="matrix(0,-1.0999998,1.0999998,0,-859.99992,-592.00037)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern169-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern174-9"
+       patternTransform="matrix(1.0999998,0,0,1.0999998,592.00037,-419.99992)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern158-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern41"
+       patternTransform="scale(0.55)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern147-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern42"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,210,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern126-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern43"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,200,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern34-1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern44"
+       patternTransform="matrix(0.5,0,0,0.5,190,342.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern98-7-4"
+       preserveAspectRatio="xMidYMid"
+       id="pattern45"
+       patternTransform="matrix(0.5,0,0,0.5,210,296.00024)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern87-8-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern46"
+       patternTransform="scale(0.5)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern175-3"
+       preserveAspectRatio="xMidYMid"
+       id="pattern92-8"
+       patternTransform="matrix(0,1.0999998,-1.0999998,0,592.00037,-859.99993)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern169-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern175-3"
+       patternTransform="matrix(1.0999998,0,0,1.0999998,-419.99992,-592.00037)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern158-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern49"
+       patternTransform="scale(0.55)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern147-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern50-7"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,210,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern126-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern51"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,200,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern34-1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern52"
+       patternTransform="matrix(0.5,0,0,0.5,190,342.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern98-7-4"
+       preserveAspectRatio="xMidYMid"
+       id="pattern53"
+       patternTransform="matrix(0.5,0,0,0.5,210,296.00024)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern87-8-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern54"
+       patternTransform="scale(0.5)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern96-7"
+       preserveAspectRatio="xMidYMid"
+       id="pattern93-4"
+       patternTransform="matrix(0,-1.0999998,1.0999998,0,-859.99992,-592.00037)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern174-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern96-7"
+       patternTransform="matrix(1.0999998,0,0,1.0999998,592.00037,-419.99992)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern169-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern57"
+       patternTransform="matrix(1.0999998,0,0,1.0999998,592.00037,-419.99992)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern158-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern58"
+       patternTransform="scale(0.55)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern147-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern59"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,210,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern126-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern60"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,200,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern34-1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern61-3"
+       patternTransform="matrix(0.5,0,0,0.5,190,342.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern98-7-4"
+       preserveAspectRatio="xMidYMid"
+       id="pattern62"
+       patternTransform="matrix(0.5,0,0,0.5,210,296.00024)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern87-8-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern63"
+       patternTransform="scale(0.5)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern88-3"
+       preserveAspectRatio="xMidYMid"
+       id="pattern94-5"
+       patternTransform="matrix(1.0999998,0,0,1.0999998,-859.99992,-592.00037)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern171-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern88-3"
+       patternTransform="matrix(1.0999998,0,0,1.0999998,-419.99992,-432.00037)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern169-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern171-5"
+       patternTransform="matrix(1.0999998,0,0,1.0999998,-419.99992,-592.00037)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern158-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern66"
+       patternTransform="scale(0.55)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern147-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern67"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,210,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern126-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern68"
+       patternTransform="matrix(0.25000004,0,0,0.25000004,200,319.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern34-1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern69"
+       patternTransform="matrix(0.5,0,0,0.5,190,342.00025)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern98-7-4"
+       preserveAspectRatio="xMidYMid"
+       id="pattern70"
+       patternTransform="matrix(0.5,0,0,0.5,210,296.00024)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern87-8-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern71"
+       patternTransform="scale(0.5)"
+       x="0"
+       y="0" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -692,10 +1274,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.25"
-     inkscape:cx="1008"
-     inkscape:cy="189.6"
+     inkscape:cx="363.2"
+     inkscape:cy="141.6"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -724,25 +1306,7 @@
   </sodipodi:namedview>
   <metadata
      id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <cc:license
-           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-      </cc:License>
-    </rdf:RDF>
+    <rdf:RDF />
   </metadata>
   <g
      inkscape:groupmode="layer"
@@ -2076,6 +2640,188 @@
            d="M -87.999977,87.999496 A 39.999992,39.999992 0 0 1 -127.99997,127.99949 V 87.999496 Z"
            transform="scale(-1,1)" />
       </g>
+      <g
+         id="g94"
+         style="display:inline"
+         transform="translate(440)"
+         inkscape:export-filename="banner-introductory-price-50-black.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <rect
+           transform="rotate(14.999999)"
+           ry="13.750055"
+           rx="13.750055"
+           y="13.19695"
+           x="54.746704"
+           height="94.849525"
+           width="94.849525"
+           id="rect1608-1"
+           style="display:inline;fill:#fbce2f;fill-opacity:1;stroke:none;stroke-width:3.15002;stroke-linecap:round;stroke-linejoin:round"
+           inkscape:export-filename="banner-introductory-price-20-black.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g179-9"
+           style="display:inline">
+          <g
+             id="g79-9"
+             transform="translate(10)">
+            <path
+               style="fill:url(#pattern79-9);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+               id="path73-7-8"
+               sodipodi:type="arc"
+               sodipodi:cx="-83.999496"
+               sodipodi:cy="-117.99997"
+               sodipodi:rx="39.999992"
+               sodipodi:ry="39.999992"
+               sodipodi:start="0"
+               sodipodi:end="1.5707963"
+               sodipodi:arc-type="slice"
+               d="m -43.999504,-117.99997 a 39.999992,39.999992 0 0 1 -39.999992,39.999993 v -39.999993 z"
+               transform="matrix(0,-1,-1,0,0,0)" />
+            <path
+               style="fill:url(#pattern80-1);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+               id="path74-4-0"
+               sodipodi:type="arc"
+               sodipodi:cx="121.99997"
+               sodipodi:cy="-83.999496"
+               sodipodi:rx="39.999992"
+               sodipodi:ry="39.999992"
+               sodipodi:start="0"
+               sodipodi:end="1.5707963"
+               sodipodi:arc-type="slice"
+               d="m 161.99996,-83.999496 a 39.999992,39.999992 0 0 1 -39.99999,39.999992 v -39.999992 z"
+               transform="scale(1,-1)" />
+            <path
+               style="fill:url(#pattern81-3);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+               id="path75-2-5"
+               sodipodi:type="arc"
+               sodipodi:cx="87.999496"
+               sodipodi:cy="121.99997"
+               sodipodi:rx="39.999992"
+               sodipodi:ry="39.999992"
+               sodipodi:start="0"
+               sodipodi:end="1.5707963"
+               sodipodi:arc-type="slice"
+               d="M 127.99949,121.99997 A 39.999992,39.999992 0 0 1 87.999496,161.99996 V 121.99997 Z"
+               transform="matrix(0,1,1,0,0,0)" />
+            <path
+               style="fill:url(#pattern82-2);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+               id="path76-3-9"
+               sodipodi:type="arc"
+               sodipodi:cx="-117.99997"
+               sodipodi:cy="87.999496"
+               sodipodi:rx="39.999992"
+               sodipodi:ry="39.999992"
+               sodipodi:start="0"
+               sodipodi:end="1.5707963"
+               sodipodi:arc-type="slice"
+               d="M -77.999977,87.999496 A 39.999992,39.999992 0 0 1 -117.99997,127.99949 V 87.999496 Z"
+               transform="scale(-1,1)" />
+          </g>
+          <g
+             id="g88-0">
+            <circle
+               style="fill:url(#pattern89-0);fill-opacity:1;stroke-width:1.30108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+               id="circle82-8"
+               cx="19.999992"
+               cy="108"
+               r="19.999996" />
+            <path
+               style="fill:url(#pattern90-9);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+               id="path82-9"
+               sodipodi:type="arc"
+               sodipodi:cx="-39.999989"
+               sodipodi:cy="43.999504"
+               sodipodi:rx="39.999992"
+               sodipodi:ry="39.999992"
+               sodipodi:start="0"
+               sodipodi:end="1.5707963"
+               sodipodi:arc-type="slice"
+               d="M 3.8146973e-6,43.999504 A 39.999992,39.999992 0 0 1 -39.999989,83.999496 V 43.999504 Z"
+               transform="scale(-1,1)" />
+            <path
+               style="fill:url(#pattern91-0);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+               id="path83-6"
+               sodipodi:type="arc"
+               sodipodi:cx="43.999989"
+               sodipodi:cy="0"
+               sodipodi:rx="39.999992"
+               sodipodi:ry="39.999992"
+               sodipodi:start="0"
+               sodipodi:end="1.5707963"
+               sodipodi:arc-type="slice"
+               d="M 83.999981,0 A 39.999992,39.999992 0 0 1 43.999989,39.999992 V 0 Z" />
+            <path
+               style="fill:url(#pattern92-8);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+               id="path84-8"
+               sodipodi:type="arc"
+               sodipodi:cx="-83.993149"
+               sodipodi:cy="44.145279"
+               sodipodi:rx="39.999992"
+               sodipodi:ry="39.999992"
+               sodipodi:start="0"
+               sodipodi:end="1.5707963"
+               sodipodi:arc-type="slice"
+               d="M -43.993156,44.145279 A 39.999992,39.999992 0 0 1 -83.993149,84.145271 V 44.145279 Z"
+               transform="rotate(-90)" />
+            <path
+               style="fill:url(#pattern93-4);fill-opacity:1;stroke-width:2.60216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+               id="path88-3"
+               sodipodi:type="arc"
+               sodipodi:cx="43.999989"
+               sodipodi:cy="88.000008"
+               sodipodi:rx="39.999992"
+               sodipodi:ry="39.999992"
+               sodipodi:start="0"
+               sodipodi:end="1.5707963"
+               sodipodi:arc-type="slice"
+               d="M 83.999981,88.000008 A 39.999992,39.999992 0 0 1 43.999989,128 V 88.000008 Z" />
+            <rect
+               style="fill:url(#pattern94-5);fill-opacity:1;stroke-width:1.42826;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2"
+               id="rect93-3"
+               width="39.999992"
+               height="40.000504"
+               x="-4e-06"
+               y="0" />
+          </g>
+        </g>
+        <g
+           id="g6-0"
+           transform="matrix(2.4686777,0,0,2.4686777,131.58551,20.987302)"
+           style="display:inline;fill:#000000;fill-opacity:1;stroke-width:1.14217">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.3912px;line-height:110%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:3.19684;stroke-linejoin:round;stroke-miterlimit:2"
+             x="20.247805"
+             y="25.262278"
+             id="text1-2"><tspan
+               sodipodi:role="line"
+               id="tspan1-1"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:3.19684"
+               x="20.247805"
+               y="25.262278">% <tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';stroke-width:3.19684"
+   id="tspan9-1">OFF</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15.695px;line-height:110%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.84818;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none"
+           x="182.5592"
+           y="104.86202"
+           id="text13-7"><tspan
+             sodipodi:role="line"
+             id="tspan13-2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.695px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:1.84818"
+             x="182.5592"
+             y="104.86202"
+             dx="0 0 0 0 0 0 0 0 2.4005756">LIMITED DISCOUNTED</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.695px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:1.84818"
+             x="182.5592"
+             y="122.12653"
+             id="tspan10-5">INTRODUCTORY PRICE</tspan></text>
+      </g>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -2224,7 +2970,7 @@
        id="rect27"
        width="616"
        height="10"
-       x="740"
+       x="1000"
        y="100"
        rx="0"
        ry="0"
@@ -2236,7 +2982,7 @@
        id="rect3"
        width="616"
        height="2"
-       x="740"
+       x="1000"
        y="140"
        rx="0"
        ry="0"
@@ -2254,7 +3000,7 @@
        id="rect18"
        width="100"
        height="100"
-       x="840"
+       x="1100"
        y="-20"
        rx="0"
        ry="0" />
@@ -2263,7 +3009,7 @@
        id="rect19"
        width="100"
        height="100"
-       x="940"
+       x="1200"
        y="-20"
        rx="0"
        ry="0" />
@@ -2272,7 +3018,7 @@
        id="rect35"
        width="100"
        height="100"
-       x="740"
+       x="1000"
        y="-20"
        rx="0"
        ry="0" />
