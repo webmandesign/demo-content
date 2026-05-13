@@ -12,7 +12,7 @@ You are browsing a repository for main demo content XML files of [**Icelander** 
     * [**WooCommerce**](https://wordpress.org/plugins/woocommerce/) - provides e-commerce functionality (if you run the plugin Setup Wizard beforehand, make sure to **skip the step when WooCommerce pages are created**, as these will be imported with demo content),
     * [**WooSidebars**](https://wordpress.org/plugins/woosidebars/) - provides custom sidebars and widget areas functionality, allows you to disable sidebar on any page.
     * [**Classic Widgets**](https://wordpress.org/plugins/classic-widgets/) - Restores the previous WordPress widgets settings screens. Sidebars and widgets are not going to be used in fully block themes in the future, so if your website still uses sidebars, it is better to use this plugin to enable classic user interface.
-3. **Optional plugins**: If you want to match your website exactly to [theme demo website](http://themedemos.webmandesign.eu/icelander/), please install also these plugins: 
+3. **Optional plugins**: If you want to match your website exactly to [theme demo website](http://wmdemo.eu/icelander/), please install also these plugins: 
     * [*WP Subtitle*](https://wordpress.org/plugins/wp-subtitle/) - to display page/post subtitles used in the demo content,
     * [*WooCommerce Cart Tab*](https://github.com/jameskoster/woocommerce-cart-tab/releases) - adds a sitewide tab cart with a link to the checkout (you can also use alternative approach such as [*Menu Cart for WooCommerce*](https://wordpress.org/plugins/woocommerce-menu-bar-cart/) plugin),
     * [*Widget CSS Classes*](https://wordpress.org/plugins/widget-css-classes/) - allows applying layout CSS classes on theme demo [widgets](https://github.com/webmandesign/demo-content/tree/master/icelander/widgets),
@@ -47,7 +47,7 @@ Also, do not forget to enable the demo content [required plugins](#before-you-be
     * Set "Secondary" menu for "Secondary" location
     * Set "Footer" menu for "Footer" location
     * Set "Social links" menu for "Social Links" location
-5. If you would like to set up widgets the way they are displayed on the [theme demo website](http://themedemos.webmandesign.eu/icelander/), use a procedure under [`widgets` subfolder](https://github.com/webmandesign/demo-content/tree/master/icelander/widgets)
+5. If you would like to set up widgets the way they are displayed on the [theme demo website](http://wmdemo.eu/icelander/), use a procedure under [`widgets` subfolder](https://github.com/webmandesign/demo-content/tree/master/icelander/widgets)
 
 
 ## Important notes

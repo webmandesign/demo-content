@@ -12,7 +12,7 @@ You are browsing a repository for main demo content XML files of [**Monument Val
     * [**WooCommerce**](https://wordpress.org/plugins/woocommerce/) - provides e-commerce functionality
     * [**WooSidebars**](https://wordpress.org/plugins/woosidebars/) - provides custom sidebars and widget areas functionality, allows you to disable sidebar on any page
     * [**Classic Widgets**](https://wordpress.org/plugins/classic-widgets/) - Restores the previous WordPress widgets settings screens. Sidebars and widgets are not going to be used in fully block themes in the future, so if your website still uses sidebars, it is better to use this plugin to enable classic user interface.
-3. **Optional plugins**: If you want to match your website exactly to [theme demo website](http://themedemos.webmandesign.eu/monument-valley/), please install also these plugins: 
+3. **Optional plugins**: If you want to match your website exactly to [theme demo website](http://wmdemo.eu/monument-valley/), please install also these plugins: 
     * [*WP Subtitle*](https://wordpress.org/plugins/wp-subtitle/) - to display page/post subtitles used in the demo content
     * [*Widget CSS Classes*](https://wordpress.org/plugins/widget-css-classes/) - allows applying layout CSS classes on theme demo [widgets](https://github.com/webmandesign/demo-content/tree/master/monument-valley/widgets)
     * [*Jetpack*](https://wordpress.org/plugins/jetpack/) - demo content includes [tiled galleries](https://jetpack.me/support/tiled-galleries/) which are feature of this plugin ([how to install Jetpack?](https://jetpack.com/support/installing-jetpack/))
@@ -45,7 +45,7 @@ Also, do not forget to enable the demo content [required plugins](#before-you-be
     * Set "Primary" menu for "Primary" location
     * Set "Footer" menu for "Footer" location
     * Set "Social" menu for "Social Links" location
-5. If you would like to set up widgets the way they are displayed on the [theme demo website](http://themedemos.webmandesign.eu/monument-valley/), use a procedure under [`widgets` subfolder](https://github.com/webmandesign/demo-content/tree/master/monument-valley/widgets)
+5. If you would like to set up widgets the way they are displayed on the [theme demo website](http://wmdemo.eu/monument-valley/), use a procedure under [`widgets` subfolder](https://github.com/webmandesign/demo-content/tree/master/monument-valley/widgets)
 
 
 ## Important notes

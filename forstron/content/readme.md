@@ -10,7 +10,7 @@ You are browsing a repository for main demo content XML files of [**Forstron** W
     * [**WebMan Amplifier**](https://wordpress.org/plugins/webman-amplifier/) - provides additional functionality, widgets, shortcodes, icon font and custom post types
     * [**Beaver Builder**](https://wordpress.org/plugins/beaver-builder-lite-version/) - page builder plugin used to build the demo content (make sure the page builder is enabled for Pages and Projects post types - check this under **Settings &raquo; Page Builder &raquo; Post Types**)
     * [**Classic Widgets**](https://wordpress.org/plugins/classic-widgets/) - Restores the previous WordPress widgets settings screens. Sidebars and widgets are not going to be used in fully block themes in the future, so if your website still uses sidebars, it is better to use this plugin to enable classic user interface.
-3. **Optional plugins**: If you want to match your website exactly to [theme demo website](http://themedemos.webmandesign.eu/forstron/), please install also these plugins:
+3. **Optional plugins**: If you want to match your website exactly to [theme demo website](http://wmdemo.eu/forstron/), please install also these plugins:
     * [*WP Subtitle*](https://wordpress.org/plugins/wp-subtitle/) - to display page/post subtitles used in the demo content
     * [*NS Featured Posts*](https://wordpress.org/plugins/ns-featured-posts/) - allows making posts featured, widening them on blog page
     * [*Jetpack*](https://wordpress.org/plugins/jetpack/) - demo content includes [tiled galleries](https://jetpack.me/support/tiled-galleries/) which are feature of this plugin ([how to install Jetpack?](https://jetpack.com/support/installing-jetpack/))
@@ -40,7 +40,7 @@ Also, do not forget to enable the demo content [required plugins](#before-you-be
     * Set "Main navigation" menu for "Primary Menu" location
     * Set "Footer menu" menu for "Footer Menu" location
     * Set "Social links" menu for "Social Links Menu" location
-5. If you would like to set up widgets the way they are displayed on the [theme demo website](http://themedemos.webmandesign.eu/forstron/), use a procedure under [`widgets` subfolder](https://github.com/webmandesign/demo-content/tree/master/forstron/widgets)
+5. If you would like to set up widgets the way they are displayed on the [theme demo website](http://wmdemo.eu/forstron/), use a procedure under [`widgets` subfolder](https://github.com/webmandesign/demo-content/tree/master/forstron/widgets)
 
 
 ## Important notes

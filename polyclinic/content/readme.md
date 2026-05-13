@@ -35,7 +35,7 @@ Also, do not forget to enable the demo content [required plugins](#before-you-be
     * Set "Main navigation" menu for "Primary Menu" location
     * Set "Social links" menu for "Social Links Menu" location
     * Set "Mobile bar" menu for "Mobile Bar (max 4 links)" location
-5. If you would like to set up widgets the way they are displayed on the [theme demo website](http://themedemos.webmandesign.eu/polyclinic/), use a procedure under [`widgets` subfolder](https://github.com/webmandesign/demo-content/tree/master/polyclinic/widgets)
+5. If you would like to set up widgets the way they are displayed on the [theme demo website](http://wmdemo.eu/polyclinic/), use a procedure under [`widgets` subfolder](https://github.com/webmandesign/demo-content/tree/master/polyclinic/widgets)
 
 
 ## Important notes

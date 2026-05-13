@@ -14,20 +14,19 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
-<!-- generator="WordPress/5.8.3" created="2022-01-28 17:07" -->
 <rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
 
 <channel>
 	<title>Michelle</title>
-	<link>https://themedemos.webmandesign.eu/michelle</link>
+	<link>https://wmdemo.eu/michelle</link>
 	<description>Inclusive Theme</description>
-	<pubDate>Fri, 28 Jan 2022 17:07:25 +0000</pubDate>
+	<pubDate>Wed, 13 May 2026 09:59:13 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://themedemos.webmandesign.eu/</wp:base_site_url>
-	<wp:base_blog_url>https://themedemos.webmandesign.eu/michelle</wp:base_blog_url>
+	<wp:base_site_url>https://wmdemo.eu/</wp:base_site_url>
+	<wp:base_blog_url>https://wmdemo.eu/michelle</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[demouser]]></wp:author_login><wp:author_email><![CDATA[demouser@demowebsite.demo]]></wp:author_email><wp:author_display_name><![CDATA[Oliver Juhas]]></wp:author_display_name><wp:author_first_name><![CDATA[Oliver]]></wp:author_first_name><wp:author_last_name><![CDATA[Juhas]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[demouser]]></wp:author_login><wp:author_email><![CDATA[demouser@demo.demo]]></wp:author_email><wp:author_display_name><![CDATA[Oliver Juhas]]></wp:author_display_name><wp:author_first_name><![CDATA[Oliver]]></wp:author_first_name><wp:author_last_name><![CDATA[Juhas]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
@@ -48,6 +47,13 @@
 		<wp:term_name><![CDATA[Featured posts]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[michelle]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[michelle]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>1</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[news]]></wp:term_slug>
@@ -64,7 +70,11 @@
 			<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	
+
+		
+
+
 
 <!--
 
@@ -74,7 +84,7 @@ Post type: nav_menu_item
 -->
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/home-2/</link>
+		<link>https://wmdemo.eu/michelle/home-2/</link>
 		<pubDate>Sat, 06 Mar 2021 14:22:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=152</guid>
@@ -140,10 +150,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/154/</link>
+		<link>https://wmdemo.eu/michelle/154/</link>
 		<pubDate>Sat, 06 Mar 2021 14:22:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=154</guid>
@@ -209,10 +219,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/156/</link>
+		<link>https://wmdemo.eu/michelle/156/</link>
 		<pubDate>Sat, 06 Mar 2021 14:22:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=156</guid>
@@ -278,10 +288,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/157/</link>
+		<link>https://wmdemo.eu/michelle/157/</link>
 		<pubDate>Sat, 06 Mar 2021 14:22:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=157</guid>
@@ -347,10 +357,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/158/</link>
+		<link>https://wmdemo.eu/michelle/158/</link>
 		<pubDate>Sat, 06 Mar 2021 14:22:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=158</guid>
@@ -416,10 +426,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/159/</link>
+		<link>https://wmdemo.eu/michelle/159/</link>
 		<pubDate>Sat, 06 Mar 2021 14:22:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=159</guid>
@@ -485,10 +495,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/160/</link>
+		<link>https://wmdemo.eu/michelle/160/</link>
 		<pubDate>Sat, 06 Mar 2021 14:22:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=160</guid>
@@ -554,10 +564,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Dancer]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/161/</link>
+		<link>https://wmdemo.eu/michelle/161/</link>
 		<pubDate>Sat, 06 Mar 2021 14:23:20 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=161</guid>
@@ -623,10 +633,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Florist]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/162/</link>
+		<link>https://wmdemo.eu/michelle/162/</link>
 		<pubDate>Sat, 06 Mar 2021 14:23:20 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=162</guid>
@@ -692,10 +702,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Sculptor]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/163/</link>
+		<link>https://wmdemo.eu/michelle/163/</link>
 		<pubDate>Sat, 06 Mar 2021 14:23:20 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=163</guid>
@@ -761,10 +771,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Cargo]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/164/</link>
+		<link>https://wmdemo.eu/michelle/164/</link>
 		<pubDate>Sat, 06 Mar 2021 14:23:20 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=164</guid>
@@ -830,10 +840,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[House]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/165/</link>
+		<link>https://wmdemo.eu/michelle/165/</link>
 		<pubDate>Sat, 06 Mar 2021 14:23:20 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=165</guid>
@@ -899,10 +909,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Fastfood]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/166/</link>
+		<link>https://wmdemo.eu/michelle/166/</link>
 		<pubDate>Sat, 06 Mar 2021 14:23:20 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=166</guid>
@@ -968,10 +978,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Pet Rescue]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/167/</link>
+		<link>https://wmdemo.eu/michelle/167/</link>
 		<pubDate>Sat, 06 Mar 2021 14:23:20 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=167</guid>
@@ -1037,10 +1047,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Toys Shop]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/168/</link>
+		<link>https://wmdemo.eu/michelle/168/</link>
 		<pubDate>Sat, 06 Mar 2021 14:23:20 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=168</guid>
@@ -1106,10 +1116,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Lawyer]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/170/</link>
+		<link>https://wmdemo.eu/michelle/170/</link>
 		<pubDate>Sat, 06 Mar 2021 14:23:20 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=170</guid>
@@ -1175,10 +1185,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Crafts]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/171/</link>
+		<link>https://wmdemo.eu/michelle/171/</link>
 		<pubDate>Sat, 06 Mar 2021 14:23:20 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=171</guid>
@@ -1244,10 +1254,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Examples 1]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/column-1/</link>
+		<link>https://wmdemo.eu/michelle/column-1/</link>
 		<pubDate>Sat, 06 Mar 2021 14:32:33 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=172</guid>
@@ -1313,10 +1323,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Examples 2]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/column-2/</link>
+		<link>https://wmdemo.eu/michelle/column-2/</link>
 		<pubDate>Sat, 06 Mar 2021 14:32:33 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=173</guid>
@@ -1382,10 +1392,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Examples 3]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/column-3/</link>
+		<link>https://wmdemo.eu/michelle/column-3/</link>
 		<pubDate>Sat, 06 Mar 2021 14:32:33 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=174</guid>
@@ -1451,10 +1461,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Interior Designer]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/home-13-interior-designer/</link>
+		<link>https://wmdemo.eu/michelle/home-13-interior-designer/</link>
 		<pubDate>Sun, 14 Mar 2021 23:45:40 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=693</guid>
@@ -1516,10 +1526,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Therapist]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/home-7-therapist/</link>
+		<link>https://wmdemo.eu/michelle/home-7-therapist/</link>
 		<pubDate>Sun, 14 Mar 2021 23:47:58 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=695</guid>
@@ -1581,10 +1591,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-21]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/889/</link>
+		<link>https://wmdemo.eu/michelle/889/</link>
 		<pubDate>Sun, 21 Mar 2021 23:57:47 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=889</guid>
@@ -1638,10 +1648,10 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/890/</link>
+		<link>https://wmdemo.eu/michelle/890/</link>
 		<pubDate>Sun, 21 Mar 2021 23:59:02 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=890</guid>
@@ -1695,7 +1705,7 @@ Post type: nav_menu_item
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 
 
 
@@ -1707,18 +1717,18 @@ Post type: page
 -->
 	<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/</link>
+		<link>https://wmdemo.eu/michelle/</link>
 		<pubDate>Sun, 21 Feb 2021 20:19:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=4</guid>
 		<description/>
 		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://dl.dropboxusercontent.com/s/9lvy3x11ddjrj5b/michelle-examples.jpg","id":999999,"hasParallax":true,"dimRatio":90,"overlayColor":"palette-2","minHeight":100,"minHeightUnit":"vh","contentPosition":"bottom center","align":"full","className":"has-no-margin-bottom","style":{"spacing":{"padding":{"bottom":"150px"}}}} -->
-<div class="wp-block-cover alignfull has-background-dim-90 has-palette-2-background-color has-background-dim has-parallax has-custom-content-position is-position-bottom-center has-no-margin-bottom" style="padding-bottom:150px;background-image:url(https://dl.dropboxusercontent.com/s/9lvy3x11ddjrj5b/michelle-examples.jpg);min-height:100vh"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"className":"has-20vmax-min-height"} -->
+<div class="wp-block-cover alignfull has-parallax has-custom-content-position is-position-bottom-center has-no-margin-bottom" style="padding-bottom:150px;background-image:url(https://dl.dropboxusercontent.com/s/9lvy3x11ddjrj5b/michelle-examples.jpg);min-height:100vh"><span aria-hidden="true" class="has-palette-2-background-color has-background-dim-90 wp-block-cover__gradient-background has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:spacer {"className":"has-20vmax-min-height"} -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer has-20vmax-min-height"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center","level":1} -->
-<h1 class="has-text-align-center">Michelle</h1>
+<h1 class="has-text-align-center" id="michelle">Michelle</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"1.25"}},"className":"has-no-margin-bottom","fontSize":"extra-large"} -->
@@ -1769,8 +1779,54 @@ figcaption.blocks-gallery-item__caption a {
 </style>
 <!-- /wp:html -->
 
-<!-- wp:gallery {"ids":[999901,999902,999903,999904,999905,999906,999907,999908,999909,999910,999911,999912],"columns":4,"imageCrop":false,"linkTo":"post","align":"wide","className":"is-style-default"} -->
-<figure class="wp-block-gallery alignwide columns-4  is-style-default"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="/michelle/home-2/"><img src="https://dl.dropboxusercontent.com/s/ziiuv5wizxscfdb/cargo-360.jpg" alt="Image alt text" data-id="999901" data-full-url="https://dl.dropboxusercontent.com/s/ziiuv5wizxscfdb/cargo-360.jpg" data-link="/michelle/home-2/" class="wp-image-999901"/></a><figcaption class="blocks-gallery-item__caption">Cargo, transportation<br /><em><a href="https://themedemos.webmandesign.eu/michelle/home-2/" data-type="page" data-id="17">Visit →</a></em></figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/michelle/home-9/"><img src="https://dl.dropboxusercontent.com/s/s34eawx5ixi3fy9/crafts-360.jpg" alt="Image alt text" data-id="999902" data-full-url="https://dl.dropboxusercontent.com/s/s34eawx5ixi3fy9/crafts-360.jpg" data-link="/michelle/home-9/" class="wp-image-999902"/></a><figcaption class="blocks-gallery-item__caption">Craftsman, shoemaker<br /><em><a href="https://themedemos.webmandesign.eu/michelle/home-9/" data-type="page" data-id="32">Visit →</a></em></figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/michelle/home-10/"><img src="https://dl.dropboxusercontent.com/s/8l926dmrn8xtubo/dancer-360.jpg" alt="Image alt text" data-id="999903" data-full-url="https://dl.dropboxusercontent.com/s/8l926dmrn8xtubo/dancer-360.jpg" data-link="/michelle/home-10/" class="wp-image-999903"/></a><figcaption class="blocks-gallery-item__caption">Dancer, performer<br /><em><a href="https://themedemos.webmandesign.eu/michelle/home-10/" data-type="page" data-id="34">Visit →</a></em></figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/michelle/home-4/"><img src="https://dl.dropboxusercontent.com/s/gmd3129v1a2hxrn/fastfood-360.jpg" alt="Image alt text" data-id="999904" data-full-url="https://dl.dropboxusercontent.com/s/gmd3129v1a2hxrn/fastfood-360.jpg" data-link="/michelle/home-4/" class="wp-image-999904"/></a><figcaption class="blocks-gallery-item__caption">Fastfood<br /><em><a href="https://themedemos.webmandesign.eu/michelle/home-4/" data-type="page" data-id="22">Visit →</a></em></figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/michelle/home-11/"><img src="https://dl.dropboxusercontent.com/s/c0qx9jo0xaqv0gc/florist-360.jpg" alt="Image alt text" data-id="999905" data-full-url="https://dl.dropboxusercontent.com/s/c0qx9jo0xaqv0gc/florist-360.jpg" data-link="/michelle/home-11/" class="wp-image-999905"/></a><figcaption class="blocks-gallery-item__caption">Florist<br /><em><a href="https://themedemos.webmandesign.eu/michelle/home-11/" data-type="page" data-id="36">Visit →</a></em></figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/michelle/home-3/"><img src="https://dl.dropboxusercontent.com/s/6j4v4n2t0ad1h7m/house-360.jpg" alt="Image alt text" data-id="999906" data-full-url="https://dl.dropboxusercontent.com/s/6j4v4n2t0ad1h7m/house-360.jpg" data-link="/michelle/home-3/" class="wp-image-999906"/></a><figcaption class="blocks-gallery-item__caption">Housing company<br /><em><a href="https://themedemos.webmandesign.eu/michelle/home-3/" data-type="page" data-id="19">Visit →</a></em></figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/michelle/home-13/"><img src="https://dl.dropboxusercontent.com/s/2b3payd49hd2916/interior-designer-360.jpg" alt="Image alt text" data-id="999907" data-full-url="https://dl.dropboxusercontent.com/s/2b3payd49hd2916/interior-designer-360.jpg" data-link="/michelle/home-13/" class="wp-image-999907"/></a><figcaption class="blocks-gallery-item__caption">Interior designer<br /><em><a href="https://themedemos.webmandesign.eu/michelle/home-13/" data-type="page" data-id="689">Visit →</a></em></figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/michelle/home-8/"><img src="https://dl.dropboxusercontent.com/s/4lqsckhp0rjao73/lawyer-360.jpg" alt="Image alt text" data-id="999908" data-full-url="https://dl.dropboxusercontent.com/s/4lqsckhp0rjao73/lawyer-360.jpg" data-link="/michelle/home-8/" class="wp-image-999908"/></a><figcaption class="blocks-gallery-item__caption">Lawyer, legal business<br /><em><a href="https://themedemos.webmandesign.eu/michelle/home-8/" data-type="page" data-id="30">Visit →</a></em></figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/michelle/home-5/"><img src="https://dl.dropboxusercontent.com/s/36wxnwfk6mtlqmm/pet-rescue-360.jpg" alt="Image alt text" data-id="999909" data-full-url="https://dl.dropboxusercontent.com/s/36wxnwfk6mtlqmm/pet-rescue-360.jpg" data-link="/michelle/home-5/" class="wp-image-999909"/></a><figcaption class="blocks-gallery-item__caption">Pet rescue, non-profit<br /><em><a href="https://themedemos.webmandesign.eu/michelle/home-5/" data-type="page" data-id="24">Visit →</a></em></figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/michelle/home-12/"><img src="https://dl.dropboxusercontent.com/s/6s1sgcn9k1ckakz/sculptor-360.jpg" alt="Image alt text" data-id="999910" data-full-url="https://dl.dropboxusercontent.com/s/6s1sgcn9k1ckakz/sculptor-360.jpg" data-link="/michelle/home-12/" class="wp-image-999910"/></a><figcaption class="blocks-gallery-item__caption">Sculptor, artist<br /><em><a href="https://themedemos.webmandesign.eu/michelle/home-12/" data-type="page" data-id="81">Visit →</a></em></figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/michelle/home-7/"><img src="https://dl.dropboxusercontent.com/s/kw6mfqdftu8ekz6/therapist-360.jpg" alt="Image alt text" data-id="999911" data-full-url="https://dl.dropboxusercontent.com/s/kw6mfqdftu8ekz6/therapist-360.jpg" data-link="/michelle/home-7/" class="wp-image-999911"/></a><figcaption class="blocks-gallery-item__caption">Therapist, psychologist<br /><em><a href="https://themedemos.webmandesign.eu/michelle/home-7/" data-type="page" data-id="28">Visit →</a></em></figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/michelle/home-6/"><img src="https://dl.dropboxusercontent.com/s/z088c7oji7giorx/toys-360.jpg" alt="Image alt text" data-id="999912" data-full-url="https://dl.dropboxusercontent.com/s/z088c7oji7giorx/toys-360.jpg" data-link="/michelle/home-6/" class="wp-image-999912"/></a><figcaption class="blocks-gallery-item__caption">Toys, e-commerce<br /><em><a href="https://themedemos.webmandesign.eu/michelle/home-6/" data-type="page" data-id="26">Visit →</a></em></figcaption></figure></li></ul></figure>
+<!-- wp:gallery {"columns":4,"imageCrop":false,"linkTo":"attachment","align":"wide","className":"is-style-default"} -->
+<figure class="wp-block-gallery alignwide has-nested-images columns-4 is-style-default"><!-- wp:image {"id":999901,"sizeSlug":"large","linkDestination":"attachment"} -->
+<figure class="wp-block-image size-large"><a href="/michelle/home-2/"><img src="https://dl.dropboxusercontent.com/s/ziiuv5wizxscfdb/cargo-360.jpg" alt="Image alt text" class="wp-image-999901"/></a><figcaption>Cargo, transportation<br /><em><a href="https://wmdemo.eu/michelle/home-2/" data-type="page" data-id="17">Visit →</a></em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":999902,"sizeSlug":"large","linkDestination":"attachment"} -->
+<figure class="wp-block-image size-large"><a href="/michelle/home-9/"><img src="https://dl.dropboxusercontent.com/s/s34eawx5ixi3fy9/crafts-360.jpg" alt="Image alt text" class="wp-image-999902"/></a><figcaption>Craftsman, shoemaker<br /><em><a href="https://wmdemo.eu/michelle/home-9/" data-type="page" data-id="32">Visit →</a></em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":999903,"sizeSlug":"large","linkDestination":"attachment"} -->
+<figure class="wp-block-image size-large"><a href="/michelle/home-10/"><img src="https://dl.dropboxusercontent.com/s/8l926dmrn8xtubo/dancer-360.jpg" alt="Image alt text" class="wp-image-999903"/></a><figcaption>Dancer, performer<br /><em><a href="https://wmdemo.eu/michelle/home-10/" data-type="page" data-id="34">Visit →</a></em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":999904,"sizeSlug":"large","linkDestination":"attachment"} -->
+<figure class="wp-block-image size-large"><a href="/michelle/home-4/"><img src="https://dl.dropboxusercontent.com/s/gmd3129v1a2hxrn/fastfood-360.jpg" alt="Image alt text" class="wp-image-999904"/></a><figcaption>Fastfood<br /><em><a href="https://wmdemo.eu/michelle/home-4/" data-type="page" data-id="22">Visit →</a></em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":999905,"sizeSlug":"large","linkDestination":"attachment"} -->
+<figure class="wp-block-image size-large"><a href="/michelle/home-11/"><img src="https://dl.dropboxusercontent.com/s/c0qx9jo0xaqv0gc/florist-360.jpg" alt="Image alt text" class="wp-image-999905"/></a><figcaption>Florist<br /><em><a href="https://wmdemo.eu/michelle/home-11/" data-type="page" data-id="36">Visit →</a></em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":999906,"sizeSlug":"large","linkDestination":"attachment"} -->
+<figure class="wp-block-image size-large"><a href="/michelle/home-3/"><img src="https://dl.dropboxusercontent.com/s/6j4v4n2t0ad1h7m/house-360.jpg" alt="Image alt text" class="wp-image-999906"/></a><figcaption>Housing company<br /><em><a href="https://wmdemo.eu/michelle/home-3/" data-type="page" data-id="19">Visit →</a></em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":999907,"sizeSlug":"large","linkDestination":"attachment"} -->
+<figure class="wp-block-image size-large"><a href="/michelle/home-13/"><img src="https://dl.dropboxusercontent.com/s/2b3payd49hd2916/interior-designer-360.jpg" alt="Image alt text" class="wp-image-999907"/></a><figcaption>Interior designer<br /><em><a href="https://wmdemo.eu/michelle/home-13/" data-type="page" data-id="689">Visit →</a></em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":999908,"sizeSlug":"large","linkDestination":"attachment"} -->
+<figure class="wp-block-image size-large"><a href="/michelle/home-8/"><img src="https://dl.dropboxusercontent.com/s/4lqsckhp0rjao73/lawyer-360.jpg" alt="Image alt text" class="wp-image-999908"/></a><figcaption>Lawyer, legal business<br /><em><a href="https://wmdemo.eu/michelle/home-8/" data-type="page" data-id="30">Visit →</a></em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":999909,"sizeSlug":"large","linkDestination":"attachment"} -->
+<figure class="wp-block-image size-large"><a href="/michelle/home-5/"><img src="https://dl.dropboxusercontent.com/s/36wxnwfk6mtlqmm/pet-rescue-360.jpg" alt="Image alt text" class="wp-image-999909"/></a><figcaption>Pet rescue, non-profit<br /><em><a href="https://wmdemo.eu/michelle/home-5/" data-type="page" data-id="24">Visit →</a></em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":999910,"sizeSlug":"large","linkDestination":"attachment"} -->
+<figure class="wp-block-image size-large"><a href="/michelle/home-12/"><img src="https://dl.dropboxusercontent.com/s/6s1sgcn9k1ckakz/sculptor-360.jpg" alt="Image alt text" class="wp-image-999910"/></a><figcaption>Sculptor, artist<br /><em><a href="https://wmdemo.eu/michelle/home-12/" data-type="page" data-id="81">Visit →</a></em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":999911,"sizeSlug":"large","linkDestination":"attachment"} -->
+<figure class="wp-block-image size-large"><a href="/michelle/home-7/"><img src="https://dl.dropboxusercontent.com/s/kw6mfqdftu8ekz6/therapist-360.jpg" alt="Image alt text" class="wp-image-999911"/></a><figcaption>Therapist, psychologist<br /><em><a href="https://wmdemo.eu/michelle/home-7/" data-type="page" data-id="28">Visit →</a></em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":999912,"sizeSlug":"large","linkDestination":"attachment"} -->
+<figure class="wp-block-image size-large"><a href="/michelle/home-6/"><img src="https://dl.dropboxusercontent.com/s/z088c7oji7giorx/toys-360.jpg" alt="Image alt text" class="wp-image-999912"/></a><figcaption>Toys, e-commerce<br /><em><a href="https://wmdemo.eu/michelle/home-6/" data-type="page" data-id="26">Visit →</a></em></figcaption></figure>
+<!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"background":"#f3f5f7"}},"fontSize":"small"} -->
@@ -1779,7 +1835,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:group -->
 
 <!-- wp:heading {"className":"screen-reader-text"} -->
-<h2 class="screen-reader-text">Theme features</h2>
+<h2 class="screen-reader-text" id="theme-features">Theme features</h2>
 <!-- /wp:heading -->
 
 <!-- wp:columns {"align":"full","className":"is-style-no-gaps has-no-margin-bottom has-10-z-index"} -->
@@ -1796,7 +1852,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"level":3,"textColor":"palette-2","className":"has-no-margin-top"} -->
-<h3 class="has-no-margin-top has-palette-2-color has-text-color">Inclusive</h3>
+<h3 class="has-no-margin-top has-palette-2-color has-text-color" id="inclusive">Inclusive</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"placeholder":"Write title…","textColor":"palette-2"} -->
@@ -1817,7 +1873,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"level":3,"textColor":"palette-2","className":"has-no-margin-top"} -->
-<h3 class="has-no-margin-top has-palette-2-color has-text-color">Block patterns &amp; styles</h3>
+<h3 class="has-no-margin-top has-palette-2-color has-text-color" id="block-patterns-styles">Block patterns &amp; styles</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"placeholder":"Write title…","textColor":"palette-2"} -->
@@ -1838,7 +1894,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"level":3,"textColor":"palette-2","className":"has-no-margin-top"} -->
-<h3 class="has-no-margin-top has-palette-2-color has-text-color">Custom footer</h3>
+<h3 class="has-no-margin-top has-palette-2-color has-text-color" id="custom-footer">Custom footer</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"placeholder":"Write title…","textColor":"palette-2"} -->
@@ -1861,7 +1917,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"level":3,"textColor":"palette-2","className":"has-no-margin-top"} -->
-<h3 class="has-no-margin-top has-palette-2-color has-text-color">Templates</h3>
+<h3 class="has-no-margin-top has-palette-2-color has-text-color" id="templates">Templates</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"placeholder":"Write title…","textColor":"palette-2"} -->
@@ -1882,7 +1938,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"level":3,"textColor":"palette-2","className":"has-no-margin-top"} -->
-<h3 class="has-no-margin-top has-palette-2-color has-text-color">Featured posts</h3>
+<h3 class="has-no-margin-top has-palette-2-color has-text-color" id="featured-posts">Featured posts</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"placeholder":"Write title…","textColor":"palette-2"} -->
@@ -1903,7 +1959,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"level":3,"textColor":"palette-2","className":"has-no-margin-top"} -->
-<h3 class="has-no-margin-top has-palette-2-color has-text-color"><em>Fast!</em></h3>
+<h3 class="has-no-margin-top has-palette-2-color has-text-color" id="fast"><em>Fast!</em></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"placeholder":"Write title…","textColor":"palette-2"} -->
@@ -1913,16 +1969,16 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:columns -->
 
 <!-- wp:cover {"url":"https://dl.dropboxusercontent.com/s/9lvy3x11ddjrj5b/michelle-examples.jpg","id":999999,"hasParallax":true,"dimRatio":90,"overlayColor":"palette-2","minHeight":100,"minHeightUnit":"vh","contentPosition":"center center","align":"full","style":{"spacing":{"padding":{"top":"150px","bottom":"150px"}}}} -->
-<div class="wp-block-cover alignfull has-background-dim-90 has-palette-2-background-color has-background-dim has-parallax" style="padding-top:150px;padding-bottom:150px;background-image:url(https://dl.dropboxusercontent.com/s/9lvy3x11ddjrj5b/michelle-examples.jpg);min-height:100vh"><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","textColor":"palette-3","className":"is-style-default"} -->
-<h2 class="has-text-align-center is-style-default has-palette-3-color has-text-color">Get creative now!</h2>
+<div class="wp-block-cover alignfull has-parallax" style="padding-top:150px;padding-bottom:150px;background-image:url(https://dl.dropboxusercontent.com/s/9lvy3x11ddjrj5b/michelle-examples.jpg);min-height:100vh"><span aria-hidden="true" class="has-palette-2-background-color has-background-dim-90 wp-block-cover__gradient-background has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","textColor":"palette-3","className":"is-style-default"} -->
+<h2 class="has-text-align-center is-style-default has-palette-3-color has-text-color" id="get-creative-now">Get creative now!</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"large"} -->
 <p class="has-text-align-center has-large-font-size">Why hesitate? Grab this free theme now and get creative with it. You will love it!</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:buttons {"contentJustification":"center"} -->
-<div class="wp-block-buttons is-content-justification-center"><!-- wp:button {"backgroundColor":"palette-1","textColor":"palette-2","fontSize":"normal"} -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"palette-1","textColor":"palette-2","fontSize":"normal"} -->
 <div class="wp-block-button has-custom-font-size has-normal-font-size"><a class="wp-block-button__link has-palette-2-color has-palette-1-background-color has-text-color has-background" href="https://www.webmandesign.eu/portfolio/michelle-wordpress-theme/">Get Michelle Theme →</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
@@ -1931,8 +1987,8 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-21 21:19:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-21 20:19:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-21 19:13:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-21 18:13:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-02-12 01:24:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-12 00:24:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-1]]></wp:post_name>
@@ -1954,10 +2010,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[News]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/news/</link>
+		<link>https://wmdemo.eu/michelle/news/</link>
 		<pubDate>Sun, 21 Feb 2021 20:19:08 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=6</guid>
@@ -1986,10 +2042,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Home - Cargo]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/home-2/</link>
+		<link>https://wmdemo.eu/michelle/home-2/</link>
 		<pubDate>Thu, 25 Feb 2021 01:43:29 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=17</guid>
@@ -2187,10 +2243,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Home - House]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/home-3/</link>
+		<link>https://wmdemo.eu/michelle/home-3/</link>
 		<pubDate>Thu, 25 Feb 2021 01:43:29 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=19</guid>
@@ -2455,16 +2511,16 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Home - Fastfood]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/home-4/</link>
+		<link>https://wmdemo.eu/michelle/home-4/</link>
 		<pubDate>Thu, 25 Feb 2021 01:43:29 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=22</guid>
 		<description/>
-		<content:encoded><![CDATA[<!-- wp:cover {"minHeight":100,"minHeightUnit":"vh","customGradient":"linear-gradient(315deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%)","contentPosition":"bottom center","align":"full","className":"is-style-no-margin-vertical","style":{"spacing":{"padding":{"bottom":"0px"}}}} -->
-<div class="wp-block-cover alignfull has-background-dim has-background-gradient has-custom-content-position is-position-bottom-center is-style-no-margin-vertical" style="padding-bottom:0px;background:linear-gradient(315deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);min-height:100vh"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"className":"has-15vmax-min-height"} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"minHeight":100,"minHeightUnit":"vh","customGradient":"linear-gradient(315deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%)","contentPosition":"bottom center","isDark":false,"align":"full","className":"is-style-no-margin-vertical","style":{"spacing":{"padding":{"bottom":"0px"}}}} -->
+<div class="wp-block-cover alignfull is-light has-custom-content-position is-position-bottom-center is-style-no-margin-vertical" style="padding-bottom:0px;min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim has-background-gradient" style="background:linear-gradient(315deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%)"></span><div class="wp-block-cover__inner-container"><!-- wp:spacer {"className":"has-15vmax-min-height"} -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer has-15vmax-min-height"></div>
 <!-- /wp:spacer -->
 
@@ -2481,8 +2537,8 @@ figcaption.blocks-gallery-item__caption a {
 <p class="has-extra-large-font-size" style="line-height:1"><a href="tel:090123456">0900<strong> 123 456</strong></a></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:separator {"className":"is-style-zigzag-wide"} -->
-<hr class="wp-block-separator is-style-zigzag-wide"/>
+<!-- wp:separator {"opacity":"css","className":"is-style-zigzag-wide"} -->
+<hr class="wp-block-separator has-css-opacity is-style-zigzag-wide"/>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
@@ -2509,7 +2565,7 @@ figcaption.blocks-gallery-item__caption a {
 <svg class="svg-icon aligncenter" width="5em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" viewBox="0 0 32 32"><path d="M11 5c-3.3 0-6 2.7-6 6v.25l-1.125 1.5c.355.266.727.441 1.125.563v2.468c-.61.551-1 1.34-1 2.219c0 .879.39 1.668 1 2.219V23c0 1.094.906 2 2 2h18c1.094 0 2-.906 2-2v-2.781c.61-.551 1-1.34 1-2.219c0-.879-.39-1.668-1-2.219v-2.469c.398-.12.77-.296 1.125-.562L27 11.219V11c0-3.3-2.7-6-6-6zm0 2h1c0 .55.45 1 1 1s1-.45 1-1h7c2.219 0 4 1.781 4 4v.5a2.15 2.15 0 0 1-.719-.375l-.531-.375l-.594.344l-.75.437c-.699.418-1.55.418-2.25 0l-.75-.437l-.468-.281l-.5.218l-1.438.75a2.21 2.21 0 0 1-1.969 0l-1.469-.75l-.5-.219l-.468.282l-.75.437c-.7.418-1.551.418-2.25 0l-.75-.437l-.594-.344l-.531.375A2.187 2.187 0 0 1 7 11.5V11c0-2.219 1.781-4 4-4zm0 1c-.55 0-1 .45-1 1s.45 1 1 1s1-.45 1-1s-.45-1-1-1zm4 0c-.55 0-1 .45-1 1s.45 1 1 1s1-.45 1-1s-.45-1-1-1zm-6.844 5l.406.25a4.189 4.189 0 0 0 4.313 0l.281-.188l.969.5c1.18.59 2.57.59 3.75 0l.969-.5l.281.188a4.189 4.189 0 0 0 4.313 0l.406-.25c.375.18.758.293 1.156.375V15H7v-1.625A4.938 4.938 0 0 0 8.156 13zM7 17h18c.566 0 1 .434 1 1c0 .566-.434 1-1 1H7c-.566 0-1-.434-1-1c0-.566.434-1 1-1zm0 4h18v2H7z"></path></svg>
 <!-- /wp:html -->
 
-<!-- wp:spacer {"height":40} -->
+<!-- wp:spacer {"height":"40px"} -->
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -2528,7 +2584,7 @@ figcaption.blocks-gallery-item__caption a {
 <svg class="svg-icon aligncenter" width="5em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" viewBox="0 0 32 32"><path d="M1 4v21h3.156c.446 1.719 1.992 3 3.844 3c1.852 0 3.398-1.281 3.844-3h8.312c.446 1.719 1.992 3 3.844 3c1.852 0 3.398-1.281 3.844-3H31V14.594l-.281-.313l-6-6L24.406 8H19V4zm2 2h14v17h-5.156c-.446-1.719-1.992-3-3.844-3c-1.852 0-3.398 1.281-3.844 3H3zm16 4h4.563L29 15.438V23h-1.156c-.446-1.719-1.992-3-3.844-3c-1.852 0-3.398 1.281-3.844 3H19zM8 22c1.117 0 2 .883 2 2s-.883 2-2 2s-2-.883-2-2s.883-2 2-2zm16 0c1.117 0 2 .883 2 2s-.883 2-2 2s-2-.883-2-2s.883-2 2-2z"></path></svg>
 <!-- /wp:html -->
 
-<!-- wp:spacer {"height":40} -->
+<!-- wp:spacer {"height":"40px"} -->
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -2547,7 +2603,7 @@ figcaption.blocks-gallery-item__caption a {
 <svg class="svg-icon aligncenter" width="5em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" viewBox="0 0 32 32"><path d="M15 3c-1.094 0-2 .906-2 2v1.688a1.025 1.025 0 0 0 0 .593v3.157l-.781.53c-1.39.927-2.219 2.516-2.219 4.188v.531a1.025 1.025 0 0 0 0 .594v6.407a1.025 1.025 0 0 0 0 .593V29h12v-5.813a1.016 1.016 0 0 0 0-.406v-6.593a1.016 1.016 0 0 0 0-.407v-.625c0-1.672-.828-3.261-2.219-4.187L19 10.438v-3.25a1.016 1.016 0 0 0 0-.407V5c0-1.094-.906-2-2-2zm0 2h2v1h-2zm0 3h2v3.531l.438.313l1.218.812c.793.528 1.262 1.399 1.313 2.344H12.03c.051-.945.52-1.816 1.313-2.344l1.219-.812l.437-.313zm-3 9h8v5h-8zm0 7h8v3h-8z"></path></svg>
 <!-- /wp:html -->
 
-<!-- wp:spacer {"height":40} -->
+<!-- wp:spacer {"height":"40px"} -->
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -2572,20 +2628,20 @@ figcaption.blocks-gallery-item__caption a {
 <h3 class="is-style-no-margin-vertical has-palette-3-color has-text-color has-extra-large-font-size"><strong>Special Burger</strong> ... $<strong>12</strong></h3>
 <!-- /wp:heading -->
 
-<!-- wp:spacer {"height":40} -->
+<!-- wp:spacer {"height":"40px"} -->
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:separator {"className":"is-style-zigzag-wide"} -->
-<hr class="wp-block-separator is-style-zigzag-wide"/>
+<!-- wp:separator {"opacity":"css","className":"is-style-zigzag-wide"} -->
+<hr class="wp-block-separator has-css-opacity is-style-zigzag-wide"/>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
 <p class="has-large-font-size">Lorem ipsum dolor sit amet consectetur adipiscing elit cubilia, integer curae mollis lacinia suspendisse aliquet sodales interdum, eget.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:separator {"className":"is-style-zigzag-wide"} -->
-<hr class="wp-block-separator is-style-zigzag-wide"/>
+<!-- wp:separator {"opacity":"css","className":"is-style-zigzag-wide"} -->
+<hr class="wp-block-separator has-css-opacity is-style-zigzag-wide"/>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"className":"is-style-no-margin-vertical"} -->
@@ -2598,7 +2654,7 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:media-text --></div>
 <!-- /wp:group -->
 
-<!-- wp:spacer {"height":150} -->
+<!-- wp:spacer {"height":"150px"} -->
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -2614,8 +2670,8 @@ figcaption.blocks-gallery-item__caption a {
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:separator {"align":"wide","className":"is-style-zigzag"} -->
-<hr class="wp-block-separator alignwide is-style-zigzag"/>
+<!-- wp:separator {"opacity":"css","align":"wide","className":"is-style-zigzag"} -->
+<hr class="wp-block-separator alignwide has-css-opacity is-style-zigzag"/>
 <!-- /wp:separator -->
 
 <!-- wp:columns {"align":"wide"} -->
@@ -2656,8 +2712,8 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:separator {"align":"wide","className":"is-style-zigzag"} -->
-<hr class="wp-block-separator alignwide is-style-zigzag"/>
+<!-- wp:separator {"opacity":"css","align":"wide","className":"is-style-zigzag"} -->
+<hr class="wp-block-separator alignwide has-css-opacity is-style-zigzag"/>
 <!-- /wp:separator -->
 
 <!-- wp:columns {"align":"wide"} -->
@@ -2698,11 +2754,11 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:separator {"align":"wide","className":"is-style-zigzag"} -->
-<hr class="wp-block-separator alignwide is-style-zigzag"/>
+<!-- wp:separator {"opacity":"css","align":"wide","className":"is-style-zigzag"} -->
+<hr class="wp-block-separator alignwide has-css-opacity is-style-zigzag"/>
 <!-- /wp:separator -->
 
-<!-- wp:spacer {"height":150} -->
+<!-- wp:spacer {"height":"150px"} -->
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -2713,8 +2769,8 @@ figcaption.blocks-gallery-item__caption a {
 <h2 class="has-text-align-center has-palette-3-color has-text-color">Where?</h2>
 <!-- /wp:heading -->
 
-<!-- wp:separator {"className":"is-style-zigzag-wide"} -->
-<hr class="wp-block-separator is-style-zigzag-wide"/>
+<!-- wp:separator {"opacity":"css","className":"is-style-zigzag-wide"} -->
+<hr class="wp-block-separator has-css-opacity is-style-zigzag-wide"/>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"large"} -->
@@ -2727,8 +2783,8 @@ figcaption.blocks-gallery-item__caption a {
 <h2 class="has-text-align-center has-palette-3-color has-text-color">When?</h2>
 <!-- /wp:heading -->
 
-<!-- wp:separator {"className":"is-style-zigzag-wide"} -->
-<hr class="wp-block-separator is-style-zigzag-wide"/>
+<!-- wp:separator {"opacity":"css","className":"is-style-zigzag-wide"} -->
+<hr class="wp-block-separator has-css-opacity is-style-zigzag-wide"/>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"large"} -->
@@ -2741,8 +2797,8 @@ figcaption.blocks-gallery-item__caption a {
 <h2 class="has-text-align-center has-palette-3-color has-text-color">How?</h2>
 <!-- /wp:heading -->
 
-<!-- wp:separator {"className":"is-style-zigzag-wide"} -->
-<hr class="wp-block-separator is-style-zigzag-wide"/>
+<!-- wp:separator {"opacity":"css","className":"is-style-zigzag-wide"} -->
+<hr class="wp-block-separator has-css-opacity is-style-zigzag-wide"/>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"align":"center","className":"is-style-no-margin-vertical"} -->
@@ -2756,15 +2812,25 @@ figcaption.blocks-gallery-item__caption a {
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:gallery {"ids":[999991,999992,999993],"linkTo":"none","align":"full","className":"is-style-no-gaps"} -->
-<figure class="wp-block-gallery alignfull columns-3 is-cropped is-style-no-gaps"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/food--foodiesfeed.com_creme-roll-with-chocolate-and-blueberries-on-top.jpg" alt="Image alt text" data-id="999991" data-full-url="https://pic.webmandesign.eu/SAMPLE/food--foodiesfeed.com_creme-roll-with-chocolate-and-blueberries-on-top.jpg" data-link="#0" class="wp-image-999991"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/food--foodiesfeed.com_pulled-pork-burger.jpg" alt="Image alt text" data-id="999992" data-full-url="https://pic.webmandesign.eu/SAMPLE/food--foodiesfeed.com_pulled-pork-burger.jpg" data-link="#0" class="wp-image-999992"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://pic.webmandesign.eu/SAMPLE/food--foodiesfeed.com_tacos-with-pulled-pork-fresh-vegetables-and-cream.jpg" alt="Image alt text" data-id="999993" data-full-url="https://pic.webmandesign.eu/SAMPLE/food--foodiesfeed.com_tacos-with-pulled-pork-fresh-vegetables-and-cream.jpg" data-link="#0" class="wp-image-999993"/></figure></li></ul></figure>
+<!-- wp:gallery {"linkTo":"none","align":"full","className":"is-style-no-gaps"} -->
+<figure class="wp-block-gallery alignfull has-nested-images columns-default is-cropped is-style-no-gaps"><!-- wp:image {"id":999991,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://pic.webmandesign.eu/SAMPLE/food--foodiesfeed.com_creme-roll-with-chocolate-and-blueberries-on-top.jpg" alt="Image alt text" class="wp-image-999991"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":999992,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://pic.webmandesign.eu/SAMPLE/food--foodiesfeed.com_pulled-pork-burger.jpg" alt="Image alt text" class="wp-image-999992"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":999993,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://pic.webmandesign.eu/SAMPLE/food--foodiesfeed.com_tacos-with-pulled-pork-fresh-vegetables-and-cream.jpg" alt="Image alt text" class="wp-image-999993"/></figure>
+<!-- /wp:image --></figure>
 <!-- /wp:gallery -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-25 02:43:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-25 01:43:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-21 19:20:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-21 18:20:49]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-08-18 19:07:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 17:07:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-4]]></wp:post_name>
@@ -2786,10 +2852,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Home - Pet Rescue]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/home-5/</link>
+		<link>https://wmdemo.eu/michelle/home-5/</link>
 		<pubDate>Thu, 25 Feb 2021 01:43:29 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=24</guid>
@@ -2922,10 +2988,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Home - Toys Shop]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/home-6/</link>
+		<link>https://wmdemo.eu/michelle/home-6/</link>
 		<pubDate>Thu, 25 Feb 2021 01:43:29 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=26</guid>
@@ -3074,10 +3140,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Home - Therapist]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/home-7/</link>
+		<link>https://wmdemo.eu/michelle/home-7/</link>
 		<pubDate>Thu, 25 Feb 2021 01:43:29 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=28</guid>
@@ -3243,10 +3309,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Home - Lawyer]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/home-8/</link>
+		<link>https://wmdemo.eu/michelle/home-8/</link>
 		<pubDate>Thu, 25 Feb 2021 01:43:29 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=30</guid>
@@ -3481,10 +3547,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Home - Crafts]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/home-9/</link>
+		<link>https://wmdemo.eu/michelle/home-9/</link>
 		<pubDate>Thu, 25 Feb 2021 01:43:29 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=32</guid>
@@ -3601,10 +3667,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Home - Dancer]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/home-10/</link>
+		<link>https://wmdemo.eu/michelle/home-10/</link>
 		<pubDate>Thu, 25 Feb 2021 01:43:29 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=34</guid>
@@ -3753,10 +3819,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Home - Florist]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/home-11/</link>
+		<link>https://wmdemo.eu/michelle/home-11/</link>
 		<pubDate>Thu, 25 Feb 2021 01:43:29 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=36</guid>
@@ -3950,10 +4016,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[templates/no-intro-header-overlaid-light.php]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[_screenshot]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/?page_id=912</link>
+		<link>https://wmdemo.eu/michelle/?page_id=912</link>
 		<pubDate>Sun, 28 Mar 2021 14:21:30 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=912</guid>
@@ -4026,10 +4092,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[About]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/about-1/</link>
+		<link>https://wmdemo.eu/michelle/about-1/</link>
 		<pubDate>Thu, 25 Feb 2021 13:58:09 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=41</guid>
@@ -4182,10 +4248,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[templates/no-intro-header-overlaid-light.php]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Services]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/services-1/</link>
+		<link>https://wmdemo.eu/michelle/services-1/</link>
 		<pubDate>Mon, 01 Mar 2021 15:09:32 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=45</guid>
@@ -4332,10 +4398,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Gallery]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/gallery-1/</link>
+		<link>https://wmdemo.eu/michelle/gallery-1/</link>
 		<pubDate>Thu, 25 Feb 2021 13:59:06 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=49</guid>
@@ -4406,10 +4472,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[FAQ]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/faq-1/</link>
+		<link>https://wmdemo.eu/michelle/faq-1/</link>
 		<pubDate>Thu, 25 Feb 2021 13:59:26 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=53</guid>
@@ -4584,10 +4650,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[templates/no-intro-header-overlaid-dark.php]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Contact]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/contact-1/</link>
+		<link>https://wmdemo.eu/michelle/contact-1/</link>
 		<pubDate>Thu, 25 Feb 2021 13:59:43 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=57</guid>
@@ -4644,10 +4710,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Home - Sculptor]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/home-12/</link>
+		<link>https://wmdemo.eu/michelle/home-12/</link>
 		<pubDate>Sat, 27 Feb 2021 12:47:00 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=81</guid>
@@ -4770,10 +4836,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Team]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/team-1/</link>
+		<link>https://wmdemo.eu/michelle/team-1/</link>
 		<pubDate>Mon, 01 Mar 2021 00:49:08 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=84</guid>
@@ -4924,10 +4990,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Portfolio]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/portfolio-1/</link>
+		<link>https://wmdemo.eu/michelle/portfolio-1/</link>
 		<pubDate>Fri, 05 Mar 2021 22:34:28 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=88</guid>
@@ -5122,10 +5188,10 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
 	<item>
 		<title><![CDATA[Home - Interior Designer]]></title>
-		<link>https://themedemos.webmandesign.eu/michelle/home-13/</link>
+		<link>https://wmdemo.eu/michelle/home-13/</link>
 		<pubDate>Sun, 14 Mar 2021 23:44:07 +0000</pubDate>
 		<dc:creator><![CDATA[demouser]]></dc:creator>
 		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?page_id=689</guid>
@@ -5224,7 +5290,259 @@ figcaption.blocks-gallery-item__caption a {
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[templates/no-intro-header-overlaid-dark.php]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+	</item>
+
+
+
+<!--
+
+SECTION
+Post type: wp_block
+
+-->
+	<item>
+		<title><![CDATA[Site Footer]]></title>
+		<link>https://wmdemo.eu/michelle/site-footer/</link>
+		<pubDate>Tue, 23 Feb 2021 12:54:06 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/?p=15</guid>
+		<description/>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"color":{"background":"#131517"}},"textColor":"palette-3","className":"has-no-margin-bottom"} -->
+<div class="wp-block-group alignfull has-no-margin-bottom has-palette-3-color has-text-color has-background" style="background-color:#131517"><!-- wp:spacer {"height":"118px"} -->
+<div style="height:118px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"id":296,"width":68,"height":100,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large is-resized"><a href="#top"><img src="https://wmdemo.eu/michelle/wp-content/uploads/sites/28/SAMPLE/_logo-michelle-light.png" alt="Alt text here." class="wp-image-296" width="68" height="100" title="Back to top of the page"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:heading {"textColor":"palette-3","className":"is-style-uppercase","fontSize":"normal"} -->
+<h2 class="is-style-uppercase has-palette-3-color has-text-color has-normal-font-size"><strong>Block based footer</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Build your site footer with native WordPress block editor (Gutenberg). You have full creative power over your site footer now!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:heading {"textColor":"palette-3","className":"is-style-uppercase","fontSize":"normal"} -->
+<h2 class="is-style-uppercase has-palette-3-color has-text-color has-normal-font-size"><strong>About Michelle</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Michelle</strong> is WordPress theme for creating inclusive, accessible websites with block editor. Useful templates, block patterns, block styles, featured posts functionality allow you to build a beautiful website easily and in no time.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"color":{"background":"#232527"}},"textColor":"palette-3"} -->
+<div class="wp-block-group alignfull has-palette-3-color has-text-color has-background" style="background-color:#232527"><!-- wp:columns {"verticalAlignment":"center","align":"wide"} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"33.33%","className":"has-no-margin-bottom"} -->
+<div class="wp-block-column is-vertically-aligned-center has-no-margin-bottom" style="flex-basis:33.33%"><!-- wp:heading {"textColor":"palette-3","className":"is-style-uppercase","fontSize":"normal"} -->
+<h2 class="is-style-uppercase has-palette-3-color has-text-color has-normal-font-size"><strong>Connect with us</strong></h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","className":"has-no-margin-bottom"} -->
+<div class="wp-block-column is-vertically-aligned-center has-no-margin-bottom"><!-- wp:social-links {"iconColor":"palette-3","iconColorValue":"#ffffff","size":"has-large-icon-size","className":"has-no-margin-bottom is-style-logos-only","layout":{"type":"flex","justifyContent":"right"}} -->
+<ul class="wp-block-social-links has-large-icon-size has-icon-color has-no-margin-bottom is-style-logos-only"><!-- wp:social-link {"url":"https://www.webmandesign.eu/","service":"chain","label":"WebMan Design website"} /-->
+
+<!-- wp:social-link {"url":"https://www.facebook.com/demouser/","service":"facebook","label":"WebMan Design on Facebook"} /-->
+
+<!-- wp:social-link {"url":"https://twitter.com/demouser","service":"twitter","label":"WebMan Design on Twitter"} /-->
+
+<!-- wp:social-link {"url":"https://profiles.wordpress.org/webmandesign/","service":"wordpress","label":"WebMan Design on WordPress.org"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>15</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-23 13:54:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-23 12:54:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-03-31 23:10:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-31 21:10:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[site-footer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_block]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Video tutorial]]></title>
+		<link>https://wmdemo.eu/michelle/untitled-reusable-block/</link>
+		<pubDate>Tue, 30 Mar 2021 19:15:11 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/untitled-reusable-block/</guid>
+		<description/>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"wide","style":{"color":{"background":"#f3f5f7"}},"textColor":"palette-2","className":"is-style-drop-shadow"} -->
+<div class="wp-block-group alignwide is-style-drop-shadow has-palette-2-color has-text-color has-background" style="background-color:#f3f5f7"><div class="wp-block-group__inner-container"><!-- wp:spacer {"height":68} -->
+<div style="height:68px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","textColor":"palette-2","className":"is-style-default"} -->
+<h2 class="has-text-align-center is-style-default has-palette-2-color has-text-color">Video Tutorial</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">These instructions are conveniently available also as a short, but to the point, video tutorial.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"contentJustification":"center","className":"is-style-large"} -->
+<div class="wp-block-buttons is-content-justification-center is-style-large"><!-- wp:button {"backgroundColor":"palette-1","textColor":"palette-2"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-palette-2-color has-palette-1-background-color has-text-color has-background" href="https://vimeo.com/demouser/templates">Watch now →</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer {"height":68} -->
+<div style="height:68px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>947</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-30 21:15:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-30 19:15:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-30 21:15:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-30 19:15:23]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[untitled-reusable-block]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_block]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+								</item>
+
+
+
+<!--
+
+SECTION
+Post type: attachment
+
+-->
+	<item>
+		<title><![CDATA[SAMPLE/_logo-michelle-light]]></title>
+		<link>https://wmdemo.eu/michelle/sample/_logo-michelle-light/</link>
+		<pubDate>Fri, 12 Mar 2021 18:59:35 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/28/SAMPLE/_logo-michelle-light.png</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>296</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-12 19:59:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-12 18:59:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-12 21:58:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-12 20:58:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample/_logo-michelle-light]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://wmdemo.eu/michelle/wp-content/uploads/sites/28/SAMPLE/_logo-michelle-light.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[SAMPLE/_logo-michelle-light.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:135;s:6:"height";i:200;s:4:"file";s:31:"SAMPLE/_logo-michelle-light.png";s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}s:8:"filesize";i:3147;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:30.895915678524371372759560472331941127777099609375;s:5:"bytes";i:1407;s:11:"size_before";i:4554;s:10:"size_after";i:3147;s:4:"time";d:0.1600000000000000033306690738754696212708950042724609375;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:30.89999999999999857891452847979962825775146484375;s:5:"bytes";i:1407;s:11:"size_before";i:4554;s:10:"size_after";i:3147;s:4:"time";d:0.1600000000000000033306690738754696212708950042724609375;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Alt text here.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[SAMPLE/_logo-michelle]]></title>
+		<link>https://wmdemo.eu/michelle/sample/_logo-michelle/</link>
+		<pubDate>Fri, 12 Mar 2021 18:59:42 +0000</pubDate>
+		<dc:creator><![CDATA[demouser]]></dc:creator>
+		<guid isPermaLink="false">https://themedemos.webmandesign.eu/michelle/wp-content/uploads/sites/28/SAMPLE/_logo-michelle.png</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>297</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-12 19:59:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-12 18:59:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-12 21:58:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-12 20:58:45]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample/_logo-michelle]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://wmdemo.eu/michelle/wp-content/uploads/sites/28/SAMPLE/_logo-michelle.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[SAMPLE/_logo-michelle.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:135;s:6:"height";i:200;s:4:"file";s:25:"SAMPLE/_logo-michelle.png";s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}s:8:"filesize";i:3889;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:29.75072254335260169000321184284985065460205078125;s:5:"bytes";i:1647;s:11:"size_before";i:5536;s:10:"size_after";i:3889;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:29.75;s:5:"bytes";i:1647;s:11:"size_before";i:5536;s:10:"size_after";i:3889;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Alt text here.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
 
 </channel>
 </rss>
