@@ -32,7 +32,6 @@ If you want to match your website exactly to [the theme demo website](http://wmd
 
 - [*Breadcrumbs NavXT*](https://wordpress.org/plugins/breadcrumb-navxt/) - for adding a perfect, SEO friendly [breadcrumbs navigation](http://en.wikipedia.org/wiki/Breadcrumb_%28navigation%29) (see [theme documentation](https://www.webmandesign.eu/manual/modern/#breadcrumbs) for custom plugin setup),
 - [*Post Type Archive Descriptions*](https://wordpress.org/plugins/post-type-archive-descriptions/) - for custom post type archive page description,
-- [*WP Featherlight*](https://wordpress.org/plugins/wp-featherlight/) - for adding a minimal, high-performance, responsive image lightbox (zooming effect),
 - ...and you can use any other plugin you want. See [theme documentation](https://www.webmandesign.eu/manual/modern/#plugins-others) for information on some additional, tested and recommended plugins.
 
 ## Quality of imported media files
